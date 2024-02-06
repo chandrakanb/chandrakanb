@@ -52,6 +52,10 @@ if "%choice%"=="4" goto merge_main
 if "%choice%"=="5" goto :eof
 
 :clone_update
+call :clone_repository
+goto menu
+
+:clone_repository
 echo.
 echo Cloning or updating the repository...
 echo.
@@ -60,26 +64,11 @@ rem Check if the repository is already cloned
 if not exist DRT_Jenkins\.git (
     rem Clone the repository if it's not already cloned
     git clone https://gitlab.kpit.com/ketakic/DRT_Jenkins.git
+    echo Repository cloned successfully.
+) else (
+    echo Repository already exists. Skipping cloning.
 )
-
-echo.
-echo Changing directory to the cloned repository...
-echo.
-
-rem Change directory to the cloned repository
-cd DRT_Jenkins
-
-echo.
-echo Switching to the 'drt' branch...
-echo.
-
-rem Switch to the 'drt' branch and pull latest changes
-git checkout drt
-git pull origin drt
-
-echo.
-echo Successfully cloned or updated the repository.
-goto menu
+goto :eof
 
 :switch_pull
 echo.
@@ -102,6 +91,13 @@ echo 'drt' branch switched and latest changes pulled successfully.
 goto menu
 
 :add_commit_push
+echo.
+echo Changing directory to the cloned repository...
+echo.
+
+rem Change directory to the cloned repository
+cd DRT_Jenkins
+
 echo.
 echo Adding changes to the staging area...
 echo.
