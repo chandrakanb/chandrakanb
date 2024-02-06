@@ -1,0 +1,153 @@
+@echo off
+
+echo Welcome to the Git Operations Script
+echo.
+
+rem Initialize try count
+set try_count=1
+
+:login
+if %try_count% GTR 3 (
+    echo Authentication failed after 3 attempts. Exiting script.
+    exit /b
+)
+
+echo You have %try_count%/3 attempts remaining.
+
+rem Prompt the user to enter authentication credentials
+set /p entered_username=Enter your username: 
+set /p entered_password=Enter your password: 
+
+rem Check if entered credentials are correct
+if "%entered_username%" NEQ "DRT_Honda" (
+    echo Incorrect username.
+    set /a try_count+=1
+    goto login
+)
+
+if "%entered_password%" NEQ "We!come@13122023" (
+    echo Incorrect password.
+    set /a try_count+=1
+    goto login
+)
+
+echo.
+echo Authentication successful. Proceeding with Git operations...
+echo.
+
+:menu
+echo.
+echo What operation would you like to perform?
+echo 1. Clone or update the repository
+echo 2. Switch to the 'drt' branch and pull latest changes
+echo 3. Add, commit, and push changes to 'drt' branch
+echo 4. Merge changes from 'main' into 'drt' branch
+echo 5. Exit
+set /p choice=Enter your choice (1-5): 
+
+if "%choice%"=="1" goto clone_update
+if "%choice%"=="2" goto switch_pull
+if "%choice%"=="3" goto add_commit_push
+if "%choice%"=="4" goto merge_main
+if "%choice%"=="5" goto :eof
+
+:clone_update
+echo.
+echo Cloning or updating the repository...
+echo.
+
+rem Check if the repository is already cloned
+if not exist DRT_Jenkins\.git (
+    rem Clone the repository if it's not already cloned
+    git clone https://gitlab.kpit.com/ketakic/DRT_Jenkins.git
+)
+
+echo.
+echo Changing directory to the cloned repository...
+echo.
+
+rem Change directory to the cloned repository
+cd DRT_Jenkins
+
+echo.
+echo Switching to the 'drt' branch...
+echo.
+
+rem Switch to the 'drt' branch and pull latest changes
+git checkout drt
+git pull origin drt
+
+echo.
+echo Successfully cloned or updated the repository.
+goto menu
+
+:switch_pull
+echo.
+echo Changing directory to the cloned repository...
+echo.
+
+rem Change directory to the cloned repository
+cd DRT_Jenkins
+
+echo.
+echo Switching to the 'drt' branch...
+echo.
+
+rem Switch to the 'drt' branch and pull latest changes
+git checkout drt
+git pull origin drt
+
+echo.
+echo 'drt' branch switched and latest changes pulled successfully.
+goto menu
+
+:add_commit_push
+echo.
+echo Adding changes to the staging area...
+echo.
+
+rem Add all changes
+git add .
+
+echo.
+echo Committing changes...
+echo.
+
+rem Prompt the user to enter commit message
+set /p commit_message="Enter commit message: "
+
+rem Commit changes with the entered message
+git commit -m "%commit_message%"
+
+echo.
+echo Pushing changes to the 'drt' branch...
+echo.
+
+rem Push changes to the 'drt' branch
+git push origin drt
+
+echo.
+echo Changes added, committed, and pushed successfully to 'drt' branch.
+goto menu
+
+:merge_main
+echo.
+echo Changing directory to the cloned repository...
+echo.
+
+rem Change directory to the cloned repository
+cd DRT_Jenkins
+
+echo.
+echo Merging changes from 'main' into 'drt' branch...
+echo.
+
+rem Merge changes from 'main' into 'drt' branch
+git checkout main
+git pull origin main
+git checkout drt
+git merge main
+
+echo.
+echo Changes merged successfully from 'main' into 'drt' branch.
+goto menu
