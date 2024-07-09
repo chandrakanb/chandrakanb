@@ -20,7 +20,6 @@ import base64
 from io import StringIO
 from html2image import Html2Image
 
-
 def version_details():
     feature = [
         "Creates Folder",
@@ -31,8 +30,13 @@ def version_details():
         "Takes Execution Summary Screenshot",
         "Renames Files",
         "Copies Files",
-        "Send message on teams channel with Execution_Summary.png(*Need to add the table)",
-        """Copies Message to Clipboard"""
+        "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
+        ["***\(Table Image Need to be small, and Path\)"
+        "***\(Need to add PDF Files\)"
+        "***Clean the code reffering \"Reports_Final_Clean.py\""
+        "***\(Month Logic\)"
+        #"Copies Message to Clipboard"
+        ]
     ]
     print("|\tVersion Details:\n|")
     for i, j in enumerate(feature, 1):
@@ -120,48 +124,6 @@ def generate_Detailed_Report_table(df):
     df_2 = pd.pivot_table(df, index=["Test_Pack", "Test ID"], columns='Status', aggfunc='count', values='Unique_col')
     return df_2
 
-def generate_execution_reports(folder_name):
-    # Read Excel and HTML files
-    df_summary_main = pd.DataFrame([])
-    df_detail_report_main = pd.DataFrame([])
-
-    for dir_tuple in os.walk(os.getcwd()):
-        if iterate_tuple(dir_tuple):
-            execution_report_details = iterate_tuple(dir_tuple)
-            try:
-                df_summary, df_detail_report = read_html_file(execution_report_details)
-                df_summary = df_summary.T
-                df_summary.columns = df_summary.loc['Summary'].to_list()
-                df_summary = add_additional_columns(df_summary, execution_report_details)
-                df_detail_report = add_additional_columns(df_detail_report, execution_report_details)
-                df_summary_main = pd.concat([df_summary_main, df_summary], axis=0) if not df_summary_main.empty else df_summary
-                df_detail_report_main = pd.concat([df_detail_report_main, df_detail_report], axis=0) if not df_detail_report_main.empty else df_detail_report
-            except ValueError:
-                print(execution_report_details)
-
-    df_summary_main = df_summary_main.loc[df_summary_main['Start Time'] != 'Start Time']
-    df_detail_report_main['Start Time_1'] = [datetime.strptime(i, "%d %b %Y %H:%M:%S") for i in df_detail_report_main['Start Time']]
-    df_detail_report_main['Time_1'] = [datetime.strptime(i, "%H:%M:%S") for i in df_detail_report_main['Total Time']]
-    End_Time = []
-    for x, y in zip(df_detail_report_main['Start Time_1'], df_detail_report_main['Time_1']):
-        __day__ = 0 if y.year == 1900 else y.day
-        End_Time.append(x + timedelta(days=__day__, hours=y.hour, minutes=y.minute, seconds=y.second))
-    df_detail_report_main['End Time'] = End_Time
-
-    df_detail_report_main = df_detail_report_main.filter(["Test_Pack","Test ID", "Status", "Total Time", "Bench_name",
-                                                        "Iteration_count", "file_path"])
-
-    df_detail_report_main_table = df_detail_report_main.filter(["Test_Pack","Test ID", "Status", "Total Time", "Bench_name"])
-
-    df_detail_report_main_table['Remark Failure Reason'] = ""
-
-    # Write to Excel
-    global excel_file_path
-    excel_file_path = os.path.join(folder_name, f"{folder_name}_Execution_Report.xlsx")
-    writer = pd.ExcelWriter(excel_file_path, engine='xlsxwriter')
-    df_detail_report_main_table.to_excel(writer, sheet_name='Detailed Report', index=False)
-    writer._save()
-
 def apply_filter(sheet, keyword, column):
     for cell in sheet[column]:
         if isinstance(keyword, str):
@@ -232,65 +194,28 @@ def apply_filter(sheet, keyword, column):
         else:
             sheet.auto_filter.add_filter_column(cell.col_idx - 1, [keyword])
 
-def extract_html_content(input_file_path):
-    # Read the HTML file
-    with open(input_file_path, "r", encoding="utf-8") as file:
-        content = file.read()
-
-    # Parse the HTML content
-    soup = BeautifulSoup(content, "html.parser")
-
-    # Extract the <head> part
-    head = soup.head
-
-    # Extract the specific <body> part
-    summary_table_div = soup.find("div", id="div-summaryTable")
-    pie_chart_div = soup.find("div", id="pieChartDiv")
-
-    # Create a new BeautifulSoup object for the extracted content
-    extracted_content = BeautifulSoup("<html></html>", "html.parser")
-    extracted_html = extracted_content.html
-
-    # Append the extracted head to the new BeautifulSoup object
-    if head:
-        extracted_html.append(head.extract())
-
-    # Create and append the body with the extracted parts
-    body = extracted_content.new_tag("body")
-    extracted_html.append(body)
-
-    # Create a container div to hold the summary table and pie chart side by side
-    container_div = extracted_content.new_tag("div", **{"class": "container-fluid mt-5"})
-
-    # Create a row div
-    row_div = extracted_content.new_tag("div", **{"class": "row testPackData"})
-
-    # Create the first column for the summary table
-    summary_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
-    if summary_table_div:
-        summary_col_div.append(summary_table_div.extract())
-
-    # Create the second column for the pie chart
-    chart_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
-    if pie_chart_div:
-        chart_col_div.append(pie_chart_div.extract())
-
-    # Append the columns to the row
-    row_div.append(summary_col_div)
-    row_div.append(chart_col_div)
-
-    # Append the row to the container
-    container_div.append(row_div)
-
-    # Append the container to the body
-    body.append(container_div)
-
-    # Save the extracted content to a variable
-    extracted_html_content = str(extracted_content)
-
-    print("Extraction complete.")
+def html_table_to_markdown(html_table):
+    # Use BeautifulSoup to parse the HTML table
+    soup = BeautifulSoup(html_table, 'html.parser')
+    table = soup.find('table')
     
-    return extracted_html_content
+    # Extract headers
+    headers = [th.text.strip() for th in table.find_all('th')]
+    # Extract rows
+    rows = [
+        [td.text.strip() for td in row.find_all('td')]
+        for row in table.find_all('tr')
+    ]
+    
+    # Construct Markdown table
+    md_table = ""
+    if headers:
+        md_table += '| ' + ' | '.join(headers) + ' |\n'
+        md_table += '| ' + ' | '.join(['---'] * len(headers)) + ' |\n'
+    for row in rows:
+        md_table += '| ' + ' | '.join(row) + ' |\n'
+    
+    return md_table
 
 def convert_html_to_image(html_content, output_path):
     hti = Html2Image()
@@ -321,7 +246,7 @@ def df_to_html_inline_css(df, font_size, border_width, padding):
     
     return html_table
 
-def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, screenshot_path, HTML_2_3, HTML_2_4):
+def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4):
     try:
         # Convert HTML tables to images
         table1_image_path = 'table1.png'
@@ -355,19 +280,29 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
                 "size": "Auto"  # Set to "Auto" to maintain original size and high quality
             },
             {
-                "type": "Image",
-                "url": f"data:image/png;base64,{encoded_table1}",
-                "size": "Auto"
-            },
-            {
                 "type": "TextBlock",
                 "text": message_string_2,
                 "wrap": True
             },
             {
                 "type": "Image",
+                "url": f"data:image/png;base64,{encoded_table1}",
+                "size": "Auto"
+            },
+            {
+                "type": "TextBlock",
+                "text": message_string_3,
+                "wrap": True
+            },
+            {
+                "type": "Image",
                 "url": f"data:image/png;base64,{encoded_table2}",
                 "size": "Auto"
+            },
+            {
+                "type": "TextBlock",
+                "text": message_string_4,
+                "wrap": True
             }
         ]
 
@@ -406,8 +341,8 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
 
 if __name__ == "__main__":
     print('\n|' + '‾' * 70)
-    #version_details()
-    #print('|' + '_' * 70 + '\n|\t')
+    version_details()
+    print('|' + '_' * 70 + '\n|\t')
     
     # Get the currently active window title before opening the HTML file
     active_window_title_before = pyautogui.getActiveWindow().title
@@ -418,37 +353,47 @@ if __name__ == "__main__":
     #Teams webhook URL
     teams_webhook_url = 'https://kpitc.webhook.office.com/webhookb2/0e77225f-5e51-4ff3-bddd-87d2f5da5fc1@3539451e-b46e-4a26-a242-ff61502855c7/IncomingWebhook/bb555a09021747a696f5702d10233e92/fbaa0227-8d16-4af9-aaf0-17c8889162fe'
     
-    # Take Cycle from User
-    #cycle = None
-    #print('|' + '_' * 70 + '\n|\t')
+    # Take DryRun2.x from User
+    flag = int(input("|\tDryRun2.x:\n|\t\t1.DryRun2.1\n|\t\t2.DryRun2.2\n|\t\t3.DryRun2.3\n|\t\t4.DryRun2.4\n|\tSelect DryRun2.x: "))
+    cycle = 'DryRun2.1' if flag == 1 else 'DryRun2.2' if flag == 2 else 'DryRun2.3' if flag == 3 else 'DryRun2.4' if flag == 4 else None
+    print('|' + '_' * 70 + '\n|\t')
     
     # Take Build Type from User
-    #build = 
-    #print('|' + '_' * 70 + '\n|\t')
+    input_build = int(input("|\tBuild Type:\n|\t\t1.Dev\n|\t\t2.Rel\n|\t\t3.Skip\n|\tSelect Build Type:"))
+    build = "Dev_Build" if input_build == 1 else "Rel_Build" if input_build == 2 else None
+    print('|' + '_' * 70 + '\n|\t')
     
     # Take Date from User and add correct suffix
-    input_date = int(9)
+    input_date = int(input("|\tEnter Date: "))
     date = get_date(input_date)
     print('|' + '_' * 70 + '\n|\t')
 
     # Take Month from User
-    input_month = "june"
+    input_month = input("|\tEnter month: ")
     month = input_month.capitalize()
     print('|' + '_' * 70 + '\n|\t')
     
     # Take Execution Type from User
     overnight = "Overnight_Execution"
     flashing = "Auto_Flashing"
-    flag = "1"
+    flag = input("|\tExecution:\n|\t\t1. Overnight Execution\n|\t\t2. Auto Flashing\n|\tEnter your choice (1 or 2): ")
     execution = overnight if flag == "1" else flashing if flag == "2" else None
     print('|' + '_' * 70 + '\n|\t')
     
-    # Define Bench Number
-    bench = ("Bench09_TYAW")
-    #print('|' + '_' * 70 + '\n|\t')
+    # Take Bench Number from User
+    input_bench = int(input("|\tEnter Bench Number: "))
+    bench = (
+        f"Bench0{input_bench}_T_Variant" if input_bench == 3 else
+        f"Bench0{input_bench}_R_Variant" if input_bench == 6 else
+        f"Bench0{input_bench}_TYAW" if input_bench == 9 else
+        f"Bench{input_bench}_3BMA" if input_bench == 10 else
+        f"Bench0{input_bench}_Q_Variant"
+    )
+
+    print('|' + '_' * 70 + '\n|\t')
     
     # Construct input_string
-    parameters = [execution, date, month, bench]
+    parameters = [cycle, build, execution, date, month, bench] if input_build in [1, 2] else [execution, date, month, bench]
     input_string = '_'.join(parameters) + '_'
     
     # Folder name
@@ -457,20 +402,54 @@ if __name__ == "__main__":
     # Create folder
     create_folder(input_string)
     
-    # Screenshot Function Inputs
+    # Take Execution_Summary.png
     html_file_path = 'MainDetailedReport.html'
     screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
     crop_coordinates = (90, 160, 1350, 700) # crop coordinates: (left, upper, right, lower)
     
     # Call Screenshot Function 
-    #take_screenshot(html_file_path, screenshot_path, crop_coordinates)
-    
-    # Extract Summary and Pie Chart to HTML
-    summary_pie_html = extract_html_content(html_file_path)
-    
-    # Call Execution Report Generation Function
-    generate_execution_reports(folder_name)
+    take_screenshot(html_file_path, screenshot_path, crop_coordinates)
 
+    # Read Excel and HTML files
+    df_summary_main = pd.DataFrame([])
+    df_detail_report_main = pd.DataFrame([])
+
+    for dir_tuple in os.walk(os.getcwd()):
+        if iterate_tuple(dir_tuple):
+            execution_report_details = iterate_tuple(dir_tuple)
+            try:
+                df_summary, df_detail_report = read_html_file(execution_report_details)
+                df_summary = df_summary.T
+                df_summary.columns = df_summary.loc['Summary'].to_list()
+                df_summary = add_additional_columns(df_summary, execution_report_details)
+                df_detail_report = add_additional_columns(df_detail_report, execution_report_details)
+                df_summary_main = pd.concat([df_summary_main, df_summary], axis=0) if not df_summary_main.empty else df_summary
+                df_detail_report_main = pd.concat([df_detail_report_main, df_detail_report], axis=0) if not df_detail_report_main.empty else df_detail_report
+            except ValueError:
+                print(execution_report_details)
+
+    df_summary_main = df_summary_main.loc[df_summary_main['Start Time'] != 'Start Time']
+    df_detail_report_main['Start Time_1'] = [datetime.strptime(i, "%d %b %Y %H:%M:%S") for i in df_detail_report_main['Start Time']]
+    df_detail_report_main['Time_1'] = [datetime.strptime(i, "%H:%M:%S") for i in df_detail_report_main['Total Time']]
+    End_Time = []
+    for x, y in zip(df_detail_report_main['Start Time_1'], df_detail_report_main['Time_1']):
+        __day__ = 0 if y.year == 1900 else y.day
+        End_Time.append(x + timedelta(days=__day__, hours=y.hour, minutes=y.minute, seconds=y.second))
+    df_detail_report_main['End Time'] = End_Time
+
+    df_detail_report_main = df_detail_report_main.filter(["Test_Pack","Test ID", "Status", "Total Time", "Bench_name",
+                                                        "Iteration_count", "file_path"])
+
+    df_detail_report_main_table = df_detail_report_main.filter(["Test_Pack","Test ID", "Status", "Total Time", "Bench_name"])
+
+    df_detail_report_main_table['Remark Failure Reason'] = ""
+
+    # Write to Excel
+    excel_file_path = os.path.join(folder_name, f"{folder_name}_Execution_Report.xlsx")
+    writer = pd.ExcelWriter(excel_file_path, engine='xlsxwriter')
+    df_detail_report_main_table.to_excel(writer, sheet_name='Detailed Report', index=False)
+    writer._save()
+    
     #Define the border style and bold text
     thin_border = Border(left=Side(style='thin'), 
                      right=Side(style='thin'), 
@@ -586,35 +565,12 @@ if __name__ == "__main__":
         padding  = int(20)
         # Convert DataFrame to HTML with custom styling
         html_table = df_to_html_inline_css(df, font_size, border_width, padding)
-        print(html_table)
-        
-        
-        """# Calculate totals for "Test Script" category only
-        test_script_total = pivot[pivot['Script Type'] == 'Test Script']['Total'].sum()
-        test_script_pass = pivot[pivot['Script Type'] == 'Test Script']['Pass'].sum()
-        test_script_fail = pivot[pivot['Script Type'] == 'Test Script']['Fail'].sum()
-        test_script_verify_manually = pivot[pivot['Script Type'] == 'Test Script']['Verify Manually'].sum()"""
-
         
         # Generate Pandas DataFrame from HTML
         if version == "2.3":
-            HTML_2_3 = html_table"""(
-                "<table border='1' style='border-collapse: collapse; width: auto; font-size: 110px;'>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Total Test Script</td><td style='border: 5px solid black; padding: 20px;'>{test_script_total}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Pass</td><td style='border: 5px solid black; padding: 20px;'>{test_script_pass}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Fail</td><td style='border: 5px solid black; padding: 20px;'>{test_script_fail}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Verify Manually</td><td style='border: 5px solid black; padding: 20px;'>{test_script_fail}</td></tr>"
-                "</table><br>"
-            )"""
+            HTML_2_3 = html_table
         elif version == "2.4":
-            HTML_2_4 = html_table"""(
-                "<table border='1' style='border-collapse: collapse; width: auto; font-size: 110px;'>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Total Test Script</td><td style='border: 5px solid black; padding: 20px;'>{test_script_total}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Pass</td><td style='border: 5px solid black; padding: 20px;'>{test_script_pass}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Fail</td><td style='border: 5px solid black; padding: 20px;'>{test_script_fail}</td></tr>"
-                f"<tr><td style='border: 5px solid black; padding: 20px;'>Verify Manually</td><td style='border: 5px solid black; padding: 20px;'>{test_script_fail}</td></tr>"
-                "</table><br>"
-            )"""
+            HTML_2_4 = html_table
 
     # Save the updated workbook
     wb.save(excel_file_path)
@@ -633,27 +589,27 @@ if __name__ == "__main__":
         flashing_result = f"{flashing.replace('_', ' ')} {result}:"
         DryRun = "DryRun2.3_"
         DryRun2 = "DryRun2.4_"
-        message_string_1 = (
-            f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
-            f"{execution_result}\n\n"
-        )
-        message_string_2 = (
-            f"{DryRun.replace('_', ' ')}{execution_result}\n\n"
-        )
-        message_string_3 = (
-            f"{DryRun2.replace('_', ' ')}{execution_result}\n\n"    
-        )
-        message_string_4 = (
-            f"{flashing_result}"    
-        )
-        
-        message_parts = [
-            message_string_1,
-            message_string_2,
-            message_string_3,
-            message_string_4
-        ]
-            
+        if input_build in [1, 2]:
+            message_string = (
+                f"{date_month}{cycle} {build.replace('_', ' ')} {execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n"
+                f"{execution_result}\n"
+                f"{flashing_result}"
+            )
+        else:
+            message_string_1 = (
+                f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
+                f"{execution_result}\n\n"
+            )
+            message_string_2 = (
+                f"{DryRun.replace('_', ' ')}{execution_result}\n\n"
+            )
+            message_string_3 = (
+                f"{DryRun2.replace('_', ' ')}{execution_result}\n\n"
+            )
+            message_string_4 = (
+                f"{flashing_result}"
+            )
+
         """# Copy the output string to the clipboard
         pyperclip.copy(message_string)
         output_message = pyperclip.paste()
@@ -662,7 +618,7 @@ if __name__ == "__main__":
             print('|' + '_' * 70 + '\n|\t')"""
         
         # Call the function to send message to Teams
-        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, screenshot_path, HTML_2_3, HTML_2_4)
+        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4)
 
     # Switch back to the previously active window
     pyautogui.getWindowsWithTitle(active_window_title_before)[0].activate()
