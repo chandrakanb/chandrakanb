@@ -1,0 +1,177 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>KITE Dashboard</title>
+        <link rel="icon" href="images/favicon.png" type="image/png">
+        <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/external/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/external/dataTables.bootstrap4.min.css" type="text/css">
+        <link rel="stylesheet" href="css/external/font-awesome.min.css" type="text/css">
+        <link rel="stylesheet" href="css/external/font-awesome.css" type="text/css">
+        <link rel="stylesheet" href="css/internal/custom.css" type="text/css">
+        <link rel="stylesheet" href="css/internal/htmlReport.css" type="text/css">
+        <script src="js/external/jquery-3.3.1.js"></script><script src="js/external/bootstrap.bundle.min.js" type="text/javascript"></script><script src="js/external/jquery.dataTables.min.js"></script><script src="js/external/dataTables.bootstrap4.min.js"></script><script src="js/external/plotly-latest.min.js"></script><script src="js/internal/mainDetailed.js" type="text/javascript"></script><script>		
+	window.onload=function(){
+		var failedTestCase='2';
+		var passedTestCase='68';
+		var notExecutedTestCase='0';
+		var verifyManuallyTC='0';
+		
+			 var data = [{
+		type: "pie",
+		values: [ failedTestCase,notExecutedTestCase,passedTestCase,verifyManuallyTC],
+		labels: ["Failed", "Not Executed", "Passed", "Verify Manually"],
+		marker: {
+			colors: ["#D61C1C", "#ffc107", "#28a745", "#a17703"]
+		},
+		textinfo: "label+percent",
+		hoverinfo:"value",
+		insidetextorientation: "radial",
+		automargin: true
+		}]
+
+		var layout = {		
+			autosize: true,	
+			margin : {
+				t: 0,
+				r : 0,
+				b: 0,
+				l : 0,
+				pad: 0
+			},
+			legend : {
+				x : 1,
+				y:0.5
+			}
+		}
+		var config = { 
+			responsive: true,
+			displaylogo: false,
+			displayModeBar: false
+		}
+		Plotly.newPlot('pieChartDiv', data, layout, config);
+		var plotDiv = document.getElementById('pieChartDiv')
+		plotDiv.on('plotly_legendclick', function(data){  
+			return false;
+		});
+	};	
+	</script>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-center" id="nav-top">
+            <div class="block">
+                <div class="mx-auto navbar-brand">Execution Report</div>
+                <div class="float-right badge badge-secondary col-badge">KITE(32.02.23339.30)</div>
+            </div>
+        </nav>
+        <div class="container-fluid mt-5">
+            <input type="hidden" id="hdn_startTime" value="05 Jul 2024 20:58:52">
+            <div class="row testPackData" id="">
+                <div class="col-sm-6">
+                    <div class=" table-responsive" id="div-summaryTable" style="">
+                        <table class="table table-bordered header-table" id="summaryTable" cellpadding="0" cellspacing="0">
+                            <tbody>
+                                <tr class="row-padding summary-bgcolor">
+                                    <th colspan="8">Summary</th>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Start Time</th><td>05 Jul 2024 20:58:52</td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>End Time</th><td>05 Jul 2024 22:28:03</td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Total Execution Time</th><td>01:29:11</td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Total Test Scripts</th><td><span class="bg-status bg-secondary">70</span></td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Passed Test Scripts</th><td><span class="bg-status bg-success">68</span></td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Failed Test Scripts</th><td><span class="bg-status bg-danger">2</span></td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Not Executed</th><td><span class="bg-status bg-warning">0</span></td>
+                                </tr>
+                                <tr class="row-padding">
+                                    <th>Verify Manually</th><td><span class="bg-status bg-verifyM">0</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div id="pieChartDiv"></div>
+                </div>
+            </div>
+            <div class="row testPackData" id="">
+                <div class="col-sm-12 mb-2" id="FailedTC">
+                    ►
+				<a class="text-danger" href="./Failed_TestCases_Reports/FailedTCDetailedReport.html">Show Detailed Failed Test Scripts</a>
+                </div>
+                <div class="col-sm-12 wrapper">
+                    <table id="linkTable" class="table table-bordered" style="width:100%">
+                        <thead>
+                            <tr class="heading-color">
+                                <th>Test Pack Name</th><th>Iteration ID</th><th>Total Test Scripts</th><th>Passed Test Scripts</th><th>Failed Test Scripts</th><th>Not Executed</th><th>Verify Manually</th><th>Start Time</th><th>End Time</th><th class="noExport">Detailed Reports</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">000_Precondition_Set_Brightness_Level3_Remove_Driver_Distraction_TYAW</td><td>1</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 20:58:52</td><td>05 Jul 2024 21:01:35</td><td><a href="./000_Precondition_Set_Brightness_Level3_Remove_Driver_Distraction_TYAW_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">10_Bench09_TYAW_Q_KA_SAD_DryRun2.3</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:01:35</td><td>05 Jul 2024 21:03:14</td><td><a href="./10_Bench09_TYAW_Q_KA_SAD_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">13_Bench09_TYAW_Q_KA_MAS_DryRun2.3</td><td>1</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:03:14</td><td>05 Jul 2024 21:03:48</td><td><a href="./13_Bench09_TYAW_Q_KA_MAS_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">14_Bench09_TYAW_Q_KA_HLP_DryRun2.3</td><td>1</td><td>13</td><td>13</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:03:48</td><td>05 Jul 2024 21:41:46</td><td><a href="./14_Bench09_TYAW_Q_KA_HLP_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">15_Bench09_TYAW_Q_KA_IDS_DryRun2.3</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:41:46</td><td>05 Jul 2024 21:43:12</td><td><a href="./15_Bench09_TYAW_Q_KA_IDS_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">16_Bench09_TYAW_Q_KA_AVG_DryRun2.3</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:43:12</td><td>05 Jul 2024 21:45:20</td><td><a href="./16_Bench09_TYAW_Q_KA_AVG_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">24_Bench09_TYAW_Q_KA_TRP_DryRun2.3</td><td>1</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:45:20</td><td>05 Jul 2024 21:46:14</td><td><a href="./24_Bench09_TYAW_Q_KA_TRP_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">32_Bench09_TYAW_Q_KA_SAD_DryRun2.3</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:46:14</td><td>05 Jul 2024 21:48:30</td><td><a href="./32_Bench09_TYAW_Q_KA_SAD_DryRun2.3_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">2_Bench09_TYAW_Q_KA_TRP_DryRun2.4</td><td>1</td><td>7</td><td>7</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:48:30</td><td>05 Jul 2024 21:53:38</td><td><a href="./2_Bench09_TYAW_Q_KA_TRP_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">4_Bench09_TYAW_Q_KA_KEY_DryRun2.4</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 21:53:38</td><td>05 Jul 2024 21:58:20</td><td><a href="./4_Bench09_TYAW_Q_KA_KEY_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">13_Bench09_TYAW_Q_KA_VEH_DryRun2.4</td><td>1</td><td>6</td><td>5</td><td>1</td><td>0</td><td>0</td><td>05 Jul 2024 21:58:20</td><td>05 Jul 2024 22:01:50</td><td><a href="./13_Bench09_TYAW_Q_KA_VEH_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">20_Bench09_TYAW_Q_KA_AVC_DryRun2.4</td><td>1</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 22:01:50</td><td>05 Jul 2024 22:04:51</td><td><a href="./20_Bench09_TYAW_Q_KA_AVC_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">32_Bench09_TYAW_Q_KA_AVC_DryRun2.4</td><td>1</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 22:04:51</td><td>05 Jul 2024 22:08:46</td><td><a href="./32_Bench09_TYAW_Q_KA_AVC_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">40_Bench09_TYAW_Q_KA_AVC_DryRun2.4</td><td>1</td><td>7</td><td>7</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 22:08:46</td><td>05 Jul 2024 22:20:42</td><td><a href="./40_Bench09_TYAW_Q_KA_AVC_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">38_Bench09_TYAW_Q_KA_IDS_DryRun2.4</td><td>1</td><td>3</td><td>2</td><td>1</td><td>0</td><td>0</td><td>05 Jul 2024 22:20:42</td><td>05 Jul 2024 22:21:49</td><td><a href="./38_Bench09_TYAW_Q_KA_IDS_DryRun2.4_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                            <tr class="row-padding">
+                                <td class="wordBreakAll">48_Perform_Factory_Data_Reset_TYAW</td><td>1</td><td>2</td><td>2</td><td>0</td><td>0</td><td>0</td><td>05 Jul 2024 22:21:49</td><td>05 Jul 2024 22:28:03</td><td><a href="./48_Perform_Factory_Data_Reset_TYAW_Iteration_1/HTMLReport/HTMLReport.html">View</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

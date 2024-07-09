@@ -1,6 +1,10 @@
 import os
 import random
+import git
+import shutil
 import getpass
+import requests
+import subprocess
 
 # List of quotes
 QUOTES = [
@@ -31,13 +35,13 @@ def display_quote():
     # Print random quote
     print(random.choice(QUOTES))
     # Print signature line for Lucifer Morningstar
-    print("\n                                                - Lucifer Morningstar\n\n")
+    print("\n                                   - Lucifer Morningstar\n")
 
 def set_git_credentials():
     attempts = 3
     while attempts > 0:
         try:
-            print("\nSetting up Git credentials...\n")
+            print("Setting up Git credentials...\n")
             # Ask for username and password
             username = input("Enter your Git username: ")
             password = getpass.getpass("Enter your Git password: ")
@@ -50,14 +54,14 @@ def set_git_credentials():
             credentials_file = os.path.join(home_dir, ".git-credentials")
             with open(credentials_file, "w") as f:
                 f.write(f"https://{username}:{password}@gitlab.kpit.com/ketakic/DRT_Jenkins.git\n")
-            print("\nGit credentials configured and saved successfully.\n")
+            print("Git credentials configured and saved successfully.")
             return True
         except Exception as e:
             attempts -= 1
-            print(f"\nAn error occurred while setting up Git credentials: {e}. You have {attempts} attempts left.\n")
+            print(f"An error occurred while setting up Git credentials: {e}. You have {attempts} attempts left.")
 
     if attempts == 0:
-        print("\nYou have exceeded the maximum number of attempts. Please try again later.\n")
+        print("You have exceeded the maximum number of attempts. Please try again later.")
         return False
         
 def remove_git_credentials():
@@ -71,11 +75,11 @@ def remove_git_credentials():
         else:
             print("Git credentials file not found.")
     except Exception as e:
-        print("\nAn error occurred while removing Git credentials:\n", e)
+        print("An error occurred while removing Git credentials:", e)
 
 def clone_repository():
     try:
-        print("\nChecking if repository exists...\n")
+        print("Checking if repository exists...\n")
         # Check if the repository is already cloned
         if not os.path.exists("D:/Git_Data/DRT_Jenkins/.git"):
             print("Repository not found. Cloning...\n")
@@ -85,22 +89,22 @@ def clone_repository():
             os.system("git clone https://gitlab.kpit.com/ketakic/DRT_Jenkins.git")
             print("Repository cloned successfully.")
         else:
-            print("Repository already exists. Skipping cloning.\n")
+            print("Repository already exists. Skipping cloning.")
     except Exception as e:
-        print("\nAn error occurred during repository cloning:\n", e)
+        print("An error occurred during repository cloning:", e)
 
 def switch_pull():
     try:
-        print("\nChanging directory to the cloned repository...\n")
+        print("Changing directory to the cloned repository...\n")
         # Change directory to the cloned repository
         os.chdir("D:/Git_Data/DRT_Jenkins")
         print("Switching to the 'drt' branch and pulling latest changes...\n")
         # Switch to the 'drt' branch and pull latest changes
         os.system("git checkout drt")
         os.system("git pull origin drt")
-        print("\n'drt' branch switched and latest changes pulled successfully.\n")
+        print("'drt' branch switched and latest changes pulled successfully.")
     except Exception as e:
-        print("\nAn error occurred during switching/pulling:\n", e)
+        print("An error occurred during switching/pulling:", e)
 
 def add_commit_push():
     try:
@@ -119,15 +123,15 @@ def add_commit_push():
             print("Pushing changes to the 'drt' branch...\n")
             # Push changes to the 'drt' branch
             os.system("git push origin drt")
-            print("\nChanges added, committed, and pushed successfully to 'drt' branch.\n")
+            print("Changes added, committed, and pushed successfully to 'drt' branch.\n")
         else:
             print("Commit message cannot be empty. No changes made.\n")
     except Exception as e:
-        print("\nAn error occurred during adding/committing/pushing:\n", e)
+        print("An error occurred during adding/committing/pushing:", e)
 
 def merge_main():
     try:
-        print("\nChanging directory to the cloned repository...\n")
+        print("Changing directory to the cloned repository...\n")
         # Change directory to the cloned repository
         os.chdir("D:/Git_Data/DRT_Jenkins")
         print("Merging changes from 'main' into 'drt' branch...\n")
@@ -136,9 +140,9 @@ def merge_main():
         os.system("git pull origin main")
         os.system("git checkout drt")
         os.system("git merge main")
-        print("\nChanges merged successfully from 'main' into 'drt' branch.\n")
+        print("Changes merged successfully from 'main' into 'drt' branch.\n")
     except Exception as e:
-        print("\nAn error occurred during merging:\n", e)
+        print("An error occurred during merging:", e)
 
 def lock_unlock_file():
     try:
@@ -180,17 +184,20 @@ if __name__ == "__main__":
             set_credentials_choice = input("Do you want to set up Git credentials now? (Yes/No): ").lower()
             if set_credentials_choice == "yes":
                 set_git_credentials()
+            else:
+                print("Git operations will not be possible without credentials.")
+                exit()
 
         while True:
             try:
-                print("\nWhat operation would you like to perform?\n")
+                print("What operation would you like to perform?")
                 print("1. Clone or update the repository")
                 print("2. Switch to the 'drt' branch and pull latest changes")
                 print("3. Add, commit, and push changes to 'drt' branch")
                 print("4. Merge changes from 'main' into 'drt' branch")
                 print("5. Lock and unlock the Global Variable Sheet")
                 print("6. Exit")
-                choice = input("\nEnter your choice (1-6): ")
+                choice = input("Enter your choice (1-6): ")
 
                 if choice == "1":
                     clone_repository()
