@@ -330,7 +330,7 @@ if __name__ == "__main__":
     # Take Execution_Summary.png
     html_file_path = 'MainDetailedReport.html'
     screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
-    crop_coordinates = (90, 160, 1350, 700) # crop coordinates: (left, upper, right, lower)
+    crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
     
     # Call Screenshot Function 
     take_screenshot(html_file_path, screenshot_path, crop_coordinates)
