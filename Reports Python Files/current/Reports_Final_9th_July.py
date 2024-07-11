@@ -31,12 +31,11 @@ def version_details():
         "Renames Files",
         "Copies Files",
         "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
-        ["***\(Table Image Need to be small, and Path\)"
-        "***\(Need to add PDF Files\)"
-        "***Clean the code reffering \"Reports_Final_Clean.py\""
-        "***\(Month Logic\)"
+        "***Table Image Need to be small, and Path should be newly created folder.",
+        "***Need to attach PDF Files",
+        "***Clean the code reffering \"Reports_Final_Clean.py\"",
+        "***Update the Select Month Logic.",
         #"Copies Message to Clipboard"
-        ]
     ]
     print("|\tVersion Details:\n|")
     for i, j in enumerate(feature, 1):
@@ -194,29 +193,6 @@ def apply_filter(sheet, keyword, column):
         else:
             sheet.auto_filter.add_filter_column(cell.col_idx - 1, [keyword])
 
-def html_table_to_markdown(html_table):
-    # Use BeautifulSoup to parse the HTML table
-    soup = BeautifulSoup(html_table, 'html.parser')
-    table = soup.find('table')
-    
-    # Extract headers
-    headers = [th.text.strip() for th in table.find_all('th')]
-    # Extract rows
-    rows = [
-        [td.text.strip() for td in row.find_all('td')]
-        for row in table.find_all('tr')
-    ]
-    
-    # Construct Markdown table
-    md_table = ""
-    if headers:
-        md_table += '| ' + ' | '.join(headers) + ' |\n'
-        md_table += '| ' + ' | '.join(['---'] * len(headers)) + ' |\n'
-    for row in rows:
-        md_table += '| ' + ' | '.join(row) + ' |\n'
-    
-    return md_table
-
 def convert_html_to_image(html_content, output_path):
     hti = Html2Image()
     hti.screenshot(html_str=html_content, save_as=output_path)
@@ -352,18 +328,8 @@ if __name__ == "__main__":
     
     #Teams webhook URL
     teams_webhook_url = 'https://kpitc.webhook.office.com/webhookb2/0e77225f-5e51-4ff3-bddd-87d2f5da5fc1@3539451e-b46e-4a26-a242-ff61502855c7/IncomingWebhook/bb555a09021747a696f5702d10233e92/fbaa0227-8d16-4af9-aaf0-17c8889162fe'
-    
-    # Take DryRun2.x from User
-    flag = int(input("|\tDryRun2.x:\n|\t\t1.DryRun2.1\n|\t\t2.DryRun2.2\n|\t\t3.DryRun2.3\n|\t\t4.DryRun2.4\n|\tSelect DryRun2.x: "))
-    cycle = 'DryRun2.1' if flag == 1 else 'DryRun2.2' if flag == 2 else 'DryRun2.3' if flag == 3 else 'DryRun2.4' if flag == 4 else None
-    print('|' + '_' * 70 + '\n|\t')
-    
-    # Take Build Type from User
-    input_build = int(input("|\tBuild Type:\n|\t\t1.Dev\n|\t\t2.Rel\n|\t\t3.Skip\n|\tSelect Build Type:"))
-    build = "Dev_Build" if input_build == 1 else "Rel_Build" if input_build == 2 else None
-    print('|' + '_' * 70 + '\n|\t')
-    
-    # Take Date from User and add correct suffix
+
+   # Take Date from User and add correct suffix
     input_date = int(input("|\tEnter Date: "))
     date = get_date(input_date)
     print('|' + '_' * 70 + '\n|\t')
@@ -393,7 +359,7 @@ if __name__ == "__main__":
     print('|' + '_' * 70 + '\n|\t')
     
     # Construct input_string
-    parameters = [cycle, build, execution, date, month, bench] if input_build in [1, 2] else [execution, date, month, bench]
+    parameters = [execution, date, month, bench]
     input_string = '_'.join(parameters) + '_'
     
     # Folder name
@@ -589,13 +555,7 @@ if __name__ == "__main__":
         flashing_result = f"{flashing.replace('_', ' ')} {result}:"
         DryRun = "DryRun2.3_"
         DryRun2 = "DryRun2.4_"
-        if input_build in [1, 2]:
-            message_string = (
-                f"{date_month}{cycle} {build.replace('_', ' ')} {execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n"
-                f"{execution_result}\n"
-                f"{flashing_result}"
-            )
-        else:
+        if True:
             message_string_1 = (
                 f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
                 f"{execution_result}\n\n"
