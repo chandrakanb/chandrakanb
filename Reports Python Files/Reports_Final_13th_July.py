@@ -27,15 +27,16 @@ def version_details():
         "Adds \"Script Type\" Column to Excel Report",
         "Creates Separate Sheet for \"DryRun2.3\" and \"DryRun2.4\"",
         "Creates Pivot Table for \"DryRun2.3\" and \"DryRun2.4\"",
-        "Takes Execution Summary Screenshot",
+        "",
+        "IMPORTANT**Takes Execution Summary Screenshot, Need to handle this using HTML Extraction. Save the Summary HTML in BOOT folder",
+        "",
         "Renames Files",
         "Copies Files",
         "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
         "***Table Image Need to be small, and Path should be newly created folder.",
         "***Need to attach PDF Files",
         "***Clean the code reffering \"Reports_Final_Clean.py\"",
-        "***Update the Select Month Logic.",
-        #"Copies Message to Clipboard"
+        "Copies Message to Clipboard"
     ]
     print("|\tVersion Details:\n|")
     for i, j in enumerate(feature, 1):
@@ -173,18 +174,99 @@ def take_screenshot(html_file_path, screenshot_path, crop_coordinates):
     pyautogui.hotkey('alt', 'tab')
     time.sleep(1)  # Wait for a second to ensure the tab is active
 
+def extract_and_create_html(input_html_path, output_html_path):
+    try:
+        # Read the HTML file
+        with open(input_html_path, "r", encoding="utf-8") as file:
+            content = file.read()
+
+        # Parse the HTML content
+        soup = BeautifulSoup(content, "html.parser")
+
+        # Extract the <head> part
+        head = soup.head
+
+        # Extract the specific <body> parts
+        summary_table_div = soup.find("div", id="div-summaryTable")
+        pie_chart_div = soup.find("div", id="pieChartDiv")
+
+        # Create a new BeautifulSoup object for the extracted content
+        extracted_content = BeautifulSoup("<html></html>", "html.parser")
+        extracted_html = extracted_content.html
+
+        # Append the extracted head to the new BeautifulSoup object
+        if head:
+            extracted_html.append(head.extract())
+
+        # Create and append the body with the extracted parts
+        body = extracted_content.new_tag("body")
+        extracted_html.append(body)
+
+        # Create a container div to hold the summary table and pie chart side by side
+        container_div = extracted_content.new_tag("div", **{"class": "container-fluid mt-5"})
+
+        # Create a row div
+        row_div = extracted_content.new_tag("div", **{"class": "row testPackData"})
+
+        # Create the first column for the summary table
+        summary_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
+        if summary_table_div:
+            summary_col_div.append(summary_table_div.extract())
+
+        # Create the second column for the pie chart
+        chart_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
+        if pie_chart_div:
+            chart_col_div.append(pie_chart_div.extract())
+
+        # Append the columns to the row
+        row_div.append(summary_col_div)
+        row_div.append(chart_col_div)
+
+        # Append the row to the container
+        container_div.append(row_div)
+
+        # Append the container to the body
+        body.append(container_div)
+
+        # Write the extracted content to a new HTML file
+        with open(output_html_path, "w", encoding="utf-8") as file:
+            file.write(str(extracted_content))
+
+        print(f"|\tExecution_Summary.html Extracted Successfully.")
+        print('|' + '_' * 70 + '\n|\t')
+        
+    except Exception as e:
+        print(f"An error occurred during extraction: {e}")
+        print('|' + '_' * 70 + '\n|\t')
+
 def get_date(input_date):
-    # Convert number to string
-    input_date_str = str(input_date)
-    
     # Determine suffix based on last digit
-    suffix = 'st' if input_date_str.endswith('1') and not input_date_str.endswith('11') else \
-         'nd' if input_date_str.endswith('2') and not input_date_str.endswith('12') else \
-         'rd' if input_date_str.endswith('3') and not input_date_str.endswith('13') else \
+    suffix = 'st' if input_date.endswith('1') and not input_date.endswith('11') else \
+         'nd' if input_date.endswith('2') and not input_date.endswith('12') else \
+         'rd' if input_date.endswith('3') and not input_date.endswith('13') else \
          'th'
          
     # Return ordinal string
-    return input_date_str + suffix
+    return input_date + suffix
+
+def get_month(input_month):
+    # Determine month based input number
+    month = 'January' if input_month == '1' else \
+         'February' if input_month == '2' else \
+         'March' if input_month == '3' else \
+         'April' if input_month == '4' else \
+         'May' if input_month == '5' else \
+         'June' if input_month == '6' else \
+         'July' if input_month == '7' else \
+         'August' if input_month == '8' else \
+         'September' if input_month == '9' else \
+         'October' if input_month == '10' else \
+         'November' if input_month == '11' else \
+         'December' if input_month == '12' else \
+         None
+         
+    # Return month
+    return month
 
 def apply_filter(sheet, keyword, column):
     for cell in sheet[column]:
@@ -193,10 +275,10 @@ def apply_filter(sheet, keyword, column):
         else:
             sheet.auto_filter.add_filter_column(cell.col_idx - 1, [keyword])
 
-def convert_html_to_image(html_content, output_path):
-    hti = Html2Image()
+def convert_html_to_image(html_content, output_path, edge_path):
+    hti = Html2Image(browser_executable=edge_path)
     hti.screenshot(html_str=html_content, save_as=output_path)
-    
+
 def df_to_html_inline_css(df, font_size, border_width, padding):
     rows = df.to_dict(orient='records')
     headers = df.columns.tolist()
@@ -222,13 +304,15 @@ def df_to_html_inline_css(df, font_size, border_width, padding):
     
     return html_table
 
-def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4):
+def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path):
     try:
         # Convert HTML tables to images
         table1_image_path = 'table1.png'
         table2_image_path = 'table2.png'
-        convert_html_to_image(HTML_2_3, table1_image_path)
-        convert_html_to_image(HTML_2_4, table2_image_path)
+        screenshot_path = "Execution_Summary.png"
+        convert_html_to_image(HTML_2_3, table1_image_path, edge_path)
+        convert_html_to_image(HTML_2_4, table2_image_path, edge_path)
+        convert_html_to_image(execution_summary_html_path, screenshot_path, edge_path)
         
         # Prepare the request headers
         headers = {'Content-Type': 'application/json'}
@@ -305,7 +389,7 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
 
         # Check for success
         if response.status_code == 200:
-            print(f"|\tMessage sent successfully to Microsoft Teams!")
+            print(f"|\tMessage sent Successfully to Microsoft Teams!")
             print('|' + '_' * 70 + '\n|\t')
         else:
             print(f"|\tFailed to send message. Status code: {response.status_code}, Response: {response.text}")
@@ -323,27 +407,25 @@ if __name__ == "__main__":
     # Get the currently active window title before opening the HTML file
     active_window_title_before = pyautogui.getActiveWindow().title
     
-    # Parameters for creating folder and copying files
-    result = "Result"
+    # Path to the edge executable
+    edge_path = r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe'
     
     #Teams webhook URL
     teams_webhook_url = 'https://kpitc.webhook.office.com/webhookb2/0e77225f-5e51-4ff3-bddd-87d2f5da5fc1@3539451e-b46e-4a26-a242-ff61502855c7/IncomingWebhook/bb555a09021747a696f5702d10233e92/fbaa0227-8d16-4af9-aaf0-17c8889162fe'
 
    # Take Date from User and add correct suffix
-    input_date = int(input("|\tEnter Date: "))
+    input_date = input("|\tEnter Date: ")
     date = get_date(input_date)
     print('|' + '_' * 70 + '\n|\t')
 
     # Take Month from User
     input_month = input("|\tEnter month: ")
-    month = input_month.capitalize()
+    month = get_month(input_month)
     print('|' + '_' * 70 + '\n|\t')
     
     # Take Execution Type from User
-    overnight = "Overnight_Execution"
-    flashing = "Auto_Flashing"
-    flag = input("|\tExecution:\n|\t\t1. Overnight Execution\n|\t\t2. Auto Flashing\n|\tEnter your choice (1 or 2): ")
-    execution = overnight if flag == "1" else flashing if flag == "2" else None
+    execution_type = input("|\tExecution:\n|\t\t1. Overnight Execution\n|\t\t2. Auto Flashing\n|\tEnter your choice (1 or 2): ")
+    execution = "Overnight_Execution" if execution_type == "1" else "Auto_Flashing" if execution_type == "2" else None
     print('|' + '_' * 70 + '\n|\t')
     
     # Take Bench Number from User
@@ -370,11 +452,15 @@ if __name__ == "__main__":
     
     # Take Execution_Summary.png
     html_file_path = 'MainDetailedReport.html'
-    screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
-    crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
+    #screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
+    #crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
     
     # Call Screenshot Function 
-    take_screenshot(html_file_path, screenshot_path, crop_coordinates)
+    #take_screenshot(html_file_path, screenshot_path, crop_coordinates)
+
+    # Extract and create HTML of Execution Summary
+    execution_summary_html_path = os.path.join(folder_name, "Execution_Summary.html")
+    extract_and_create_html(html_file_path, execution_summary_html_path)
 
     # Read Excel and HTML files
     df_summary_main = pd.DataFrame([])
@@ -549,43 +635,48 @@ if __name__ == "__main__":
     copy_pdf_files(input_string)
     
     # Construct message_string
-    if execution == overnight:
+    if execution_type == "1":
         date_month = f"{date} {month}, "
-        execution_result = f"{execution.replace('_', ' ')} {result}:"
-        flashing_result = f"{flashing.replace('_', ' ')} {result}:"
-        DryRun = "DryRun2.3_"
-        DryRun2 = "DryRun2.4_"
+        overnight_execution_result = "Overnight Execution Result:"
+        flashing_result = "Auto Flashing Result:"
+        DryRun2_3 = "DryRun2.3"
+        DryRun2_4 = "DryRun2.4"
         if True:
             message_string_1 = (
                 f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
-                f"{execution_result}\n\n"
+                f"{overnight_execution_result}\n\n"
             )
             message_string_2 = (
-                f"{DryRun.replace('_', ' ')}{execution_result}\n\n"
+                f"{DryRun2_3} {overnight_execution_result}\n\n"
             )
             message_string_3 = (
-                f"{DryRun2.replace('_', ' ')}{execution_result}\n\n"
+                f"{DryRun2_4} {overnight_execution_result}\n\n"
             )
             message_string_4 = (
                 f"{flashing_result}"
             )
 
-        """# Copy the output string to the clipboard
+        # Call the function to send message to Teams
+        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path)
+        
+        # Copy the output string to the clipboard
+        message_string = (
+            f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
+            f"{overnight_execution_result}\n\n"
+            f"{DryRun2_3} {overnight_execution_result}\n\n"
+            f"{DryRun2_4} {overnight_execution_result}\n\n"
+            f"{flashing_result}"
+        )
         pyperclip.copy(message_string)
         output_message = pyperclip.paste()
         if output_message == message_string:
-            print("|\tMessage copied successfully.")
-            print('|' + '_' * 70 + '\n|\t')"""
+            print("|\tMessage copied Successfully.")
+            print('|' + '_' * 70 + '\n|\t')
         
-        # Call the function to send message to Teams
-        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4)
-
     # Switch back to the previously active window
     pyautogui.getWindowsWithTitle(active_window_title_before)[0].activate()
     
-    
-    print("|\tAll tasks completed successfully.")
+    print("|\tAll tasks completed Successfully.")
     print('|' + '_' * 70 + '\n|\t')
     input("|\tPress Enter to exit...")
     print('|' + '_' * 70 + '\n')
-    

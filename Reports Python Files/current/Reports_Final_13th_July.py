@@ -27,14 +27,15 @@ def version_details():
         "Adds \"Script Type\" Column to Excel Report",
         "Creates Separate Sheet for \"DryRun2.3\" and \"DryRun2.4\"",
         "Creates Pivot Table for \"DryRun2.3\" and \"DryRun2.4\"",
-        "***Takes Execution Summary Screenshot, Need to handle this using HTML Extraction.",
+        "",
+        "IMPORTANT**Takes Execution Summary Screenshot, Need to handle this using HTML Extraction. Save the Summary HTML in BOOT folder",
+        "",
         "Renames Files",
         "Copies Files",
         "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
         "***Table Image Need to be small, and Path should be newly created folder.",
         "***Need to attach PDF Files",
         "***Clean the code reffering \"Reports_Final_Clean.py\"",
-        "***Update default browser logic and Check for the error occured during sending message.",
         "Copies Message to Clipboard"
     ]
     print("|\tVersion Details:\n|")
@@ -173,6 +174,71 @@ def take_screenshot(html_file_path, screenshot_path, crop_coordinates):
     pyautogui.hotkey('alt', 'tab')
     time.sleep(1)  # Wait for a second to ensure the tab is active
 
+def extract_and_create_html(input_html_path, output_html_path):
+    try:
+        # Read the HTML file
+        with open(input_html_path, "r", encoding="utf-8") as file:
+            content = file.read()
+
+        # Parse the HTML content
+        soup = BeautifulSoup(content, "html.parser")
+
+        # Extract the <head> part
+        head = soup.head
+
+        # Extract the specific <body> parts
+        summary_table_div = soup.find("div", id="div-summaryTable")
+        pie_chart_div = soup.find("div", id="pieChartDiv")
+
+        # Create a new BeautifulSoup object for the extracted content
+        extracted_content = BeautifulSoup("<html></html>", "html.parser")
+        extracted_html = extracted_content.html
+
+        # Append the extracted head to the new BeautifulSoup object
+        if head:
+            extracted_html.append(head.extract())
+
+        # Create and append the body with the extracted parts
+        body = extracted_content.new_tag("body")
+        extracted_html.append(body)
+
+        # Create a container div to hold the summary table and pie chart side by side
+        container_div = extracted_content.new_tag("div", **{"class": "container-fluid mt-5"})
+
+        # Create a row div
+        row_div = extracted_content.new_tag("div", **{"class": "row testPackData"})
+
+        # Create the first column for the summary table
+        summary_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
+        if summary_table_div:
+            summary_col_div.append(summary_table_div.extract())
+
+        # Create the second column for the pie chart
+        chart_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
+        if pie_chart_div:
+            chart_col_div.append(pie_chart_div.extract())
+
+        # Append the columns to the row
+        row_div.append(summary_col_div)
+        row_div.append(chart_col_div)
+
+        # Append the row to the container
+        container_div.append(row_div)
+
+        # Append the container to the body
+        body.append(container_div)
+
+        # Write the extracted content to a new HTML file
+        with open(output_html_path, "w", encoding="utf-8") as file:
+            file.write(str(extracted_content))
+
+        print(f"|\tExecution_Summary.html Extracted Successfully.")
+        print('|' + '_' * 70 + '\n|\t')
+        
+    except Exception as e:
+        print(f"An error occurred during extraction: {e}")
+        print('|' + '_' * 70 + '\n|\t')
+
 def get_date(input_date):
     # Determine suffix based on last digit
     suffix = 'st' if input_date.endswith('1') and not input_date.endswith('11') else \
@@ -238,13 +304,15 @@ def df_to_html_inline_css(df, font_size, border_width, padding):
     
     return html_table
 
-def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4, edge_path):
+def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path):
     try:
         # Convert HTML tables to images
         table1_image_path = 'table1.png'
         table2_image_path = 'table2.png'
+        screenshot_path = "Execution_Summary.png"
         convert_html_to_image(HTML_2_3, table1_image_path, edge_path)
         convert_html_to_image(HTML_2_4, table2_image_path, edge_path)
+        convert_html_to_image(execution_summary_html_path, screenshot_path, edge_path)
         
         # Prepare the request headers
         headers = {'Content-Type': 'application/json'}
@@ -321,7 +389,7 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
 
         # Check for success
         if response.status_code == 200:
-            print(f"|\tMessage sent successfully to Microsoft Teams!")
+            print(f"|\tMessage sent Successfully to Microsoft Teams!")
             print('|' + '_' * 70 + '\n|\t')
         else:
             print(f"|\tFailed to send message. Status code: {response.status_code}, Response: {response.text}")
@@ -384,11 +452,15 @@ if __name__ == "__main__":
     
     # Take Execution_Summary.png
     html_file_path = 'MainDetailedReport.html'
-    screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
-    crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
+    #screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
+    #crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
     
     # Call Screenshot Function 
-    take_screenshot(html_file_path, screenshot_path, crop_coordinates)
+    #take_screenshot(html_file_path, screenshot_path, crop_coordinates)
+
+    # Extract and create HTML of Execution Summary
+    execution_summary_html_path = os.path.join(folder_name, "Execution_Summary.html")
+    extract_and_create_html(html_file_path, execution_summary_html_path)
 
     # Read Excel and HTML files
     df_summary_main = pd.DataFrame([])
@@ -585,7 +657,7 @@ if __name__ == "__main__":
             )
 
         # Call the function to send message to Teams
-        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, HTML_2_3, HTML_2_4, edge_path)
+        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path)
         
         # Copy the output string to the clipboard
         message_string = (
@@ -598,13 +670,13 @@ if __name__ == "__main__":
         pyperclip.copy(message_string)
         output_message = pyperclip.paste()
         if output_message == message_string:
-            print("|\tMessage copied successfully.")
+            print("|\tMessage copied Successfully.")
             print('|' + '_' * 70 + '\n|\t')
         
     # Switch back to the previously active window
     pyautogui.getWindowsWithTitle(active_window_title_before)[0].activate()
     
-    print("|\tAll tasks completed successfully.")
+    print("|\tAll tasks completed Successfully.")
     print('|' + '_' * 70 + '\n|\t')
     input("|\tPress Enter to exit...")
     print('|' + '_' * 70 + '\n')
