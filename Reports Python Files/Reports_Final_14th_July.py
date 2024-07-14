@@ -19,6 +19,9 @@ import requests
 import base64
 from io import StringIO
 from html2image import Html2Image
+from selenium import webdriver
+from selenium.webdriver.edge.options import Options
+from PIL import Image
 
 def version_details():
     feature = [
@@ -27,14 +30,12 @@ def version_details():
         "Adds \"Script Type\" Column to Excel Report",
         "Creates Separate Sheet for \"DryRun2.3\" and \"DryRun2.4\"",
         "Creates Pivot Table for \"DryRun2.3\" and \"DryRun2.4\"",
-        "",
-        "IMPORTANT**Takes Execution Summary Screenshot, Need to handle this using HTML Extraction. Save the Summary HTML in BOOT folder",
-        "",
+        "Takes Execution Summary Screenshot using Headless browser",
         "Renames Files",
         "Copies Files",
         "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
-        "***Table Image Need to be small, and Path should be newly created folder.",
         "***Need to attach PDF Files",
+        "***Need to attach Auto Flashing Summary png",
         "***Clean the code reffering \"Reports_Final_Clean.py\"",
         "Copies Message to Clipboard"
     ]
@@ -139,105 +140,87 @@ def update_column_B(sheet, keyword, value):
 def create_folder(input_string):
     os.makedirs(folder_name, exist_ok=True)
     print(f"|\tFolder created Successfully.")
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
 
 def copy_pdf_files(input_string):
     pdf_reports_dir = os.path.join("XMLReports", "PdfReports")
     shutil.copy(os.path.join(pdf_reports_dir, "DashboardReport.pdf"), os.path.join(folder_name, f"{folder_name}_DashboardReport.pdf"))
     shutil.copy(os.path.join(pdf_reports_dir, "DetailedReport.pdf"), os.path.join(folder_name, f"{folder_name}_DetailedReport.pdf"))
     print(f"|\tPDF files copied Successfully.")
-    print('|' + '_' * 70 + '\n|\t')
-    
+    print('|' + '_' * 100 + '\n|\t')
+
 def take_screenshot(html_file_path, screenshot_path, crop_coordinates):
+    # Set up Edge options for headless mode
+    options = Options()
+    options.use_chromium = True
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--window-size=1920,1080')
+    
     # Construct the file URL using 'file://' protocol
     file_url = 'file:///' + os.path.abspath(html_file_path).replace('\\', '/')
-
-    # Open the file URL in a web browser (opens in a new tab or window)
-    webbrowser.open_new_tab(file_url)
-    time.sleep(5)  # Adjust as necessary to ensure the page loads completely
-
-    # Take a screenshot of the entire screen
-    screenshot = pyautogui.screenshot()
-
+    
+    # Set up the Edge WebDriver with headless options
+    driver = webdriver.Edge(options=options)
+    
+    # Open the HTML file in the headless browser
+    driver.get(file_url)
+    
+    # Take a screenshot of the entire page
+    screenshot_data = driver.get_screenshot_as_png()
+    
+    # Save the screenshot to a temporary file
+    temp_screenshot_path = 'temp_screenshot.png'
+    with open(temp_screenshot_path, 'wb') as f:
+        f.write(screenshot_data)
+    
+    # Open the screenshot image
+    screenshot = Image.open(temp_screenshot_path)
+    
     # Crop the screenshot based on the provided coordinates
     cropped_screenshot = screenshot.crop(crop_coordinates)
-
+    
     # Save the cropped screenshot to the specified path
     cropped_screenshot.save(screenshot_path)
+    print("\n")
+    print("\n")
+    print('.' + '_' * 100 + '\n|\t')
     print(f"|\tScreenshot Saved Successfully.")
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n')
     
-    # Close the browser tab
-    pyautogui.hotkey('ctrl', 'w')  # Close the tab (Ctrl + W)
+    # Clean up and close the browser
+    driver.quit()
+    os.remove(temp_screenshot_path)
+
+def crop_table_screenshots(table_image_crop_coordinates, table_image_path):
+    # Open the screenshot image
+    screenshot = Image.open(table_image_path)
     
-    # Switch to the previous application
-    pyautogui.hotkey('alt', 'tab')
-    time.sleep(1)  # Wait for a second to ensure the tab is active
+    # Crop the screenshot based on the provided coordinates
+    cropped_screenshot = screenshot.crop(table_image_crop_coordinates)
+    
+    # Save the cropped screenshot to the specified path
+    cropped_screenshot.save(table_image_path)
 
-def extract_and_create_html(input_html_path, output_html_path):
-    try:
-        # Read the HTML file
-        with open(input_html_path, "r", encoding="utf-8") as file:
-            content = file.read()
-
-        # Parse the HTML content
-        soup = BeautifulSoup(content, "html.parser")
-
-        # Extract the <head> part
-        head = soup.head
-
-        # Extract the specific <body> parts
-        summary_table_div = soup.find("div", id="div-summaryTable")
-        pie_chart_div = soup.find("div", id="pieChartDiv")
-
-        # Create a new BeautifulSoup object for the extracted content
-        extracted_content = BeautifulSoup("<html></html>", "html.parser")
-        extracted_html = extracted_content.html
-
-        # Append the extracted head to the new BeautifulSoup object
-        if head:
-            extracted_html.append(head.extract())
-
-        # Create and append the body with the extracted parts
-        body = extracted_content.new_tag("body")
-        extracted_html.append(body)
-
-        # Create a container div to hold the summary table and pie chart side by side
-        container_div = extracted_content.new_tag("div", **{"class": "container-fluid mt-5"})
-
-        # Create a row div
-        row_div = extracted_content.new_tag("div", **{"class": "row testPackData"})
-
-        # Create the first column for the summary table
-        summary_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
-        if summary_table_div:
-            summary_col_div.append(summary_table_div.extract())
-
-        # Create the second column for the pie chart
-        chart_col_div = extracted_content.new_tag("div", **{"class": "col-sm-6"})
-        if pie_chart_div:
-            chart_col_div.append(pie_chart_div.extract())
-
-        # Append the columns to the row
-        row_div.append(summary_col_div)
-        row_div.append(chart_col_div)
-
-        # Append the row to the container
-        container_div.append(row_div)
-
-        # Append the container to the body
-        body.append(container_div)
-
-        # Write the extracted content to a new HTML file
-        with open(output_html_path, "w", encoding="utf-8") as file:
-            file.write(str(extracted_content))
-
-        print(f"|\tExecution_Summary.html Extracted Successfully.")
-        print('|' + '_' * 70 + '\n|\t')
+def cut_paste_png_files(folder_name):
+    # Assuming the PNG files are in the current directory
+    png_files = ['DryRun2.3_Summary.png', 'DryRun2.4_Summary.png']
+    
+    for png_file in png_files:
+        src_path = os.path.join(os.getcwd(), png_file)  # Assuming files are in the current directory
+        dest_path = os.path.join(folder_name, png_file)
         
-    except Exception as e:
-        print(f"An error occurred during extraction: {e}")
-        print('|' + '_' * 70 + '\n|\t')
+        try:
+            shutil.copy(src_path, dest_path)
+            os.remove(src_path)
+            print(f"|\t\"{png_file}\" moved Successfully.")
+            print('|' + '_' * 100 + '\n|\t')
+        except FileNotFoundError:
+            print(f"|\t\"{png_file}\" not found.")
+            print('|' + '_' * 100 + '\n|\t')
+        except Exception as e:
+            print(f"|\tError while moving \"{png_file}\": {e}")
+            print('|' + '_' * 100 + '\n|\t')
 
 def get_date(input_date):
     # Determine suffix based on last digit
@@ -279,9 +262,17 @@ def convert_html_to_image(html_content, output_path, edge_path):
     hti = Html2Image(browser_executable=edge_path)
     hti.screenshot(html_str=html_content, save_as=output_path)
 
-def df_to_html_inline_css(df, font_size, border_width, padding):
+def df_to_html_inline_css(df, font_size, border_width, padding, fixed_width):
     rows = df.to_dict(orient='records')
     headers = df.columns.tolist()
+    
+    # Define fixed widths for 2nd, 3rd, 4th, and 5th columns
+    fixed_widths = {
+        1: fixed_width,  # 2nd column
+        2: fixed_width,  # 3rd column
+        3: fixed_width,  # 4th column
+        4: fixed_width   # 5th column
+    }
     
     html_table = (
         f"<table border='1' style='border-collapse: collapse; width: auto; font-size: {font_size}px;'>"
@@ -289,31 +280,28 @@ def df_to_html_inline_css(df, font_size, border_width, padding):
     
     # Add headers
     html_table += "<tr>"
-    for header in headers:
-        html_table += f"<td style='border: {border_width}px solid black; padding: {padding}px;'>{header}</td>"
+    for i, header in enumerate(headers):
+        width_style = f"width: {fixed_widths[i]};" if i in fixed_widths else ""
+        align_style = "text-align: center;" if i > 0 else ""  # Center align for 2nd to 5th columns
+        html_table += f"<td style='border: {border_width}px solid black; padding: {padding}px; {width_style} {align_style} font-weight: bold;'>{header}</td>"
     html_table += "</tr>"
     
     # Add data rows
-    for row in rows:
+    for row_idx, row in enumerate(rows):
         html_table += "<tr>"
-        for cell in row.values():
-            html_table += f"<td style='border: {border_width}px solid black; padding: {padding}px;'>{cell}</td>"
+        for col_idx, cell in enumerate(row.values()):
+            width_style = f"width: {fixed_widths[col_idx]};" if col_idx in fixed_widths else ""
+            align_style = "text-align: center;" if col_idx > 0 else ""  # Center align for 2nd to 5th columns 
+            bold_style = "font-weight: bold;" if row_idx in [3, 3] or col_idx in [0, 4] else ""  # Bold for 1st and 5th rows and columns
+            html_table += f"<td style='border: {border_width}px solid black; padding: {padding}px; {width_style} {align_style} {bold_style}'>{cell}</td>"
         html_table += "</tr>"
     
     html_table += "</table><br>"
     
     return html_table
 
-def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path):
+def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, table1_image_path, table2_image_path):
     try:
-        # Convert HTML tables to images
-        table1_image_path = 'table1.png'
-        table2_image_path = 'table2.png'
-        screenshot_path = "Execution_Summary.png"
-        convert_html_to_image(HTML_2_3, table1_image_path, edge_path)
-        convert_html_to_image(HTML_2_4, table2_image_path, edge_path)
-        convert_html_to_image(execution_summary_html_path, screenshot_path, edge_path)
-        
         # Prepare the request headers
         headers = {'Content-Type': 'application/json'}
         
@@ -389,20 +377,21 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
 
         # Check for success
         if response.status_code == 200:
+            print('.' + '_' * 100 + '\n|\t')
             print(f"|\tMessage sent Successfully to Microsoft Teams!")
-            print('|' + '_' * 70 + '\n|\t')
+            print('|' + '_' * 100 + '\n|\t')
         else:
             print(f"|\tFailed to send message. Status code: {response.status_code}, Response: {response.text}")
-            print('|' + '_' * 70 + '\n|\t')
+            print('|' + '_' * 100 + '\n|\t')
 
     except Exception as e:
         print(f"|\tAn error occurred: {e}")
-        print('|' + '_' * 70 + '\n|\t')
+        print('|' + '_' * 100 + '\n|\t')
 
 if __name__ == "__main__":
-    print('\n|' + '‾' * 70)
+    print('\n|' + '‾' * 100)
     version_details()
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
     
     # Get the currently active window title before opening the HTML file
     active_window_title_before = pyautogui.getActiveWindow().title
@@ -416,17 +405,17 @@ if __name__ == "__main__":
    # Take Date from User and add correct suffix
     input_date = input("|\tEnter Date: ")
     date = get_date(input_date)
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
 
     # Take Month from User
     input_month = input("|\tEnter month: ")
     month = get_month(input_month)
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
     
     # Take Execution Type from User
     execution_type = input("|\tExecution:\n|\t\t1. Overnight Execution\n|\t\t2. Auto Flashing\n|\tEnter your choice (1 or 2): ")
     execution = "Overnight_Execution" if execution_type == "1" else "Auto_Flashing" if execution_type == "2" else None
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
     
     # Take Bench Number from User
     input_bench = int(input("|\tEnter Bench Number: "))
@@ -438,30 +427,18 @@ if __name__ == "__main__":
         f"Bench0{input_bench}_Q_Variant"
     )
 
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
     
     # Construct input_string
     parameters = [execution, date, month, bench]
     input_string = '_'.join(parameters) + '_'
-    
+
     # Folder name
     folder_name = input_string.strip("_").replace(" ", "_")
     
     # Create folder
     create_folder(input_string)
     
-    # Take Execution_Summary.png
-    html_file_path = 'MainDetailedReport.html'
-    #screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
-    #crop_coordinates = (90, 160, 1350, 450) # crop coordinates: (left, upper, right, lower)
-    
-    # Call Screenshot Function 
-    #take_screenshot(html_file_path, screenshot_path, crop_coordinates)
-
-    # Extract and create HTML of Execution Summary
-    execution_summary_html_path = os.path.join(folder_name, "Execution_Summary.html")
-    extract_and_create_html(html_file_path, execution_summary_html_path)
-
     # Read Excel and HTML files
     df_summary_main = pd.DataFrame([])
     df_detail_report_main = pd.DataFrame([])
@@ -612,11 +589,12 @@ if __name__ == "__main__":
 
         # Convert to DataFrame
         df = pd.DataFrame(data, columns=columns)
-        font_size = int(110)
-        border_width = int(5)
-        padding  = int(20)
+        font_size = int(20)
+        border_width = int(2)
+        padding  = int(2)
+        fixed_width = "80px"
         # Convert DataFrame to HTML with custom styling
-        html_table = df_to_html_inline_css(df, font_size, border_width, padding)
+        html_table = df_to_html_inline_css(df, font_size, border_width, padding, fixed_width)
         
         # Generate Pandas DataFrame from HTML
         if version == "2.3":
@@ -629,11 +607,31 @@ if __name__ == "__main__":
     wb.close()
     
     print(f"|\tExcel file Saved Successfully.")
-    print('|' + '_' * 70 + '\n|\t')
-
-    # Copy pdf files
-    copy_pdf_files(input_string)
+    print('|' + '_' * 100 + '\n')
+    print("\n")
+    print("\n")
     
+    # Take Execution_Summary.png
+    html_file_path = 'MainDetailedReport.html'
+    screenshot_path = os.path.join(folder_name, f"{folder_name}_Execution_Summary.png")
+    crop_coordinates = (90, 63, 1365, 341) # crop coordinates: (left, upper, right, lower)
+    
+    # Call Screenshot Function 
+    take_screenshot(html_file_path, screenshot_path, crop_coordinates)
+    
+    # Convert HTML tables to images
+    table1_image_path = 'DryRun2.3_Summary.png'
+    table2_image_path = 'DryRun2.4_Summary.png'
+    table_image_crop_coordinates = (5, 5, 485, 185) # crop coordinates: (left, upper, right, lower)
+    print("\n")
+    print("\n")
+    convert_html_to_image(HTML_2_3, table1_image_path, edge_path)
+    crop_table_screenshots(table_image_crop_coordinates, table1_image_path)
+    convert_html_to_image(HTML_2_4, table2_image_path, edge_path)
+    crop_table_screenshots(table_image_crop_coordinates, table2_image_path)
+    print("\n")
+    print("\n")
+
     # Construct message_string
     if execution_type == "1":
         date_month = f"{date} {month}, "
@@ -657,8 +655,14 @@ if __name__ == "__main__":
             )
 
         # Call the function to send message to Teams
-        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, HTML_2_3, HTML_2_4, execution_summary_html_path, edge_path)
+        send_message_to_teams(teams_webhook_url, message_string_1, message_string_2, message_string_3, message_string_4, screenshot_path, table1_image_path, table2_image_path)
         
+        # Cut paste png files
+        cut_paste_png_files(folder_name)
+        
+        # Copy pdf files
+        copy_pdf_files(input_string)
+
         # Copy the output string to the clipboard
         message_string = (
             f"{date_month}{execution.replace('_', ' ')} {bench.replace('_', ' ')}:\n\n"
@@ -671,12 +675,12 @@ if __name__ == "__main__":
         output_message = pyperclip.paste()
         if output_message == message_string:
             print("|\tMessage copied Successfully.")
-            print('|' + '_' * 70 + '\n|\t')
+            print('|' + '_' * 100 + '\n|\t')
         
     # Switch back to the previously active window
     pyautogui.getWindowsWithTitle(active_window_title_before)[0].activate()
     
     print("|\tAll tasks completed Successfully.")
-    print('|' + '_' * 70 + '\n|\t')
+    print('|' + '_' * 100 + '\n|\t')
     input("|\tPress Enter to exit...")
-    print('|' + '_' * 70 + '\n')
+    print('|' + '_' * 100 + '\n')
