@@ -22,6 +22,8 @@ from html2image import Html2Image
 from selenium import webdriver
 from selenium.webdriver.edge.options import Options
 from PIL import Image
+import subprocess
+from contextlib import contextmanager, redirect_stdout, redirect_stderr
 
 def version_details():
     feature = [
@@ -29,15 +31,15 @@ def version_details():
         "Generate Excel Report",
         "Renames Files",
         "Copies Files",
-        "Takes Execution Summary Screenshot using Headless Browser",
-        "\n",
+        "Takes Execution Summary Screenshot using Headless Browser\n|\t",
+        #--------------------------------------------------------------------------------------------------.
         "For Overnight Executoin:",
         "Adds \"Script Type\" Column to Excel Report",
         "Creates Separate Sheet for \"DryRun2.3\" and \"DryRun2.4\"",
         "Creates Pivot Table for \"DryRun2.3\" and \"DryRun2.4\"",
         "Send message on teams channel with Execution_Summary.png, Summary_Table.png",
-        "Copies Message to Clipboard",
-        "\n",
+        "Copies Message to Clipboard\n|\t",
+        #--------------------------------------------------------------------------------------------------.
         "***Need to attach PDF Files",
         "***Need to attach Auto Flashing Summary png",
         "***Clean the code reffering \"Reports_Final_Clean.py\""
@@ -150,7 +152,7 @@ def copy_pdf_files(input_string):
     shutil.copy(os.path.join(pdf_reports_dir, "DashboardReport.pdf"), os.path.join(folder_name, f"{folder_name}_DashboardReport.pdf"))
     shutil.copy(os.path.join(pdf_reports_dir, "DetailedReport.pdf"), os.path.join(folder_name, f"{folder_name}_DetailedReport.pdf"))
     print(f"|\tPDF files copied Successfully.")
-    print('|' + '_' * 100 + '\n|\t')
+    print('|' + '_' * 100 + '\n')
 
 def take_screenshot(html_file_path, screenshot_path, crop_coordinates):
     # Set up Edge options for headless mode
@@ -185,11 +187,9 @@ def take_screenshot(html_file_path, screenshot_path, crop_coordinates):
     
     # Save the cropped screenshot to the specified path
     cropped_screenshot.save(screenshot_path)
-    print("\n")
-    print("\n")
     print('.' + '_' * 100 + '\n|\t')
     print(f"|\tScreenshot Saved Successfully.")
-    print('|' + '_' * 100 + '\n')
+    print('|' + '_' * 100 + '\n|\t')
     
     # Clean up and close the browser
     driver.quit()
@@ -261,9 +261,24 @@ def apply_filter(sheet, keyword, column):
         else:
             sheet.auto_filter.add_filter_column(cell.col_idx - 1, [keyword])
 
+@contextmanager
+def suppress_output():
+    with open(os.devnull, 'w') as devnull:
+        with redirect_stdout(devnull), redirect_stderr(devnull):
+            original_run = subprocess.run
+            try:
+                subprocess.run = lambda *args, **kwargs: original_run(*args, **{**kwargs, 'stdout': devnull, 'stderr': devnull})
+                yield
+            finally:
+                subprocess.run = original_run
+
 def convert_html_to_image(html_content, output_path, edge_path):
     hti = Html2Image(browser_executable=edge_path)
     hti.screenshot(html_str=html_content, save_as=output_path)
+
+def convert_html_to_image_silently(html_content, image_path, edge_path):
+    with suppress_output():
+        convert_html_to_image(html_content, image_path, edge_path)
 
 def df_to_html_inline_css(df, font_size, border_width, padding, fixed_width):
     rows = df.to_dict(orient='records')
@@ -380,7 +395,6 @@ def send_message_to_teams(teams_webhook_url, message_string_1, message_string_2,
 
         # Check for success
         if response.status_code == 200:
-            print('.' + '_' * 100 + '\n|\t')
             print(f"|\tMessage sent Successfully to Microsoft Teams!")
             print('|' + '_' * 100 + '\n|\t')
         else:
@@ -493,7 +507,7 @@ if __name__ == "__main__":
     df_detail_report_main_table.to_excel(writer, sheet_name='Detailed Report', index=False)
     writer._save()
     print(f"|\tExcel file Saved Successfully.")
-    print('|' + '_' * 100 + '\n')
+    print('|' + '_' * 100 + '\n|\t')
     
     #Define the border style and bold text
     thin_border = Border(left=Side(style='thin'), 
@@ -624,22 +638,17 @@ if __name__ == "__main__":
         wb.close()
     
         print(f"|\tExcel file Updated Successfully.")
-        print('|' + '_' * 100 + '\n')
-        print("\n")
-        print("\n")
-
+        print('|' + '_' * 100 + '\n|\t')
+        
         # Convert HTML tables to images
         table1_image_path = 'DryRun2.3_Summary.png'
         table2_image_path = 'DryRun2.4_Summary.png'
         table_image_crop_coordinates = (5, 5, 485, 185) # crop coordinates: (left, upper, right, lower)
-        print("\n")
-        print("\n")
-        convert_html_to_image(HTML_2_3, table1_image_path, edge_path)
+        
+        convert_html_to_image_silently(HTML_2_3, table1_image_path, edge_path)
         crop_table_screenshots(table_image_crop_coordinates, table1_image_path)
-        convert_html_to_image(HTML_2_4, table2_image_path, edge_path)
+        convert_html_to_image_silently(HTML_2_4, table2_image_path, edge_path)
         crop_table_screenshots(table_image_crop_coordinates, table2_image_path)
-        print("\n")
-        print("\n")
 
         # Construct message_string
         # date_month = f"{date} {month}, "
