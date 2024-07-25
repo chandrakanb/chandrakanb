@@ -1,0 +1,91 @@
+<html><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>KITE Dashboard</title>
+<link href="images/favicon.png" rel="icon" type="image/png"/>
+<meta charset="utf-8" content="text/html" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="css/external/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="css/external/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
+<link href="css/external/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="css/external/font-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="css/internal/custom.css" rel="stylesheet" type="text/css"/>
+<link href="css/internal/htmlReport.css" rel="stylesheet" type="text/css"/>
+<script src="js/external/jquery-3.3.1.js"></script><script src="js/external/bootstrap.bundle.min.js" type="text/javascript"></script><script src="js/external/jquery.dataTables.min.js"></script><script src="js/external/dataTables.bootstrap4.min.js"></script><script src="js/external/plotly-latest.min.js"></script><script src="js/internal/mainDetailed.js" type="text/javascript"></script><script>		
+	window.onload=function(){
+		var failedTestCase='2';
+		var passedTestCase='68';
+		var notExecutedTestCase='0';
+		var verifyManuallyTC='0';
+		
+			 var data = [{
+		type: "pie",
+		values: [ failedTestCase,notExecutedTestCase,passedTestCase,verifyManuallyTC],
+		labels: ["Failed", "Not Executed", "Passed", "Verify Manually"],
+		marker: {
+			colors: ["#D61C1C", "#ffc107", "#28a745", "#a17703"]
+		},
+		textinfo: "label+percent",
+		hoverinfo:"value",
+		insidetextorientation: "radial",
+		automargin: true
+		}]
+
+		var layout = {		
+			autosize: true,	
+			margin : {
+				t: 0,
+				r : 0,
+				b: 0,
+				l : 0,
+				pad: 0
+			},
+			legend : {
+				x : 1,
+				y:0.5
+			}
+		}
+		var config = { 
+			responsive: true,
+			displaylogo: false,
+			displayModeBar: false
+		}
+		Plotly.newPlot('pieChartDiv', data, layout, config);
+		var plotDiv = document.getElementById('pieChartDiv')
+		plotDiv.on('plotly_legendclick', function(data){  
+			return false;
+		});
+	};	
+	</script>
+</head><body><div class="container-fluid mt-5"><div class="row testPackData"><div class="col-sm-6"><div class="table-responsive" id="div-summaryTable" style="">
+<table cellpadding="0" cellspacing="0" class="table table-bordered header-table" id="summaryTable">
+<tbody>
+<tr class="row-padding summary-bgcolor">
+<th colspan="8">Summary</th>
+</tr>
+<tr class="row-padding">
+<th>Start Time</th><td>05 Jul 2024 20:58:52</td>
+</tr>
+<tr class="row-padding">
+<th>End Time</th><td>05 Jul 2024 22:28:03</td>
+</tr>
+<tr class="row-padding">
+<th>Total Execution Time</th><td>01:29:11</td>
+</tr>
+<tr class="row-padding">
+<th>Total Test Scripts</th><td><span class="bg-status bg-secondary">70</span></td>
+</tr>
+<tr class="row-padding">
+<th>Passed Test Scripts</th><td><span class="bg-status bg-success">68</span></td>
+</tr>
+<tr class="row-padding">
+<th>Failed Test Scripts</th><td><span class="bg-status bg-danger">2</span></td>
+</tr>
+<tr class="row-padding">
+<th>Not Executed</th><td><span class="bg-status bg-warning">0</span></td>
+</tr>
+<tr class="row-padding">
+<th>Verify Manually</th><td><span class="bg-status bg-verifyM">0</span></td>
+</tr>
+</tbody>
+</table>
+</div></div><div class="col-sm-6"><div id="pieChartDiv"></div></div></div></div></body></html>

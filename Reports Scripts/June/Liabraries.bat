@@ -1,0 +1,16 @@
+pip install os-sys
+pip install beautifulsoup4
+pip install pandas
+pip install openpyxl
+pip install pyautogui
+pip install lxml
+pip install xlsxwriter
+pip install pillow
+pip install pyperclip
+pip install pyppeteer
+pip install selenium
+pip install pandas
+pip install openpyxl
+pip install lxml
+pip install xlsxwriter
+pip install pyarrow
