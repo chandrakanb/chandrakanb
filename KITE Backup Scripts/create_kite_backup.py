@@ -50,10 +50,11 @@ def check_and_create_folder_with_date(Backup_Folder):
     
     # Get the day and its ordinal suffix
     day = current_date.day
+    int_day = int(day)
     suffix = get_ordinal_suffix(day)
     
     # Format the date as "ddth_Month_yyyy"
-    date_folder_name = current_date.strftime(f"%d{suffix}_%B_%Y")
+    date_folder_name = current_date.strftime(f"{int_day}{suffix}_%B_%Y")
     
     # Construct the full path of the folder
     folder_path = os.path.join(Backup_Folder, date_folder_name)
