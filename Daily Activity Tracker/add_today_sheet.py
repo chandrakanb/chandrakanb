@@ -46,7 +46,7 @@ def get_date_suffix(date):
 
 if __name__ == "__main__":
     # Define the Excel file name and path
-    excel_file_name = "Daily_Activity_Tracker_August.xlsx"
+    excel_file_name = "Daily_Activity_Tracker_September.xlsx"
     excel_file_path = os.path.abspath(excel_file_name)
     
     # Name of the sheet to copy
