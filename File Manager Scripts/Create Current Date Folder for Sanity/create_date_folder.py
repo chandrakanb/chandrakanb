@@ -19,6 +19,7 @@ def create_date_folder(base_path):
     formatted_date = f"{day}{suffix}_{today.strftime('%B')}_{today.year}"
 
     # Create the folder path
+    global folder_path
     folder_path = os.path.join(base_path, formatted_date)
 
     # Create the folder
@@ -27,5 +28,9 @@ def create_date_folder(base_path):
     print(f"Folder created at: {folder_path}")
 
 # Example Usage
-base_path = r"D:\GIT_DATA\GIT_Sanity\build\Bench09"  # Specify the base path where you want to create the folder
+base_path = r"D:\GIT_DATA\Overnight_Sanity_Checklist\build\Bench09"  # Specify the base path where you want to create the folder
 create_date_folder(base_path)
+
+# Open the path in File Explorer
+os.startfile(folder_path)
+
