@@ -1,2 +1,4 @@
 [credential]
-	helper = manager-core
+	helper = manager
+[http]
+	sslVerify = false
