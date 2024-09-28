@@ -2,6 +2,7 @@ import os
 from datetime import datetime
 import openpyxl
 from openpyxl import load_workbook
+import time
 
 def copy_sheet_with_date(sheet_name_to_copy, excel_file_path):
     # Load the existing workbook
@@ -54,3 +55,9 @@ if __name__ == "__main__":
     
     # Call the function to copy the sheet with the new date-based name
     copy_sheet_with_date(sheet_name_to_copy, excel_file_name)
+    
+    #Pause the program for 5 seconds
+    time.sleep(5)
+    
+    # Open the Excel file in the default Excel application
+    os.startfile(excel_file_path)
