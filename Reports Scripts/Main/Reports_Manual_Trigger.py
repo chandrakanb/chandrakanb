@@ -402,8 +402,8 @@ if __name__ == "__main__":
     apply_filter(sheet, "post", "C")
     update_column_B(sheet, "post", "Postcondition")
     sheet.auto_filter.ref = None
-    apply_filter(sheet, "auto", "C")
-    update_column_B(sheet, "auto", "Precondition")
+    apply_filter(sheet, "autof", "C")
+    update_column_B(sheet, "autof", "Precondition")
     sheet.auto_filter.ref = None
 
     # Save the updated workbook
