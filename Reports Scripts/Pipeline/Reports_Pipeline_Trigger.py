@@ -133,10 +133,10 @@ def copy_pdf_files(Execution_Path, reports_prefix, folder_path):
     shutil.copy(os.path.join(pdf_reports_dir, "DetailedReport.pdf"), os.path.join(folder_path, f"{reports_prefix}_DetailedReport.pdf"))
     print(f"{"_".join(reports_prefix.split("_")[-2:]).replace("_", " ")} PDF files copied successfully.")
 
-def take_screenshot(html_file_path, screenshot_path, crop_coordinates, driver_path, reports_prefix):
+def take_screenshot(html_file_path, screenshot_path, crop_coordinates, reports_prefix):
     """Take a screenshot of the specified HTML file and save it."""
     # Set up Edge options for headless mode
-    options = EdgeOptions()
+    options = Options()
     options.use_chromium = True
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
@@ -145,8 +145,8 @@ def take_screenshot(html_file_path, screenshot_path, crop_coordinates, driver_pa
     # Construct the file URL using 'file://' protocol
     file_url = 'file:///' + os.path.abspath(html_file_path).replace('\\', '/')
     
-    # Set up the Edge WebDriver with the specified driver path and options
-    driver = Edge(executable_path=driver_path, options=options)  # Point to msedgedriver.exe
+    # Set up the Edge WebDriver with headless options
+    driver = webdriver.Edge(options=options)
     
     # Open the HTML file in the headless browser
     driver.get(file_url)
@@ -381,10 +381,10 @@ if __name__ == "__main__":
     crop_coordinates = (115, 80, 1695, 425) # crop coordinates: (left, upper, right, lower)
 
     # Call Screenshot Function for Auto-Flashing
-    take_screenshot(overnight_execution_html_file_path, overnight_execution_screenshot_path, crop_coordinates, driver_path, execution_reports_prefix)
+    take_screenshot(overnight_execution_html_file_path, overnight_execution_screenshot_path, crop_coordinates, execution_reports_prefix)
 
     # Call Screenshot Function for Overnight Execution
-    take_screenshot(auto_flashing_html_file_path, auto_flashing_screenshot_path, crop_coordinates, driver_path, auto_flashing_reports_prefix)
+    take_screenshot(auto_flashing_html_file_path, auto_flashing_screenshot_path, crop_coordinates, auto_flashing_reports_prefix)
 
     #Define the border style and bold text
     thin_border = Border(left=Side(style='thin'), 
