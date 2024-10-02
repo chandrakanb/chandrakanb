@@ -378,7 +378,10 @@ if __name__ == "__main__":
     # Take Execution_Summary.png
     overnight_execution_screenshot_path = os.path.join(folder_path, f"{execution_reports_prefix}_Summary_Table_Pie_Chart.png")
     auto_flashing_screenshot_path = os.path.join(folder_path, f"{auto_flashing_reports_prefix}_Summary_Table_Pie_Chart.png")
-    crop_coordinates = (115, 80, 1695, 425) # crop coordinates: (left, upper, right, lower)
+    # Bench Crop Coordinates
+    crop_coordinates = (90, 63, 1365, 341) # crop coordinates: (left, upper, right, lower)
+    # Lappy Crop Coordinates
+    # crop_coordinates = (115, 80, 1695, 425) # crop coordinates: (left, upper, right, lower)
 
     # Call Screenshot Function for Auto-Flashing
     take_screenshot(overnight_execution_html_file_path, overnight_execution_screenshot_path, crop_coordinates, execution_reports_prefix)
