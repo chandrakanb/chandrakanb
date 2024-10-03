@@ -347,7 +347,7 @@ if __name__ == "__main__":
     # execution_abr = 
 
     # Provide the full path to msedgedriver.exe
-    driver_path = os.path.abspath(f"msedgedriver.exe")
+    # driver_path = os.path.abspath(f"msedgedriver.exe")
 
     # Get the execution date and month from the HTML report
     date, month, year = get_execution_date_month(overnight_execution_html_file_path)
