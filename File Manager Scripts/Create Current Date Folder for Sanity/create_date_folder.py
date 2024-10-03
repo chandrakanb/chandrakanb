@@ -28,7 +28,7 @@ def create_date_folder(base_path):
     print(f"Folder created at: {folder_path}")
 
 # Example Usage
-base_path = r"D:\GIT_DATA\Overnight_Sanity_Checklist\build\Bench09"  # Specify the base path where you want to create the folder
+base_path = r"D:\GIT_DATA\Overnight_Sanity_Checklist\Bench09"  # Specify the base path where you want to create the folder
 create_date_folder(base_path)
 
 # Open the path in File Explorer
