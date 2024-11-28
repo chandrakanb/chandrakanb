@@ -1,6 +1,6 @@
 # Ignore specific subfolder
 Random/
 Reports Scripts/Pipeline/reports/
-Random_working/Config_Git
-Teraterm_Flashing/FCP_Switching/teraterm
-Teraterm_Flashing/HW_Variant/teraterm
+Random_working/Config_Git/
+Teraterm_Flashing/FCP_Switching/teraterm/
+Teraterm_Flashing/HW_Variant/teraterm/
