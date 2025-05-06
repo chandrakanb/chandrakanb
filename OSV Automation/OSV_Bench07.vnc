@@ -1,5 +1,5 @@
 [connection]
-host=10.52.52.148
+host=LD-118
 port=5900
 password=f32e7604e3bb47d5
 [options]
@@ -19,6 +19,6 @@ preferred_encoding=7
 compresslevel=-1
 quality=6
 localcursor=1
-scale_den=1
-scale_num=1
+scale_den=4
+scale_num=3
 local_cursor_shape=1
