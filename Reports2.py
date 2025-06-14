@@ -476,7 +476,7 @@ if __name__ == "__main__":
     summary_sheet = workbook[summary_sheet_name]
     
     # Add headers to summary sheet
-    headers = ["Script Type", "Fail", "Pass", "Verify Manually", "Total"]
+    headers = ["Script Type", "Fail", "Pass", "VERIFYMANUALLY", "Total"]
     for col_num, header in enumerate(headers, 1):
         cell = summary_sheet.cell(row=1, column=col_num)
         cell.value = header
@@ -491,18 +491,18 @@ if __name__ == "__main__":
                                fill_value=0).reset_index()
 
     # Convert columns to numeric to avoid type errors
-    for col in ["Fail", "Pass", "Verify Manually"]:
+    for col in ["Fail", "Pass", "VERIFYMANUALLY"]:
         if col in pivot.columns:
             pivot[col] = pd.to_numeric(pivot[col], errors='coerce').fillna(0).astype(int)
         else:
             pivot[col] = 0
 
     # Compute Total first
-    pivot['Total'] = pivot[["Fail", "Pass", "Verify Manually"]].sum(axis=1)
+    pivot['Total'] = pivot[["Fail", "Pass", "VERIFYMANUALLY"]].sum(axis=1)
 
     # Track which status columns were removed
     non_total_rows = pivot[pivot["Script Type"] != "Total"]
-    status_columns = ["Pass", "Fail", "Verify Manually"]
+    status_columns = ["Pass", "Fail", "VERIFYMANUALLY"]
     removed_cols = []
 
     for col in status_columns:
