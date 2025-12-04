@@ -20,6 +20,46 @@ from openpyxl.styles import Font, Border, Side
 from openpyxl.worksheet.table import Table, TableStyleInfo
 import xml.etree.ElementTree as ET
 
+def get_build_number(execution_report_details):
+    html_file = os.path.join(execution_report_details['execution_report_path'], execution_report_details['html_file'])
+    df_summary = pd.read_html(html_file)
+    df_summary = df_summary[0]
+    df_summary = df_summary.filter(df_summary.columns[:2])
+    infile = open(html_file)
+    lines = infile.readlines()
+    FileLines = "".join(lines)
+    soup = BeautifulSoup(FileLines, 'html.parser')
+    reportframe_add = soup.find('div', attrs={'id':'reportframe'})
+    content_src = None
+    for content in reportframe_add.contents:
+        if isinstance(content, bs4.Tag):
+            content_src= content['src']
+            break
+    content_src = content_src.replace("../","")
+    content_src_paths = content_src.split("/")
+    curr_path = execution_report_details['execution_report_path']
+    curr_path = os.path.normpath(curr_path + os.sep + os.pardir) 
+    curr_path = os.path.join(curr_path,'XMLReport','Segments','XMLReportSegment_0.xml')
+    tree = ET.parse(curr_path)
+    root = tree.getroot()
+    for tcs_node in tree.iter("TestCases"):
+        for tc_node in tcs_node.iter("TestCase"):
+            if tc_id == "AutoFlashing_Status" :
+                for result_info in root.iter("resultInformation"):
+                    print(result_info)
+                    text = result_info.text
+                    if "Detected" in text:
+                        if "test-keys" in text:
+                            parts = text.split(" ")
+                            if len(parts) > 1:
+                                eight_part = parts[8].strip()
+                                build_number = eight_part.split()[0]
+                                print(build_number)
+                                import pyperclip
+                                pyperclip.copy(str(build_number))
+                                
+    return build_number
+
 def read_html_file(execution_report_details):
     html_file = os.path.join(execution_report_details['execution_report_path'], execution_report_details['html_file'])
     df_summary = pd.read_html(html_file)
@@ -54,19 +94,6 @@ def read_html_file(execution_report_details):
             end_time = tc_node.find("endTime").text
             maindict = {"Test ID": tc_id,"Test Objective":testCaseObjective,"Start Time":start_time,"Video Logger Link":video_logger_link,"Status":result,"Total Time":total_time,"End Time":end_time}
             mainlist.append(maindict)
-			if tc_id == "AutoFlashing_Status" :
-							for result_info in root.iter("resultInformation"):
-								print(result_info)
-								text = result_info.text
-								if "Detected" in text:
-									if "test-keys" in text:
-										parts = text.split(" ")
-										if len(parts) > 1:
-											eight_part = parts[8].strip()
-											build = eight_part.split()[0]
-											print(build)
-											import pyperclip
-											pyperclip.copy(str(build))
             
     df_detail_report = pd.DataFrame(mainlist)
     df_detail_report['file_path'] = curr_path
@@ -368,7 +395,10 @@ if __name__ == "__main__":
         Overnight_Execution_Path = Path(sys.argv[1])
         Auto_Flashing_Path = Path(sys.argv[2])
         bench = f"Bench{str(sys.argv[3])}"
-
+    
+    # Get Reports folder Path
+    reports_path = os.getcwd()
+    
     # Define html file locations
     overnight_execution_html_file_path = os.path.join(Overnight_Execution_Path, "MainDetailedReport.html")
     auto_flashing_html_file_path = os.path.join(Auto_Flashing_Path, "MainDetailedReport.html")
@@ -379,16 +409,25 @@ if __name__ == "__main__":
     
     # Get the execution date and month from the HTML report
     date, month, year = get_execution_date_month(overnight_execution_html_file_path)
-
+    
+    # Get Current Build Number
+    os.chdir(Overnight_Execution_Path)
+    for dir_tuple in os.walk(os.getcwd()):
+        if iterate_tuple(dir_tuple):
+            execution_report_details = iterate_tuple(dir_tuple)
+            try:
+                build = get_build_number(execution_report_details):
+            except ValueError:
+                print(execution_report_details)
+    
     # Construct folder_name
-    parameters = [bench, date, month, year, execution, code]
+    parameters = [bench, date, month, year, execution, build]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
     parameters_1 = [bench, date, month, year, auto_flashing]
     auto_flashing_reports_prefix = '_'.join(parameters_1).strip("_").replace(" ", "_")
     
     # Create folder
-    reports_path = os.getcwd()
     os.makedirs("reports", exist_ok=True)
     folder_path = os.path.join("reports", f"{folder_name}")
     create_folder(folder_path)
@@ -586,7 +625,7 @@ if __name__ == "__main__":
     print("Excel file copied and saved successfully.")
     
     # Construct message_string
-    message_string = f"{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for *{build}*:"
+    message_string = f"_{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ') for {build}}:_"
     message_string_1 = f"{execution.replace('_', ' ')} Result:"
     message_string_2 = f"{auto_flashing.replace('_', ' ')} Result:"
     
