@@ -44,17 +44,17 @@ def get_build_number(execution_report_details):
     root = tree.getroot()
     for tcs_node in tree.iter("TestCases"):
         for tc_node in tcs_node.iter("TestCase"):
+            tc_id = tc_node.find("testCaseID").text
             if tc_id == "AutoFlashing_Status" :
                 for result_info in root.iter("resultInformation"):
-                    print(result_info)
                     text = result_info.text
                     if "Detected" in text:
                         if "test-keys" in text:
                             parts = text.split(" ")
                             if len(parts) > 1:
                                 eight_part = parts[8].strip()
+                                global build_number
                                 build_number = eight_part.split()[0]
-                                print(build_number)
                                 import pyperclip
                                 pyperclip.copy(str(build_number))
                                 
@@ -416,18 +416,20 @@ if __name__ == "__main__":
         if iterate_tuple(dir_tuple):
             execution_report_details = iterate_tuple(dir_tuple)
             try:
-                build = get_build_number(execution_report_details):
+                build_number = get_build_number(execution_report_details)
             except ValueError:
                 print(execution_report_details)
     
     # Construct folder_name
-    parameters = [bench, date, month, year, execution, build]
+    # parameters = [bench, date, month, year, execution, build_number]
+    parameters = [bench, build_number, execution]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
-    parameters_1 = [bench, date, month, year, auto_flashing]
+    parameters_1 = [bench, date, month, year, auto_flashing, build_number]
     auto_flashing_reports_prefix = '_'.join(parameters_1).strip("_").replace(" ", "_")
     
     # Create folder
+    os.chdir(reports_path)
     os.makedirs("reports", exist_ok=True)
     folder_path = os.path.join("reports", f"{folder_name}")
     create_folder(folder_path)
@@ -625,7 +627,7 @@ if __name__ == "__main__":
     print("Excel file copied and saved successfully.")
     
     # Construct message_string
-    message_string = f"_{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ') for {build}}:_"
+    message_string = f"_{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:_"
     message_string_1 = f"{execution.replace('_', ' ')} Result:"
     message_string_2 = f"{auto_flashing.replace('_', ' ')} Result:"
     
