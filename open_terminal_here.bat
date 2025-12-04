@@ -1,3 +1,4 @@
-@echo off
-start cmd /k "%~dp0"
-exit
+::@echo off
+::start cmd /k "%~dp0"
+::exit
+@cmd

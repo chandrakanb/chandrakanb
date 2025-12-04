@@ -425,7 +425,7 @@ if __name__ == "__main__":
     parameters = [bench, build_number, execution]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
-    parameters_1 = [bench, date, month, year, auto_flashing, build_number]
+    parameters_1 = [bench, build_number, auto_flashing]
     auto_flashing_reports_prefix = '_'.join(parameters_1).strip("_").replace(" ", "_")
     
     # Create folder
