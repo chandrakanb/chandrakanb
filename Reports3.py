@@ -627,9 +627,9 @@ if __name__ == "__main__":
     print("Excel file copied and saved successfully.")
     
     # Construct message_string
-    message_string = f"_{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:_"
-    message_string_1 = f"{execution.replace('_', ' ')} Result:"
-    message_string_2 = f"{auto_flashing.replace('_', ' ')} Result:"
+    message_string = f"**{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:**"
+    message_string_1 = f"**{execution.replace('_', ' ')} Result:**"
+    message_string_2 = f"**{auto_flashing.replace('_', ' ')} Result:**"
     
     # Call the function to send message to Teams
     send_message_to_teams(teams_webhook_url, message_string, message_string_1, message_string_2, overnight_execution_screenshot_path, auto_flashing_screenshot_path)
