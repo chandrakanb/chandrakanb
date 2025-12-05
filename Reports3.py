@@ -627,7 +627,8 @@ if __name__ == "__main__":
     print("Excel file copied and saved successfully.")
     
     # Construct message_string
-    message_string = f"**{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:**"
+    # message_string = f"**{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:**"
+    message_string = f"**{execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:**"
     message_string_1 = f"**{execution.replace('_', ' ')} Result:**"
     message_string_2 = f"**{auto_flashing.replace('_', ' ')} Result:**"
     
