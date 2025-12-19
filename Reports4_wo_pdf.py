@@ -621,4 +621,4 @@ if __name__ == "__main__":
     # Create ZIP folder
     create_zip_folder(folder_path)
 
-    input("All tasks completed successfully...")
+    print("All tasks completed successfully...")
