@@ -407,7 +407,7 @@ if __name__ == "__main__":
     if build_number == "":
         parameters = [bench, date, month, year, execution]
     else:
-        parameters = [bench, build_number, execution]
+        parameters = [bench, date, month, year, execution, build_number]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
     
@@ -621,4 +621,4 @@ if __name__ == "__main__":
     # Create ZIP folder
     create_zip_folder(folder_path)
 
-    input("All tasks completed successfully...")
+    print("All tasks completed successfully...")

@@ -407,7 +407,7 @@ if __name__ == "__main__":
     if build_number == "":
         parameters = [bench, date, month, year, execution]
     else:
-        parameters = [bench, date, month, year, execution, build_number]
+        parameters = [bench, build_number, execution]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
     

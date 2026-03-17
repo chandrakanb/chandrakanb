@@ -407,7 +407,7 @@ if __name__ == "__main__":
     if build_number == "":
         parameters = [bench, date, month, year, execution]
     else:
-        parameters = [bench, build_number, execution]
+        parameters = [bench, date, month, year, execution, "A15", build_number]
     folder_name = '_'.join(parameters).strip("_").replace(" ", "_")
     execution_reports_prefix = '_'.join(parameters).strip("_").replace(" ", "_")
     
@@ -418,7 +418,7 @@ if __name__ == "__main__":
     create_folder(folder_path)
 
     # Copy pdf files for Overnight Execution
-    # copy_pdf_files(Overnight_Execution_Path, execution_reports_prefix, folder_path)
+    copy_pdf_files(Overnight_Execution_Path, execution_reports_prefix, folder_path)
 
     # Take Execution_Summary.png
     overnight_execution_screenshot_path = os.path.join(folder_path, f"{execution_reports_prefix}_Summary_Table_Pie_Chart.png")
@@ -609,7 +609,7 @@ if __name__ == "__main__":
     if build_number == "":
         message_string = f"**{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')}:**"
     else:
-        message_string = f"**{date} {month} {year}, {execution.replace('_', ' ')} Result of {bench.replace('_', ' ')} for {build_number}:**"
+        message_string = f"**{date} {month} {year}, A15 Internal Trigger Result of {bench.replace('_', ' ')} for {build_number}:**"
 
     # Call the function to send message to Teams
     send_message_to_teams(teams_webhook_url, message_string, overnight_execution_screenshot_path)
