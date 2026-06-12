@@ -1,0 +1,137 @@
+2026-03-26 20:15:03,682 | INFO | ⏳ Updating 'A15-3571: KPIT_TC_DRT_IPD_047'...
+2026-03-26 20:15:03,683 | INFO |   🔄 Updating fields for A15-3571: 'KPIT_TC_DRT_IPD_047...
+2026-03-26 20:15:03,684 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:03,685 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:03,686 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 20:15:03,687 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen. Hence further operations failed.
+2026-03-26 20:15:03,687 | INFO |     Fixation Performed : Restarted iPod device.
+2026-03-26 20:15:04,875 | INFO |   ✅ Updated fields for A15-3571: 'KPIT_TC_DRT_IPD_047.
+2026-03-26 20:15:04,876 | INFO |   🔄 Commenting on A15-3571: 'KPIT_TC_DRT_IPD_047...
+2026-03-26 20:15:04,877 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:04,878 | INFO |     Result : Fail
+2026-03-26 20:15:04,879 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:04,879 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:04,880 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen. Hence further operations failed.
+2026-03-26 20:15:04,880 | INFO |     Fixation Performed : Restarted iPod device.
+2026-03-26 20:15:04,881 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:15:04,881 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:05,800 | INFO |   ✅ Commented on A15-3571: 'KPIT_TC_DRT_IPD_047.
+
+2026-03-26 20:15:06,144 | INFO | ⏳ Updating 'A15-3570: KPIT_TC_DRT_LMG_009'...
+2026-03-26 20:15:06,145 | INFO |   🔄 Updating fields for A15-3570: 'KPIT_TC_DRT_LMG_009...
+2026-03-26 20:15:06,145 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 20:15:06,146 | INFO |     Failure Sub Category : Timing issue
+2026-03-26 20:15:06,147 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:06,148 | INFO |     Root Cause Details : After disconnecting wired android auto phone, phone got connected as BT device, Hence validation of link manager disconnected status failed.
+2026-03-26 20:15:06,148 | INFO |     Fixation Performed : NA
+2026-03-26 20:15:07,173 | INFO |   ✅ Updated fields for A15-3570: 'KPIT_TC_DRT_LMG_009.
+2026-03-26 20:15:07,174 | INFO |   🔄 Commenting on A15-3570: 'KPIT_TC_DRT_LMG_009...
+2026-03-26 20:15:07,175 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:07,176 | INFO |     Result : Fail
+2026-03-26 20:15:07,176 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 20:15:07,177 | INFO |     Failure Sub Category : Timing issue
+2026-03-26 20:15:07,177 | INFO |     Root Cause Details : After disconnecting wired android auto phone, phone got connected as BT device, Hence validation of link manager disconnected status failed.
+2026-03-26 20:15:07,178 | INFO |     Fixation Performed : NA
+2026-03-26 20:15:07,178 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:15:07,179 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:08,119 | INFO |   ✅ Commented on A15-3570: 'KPIT_TC_DRT_LMG_009.
+
+2026-03-26 20:15:08,895 | INFO | ⏳ Updating 'A15-3682: KPIT_TC_DRT_VEND_006'...
+2026-03-26 20:15:08,896 | INFO |   🔄 Updating fields for A15-3682: 'KPIT_TC_DRT_VEND_006...
+2026-03-26 20:15:08,896 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:08,897 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:08,897 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:08,898 | INFO |     Root Cause Details : Took more time to load NotificationPopup wording edit input box on Phone2, while sending one line vendor extension notification. Hence further operations failed.
+2026-03-26 20:15:08,899 | INFO |     Fixation Performed : NA
+2026-03-26 20:15:09,887 | INFO |   ✅ Updated fields for A15-3682: 'KPIT_TC_DRT_VEND_006.
+2026-03-26 20:15:09,888 | INFO |   🔄 Commenting on A15-3682: 'KPIT_TC_DRT_VEND_006...
+2026-03-26 20:15:09,888 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:09,889 | INFO |     Result : Fail
+2026-03-26 20:15:09,889 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:09,890 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:09,890 | INFO |     Root Cause Details : Took more time to load NotificationPopup wording edit input box on Phone2, while sending one line vendor extension notification. Hence further operations failed.
+2026-03-26 20:15:09,891 | INFO |     Fixation Performed : NA
+2026-03-26 20:15:09,892 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:15:09,893 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:10,477 | INFO |   ✅ Commented on A15-3682: 'KPIT_TC_DRT_VEND_006.
+
+2026-03-26 20:15:10,800 | INFO | ⏳ Updating 'A15-3572: KPIT_TC_DRT_VEND_115'...
+2026-03-26 20:15:10,801 | INFO |   🔄 Updating fields for A15-3572: 'KPIT_TC_DRT_VEND_115...
+2026-03-26 20:15:10,801 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:10,802 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:10,802 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:10,804 | INFO |     Root Cause Details : VE application not got connected with errror code 32 & 31, while Phone1 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 20:15:10,804 | INFO |     Fixation Performed : Restarted Phone2 and performed FDR on ICB.
+2026-03-26 20:15:12,160 | INFO |   ✅ Updated fields for A15-3572: 'KPIT_TC_DRT_VEND_115.
+2026-03-26 20:15:12,160 | INFO |   🔄 Commenting on A15-3572: 'KPIT_TC_DRT_VEND_115...
+2026-03-26 20:15:12,161 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:12,161 | INFO |     Result : Fail
+2026-03-26 20:15:12,162 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:12,163 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:12,163 | INFO |     Root Cause Details : VE application not got connected with errror code 32 & 31, while Phone1 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 20:15:12,164 | INFO |     Fixation Performed : Restarted Phone2 and performed FDR on ICB.
+2026-03-26 20:15:12,164 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:15:12,165 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:12,760 | INFO |   ✅ Commented on A15-3572: 'KPIT_TC_DRT_VEND_115.
+
+2026-03-26 20:15:13,450 | INFO | ⏳ Updating 'A15-3687: KPIT_TC_DRT_SPCAA_074'...
+2026-03-26 20:15:13,451 | INFO |   🔄 Updating fields for A15-3687: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-26 20:15:13,452 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:13,453 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:13,453 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:13,453 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is different from expected audio for beep validation.
+2026-03-26 20:15:13,454 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-26 20:15:14,578 | INFO |   ✅ Updated fields for A15-3687: 'KPIT_TC_DRT_SPCAA_074.
+2026-03-26 20:15:14,579 | INFO |   🔄 Commenting on A15-3687: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-26 20:15:14,580 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:14,581 | INFO |     Result : Fail
+2026-03-26 20:15:14,582 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:14,583 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:14,584 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is different from expected audio for beep validation.
+2026-03-26 20:15:14,584 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-26 20:15:14,586 | INFO |     Remarks : Executed in daytime, result: Pass.
+Unable to attach reports because reports were not generated due to Kite Bug: #3071142: KITE execution is getting stuck on RETURN_FUNCTION_BLOCK_PASS or RETURN_FUNCTION_BLOCK_FAIL.
+2026-03-26 20:15:14,587 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:15,701 | INFO |   ✅ Commented on A15-3687: 'KPIT_TC_DRT_SPCAA_074.
+
+2026-03-26 20:15:16,028 | INFO | ⏳ Updating 'A15-3688: KPIT_TC_DRT_SPCAA_075'...
+2026-03-26 20:15:16,029 | INFO |   🔄 Updating fields for A15-3688: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-26 20:15:16,029 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:16,030 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:16,031 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:16,032 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is different from expected audio for beep validation.
+2026-03-26 20:15:16,033 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-26 20:15:17,022 | INFO |   ✅ Updated fields for A15-3688: 'KPIT_TC_DRT_SPCAA_075.
+2026-03-26 20:15:17,023 | INFO |   🔄 Commenting on A15-3688: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-26 20:15:17,024 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:17,025 | INFO |     Result : Fail
+2026-03-26 20:15:17,025 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:17,026 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:15:17,027 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is different from expected audio for beep validation.
+2026-03-26 20:15:17,027 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-26 20:15:17,028 | INFO |     Remarks : Executed in daytime, result: Pass.
+Unable to attach reports because reports were not generated due to Kite Bug: #3071142: KITE execution is getting stuck on RETURN_FUNCTION_BLOCK_PASS or RETURN_FUNCTION_BLOCK_FAIL.
+2026-03-26 20:15:17,029 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:17,632 | INFO |   ✅ Commented on A15-3688: 'KPIT_TC_DRT_SPCAA_075.
+
+2026-03-26 20:15:17,944 | INFO | ⏳ Updating 'A15-3689: KPIT_TC_DRT_HFT_020'...
+2026-03-26 20:15:17,945 | INFO |   🔄 Updating fields for A15-3689: 'KPIT_TC_DRT_HFT_020...
+2026-03-26 20:15:17,945 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:17,946 | INFO |     Failure Sub Category : Network Issue
+2026-03-26 20:15:17,947 | INFO |     Previous Failure Category : []
+2026-03-26 20:15:17,948 | INFO |     Root Cause Details : Incoming call not received on ICB while Phone1 is connected via BT. Hence further operations failed.
+2026-03-26 20:15:17,949 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-26 20:15:19,305 | INFO |   ✅ Updated fields for A15-3689: 'KPIT_TC_DRT_HFT_020.
+2026-03-26 20:15:19,306 | INFO |   🔄 Commenting on A15-3689: 'KPIT_TC_DRT_HFT_020...
+2026-03-26 20:15:19,307 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:15:19,308 | INFO |     Result : Fail
+2026-03-26 20:15:19,308 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:15:19,309 | INFO |     Failure Sub Category : Network Issue
+2026-03-26 20:15:19,310 | INFO |     Root Cause Details : Incoming call not received on ICB while Phone1 is connected via BT. Hence further operations failed.
+2026-03-26 20:15:19,310 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-26 20:15:19,311 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:15:19,312 | INFO |     Reviewer : Rajashri
+2026-03-26 20:15:19,927 | INFO |   ✅ Commented on A15-3689: 'KPIT_TC_DRT_HFT_020.
+
+2026-03-26 20:15:19,928 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,18 @@
+2025-11-13 18:49:47,789 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-13 18:49:47,791 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 18:49:47,792 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 18:49:47,792 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 18:49:47,793 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 18:49:47,793 | INFO |     Fixation Performed : NA
+2025-11-13 18:49:47,794 | INFO |     Remarks : NA
+2025-11-13 18:49:47,794 | INFO |     Reviewer : Lumesh
+2025-11-13 18:49:47,795 | INFO |   ✅ Updated fields for DRT-2140: 'KPIT_TC_DRT_BTA_052.
+2025-11-13 18:49:47,806 | INFO |   🔄 Commenting on DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 18:49:47,807 | INFO |     Date AEA1413R0.251112.1 : 13th November 2025
+2025-11-13 18:49:47,807 | INFO |     Result : Fail
+2025-11-13 18:49:47,807 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 18:49:47,808 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 18:49:47,808 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 18:49:47,808 | INFO |     Fixation Performed : NA
+2025-11-13 18:49:48,383 | INFO |   ✅ Commented on DRT-2140: 'KPIT_TC_DRT_BTA_052.
+

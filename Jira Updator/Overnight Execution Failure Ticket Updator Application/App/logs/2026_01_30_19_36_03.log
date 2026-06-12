@@ -1,0 +1,183 @@
+2026-01-30 19:36:03 | 🚀 Jira Update Started.
+
+2026-01-30 19:36:04 | ⏳ Updating    		            : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-01-30 19:36:04 |   🔄 Updating fields          : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-01-30 19:36:04 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:04 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:04 |     Previous Failure Category : ['Test Env Issue']
+2026-01-30 19:36:04 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal validation failed. Received different CAN Signals than excpected.
+2026-01-30 19:36:04 |     Fixation Performed        : NA
+2026-01-30 19:36:06 |   ✅ Updated fields           : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-01-30 19:36:06 |   🔄 Commenting               : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-01-30 19:36:06 |     Date                      : 2026-01-30
+2026-01-30 19:36:06 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:06 |     Result                    : Fail
+2026-01-30 19:36:06 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:06 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:06 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal validation failed. Received different CAN Signals than excpected.
+2026-01-30 19:36:06 |     Fixation Performed        : NA
+2026-01-30 19:36:06 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:06 |     Reviewer                  : Rajashri
+2026-01-30 19:36:07 |   🔄 Commented                : DRT-3867 ('KPIT_TC_DRT_MET_048') | Comment ID: 150791
+
+2026-01-30 19:36:07 | ⏳ Updating    		            : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-30 19:36:07 |   🔄 Updating fields          : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-30 19:36:07 |     Failure Category          : KITE Issue
+2026-01-30 19:36:07 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:07 |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issue']
+2026-01-30 19:36:07 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-01-30 19:36:08 |     Fixation Performed        : NA
+2026-01-30 19:36:08 |   ✅ Updated fields           : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-30 19:36:08 |   🔄 Commenting               : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-30 19:36:09 |     Date                      : 2026-01-30
+2026-01-30 19:36:09 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:09 |     Result                    : Fail
+2026-01-30 19:36:09 |     Failure Category          : KITE Issue
+2026-01-30 19:36:09 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:09 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-01-30 19:36:09 |     Fixation Performed        : NA
+2026-01-30 19:36:09 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:09 |     Reviewer                  : Rajashri
+2026-01-30 19:36:10 |   🔄 Commented                : DRT-5981 ('KPIT_TC_DRT_MET_098') | Comment ID: 150792
+
+2026-01-30 19:36:10 | ⏳ Updating    		            : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-01-30 19:36:10 |   🔄 Updating fields          : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-01-30 19:36:10 |     Failure Category          : KITE Issue
+2026-01-30 19:36:11 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:11 |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issue']
+2026-01-30 19:36:11 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-01-30 19:36:11 |     Fixation Performed        : NA
+2026-01-30 19:36:12 |   ✅ Updated fields           : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-01-30 19:36:12 |   🔄 Commenting               : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-01-30 19:36:12 |     Date                      : 2026-01-30
+2026-01-30 19:36:12 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:12 |     Result                    : Fail
+2026-01-30 19:36:12 |     Failure Category          : KITE Issue
+2026-01-30 19:36:12 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:12 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-01-30 19:36:12 |     Fixation Performed        : NA
+2026-01-30 19:36:12 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:12 |     Reviewer                  : Rajashri
+2026-01-30 19:36:13 |   🔄 Commented                : DRT-2023 ('KPIT_TC_DRT_MET_014') | Comment ID: 150793
+
+2026-01-30 19:36:14 | ⏳ Updating    		            : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-01-30 19:36:14 |   🔄 Updating fields          : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-01-30 19:36:14 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:14 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:36:14 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:36:14 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-01-30 19:36:14 |     Fixation Performed        : NA
+2026-01-30 19:36:15 |   ✅ Updated fields           : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-01-30 19:36:17 |   🔄 Commenting               : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-01-30 19:36:17 |     Date                      : 2026-01-30
+2026-01-30 19:36:17 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:17 |     Result                    : Fail
+2026-01-30 19:36:18 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:18 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:36:18 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-01-30 19:36:18 |     Fixation Performed        : NA
+2026-01-30 19:36:18 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:18 |     Reviewer                  : Rajashri
+2026-01-30 19:36:18 |   🔄 Commented                : DRT-4474 ('KPIT_TC_DRT_MET_060') | Comment ID: 150794
+
+2026-01-30 19:36:19 | ⏳ Updating    		            : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-30 19:36:19 |   🔄 Updating fields          : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-30 19:36:19 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:19 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:19 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:36:19 |     Root Cause Details        : CAN Signals not reflected on ICB.
+2026-01-30 19:36:19 |     Fixation Performed        : NA
+2026-01-30 19:36:20 |   ✅ Updated fields           : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-30 19:36:20 |   🔄 Commenting               : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-30 19:36:20 |     Date                      : 2026-01-30
+2026-01-30 19:36:20 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:20 |     Result                    : Fail
+2026-01-30 19:36:20 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:20 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:20 |     Root Cause Details        : CAN Signals not reflected on ICB.
+2026-01-30 19:36:20 |     Fixation Performed        : NA
+2026-01-30 19:36:20 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:20 |     Reviewer                  : Rajashri
+2026-01-30 19:36:21 |   🔄 Commented                : DRT-5780 ('KPIT_TC_DRT_VEH_021') | Comment ID: 150795
+
+2026-01-30 19:36:21 | ⏳ Updating    		            : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-30 19:36:21 |   🔄 Updating fields          : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-30 19:36:21 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:21 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:21 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:36:21 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:21 |     Fixation Performed        : NA
+2026-01-30 19:36:23 |   ✅ Updated fields           : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-30 19:36:23 |   🔄 Commenting               : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-30 19:36:23 |     Date                      : 2026-01-30
+2026-01-30 19:36:23 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:23 |     Result                    : Fail
+2026-01-30 19:36:23 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:23 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:23 |     Fixation Performed        : NA
+2026-01-30 19:36:23 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:23 |     Reviewer                  : Rajashri
+2026-01-30 19:36:24 |   🔄 Commented                : DRT-1735 ('KPIT_TC_DRT_HAC_043') | Comment ID: 150796
+
+2026-01-30 19:36:24 | ⏳ Updating    		            : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-01-30 19:36:24 |   🔄 Updating fields          : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-01-30 19:36:24 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:25 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:25 |     Previous Failure Category : ['Test Env Issue']
+2026-01-30 19:36:25 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:25 |     Fixation Performed        : NA
+2026-01-30 19:36:25 |   ✅ Updated fields           : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-01-30 19:36:25 |   🔄 Commenting               : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-01-30 19:36:25 |     Date                      : 2026-01-30
+2026-01-30 19:36:26 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:26 |     Result                    : Fail
+2026-01-30 19:36:26 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:26 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:26 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:26 |     Fixation Performed        : NA
+2026-01-30 19:36:26 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:26 |     Reviewer                  : Rajashri
+2026-01-30 19:36:27 |   🔄 Commented                : DRT-5014 ('KPIT_TC_DRT_SRW_003') | Comment ID: 150797
+
+2026-01-30 19:36:27 | ⏳ Updating    		            : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-30 19:36:27 |   🔄 Updating fields          : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-30 19:36:27 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:27 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:27 |     Previous Failure Category : ['Test Env Issue']
+2026-01-30 19:36:27 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:27 |     Fixation Performed        : NA
+2026-01-30 19:36:29 |   ✅ Updated fields           : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-30 19:36:29 |   🔄 Commenting               : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-30 19:36:29 |     Date                      : 2026-01-30
+2026-01-30 19:36:29 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:29 |     Result                    : Fail
+2026-01-30 19:36:29 |     Failure Category          : Test Env Issue
+2026-01-30 19:36:29 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:36:29 |     Root Cause Details        : Alexa Sign-In failed.
+2026-01-30 19:36:29 |     Fixation Performed        : NA
+2026-01-30 19:36:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:29 |     Reviewer                  : Rajashri
+2026-01-30 19:36:30 |   🔄 Commented                : DRT-5013 ('KPIT_TC_DRT_SRW_018') | Comment ID: 150798
+
+2026-01-30 19:36:30 | ⏳ Updating    		            : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-30 19:36:30 |   🔄 Updating fields          : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-30 19:36:30 |     Failure Category          : KITE Issue
+2026-01-30 19:36:30 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:30 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:36:30 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-01-30 19:36:30 |     Fixation Performed        : NA
+2026-01-30 19:36:31 |   ✅ Updated fields           : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-30 19:36:31 |   🔄 Commenting               : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-30 19:36:31 |     Date                      : 2026-01-30
+2026-01-30 19:36:31 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:36:31 |     Result                    : Fail
+2026-01-30 19:36:31 |     Failure Category          : KITE Issue
+2026-01-30 19:36:31 |     Failure Sub Category      : Image Comparision
+2026-01-30 19:36:31 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-01-30 19:36:31 |     Fixation Performed        : NA
+2026-01-30 19:36:31 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:36:31 |     Reviewer                  : Rajashri
+2026-01-30 19:36:32 |   🔄 Commented                : DRT-5781 ('KPIT_TC_DRT_VEH_027') | Comment ID: 150799
+
+2026-01-30 19:36:32 | ✅ Jira Update Completed.

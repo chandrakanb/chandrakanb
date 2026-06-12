@@ -1,0 +1,133 @@
+2026-02-26 17:41:38 | 🚀 Jira Update Started.
+
+2026-02-26 17:41:38 | ⏳ Updating    		            : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-02-26 17:41:38 |   🔄 Updating fields          : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-02-26 17:41:40 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:40 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:40 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-26 17:41:40 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:40 |     Fixation Performed        : NA
+2026-02-26 17:41:41 |   ✅ Updated fields           : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-02-26 17:41:41 |   🔄 Commenting               : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-02-26 17:41:41 |     Date                      : 2026-02-25
+2026-02-26 17:41:41 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:41 |     Result                    : Fail
+2026-02-26 17:41:41 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:41 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:41 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:41 |     Fixation Performed        : NA
+2026-02-26 17:41:41 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-26 17:41:41 |     Reviewer                  : Rajashri
+2026-02-26 17:41:41 |   🔄 Commented                : DRT-3915 ('KPIT_TC_DRT_VEND_006') | Comment ID: 166426
+
+2026-02-26 17:41:42 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-26 17:41:42 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-26 17:41:42 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:42 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:42 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-26 17:41:42 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:42 |     Fixation Performed        : NA
+2026-02-26 17:41:43 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-26 17:41:43 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-26 17:41:43 |     Date                      : 2026-02-25
+2026-02-26 17:41:43 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:43 |     Result                    : Fail
+2026-02-26 17:41:43 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:43 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:43 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:43 |     Fixation Performed        : NA
+2026-02-26 17:41:43 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-26 17:41:43 |     Reviewer                  : Rajashri
+2026-02-26 17:41:43 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 166427
+
+2026-02-26 17:41:44 | ⏳ Updating    		            : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-02-26 17:41:44 |   🔄 Updating fields          : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-02-26 17:41:44 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:44 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:44 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-26 17:41:44 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:44 |     Fixation Performed        : NA
+2026-02-26 17:41:45 |   ✅ Updated fields           : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-02-26 17:41:45 |   🔄 Commenting               : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-02-26 17:41:45 |     Date                      : 2026-02-25
+2026-02-26 17:41:45 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:45 |     Result                    : Fail
+2026-02-26 17:41:45 |     Failure Category          : Test Env Issue
+2026-02-26 17:41:45 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-26 17:41:45 |     Root Cause Details        : Wired Android Auto Connection failed, Due to Scanning popup remaining for more time while pairing BT.
+2026-02-26 17:41:45 |     Fixation Performed        : NA
+2026-02-26 17:41:45 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-26 17:41:45 |     Reviewer                  : Rajashri
+2026-02-26 17:41:45 |   🔄 Commented                : DRT-1880 ('KPIT_TC_DRT_BZA_013') | Comment ID: 166428
+
+2026-02-26 17:41:46 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-26 17:41:46 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-26 17:41:46 |     Failure Category          : ICB Issue (Always)
+2026-02-26 17:41:46 |     Failure Sub Category      : Valid Issue
+2026-02-26 17:41:46 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-02-26 17:41:46 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-26 17:41:46 |     Fixation Performed        : NA
+2026-02-26 17:41:47 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-26 17:41:47 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-26 17:41:47 |     Date                      : 2026-02-25
+2026-02-26 17:41:47 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:47 |     Result                    : Fail
+2026-02-26 17:41:47 |     Failure Category          : ICB Issue (Always)
+2026-02-26 17:41:47 |     Failure Sub Category      : Valid Issue
+2026-02-26 17:41:47 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-26 17:41:47 |     Fixation Performed        : NA
+2026-02-26 17:41:47 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-26 17:41:47 |     Reviewer                  : Rajashri
+2026-02-26 17:41:48 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 166429
+
+2026-02-26 17:41:48 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-26 17:41:48 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-26 17:41:48 |     Failure Category          : ICB Issue (Always)
+2026-02-26 17:41:48 |     Failure Sub Category      : Valid Issue
+2026-02-26 17:41:48 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-02-26 17:41:48 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-26 17:41:48 |     Fixation Performed        : NA
+2026-02-26 17:41:49 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-26 17:41:49 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-26 17:41:49 |     Date                      : 2026-02-25
+2026-02-26 17:41:49 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:49 |     Result                    : Fail
+2026-02-26 17:41:49 |     Failure Category          : ICB Issue (Always)
+2026-02-26 17:41:49 |     Failure Sub Category      : Valid Issue
+2026-02-26 17:41:49 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-26 17:41:49 |     Fixation Performed        : NA
+2026-02-26 17:41:49 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-26 17:41:49 |     Reviewer                  : Rajashri
+2026-02-26 17:41:50 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 166430
+
+2026-02-26 17:41:50 | ⏳ Updating    		            : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-26 17:41:50 |   🔄 Commenting               : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-26 17:41:50 |     Date                      : 2026-02-25
+2026-02-26 17:41:50 |     Result                    : Pass
+2026-02-26 17:41:50 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:51 |   🔄 Commented                : DRT-2132 ('KPIT_TC_DRT_BZA_015') | Comment ID: 166431
+
+2026-02-26 17:41:51 | ⏳ Updating    		            : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-26 17:41:51 |   🔄 Commenting               : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-26 17:41:51 |     Date                      : 2026-02-25
+2026-02-26 17:41:51 |     Result                    : Pass
+2026-02-26 17:41:51 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:52 |   🔄 Commented                : DRT-2127 ('KPIT_TC_DRT_BZA_005') | Comment ID: 166432
+
+2026-02-26 17:41:52 | ⏳ Updating    		            : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-26 17:41:52 |   🔄 Commenting               : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-26 17:41:52 |     Date                      : 2026-02-25
+2026-02-26 17:41:52 |     Result                    : Pass
+2026-02-26 17:41:52 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:53 |   🔄 Commented                : DRT-2122 ('KPIT_TC_DRT_VEND_092') | Comment ID: 166433
+
+2026-02-26 17:41:53 | ⏳ Updating    		            : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-26 17:41:53 |   🔄 Commenting               : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-26 17:41:53 |     Date                      : 2026-02-25
+2026-02-26 17:41:53 |     Result                    : Pass
+2026-02-26 17:41:53 |     Build Number              : AEA1417D0.260225.1
+2026-02-26 17:41:54 |   🔄 Commented                : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 166434
+
+2026-02-26 17:41:54 | ✅ Jira Update Completed.

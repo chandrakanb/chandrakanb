@@ -1,0 +1,116 @@
+2025-12-23 17:54:04,720 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-23 17:54:04,721 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-23 17:54:04,721 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:54:04,721 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 17:54:04,722 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:04,722 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2025-12-23 17:54:04,722 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:04,722 | INFO |     Remarks : NA
+2025-12-23 17:54:04,728 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:06,079 | INFO |   ✅ Updated fields for DRT-1809: 'KPIT_TC_DRT_LMG_021.
+2025-12-23 17:54:06,080 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-23 17:54:06,080 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:06,081 | INFO |     Result : Fail
+2025-12-23 17:54:06,081 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:54:06,082 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 17:54:06,082 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2025-12-23 17:54:06,083 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:07,006 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-23 17:54:07,718 | INFO | ⏳ Updating 'DRT-4715: KPIT_TC_DRT_LMG_009'...
+2025-12-23 17:54:07,718 | INFO |   🔄 Updating fields for DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-23 17:54:07,719 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:07,719 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:07,720 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:07,721 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:07,721 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:07,722 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:54:07,722 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:09,048 | INFO |   ✅ Updated fields for DRT-4715: 'KPIT_TC_DRT_LMG_009.
+2025-12-23 17:54:09,049 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-23 17:54:09,051 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:09,052 | INFO |     Result : Fail
+2025-12-23 17:54:09,053 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:09,054 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:09,054 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:09,056 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:09,964 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-23 17:54:10,662 | INFO | ⏳ Updating 'DRT-2305: KPIT_TC_DRT_VEND_092'...
+2025-12-23 17:54:10,662 | INFO |   🔄 Updating fields for DRT-2305: 'KPIT_TC_DRT_VEND_092...
+2025-12-23 17:54:10,663 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:10,663 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:10,663 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:10,663 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:10,664 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:10,664 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:54:10,664 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:12,270 | INFO |   ✅ Updated fields for DRT-2305: 'KPIT_TC_DRT_VEND_092.
+2025-12-23 17:54:12,270 | INFO |   🔄 Commenting on DRT-2305: 'KPIT_TC_DRT_VEND_092...
+2025-12-23 17:54:12,271 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:12,272 | INFO |     Result : Fail
+2025-12-23 17:54:12,272 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:12,273 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:12,273 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:12,274 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:12,793 | INFO |   ✅ Commented on DRT-2305: 'KPIT_TC_DRT_VEND_092.
+
+2025-12-23 17:54:13,113 | INFO | ⏳ Updating 'DRT-2304: KPIT_TC_FNC_VEND_0063_0001'...
+2025-12-23 17:54:13,114 | INFO |   🔄 Updating fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-23 17:54:13,115 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:13,115 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:13,116 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:13,116 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:13,117 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:13,117 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:54:13,118 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:14,478 | INFO |   ✅ Updated fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-12-23 17:54:14,479 | INFO |   🔄 Commenting on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-23 17:54:14,480 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:14,480 | INFO |     Result : Fail
+2025-12-23 17:54:14,481 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:14,481 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:14,482 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:14,482 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:14,955 | INFO |   ✅ Commented on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-12-23 17:54:15,253 | INFO | ⏳ Updating 'DRT-2308: KPIT_TC_DRT_BZA_005'...
+2025-12-23 17:54:15,254 | INFO |   🔄 Updating fields for DRT-2308: 'KPIT_TC_DRT_BZA_005...
+2025-12-23 17:54:15,254 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:15,255 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:15,255 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:15,256 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:15,256 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:15,256 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:54:15,257 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:16,542 | INFO |   ✅ Updated fields for DRT-2308: 'KPIT_TC_DRT_BZA_005.
+2025-12-23 17:54:16,544 | INFO |   🔄 Commenting on DRT-2308: 'KPIT_TC_DRT_BZA_005...
+2025-12-23 17:54:16,545 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:16,546 | INFO |     Result : Fail
+2025-12-23 17:54:16,547 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:16,547 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:16,548 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:16,549 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:17,390 | INFO |   ✅ Commented on DRT-2308: 'KPIT_TC_DRT_BZA_005.
+
+2025-12-23 17:54:17,679 | INFO | ⏳ Updating 'DRT-2309: KPIT_TC_DRT_BZA_015'...
+2025-12-23 17:54:17,679 | INFO |   🔄 Updating fields for DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-23 17:54:17,680 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:17,680 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:17,681 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2025-12-23 17:54:17,681 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:17,681 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:17,681 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:54:17,682 | INFO |     Reviewer : Rajashri
+2025-12-23 17:54:18,508 | INFO |   ✅ Updated fields for DRT-2309: 'KPIT_TC_DRT_BZA_015.
+2025-12-23 17:54:18,509 | INFO |   🔄 Commenting on DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-23 17:54:18,509 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:54:18,509 | INFO |     Result : Fail
+2025-12-23 17:54:18,509 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:54:18,510 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:54:18,510 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:54:18,510 | INFO |     Fixation Performed : NA
+2025-12-23 17:54:19,396 | INFO |   ✅ Commented on DRT-2309: 'KPIT_TC_DRT_BZA_015.
+
+2025-12-23 17:54:19,396 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

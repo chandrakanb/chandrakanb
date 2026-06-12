@@ -1,0 +1,40 @@
+2026-03-19 02:36:28,716 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 02:36:28,717 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 02:36:28,717 | INFO |     Failure Category : ICB issue
+2026-03-19 02:36:28,718 | INFO |     Failure Sub Category : Once seen
+2026-03-19 02:36:28,719 | INFO |     Previous Failure Category : ['KITE Issue', 'Human Error', 'SRL/CR Changes']
+2026-03-19 02:36:28,721 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:36:28,721 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:36:29,996 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 02:36:29,997 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 02:36:30,008 | INFO |     Date Build : Date
+2026-03-19 02:36:30,009 | INFO |     Result : Fail
+2026-03-19 02:36:30,010 | INFO |     Failure Category : ICB issue
+2026-03-19 02:36:30,011 | INFO |     Failure Sub Category : Once seen
+2026-03-19 02:36:30,011 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:36:30,012 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:36:30,013 | INFO |     Remarks : Remarks
+2026-03-19 02:36:30,014 | INFO |     Reviewer : Reviewer
+2026-03-19 02:36:30,538 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 02:36:31,192 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 02:36:31,192 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 02:36:31,193 | INFO |     Failure Category : ICB issue
+2026-03-19 02:36:31,194 | INFO |     Failure Sub Category : Always
+2026-03-19 02:36:31,194 | INFO |     Previous Failure Category : ['KITE Issue', 'Human Error', 'SRL/CR Changes']
+2026-03-19 02:36:31,195 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:36:31,195 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:36:32,530 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 02:36:32,531 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 02:36:32,532 | INFO |     Date Build : Date
+2026-03-19 02:36:32,532 | INFO |     Result : Fail
+2026-03-19 02:36:32,533 | INFO |     Failure Category : ICB issue
+2026-03-19 02:36:32,534 | INFO |     Failure Sub Category : Always
+2026-03-19 02:36:32,534 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:36:32,535 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:36:32,536 | INFO |     Remarks : Remarks
+2026-03-19 02:36:32,536 | INFO |     Reviewer : Reviewer
+2026-03-19 02:36:33,396 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 02:36:33,397 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

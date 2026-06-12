@@ -1,0 +1,352 @@
+2025-05-22 20:10:53,167 | INFO | ⏳ Updating 'OSV-2462: KPIT_TC_DRT_LNG_003'...
+2025-05-22 20:10:53,168 | INFO |   🔄 Updating fields for OSV-2462: 'KPIT_TC_DRT_LNG_003...
+2025-05-22 20:10:53,169 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:53,170 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:53,171 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:53,171 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:10:54,226 | INFO |   ✅ Updated fields for OSV-2462: 'KPIT_TC_DRT_LNG_003.
+2025-05-22 20:10:54,227 | INFO |   🔄 Commenting on OSV-2462: 'KPIT_TC_DRT_LNG_003...
+2025-05-22 20:10:54,239 | INFO |     Date : 20th May 2025
+2025-05-22 20:10:54,239 | INFO |     Result : Fail
+2025-05-22 20:10:54,240 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:54,242 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:54,242 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:54,243 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:10:55,290 | INFO |   ✅ Commented on OSV-2462: 'KPIT_TC_DRT_LNG_003.
+
+2025-05-22 20:10:55,675 | INFO | ⏳ Updating 'OSV-2461: KPIT_TC_DRT_BT_002'...
+2025-05-22 20:10:55,675 | INFO |   🔄 Updating fields for OSV-2461: 'KPIT_TC_DRT_BT_002...
+2025-05-22 20:10:55,676 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:55,677 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:55,677 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:55,678 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:10:56,643 | INFO |   ✅ Updated fields for OSV-2461: 'KPIT_TC_DRT_BT_002.
+2025-05-22 20:10:56,644 | INFO |   🔄 Commenting on OSV-2461: 'KPIT_TC_DRT_BT_002...
+2025-05-22 20:10:56,645 | INFO |     Date : 20th May 2025
+2025-05-22 20:10:56,645 | INFO |     Result : Fail
+2025-05-22 20:10:56,645 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:56,646 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:56,646 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:56,647 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:10:57,679 | INFO |   ✅ Commented on OSV-2461: 'KPIT_TC_DRT_BT_002.
+
+2025-05-22 20:10:58,035 | INFO | ⏳ Updating 'OSV-2460: KPIT_TC_DRT_SND_009'...
+2025-05-22 20:10:58,036 | INFO |   🔄 Updating fields for OSV-2460: 'KPIT_TC_DRT_SND_009...
+2025-05-22 20:10:58,037 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:58,038 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:58,038 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:58,039 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:10:59,497 | INFO |   ✅ Updated fields for OSV-2460: 'KPIT_TC_DRT_SND_009.
+2025-05-22 20:10:59,498 | INFO |   🔄 Commenting on OSV-2460: 'KPIT_TC_DRT_SND_009...
+2025-05-22 20:10:59,499 | INFO |     Date : 20th May 2025
+2025-05-22 20:10:59,499 | INFO |     Result : Fail
+2025-05-22 20:10:59,500 | INFO |     Failure Category : KITE issue
+2025-05-22 20:10:59,500 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:10:59,500 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:10:59,501 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:00,508 | INFO |   ✅ Commented on OSV-2460: 'KPIT_TC_DRT_SND_009.
+
+2025-05-22 20:11:00,880 | INFO | ⏳ Updating 'OSV-2459: KPIT_TC_DRT_LMG_012'...
+2025-05-22 20:11:00,881 | INFO |   🔄 Updating fields for OSV-2459: 'KPIT_TC_DRT_LMG_012...
+2025-05-22 20:11:00,882 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:00,882 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:00,883 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:00,883 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:01,864 | INFO |   ✅ Updated fields for OSV-2459: 'KPIT_TC_DRT_LMG_012.
+2025-05-22 20:11:01,865 | INFO |   🔄 Commenting on OSV-2459: 'KPIT_TC_DRT_LMG_012...
+2025-05-22 20:11:01,866 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:01,867 | INFO |     Result : Fail
+2025-05-22 20:11:01,868 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:01,868 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:01,869 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:01,870 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:02,870 | INFO |   ✅ Commented on OSV-2459: 'KPIT_TC_DRT_LMG_012.
+
+2025-05-22 20:11:03,210 | INFO | ⏳ Updating 'OSV-2458: KPIT_TC_DRT_LMG_013'...
+2025-05-22 20:11:03,211 | INFO |   🔄 Updating fields for OSV-2458: 'KPIT_TC_DRT_LMG_013...
+2025-05-22 20:11:03,211 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:03,212 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:03,212 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:03,213 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:04,170 | INFO |   ✅ Updated fields for OSV-2458: 'KPIT_TC_DRT_LMG_013.
+2025-05-22 20:11:04,171 | INFO |   🔄 Commenting on OSV-2458: 'KPIT_TC_DRT_LMG_013...
+2025-05-22 20:11:04,172 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:04,172 | INFO |     Result : Fail
+2025-05-22 20:11:04,173 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:04,173 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:04,174 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:04,175 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:05,112 | INFO |   ✅ Commented on OSV-2458: 'KPIT_TC_DRT_LMG_013.
+
+2025-05-22 20:11:05,420 | INFO | ⏳ Updating 'OSV-2457: KPIT_TC_DRT_ACF_020'...
+2025-05-22 20:11:05,420 | INFO |   🔄 Updating fields for OSV-2457: 'KPIT_TC_DRT_ACF_020...
+2025-05-22 20:11:05,421 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:05,421 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:05,422 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:05,422 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:06,445 | INFO |   ✅ Updated fields for OSV-2457: 'KPIT_TC_DRT_ACF_020.
+2025-05-22 20:11:06,446 | INFO |   🔄 Commenting on OSV-2457: 'KPIT_TC_DRT_ACF_020...
+2025-05-22 20:11:06,447 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:06,448 | INFO |     Result : Fail
+2025-05-22 20:11:06,449 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:06,449 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:06,450 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:06,450 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:07,410 | INFO |   ✅ Commented on OSV-2457: 'KPIT_TC_DRT_ACF_020.
+
+2025-05-22 20:11:07,779 | INFO | ⏳ Updating 'OSV-2456: KPIT_TC_DRT_ILL_027'...
+2025-05-22 20:11:07,780 | INFO |   🔄 Updating fields for OSV-2456: 'KPIT_TC_DRT_ILL_027...
+2025-05-22 20:11:07,781 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:07,782 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:07,783 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:07,783 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:08,774 | INFO |   ✅ Updated fields for OSV-2456: 'KPIT_TC_DRT_ILL_027.
+2025-05-22 20:11:08,775 | INFO |   🔄 Commenting on OSV-2456: 'KPIT_TC_DRT_ILL_027...
+2025-05-22 20:11:08,776 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:08,777 | INFO |     Result : Fail
+2025-05-22 20:11:08,777 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:08,778 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:08,780 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:08,780 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:09,740 | INFO |   ✅ Commented on OSV-2456: 'KPIT_TC_DRT_ILL_027.
+
+2025-05-22 20:11:10,106 | INFO | ⏳ Updating 'OSV-2455: KPIT_TC_DRT_LMG_016'...
+2025-05-22 20:11:10,106 | INFO |   🔄 Updating fields for OSV-2455: 'KPIT_TC_DRT_LMG_016...
+2025-05-22 20:11:10,107 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:10,107 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:10,108 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:10,109 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:11,040 | INFO |   ✅ Updated fields for OSV-2455: 'KPIT_TC_DRT_LMG_016.
+2025-05-22 20:11:11,040 | INFO |   🔄 Commenting on OSV-2455: 'KPIT_TC_DRT_LMG_016...
+2025-05-22 20:11:11,041 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:11,042 | INFO |     Result : Fail
+2025-05-22 20:11:11,042 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:11,043 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:11,043 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:11,043 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:12,067 | INFO |   ✅ Commented on OSV-2455: 'KPIT_TC_DRT_LMG_016.
+
+2025-05-22 20:11:12,494 | INFO | ⏳ Updating 'OSV-2454: KPIT_TC_DRT_LMG_015'...
+2025-05-22 20:11:12,494 | INFO |   🔄 Updating fields for OSV-2454: 'KPIT_TC_DRT_LMG_015...
+2025-05-22 20:11:12,495 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:12,495 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:12,495 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:12,496 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:13,517 | INFO |   ✅ Updated fields for OSV-2454: 'KPIT_TC_DRT_LMG_015.
+2025-05-22 20:11:13,518 | INFO |   🔄 Commenting on OSV-2454: 'KPIT_TC_DRT_LMG_015...
+2025-05-22 20:11:13,518 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:13,518 | INFO |     Result : Fail
+2025-05-22 20:11:13,518 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:13,519 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:13,519 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:13,519 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:14,591 | INFO |   ✅ Commented on OSV-2454: 'KPIT_TC_DRT_LMG_015.
+
+2025-05-22 20:11:14,941 | INFO | ⏳ Updating 'OSV-2453: KPIT_TC_DRT_LMG_014'...
+2025-05-22 20:11:14,942 | INFO |   🔄 Updating fields for OSV-2453: 'KPIT_TC_DRT_LMG_014...
+2025-05-22 20:11:14,942 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:14,943 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:14,944 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:14,944 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:16,735 | INFO |   ✅ Updated fields for OSV-2453: 'KPIT_TC_DRT_LMG_014.
+2025-05-22 20:11:16,735 | INFO |   🔄 Commenting on OSV-2453: 'KPIT_TC_DRT_LMG_014...
+2025-05-22 20:11:16,736 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:16,736 | INFO |     Result : Fail
+2025-05-22 20:11:16,736 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:16,737 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:16,738 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:16,738 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:17,829 | INFO |   ✅ Commented on OSV-2453: 'KPIT_TC_DRT_LMG_014.
+
+2025-05-22 20:11:18,186 | INFO | ⏳ Updating 'OSV-2452: KPIT_TC_DRT_LMG_011'...
+2025-05-22 20:11:18,187 | INFO |   🔄 Updating fields for OSV-2452: 'KPIT_TC_DRT_LMG_011...
+2025-05-22 20:11:18,188 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:18,189 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:18,189 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:18,189 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:19,211 | INFO |   ✅ Updated fields for OSV-2452: 'KPIT_TC_DRT_LMG_011.
+2025-05-22 20:11:19,211 | INFO |   🔄 Commenting on OSV-2452: 'KPIT_TC_DRT_LMG_011...
+2025-05-22 20:11:19,212 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:19,213 | INFO |     Result : Fail
+2025-05-22 20:11:19,214 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:19,214 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:19,215 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:19,216 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:20,297 | INFO |   ✅ Commented on OSV-2452: 'KPIT_TC_DRT_LMG_011.
+
+2025-05-22 20:11:20,650 | INFO | ⏳ Updating 'OSV-2451: KPIT_TC_DRT_LMG_004'...
+2025-05-22 20:11:20,650 | INFO |   🔄 Updating fields for OSV-2451: 'KPIT_TC_DRT_LMG_004...
+2025-05-22 20:11:20,651 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:20,652 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:20,652 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:20,652 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:21,659 | INFO |   ✅ Updated fields for OSV-2451: 'KPIT_TC_DRT_LMG_004.
+2025-05-22 20:11:21,660 | INFO |   🔄 Commenting on OSV-2451: 'KPIT_TC_DRT_LMG_004...
+2025-05-22 20:11:21,660 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:21,661 | INFO |     Result : Fail
+2025-05-22 20:11:21,662 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:21,662 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:21,663 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:21,664 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:22,692 | INFO |   ✅ Commented on OSV-2451: 'KPIT_TC_DRT_LMG_004.
+
+2025-05-22 20:11:23,052 | INFO | ⏳ Updating 'OSV-2450: KPIT_TC_DRT_LMG_010'...
+2025-05-22 20:11:23,053 | INFO |   🔄 Updating fields for OSV-2450: 'KPIT_TC_DRT_LMG_010...
+2025-05-22 20:11:23,053 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:23,054 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:23,065 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:23,065 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:24,183 | INFO |   ✅ Updated fields for OSV-2450: 'KPIT_TC_DRT_LMG_010.
+2025-05-22 20:11:24,183 | INFO |   🔄 Commenting on OSV-2450: 'KPIT_TC_DRT_LMG_010...
+2025-05-22 20:11:24,184 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:24,185 | INFO |     Result : Fail
+2025-05-22 20:11:24,186 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:24,187 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:24,187 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:24,188 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:25,149 | INFO |   ✅ Commented on OSV-2450: 'KPIT_TC_DRT_LMG_010.
+
+2025-05-22 20:11:25,499 | INFO | ⏳ Updating 'OSV-2449: KPIT_TC_DRT_BT_033'...
+2025-05-22 20:11:25,499 | INFO |   🔄 Updating fields for OSV-2449: 'KPIT_TC_DRT_BT_033...
+2025-05-22 20:11:25,500 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:25,501 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:25,501 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:25,502 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:26,549 | INFO |   ✅ Updated fields for OSV-2449: 'KPIT_TC_DRT_BT_033.
+2025-05-22 20:11:26,550 | INFO |   🔄 Commenting on OSV-2449: 'KPIT_TC_DRT_BT_033...
+2025-05-22 20:11:26,550 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:26,551 | INFO |     Result : Fail
+2025-05-22 20:11:26,551 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:26,552 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:26,552 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:26,553 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:27,488 | INFO |   ✅ Commented on OSV-2449: 'KPIT_TC_DRT_BT_033.
+
+2025-05-22 20:11:27,872 | INFO | ⏳ Updating 'OSV-2448: KPIT_TC_DRT_WLC_014'...
+2025-05-22 20:11:27,873 | INFO |   🔄 Updating fields for OSV-2448: 'KPIT_TC_DRT_WLC_014...
+2025-05-22 20:11:27,873 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:27,874 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:27,874 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:27,875 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:29,073 | INFO |   ✅ Updated fields for OSV-2448: 'KPIT_TC_DRT_WLC_014.
+2025-05-22 20:11:29,074 | INFO |   🔄 Commenting on OSV-2448: 'KPIT_TC_DRT_WLC_014...
+2025-05-22 20:11:29,074 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:29,075 | INFO |     Result : Fail
+2025-05-22 20:11:29,076 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:29,076 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:29,077 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:29,077 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:29,730 | INFO |   ✅ Commented on OSV-2448: 'KPIT_TC_DRT_WLC_014.
+
+2025-05-22 20:11:30,095 | INFO | ⏳ Updating 'OSV-2447: KPIT_TC_DRT_BT_035'...
+2025-05-22 20:11:30,096 | INFO |   🔄 Updating fields for OSV-2447: 'KPIT_TC_DRT_BT_035...
+2025-05-22 20:11:30,097 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:30,097 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:30,098 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:30,099 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:31,089 | INFO |   ✅ Updated fields for OSV-2447: 'KPIT_TC_DRT_BT_035.
+2025-05-22 20:11:31,090 | INFO |   🔄 Commenting on OSV-2447: 'KPIT_TC_DRT_BT_035...
+2025-05-22 20:11:31,090 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:31,090 | INFO |     Result : Fail
+2025-05-22 20:11:31,092 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:31,092 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:31,093 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:31,094 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:32,169 | INFO |   ✅ Commented on OSV-2447: 'KPIT_TC_DRT_BT_035.
+
+2025-05-22 20:11:32,525 | INFO | ⏳ Updating 'OSV-2446: KPIT_TC_DRT_BT_034'...
+2025-05-22 20:11:32,526 | INFO |   🔄 Updating fields for OSV-2446: 'KPIT_TC_DRT_BT_034...
+2025-05-22 20:11:32,527 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:32,527 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:32,528 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:32,528 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:33,511 | INFO |   ✅ Updated fields for OSV-2446: 'KPIT_TC_DRT_BT_034.
+2025-05-22 20:11:33,512 | INFO |   🔄 Commenting on OSV-2446: 'KPIT_TC_DRT_BT_034...
+2025-05-22 20:11:33,512 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:33,513 | INFO |     Result : Fail
+2025-05-22 20:11:33,514 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:33,514 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:33,515 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:33,516 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:34,564 | INFO |   ✅ Commented on OSV-2446: 'KPIT_TC_DRT_BT_034.
+
+2025-05-22 20:11:34,890 | INFO | ⏳ Updating 'OSV-2445: KPIT_TC_DRT_LNG_014'...
+2025-05-22 20:11:34,890 | INFO |   🔄 Updating fields for OSV-2445: 'KPIT_TC_DRT_LNG_014...
+2025-05-22 20:11:34,891 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:34,891 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:34,892 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:34,892 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:35,903 | INFO |   ✅ Updated fields for OSV-2445: 'KPIT_TC_DRT_LNG_014.
+2025-05-22 20:11:35,904 | INFO |   🔄 Commenting on OSV-2445: 'KPIT_TC_DRT_LNG_014...
+2025-05-22 20:11:35,905 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:35,905 | INFO |     Result : Fail
+2025-05-22 20:11:35,906 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:35,906 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:35,906 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:35,906 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:36,886 | INFO |   ✅ Commented on OSV-2445: 'KPIT_TC_DRT_LNG_014.
+
+2025-05-22 20:11:37,201 | INFO | ⏳ Updating 'OSV-2444: KPIT_TC_DRT_ASUG_004'...
+2025-05-22 20:11:37,202 | INFO |   🔄 Updating fields for OSV-2444: 'KPIT_TC_DRT_ASUG_004...
+2025-05-22 20:11:37,203 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:37,204 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:37,204 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:37,206 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:38,197 | INFO |   ✅ Updated fields for OSV-2444: 'KPIT_TC_DRT_ASUG_004.
+2025-05-22 20:11:38,198 | INFO |   🔄 Commenting on OSV-2444: 'KPIT_TC_DRT_ASUG_004...
+2025-05-22 20:11:38,199 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:38,200 | INFO |     Result : Fail
+2025-05-22 20:11:38,201 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:38,201 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:38,202 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:38,202 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:39,233 | INFO |   ✅ Commented on OSV-2444: 'KPIT_TC_DRT_ASUG_004.
+
+2025-05-22 20:11:39,585 | INFO | ⏳ Updating 'OSV-2443: KPIT_TC_DRT_LMG_028'...
+2025-05-22 20:11:39,585 | INFO |   🔄 Updating fields for OSV-2443: 'KPIT_TC_DRT_LMG_028...
+2025-05-22 20:11:39,586 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:39,587 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:39,587 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:39,588 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:40,612 | INFO |   ✅ Updated fields for OSV-2443: 'KPIT_TC_DRT_LMG_028.
+2025-05-22 20:11:40,613 | INFO |   🔄 Commenting on OSV-2443: 'KPIT_TC_DRT_LMG_028...
+2025-05-22 20:11:40,614 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:40,614 | INFO |     Result : Fail
+2025-05-22 20:11:40,615 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:40,616 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:40,616 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:40,617 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:41,584 | INFO |   ✅ Commented on OSV-2443: 'KPIT_TC_DRT_LMG_028.
+
+2025-05-22 20:11:41,938 | INFO | ⏳ Updating 'OSV-2442: KPIT_TC_DRT_ASUG_003'...
+2025-05-22 20:11:41,939 | INFO |   🔄 Updating fields for OSV-2442: 'KPIT_TC_DRT_ASUG_003...
+2025-05-22 20:11:41,939 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:41,940 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:41,940 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:41,941 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:42,891 | INFO |   ✅ Updated fields for OSV-2442: 'KPIT_TC_DRT_ASUG_003.
+2025-05-22 20:11:42,891 | INFO |   🔄 Commenting on OSV-2442: 'KPIT_TC_DRT_ASUG_003...
+2025-05-22 20:11:42,892 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:42,892 | INFO |     Result : Fail
+2025-05-22 20:11:42,892 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:42,893 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:42,893 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:42,894 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:43,805 | INFO |   ✅ Commented on OSV-2442: 'KPIT_TC_DRT_ASUG_003.
+
+2025-05-22 20:11:44,148 | INFO | ⏳ Updating 'OSV-2441: KPIT_TC_DRT_ILL_130'...
+2025-05-22 20:11:44,149 | INFO |   🔄 Updating fields for OSV-2441: 'KPIT_TC_DRT_ILL_130...
+2025-05-22 20:11:44,149 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:44,150 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:44,150 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:44,151 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:45,202 | INFO |   ✅ Updated fields for OSV-2441: 'KPIT_TC_DRT_ILL_130.
+2025-05-22 20:11:45,202 | INFO |   🔄 Commenting on OSV-2441: 'KPIT_TC_DRT_ILL_130...
+2025-05-22 20:11:45,203 | INFO |     Date : 20th May 2025
+2025-05-22 20:11:45,203 | INFO |     Result : Fail
+2025-05-22 20:11:45,203 | INFO |     Failure Category : KITE issue
+2025-05-22 20:11:45,204 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-22 20:11:45,204 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-22 20:11:45,205 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-22 20:11:46,141 | INFO |   ✅ Commented on OSV-2441: 'KPIT_TC_DRT_ILL_130.
+

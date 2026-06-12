@@ -1,0 +1,24 @@
+2025-11-23 21:45:26,467 | INFO | ⏳ Updating 'DRT-1734: KPIT_TC_DRT_LMG_013'...
+2025-11-23 21:45:26,467 | INFO |   🔄 Updating fields for DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:45:26,468 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:45:26,469 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:45:26,469 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:45:26,469 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:45:26,470 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:45:26,470 | INFO |     Remarks : NA
+2025-11-23 21:45:26,477 | INFO |     Reviewer : Rajashri
+2025-11-23 21:45:28,034 | INFO |   ✅ Updated fields for DRT-1734: 'KPIT_TC_DRT_LMG_013.
+2025-11-23 21:45:28,034 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:45:28,035 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:45:28,035 | INFO |     Result : Fail
+2025-11-23 21:45:28,036 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:45:28,036 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:45:28,036 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:45:28,037 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:45:28,879 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:45:29,168 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:45:29,168 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:45:29,169 | INFO |     Result : Pass
+2025-11-23 21:45:30,024 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+

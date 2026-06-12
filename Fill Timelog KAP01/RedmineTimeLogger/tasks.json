@@ -1,0 +1,18 @@
+[
+  {
+    "issue": 751753,
+    "hours": 6.0,
+    "comment": "Test Case/TS Modification",
+    "cat": "TEST AUTOMATION",
+    "type": "WORK",
+    "subject": ""
+  },
+  {
+    "issue": 751754,
+    "hours": 3.0,
+    "comment": "Test Case/TS Modification Rework",
+    "cat": "TEST AUTOMATION",
+    "type": "INTERNAL REWORK",
+    "subject": ""
+  }
+]

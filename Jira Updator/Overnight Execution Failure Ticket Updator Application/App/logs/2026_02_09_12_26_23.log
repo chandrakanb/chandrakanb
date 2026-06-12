@@ -1,0 +1,23 @@
+2026-02-09 12:26:23 | 🚀 Jira Update Started.
+
+2026-02-09 12:26:23 | ⏳ Updating    		            : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:26:23 |   🔄 Updating fields          : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:26:23 |     Failure Category          : KITE Issue
+2026-02-09 12:26:23 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:26:23 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)']
+2026-02-09 12:26:23 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-09 12:26:23 |     Fixation Performed        : Replaced CLICK_BY_TEXT command with CLICK_BY_IMAGE command.
+2026-02-09 12:26:24 |   ✅ Updated fields           : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:26:24 |   🔄 Commenting               : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:26:24 |     Date                      : 2026-02-06
+2026-02-09 12:26:24 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:26:24 |     Result                    : Fail
+2026-02-09 12:26:24 |     Failure Category          : KITE Issue
+2026-02-09 12:26:24 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:26:24 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-09 12:26:24 |     Fixation Performed        : Replaced CLICK_BY_TEXT command with CLICK_BY_IMAGE command.
+2026-02-09 12:26:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:26:24 |     Reviewer                  : Rajashri
+2026-02-09 12:26:25 |   🔄 Commented                : DRT-6030 ('KPIT_TC_DRT_VEH_027') | Comment ID: 156340
+
+2026-02-09 12:26:25 | ✅ Jira Update Completed.

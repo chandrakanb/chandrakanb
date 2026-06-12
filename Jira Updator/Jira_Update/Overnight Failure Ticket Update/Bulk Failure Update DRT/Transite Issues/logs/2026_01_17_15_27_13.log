@@ -1,0 +1,35 @@
+2026-01-17 15:27:13,218 | INFO | Token loaded from Environment Variable
+2026-01-17 15:27:13,535 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-01-17 15:27:13,922 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-01-17 15:27:14,468 | INFO | Ticket DRT-4778 is transited till status: Ready for review
+2026-01-17 15:27:15,054 | INFO | Ticket DRT-4715 is transited till status: Ready for review
+2026-01-17 15:27:15,674 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2026-01-17 15:27:16,279 | INFO | Ticket DRT-3932 is transited till status: Ready for review
+2026-01-17 15:27:16,908 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2026-01-17 15:27:17,493 | INFO | Ticket DRT-2615 is transited till status: Ready for review
+2026-01-17 15:27:18,072 | INFO | Ticket DRT-2309 is transited till status: Ready for review
+2026-01-17 15:27:19,017 | INFO | Ticket DRT-2308 is transited till status: Ready for review
+2026-01-17 15:27:19,630 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2026-01-17 15:27:20,186 | INFO | Ticket DRT-2305 is transited till status: Ready for review
+2026-01-17 15:27:20,791 | INFO | Ticket DRT-2304 is transited till status: Ready for review
+2026-01-17 15:27:22,087 | INFO | Ticket DRT-2139 is transited till status: Ready for review
+2026-01-17 15:27:22,354 | INFO | Processing ticket DRT-1811 with current status: In_Progress
+2026-01-17 15:27:23,764 | INFO | Transitioned DRT-1811 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-01-17 15:27:25,042 | INFO | Transitioned DRT-1811 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-01-17 15:27:26,314 | INFO | Transitioned DRT-1811 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-01-17 15:27:27,953 | INFO | Transitioned DRT-1811 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-01-17 15:27:28,522 | INFO | Ticket DRT-1811 is transited till status: Ready for review
+2026-01-17 15:27:28,904 | INFO | Processing ticket DRT-1809 with current status: In_Progress
+2026-01-17 15:27:29,997 | INFO | Transitioned DRT-1809 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-01-17 15:27:32,054 | INFO | Transitioned DRT-1809 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-01-17 15:27:34,151 | INFO | Transitioned DRT-1809 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-01-17 15:27:35,782 | INFO | Transitioned DRT-1809 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-01-17 15:27:36,325 | INFO | Ticket DRT-1809 is transited till status: Ready for review
+2026-01-17 15:27:36,595 | INFO | Processing ticket DRT-1800 with current status: In_Progress
+2026-01-17 15:27:38,013 | INFO | Transitioned DRT-1800 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-01-17 15:27:39,240 | INFO | Transitioned DRT-1800 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-01-17 15:27:40,878 | INFO | Transitioned DRT-1800 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-01-17 15:27:42,180 | INFO | Transitioned DRT-1800 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-01-17 15:27:43,161 | INFO | Ticket DRT-1800 is transited till status: Ready for review
+2026-01-17 15:27:43,161 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

@@ -1,0 +1,40 @@
+2025-12-20 16:28:06,470 | INFO | ⏳ Updating 'DRT-3841: KPIT_TC_DRT_IPD_047'...
+2025-12-20 16:28:06,472 | INFO |   🔄 Updating fields for DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:28:06,473 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:28:06,475 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:28:06,476 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:28:06,478 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:28:06,478 | INFO |     Fixation Performed : NA
+2025-12-20 16:28:06,479 | INFO |     Remarks : NA
+2025-12-20 16:28:06,480 | INFO |     Reviewer : Rajashri
+2025-12-20 16:28:07,371 | INFO |   ✅ Updated fields for DRT-3841: 'KPIT_TC_DRT_IPD_047.
+2025-12-20 16:28:07,372 | INFO |   🔄 Commenting on DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:28:07,372 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:28:07,372 | INFO |     Result : Fail
+2025-12-20 16:28:07,373 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:28:07,373 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:28:07,374 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:28:07,374 | INFO |     Fixation Performed : NA
+2025-12-20 16:28:07,893 | INFO |   ✅ Commented on DRT-3841: 'KPIT_TC_DRT_IPD_047.
+
+2025-12-20 16:28:08,230 | INFO | ⏳ Updating 'DRT-3841: KPIT_TC_DRT_IPD_047'...
+2025-12-20 16:28:08,231 | INFO |   🔄 Updating fields for DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:28:08,231 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:28:08,231 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:28:08,233 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:28:08,234 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:28:08,234 | INFO |     Fixation Performed : NA
+2025-12-20 16:28:08,235 | INFO |     Remarks : NA
+2025-12-20 16:28:08,235 | INFO |     Reviewer : Rajashri
+2025-12-20 16:28:08,906 | INFO |   ✅ Updated fields for DRT-3841: 'KPIT_TC_DRT_IPD_047.
+2025-12-20 16:28:08,907 | INFO |   🔄 Commenting on DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:28:08,909 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 16:28:08,909 | INFO |     Result : Fail
+2025-12-20 16:28:08,910 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:28:08,910 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:28:08,910 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:28:08,911 | INFO |     Fixation Performed : NA
+2025-12-20 16:28:09,402 | INFO |   ✅ Commented on DRT-3841: 'KPIT_TC_DRT_IPD_047.
+
+2025-12-20 16:28:09,403 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

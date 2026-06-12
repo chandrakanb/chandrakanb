@@ -1,0 +1,131 @@
+2026-02-18 17:17:21 | 🚀 Jira Update Started.
+
+2026-02-18 17:17:21 | ⏳ Updating    		            : DRT-4270 ('KPIT_TC_DRT_BSICTM_002')
+2026-02-18 17:17:21 |   🔄 Updating fields          : DRT-4270 ('KPIT_TC_DRT_BSICTM_002')
+2026-02-18 17:17:23 |     Failure Category          : KITE Issue
+2026-02-18 17:17:23 |     Failure Sub Category      : Image Comparision
+2026-02-18 17:17:23 |     Previous Failure Category : ['Test Env Issue']
+2026-02-18 17:17:23 |     Root Cause Details        : Incorrect OCR detection for "O" on RWC Screen.
+2026-02-18 17:17:23 |     Fixation Performed        : NA
+2026-02-18 17:17:24 |   ✅ Updated fields           : DRT-4270 ('KPIT_TC_DRT_BSICTM_002')
+2026-02-18 17:17:24 |   🔄 Commenting               : DRT-4270 ('KPIT_TC_DRT_BSICTM_002')
+2026-02-18 17:17:24 |     Date                      : 2026-02-18
+2026-02-18 17:17:24 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:24 |     Result                    : Fail
+2026-02-18 17:17:24 |     Failure Category          : KITE Issue
+2026-02-18 17:17:24 |     Failure Sub Category      : Image Comparision
+2026-02-18 17:17:24 |     Root Cause Details        : Incorrect OCR detection for "O" on RWC Screen.
+2026-02-18 17:17:24 |     Fixation Performed        : NA
+2026-02-18 17:17:24 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+We will keep this issue under observation.
+2026-02-18 17:17:24 |     Reviewer                  : Rajashri
+2026-02-18 17:17:25 |   🔄 Commented                : DRT-4270 ('KPIT_TC_DRT_BSICTM_002') | Comment ID: 162303
+
+2026-02-18 17:17:25 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-18 17:17:25 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-18 17:17:25 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:25 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:25 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-18 17:17:25 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:25 |     Fixation Performed        : NA
+2026-02-18 17:17:26 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-18 17:17:26 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-18 17:17:26 |     Date                      : 2026-02-18
+2026-02-18 17:17:26 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:26 |     Result                    : Fail
+2026-02-18 17:17:26 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:26 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:26 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:26 |     Fixation Performed        : NA
+2026-02-18 17:17:26 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-18 17:17:26 |     Reviewer                  : Rajashri
+2026-02-18 17:17:27 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 162304
+
+2026-02-18 17:17:27 | ⏳ Updating    		            : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-18 17:17:28 |   🔄 Updating fields          : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-18 17:17:28 |     Failure Category          : Test Env Issue
+2026-02-18 17:17:28 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-18 17:17:28 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-18 17:17:28 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-18 17:17:28 |     Fixation Performed        : NA
+2026-02-18 17:17:29 |   ✅ Updated fields           : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-18 17:17:29 |   🔄 Commenting               : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-18 17:17:29 |     Date                      : 2026-02-18
+2026-02-18 17:17:29 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:29 |     Result                    : Fail
+2026-02-18 17:17:29 |     Failure Category          : Test Env Issue
+2026-02-18 17:17:29 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-18 17:17:29 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-18 17:17:29 |     Fixation Performed        : NA
+2026-02-18 17:17:29 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+We will keep this issue under observation.
+2026-02-18 17:17:29 |     Reviewer                  : Rajashri
+2026-02-18 17:17:29 |   🔄 Commented                : DRT-2122 ('KPIT_TC_DRT_VEND_092') | Comment ID: 162305
+
+2026-02-18 17:17:30 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-18 17:17:30 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-18 17:17:30 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:30 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:30 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-18 17:17:30 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:30 |     Fixation Performed        : NA
+2026-02-18 17:17:31 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-18 17:17:31 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-18 17:17:31 |     Date                      : 2026-02-18
+2026-02-18 17:17:31 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:31 |     Result                    : Fail
+2026-02-18 17:17:31 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:31 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:31 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:32 |     Fixation Performed        : NA
+2026-02-18 17:17:32 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-18 17:17:32 |     Reviewer                  : Rajashri
+2026-02-18 17:17:32 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 162306
+
+2026-02-18 17:17:33 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-18 17:17:33 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-18 17:17:33 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:33 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:33 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-02-18 17:17:33 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:33 |     Fixation Performed        : NA
+2026-02-18 17:17:34 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-18 17:17:34 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-18 17:17:34 |     Date                      : 2026-02-18
+2026-02-18 17:17:34 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:34 |     Result                    : Fail
+2026-02-18 17:17:34 |     Failure Category          : ICB Issue (Always)
+2026-02-18 17:17:34 |     Failure Sub Category      : Valid Issue
+2026-02-18 17:17:34 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-18 17:17:34 |     Fixation Performed        : NA
+2026-02-18 17:17:34 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-18 17:17:34 |     Reviewer                  : Rajashri
+2026-02-18 17:17:35 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 162308
+
+2026-02-18 17:17:35 | ⏳ Updating    		            : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-18 17:17:35 |   🔄 Commenting               : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-18 17:17:35 |     Date                      : 2026-02-18
+2026-02-18 17:17:35 |     Result                    : Pass
+2026-02-18 17:17:35 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:36 |   🔄 Commented                : DRT-2132 ('KPIT_TC_DRT_BZA_015') | Comment ID: 162309
+
+2026-02-18 17:17:36 | ⏳ Updating    		            : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-18 17:17:36 |   🔄 Commenting               : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-18 17:17:36 |     Date                      : 2026-02-18
+2026-02-18 17:17:36 |     Result                    : Pass
+2026-02-18 17:17:36 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:37 |   🔄 Commented                : DRT-2127 ('KPIT_TC_DRT_BZA_005') | Comment ID: 162310
+
+2026-02-18 17:17:37 | ⏳ Updating    		            : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-18 17:17:37 |   🔄 Commenting               : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-18 17:17:37 |     Date                      : 2026-02-18
+2026-02-18 17:17:37 |     Result                    : Pass
+2026-02-18 17:17:37 |     Build Number              : AEA1417D0.260218.1
+2026-02-18 17:17:38 |   🔄 Commented                : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 162311
+
+2026-02-18 17:17:38 | ✅ Jira Update Completed.

@@ -1,0 +1,249 @@
+2026-03-23 15:34:16,969 | INFO | ⏳ Updating 'DRT-2518: KPIT_TC_FNC_USB_0796_0001'...
+2026-03-23 15:34:16,971 | INFO |   🔄 Updating fields for DRT-2518: 'KPIT_TC_FNC_USB_0796_0001...
+2026-03-23 15:34:16,972 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:16,973 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:16,973 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 15:34:16,974 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:16,975 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:18,774 | INFO |   ✅ Updated fields for DRT-2518: 'KPIT_TC_FNC_USB_0796_0001.
+2026-03-23 15:34:18,775 | INFO |   🔄 Commenting on DRT-2518: 'KPIT_TC_FNC_USB_0796_0001...
+2026-03-23 15:34:18,776 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:18,776 | INFO |     Result : Fail
+2026-03-23 15:34:18,776 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:18,777 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:18,778 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:18,778 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:18,778 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:18,779 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:19,431 | INFO |   ✅ Commented on DRT-2518: 'KPIT_TC_FNC_USB_0796_0001.
+
+2026-03-23 15:34:19,749 | INFO | ⏳ Updating 'DRT-2522: KPIT_TC_DRT_USB_113'...
+2026-03-23 15:34:19,750 | INFO |   🔄 Updating fields for DRT-2522: 'KPIT_TC_DRT_USB_113...
+2026-03-23 15:34:19,750 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:19,751 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:19,751 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:19,751 | INFO |     Root Cause Details : USB video played in full screen after selecting a video from the USB Video folder screen. In the earlier TS, screen size was set to normal before disconnecting USB, but it seems this was not reflected.
+2026-03-23 15:34:19,751 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:21,504 | INFO |   ✅ Updated fields for DRT-2522: 'KPIT_TC_DRT_USB_113.
+2026-03-23 15:34:21,505 | INFO |   🔄 Commenting on DRT-2522: 'KPIT_TC_DRT_USB_113...
+2026-03-23 15:34:21,505 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:21,505 | INFO |     Result : Fail
+2026-03-23 15:34:21,505 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:21,506 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:21,506 | INFO |     Root Cause Details : USB video played in full screen after selecting a video from the USB Video folder screen. In the earlier TS, screen size was set to normal before disconnecting USB, but it seems this was not reflected.
+2026-03-23 15:34:21,506 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:21,506 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-23 15:34:21,507 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:22,389 | INFO |   ✅ Commented on DRT-2522: 'KPIT_TC_DRT_USB_113.
+
+2026-03-23 15:34:22,961 | INFO | ⏳ Updating 'DRT-2532: KPIT_TC_DRT_USB_100'...
+2026-03-23 15:34:22,962 | INFO |   🔄 Updating fields for DRT-2532: 'KPIT_TC_DRT_USB_100...
+2026-03-23 15:34:22,962 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:22,962 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:22,963 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 15:34:22,964 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:22,965 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:24,137 | INFO |   ✅ Updated fields for DRT-2532: 'KPIT_TC_DRT_USB_100.
+2026-03-23 15:34:24,138 | INFO |   🔄 Commenting on DRT-2532: 'KPIT_TC_DRT_USB_100...
+2026-03-23 15:34:24,138 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:24,138 | INFO |     Result : Fail
+2026-03-23 15:34:24,139 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:24,139 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:24,139 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:24,139 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:24,140 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:24,140 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:25,085 | INFO |   ✅ Commented on DRT-2532: 'KPIT_TC_DRT_USB_100.
+
+2026-03-23 15:34:25,423 | INFO | ⏳ Updating 'DRT-2536: KPIT_TC_DRT_USB_042'...
+2026-03-23 15:34:25,423 | INFO |   🔄 Updating fields for DRT-2536: 'KPIT_TC_DRT_USB_042...
+2026-03-23 15:34:25,424 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:25,424 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:25,425 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 15:34:25,426 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:25,426 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:27,350 | INFO |   ✅ Updated fields for DRT-2536: 'KPIT_TC_DRT_USB_042.
+2026-03-23 15:34:27,351 | INFO |   🔄 Commenting on DRT-2536: 'KPIT_TC_DRT_USB_042...
+2026-03-23 15:34:27,352 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:27,352 | INFO |     Result : Fail
+2026-03-23 15:34:27,352 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:27,353 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:27,353 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:27,353 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:27,353 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:27,353 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:28,196 | INFO |   ✅ Commented on DRT-2536: 'KPIT_TC_DRT_USB_042.
+
+2026-03-23 15:34:28,487 | INFO | ⏳ Updating 'DRT-2537: KPIT_TC_DRT_USB_157'...
+2026-03-23 15:34:28,488 | INFO |   🔄 Updating fields for DRT-2537: 'KPIT_TC_DRT_USB_157...
+2026-03-23 15:34:28,489 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:28,489 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:28,489 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 15:34:28,490 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:28,490 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:30,002 | INFO |   ✅ Updated fields for DRT-2537: 'KPIT_TC_DRT_USB_157.
+2026-03-23 15:34:30,003 | INFO |   🔄 Commenting on DRT-2537: 'KPIT_TC_DRT_USB_157...
+2026-03-23 15:34:30,004 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:30,004 | INFO |     Result : Fail
+2026-03-23 15:34:30,005 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:30,006 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:30,006 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:30,006 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:30,007 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:30,007 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:30,803 | INFO |   ✅ Commented on DRT-2537: 'KPIT_TC_DRT_USB_157.
+
+2026-03-23 15:34:31,512 | INFO | ⏳ Updating 'DRT-2539: KPIT_TC_DRT_USB_074'...
+2026-03-23 15:34:31,513 | INFO |   🔄 Updating fields for DRT-2539: 'KPIT_TC_DRT_USB_074...
+2026-03-23 15:34:31,513 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:31,514 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:31,514 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 15:34:31,514 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:31,515 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:32,569 | INFO |   ✅ Updated fields for DRT-2539: 'KPIT_TC_DRT_USB_074.
+2026-03-23 15:34:32,571 | INFO |   🔄 Commenting on DRT-2539: 'KPIT_TC_DRT_USB_074...
+2026-03-23 15:34:32,571 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:32,572 | INFO |     Result : Fail
+2026-03-23 15:34:32,572 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:32,573 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:32,573 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:32,574 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:32,574 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:32,574 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:33,210 | INFO |   ✅ Commented on DRT-2539: 'KPIT_TC_DRT_USB_074.
+
+2026-03-23 15:34:33,591 | INFO | ⏳ Updating 'DRT-2544: KPIT_TC_DRT_USB_178'...
+2026-03-23 15:34:33,592 | INFO |   🔄 Updating fields for DRT-2544: 'KPIT_TC_DRT_USB_178...
+2026-03-23 15:34:33,592 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:33,593 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:33,594 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:33,595 | INFO |     Root Cause Details : After selecting Menu option on USB video playback screen, screen not transited to menu screen. Seem like robot soft touch issue due to robot calibration.
+2026-03-23 15:34:33,596 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:35,340 | INFO |   ✅ Updated fields for DRT-2544: 'KPIT_TC_DRT_USB_178.
+2026-03-23 15:34:35,340 | INFO |   🔄 Commenting on DRT-2544: 'KPIT_TC_DRT_USB_178...
+2026-03-23 15:34:35,340 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:35,341 | INFO |     Result : Fail
+2026-03-23 15:34:35,342 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:35,343 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:35,343 | INFO |     Root Cause Details : After selecting Menu option on USB video playback screen, screen not transited to menu screen. Seem like robot soft touch issue due to robot calibration.
+2026-03-23 15:34:35,344 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:35,345 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:35,345 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:36,086 | INFO |   ✅ Commented on DRT-2544: 'KPIT_TC_DRT_USB_178.
+
+2026-03-23 15:34:36,450 | INFO | ⏳ Updating 'DRT-2547: KPIT_TC_DRT_USB_182'...
+2026-03-23 15:34:36,451 | INFO |   🔄 Updating fields for DRT-2547: 'KPIT_TC_DRT_USB_182...
+2026-03-23 15:34:36,452 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:36,453 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:36,453 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:36,454 | INFO |     Root Cause Details : After selecting Menu option on USB video playback screen, screen not transited to menu screen. Seem like robot soft touch issue due to robot calibration.
+2026-03-23 15:34:36,454 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:37,844 | INFO |   ✅ Updated fields for DRT-2547: 'KPIT_TC_DRT_USB_182.
+2026-03-23 15:34:37,845 | INFO |   🔄 Commenting on DRT-2547: 'KPIT_TC_DRT_USB_182...
+2026-03-23 15:34:37,845 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:37,846 | INFO |     Result : Fail
+2026-03-23 15:34:37,846 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:37,847 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:37,847 | INFO |     Root Cause Details : After selecting Menu option on USB video playback screen, screen not transited to menu screen. Seem like robot soft touch issue due to robot calibration.
+2026-03-23 15:34:37,847 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:37,848 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:37,848 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:38,588 | INFO |   ✅ Commented on DRT-2547: 'KPIT_TC_DRT_USB_182.
+
+2026-03-23 15:34:39,260 | INFO | ⏳ Updating 'DRT-2549: KPIT_TC_DRT_MCS_044'...
+2026-03-23 15:34:39,261 | INFO |   🔄 Updating fields for DRT-2549: 'KPIT_TC_DRT_MCS_044...
+2026-03-23 15:34:39,262 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:39,263 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:39,263 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:39,263 | INFO |     Root Cause Details : ICB took more time to transition to USB Video in full screen mode. When Magnify button was selected on the USB Video screen while the aspect ratio was set to normal and screen size was set to full.
+2026-03-23 15:34:39,264 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:40,163 | INFO |   ✅ Updated fields for DRT-2549: 'KPIT_TC_DRT_MCS_044.
+2026-03-23 15:34:40,163 | INFO |   🔄 Commenting on DRT-2549: 'KPIT_TC_DRT_MCS_044...
+2026-03-23 15:34:40,164 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:40,164 | INFO |     Result : Fail
+2026-03-23 15:34:40,165 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:40,166 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:40,166 | INFO |     Root Cause Details : ICB took more time to transition to USB Video in full screen mode. When Magnify button was selected on the USB Video screen while the aspect ratio was set to normal and screen size was set to full.
+2026-03-23 15:34:40,167 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:40,167 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-23 15:34:40,168 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:40,835 | INFO |   ✅ Commented on DRT-2549: 'KPIT_TC_DRT_MCS_044.
+
+2026-03-23 15:34:41,199 | INFO | ⏳ Updating 'DRT-3476: KPIT_TC_DRT_USB_065'...
+2026-03-23 15:34:41,199 | INFO |   🔄 Updating fields for DRT-3476: 'KPIT_TC_DRT_USB_065...
+2026-03-23 15:34:41,200 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:41,200 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:41,201 | INFO |     Previous Failure Category : ['KITE Issue']
+2026-03-23 15:34:41,201 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:41,202 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:42,360 | INFO |   ✅ Updated fields for DRT-3476: 'KPIT_TC_DRT_USB_065.
+2026-03-23 15:34:42,361 | INFO |   🔄 Commenting on DRT-3476: 'KPIT_TC_DRT_USB_065...
+2026-03-23 15:34:42,361 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:42,362 | INFO |     Result : Fail
+2026-03-23 15:34:42,362 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:42,363 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:42,363 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 15:34:42,364 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:42,364 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:42,364 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:43,015 | INFO |   ✅ Commented on DRT-3476: 'KPIT_TC_DRT_USB_065.
+
+2026-03-23 15:34:43,332 | INFO | ⏳ Updating 'DRT-3839: KPIT_TC_DRT_AMFM_015'...
+2026-03-23 15:34:43,333 | INFO |   🔄 Updating fields for DRT-3839: 'KPIT_TC_DRT_AMFM_015...
+2026-03-23 15:34:43,334 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:43,334 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:43,335 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:43,335 | INFO |     Root Cause Details : ICB took more time to boot up after the ACC cycle than expected. Because of this, the Disclaimer popup was not handled as FB was already executed, and further operations failed.
+2026-03-23 15:34:43,336 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:44,131 | INFO |   ✅ Updated fields for DRT-3839: 'KPIT_TC_DRT_AMFM_015.
+2026-03-23 15:34:44,132 | INFO |   🔄 Commenting on DRT-3839: 'KPIT_TC_DRT_AMFM_015...
+2026-03-23 15:34:44,133 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:44,133 | INFO |     Result : Fail
+2026-03-23 15:34:44,134 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 15:34:44,134 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 15:34:44,134 | INFO |     Root Cause Details : ICB took more time to boot up after the ACC cycle than expected. Because of this, the Disclaimer popup was not handled as FB was already executed, and further operations failed.
+2026-03-23 15:34:44,135 | INFO |     Fixation Performed : NA
+2026-03-23 15:34:44,135 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-23 15:34:44,136 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:44,741 | INFO |   ✅ Commented on DRT-3839: 'KPIT_TC_DRT_AMFM_015.
+
+2026-03-23 15:34:45,427 | INFO | ⏳ Updating 'DRT-4064: KPIT_TC_DRT_IDS_1216'...
+2026-03-23 15:34:45,428 | INFO |   🔄 Updating fields for DRT-4064: 'KPIT_TC_DRT_IDS_1216...
+2026-03-23 15:34:45,429 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:45,429 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:45,430 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:45,431 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 15:34:45,431 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:46,327 | INFO |   ✅ Updated fields for DRT-4064: 'KPIT_TC_DRT_IDS_1216.
+2026-03-23 15:34:46,328 | INFO |   🔄 Commenting on DRT-4064: 'KPIT_TC_DRT_IDS_1216...
+2026-03-23 15:34:46,329 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:46,329 | INFO |     Result : Fail
+2026-03-23 15:34:46,330 | INFO |     Failure Category : Test Env issue
+2026-03-23 15:34:46,331 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 15:34:46,331 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 15:34:46,332 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 15:34:46,333 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 15:34:46,333 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:46,888 | INFO |   ✅ Commented on DRT-4064: 'KPIT_TC_DRT_IDS_1216.
+
+2026-03-23 15:34:47,206 | INFO | ⏳ Updating 'DRT-2541: KPIT_TC_DRT_MCS_012'...
+2026-03-23 15:34:47,207 | INFO |   🔄 Updating fields for DRT-2541: 'KPIT_TC_DRT_MCS_012...
+2026-03-23 15:34:47,208 | INFO |     Failure Category : TS issue
+2026-03-23 15:34:47,209 | INFO |     Failure Sub Category : TS Modification Required
+2026-03-23 15:34:47,209 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 15:34:47,211 | INFO |     Root Cause Details : In previous TS, aspect ratio and screen size were set to full but not reset to normal as a post-condition. Hence, the video remained in full screen, and this TS failed as further operations failed.
+2026-03-23 15:34:47,211 | INFO |     Fixation Performed : Added FBs to set aspect ratio and screen size to normal as a post-condition in the previous TS.
+2026-03-23 15:34:48,566 | INFO |   ✅ Updated fields for DRT-2541: 'KPIT_TC_DRT_MCS_012.
+2026-03-23 15:34:48,567 | INFO |   🔄 Commenting on DRT-2541: 'KPIT_TC_DRT_MCS_012...
+2026-03-23 15:34:48,567 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 15:34:48,568 | INFO |     Result : Fail
+2026-03-23 15:34:48,569 | INFO |     Failure Category : TS issue
+2026-03-23 15:34:48,569 | INFO |     Failure Sub Category : TS Modification Required
+2026-03-23 15:34:48,570 | INFO |     Root Cause Details : In previous TS, aspect ratio and screen size were set to full but not reset to normal as a post-condition. Hence, the video remained in full screen, and this TS failed as further operations failed.
+2026-03-23 15:34:48,572 | INFO |     Fixation Performed : Added FBs to set aspect ratio and screen size to normal as a post-condition in the previous TS.
+2026-03-23 15:34:48,572 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 15:34:48,572 | INFO |     Reviewer : Rajashri
+2026-03-23 15:34:49,346 | INFO |   ✅ Commented on DRT-2541: 'KPIT_TC_DRT_MCS_012.
+
+2026-03-23 15:34:49,347 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

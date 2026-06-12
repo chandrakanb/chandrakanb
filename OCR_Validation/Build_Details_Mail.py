@@ -1,0 +1,194 @@
+import sys
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+import smtplib
+import openpyxl
+import base64
+
+def status_to_color(status):
+    if status == "Pass":
+        return "#4CAF50", "#fff"
+    elif status == "Fail":
+        return "#f44336", "#000"
+    elif status == "VERIFYMANUALLY":
+        return "#ffff00", "#000"
+    else:
+        return "#fff", "#000"
+
+    # Read the Excel file
+
+
+websheet = openpyxl.load_workbook('D:/KITE/KITE/KITE_DATA/variable_compare.xlsx')
+sheet = websheet.active
+
+recipient_email='priti.pragyan@kpit.com,kunal.das@kpit.com,Ashish.Sharma@kpit.com,Priyanka.Rout@kpit.com,shital.vadake@kpit.com'
+cc_recipients='vinod.limbone@kpit.com,shashwat.bhargava@kpit.com,sanman.sane@kpit.com,saurabh.kulkarni@kpit.com,rajendray@kpit.com,lumesh.jorwar@kpit.com,sayali.gokhale@kpit.com,mohan.reganti@kpit.com,rajashri.bhamare@kpit.com,pratham.chaturvedi@kpit.com,srushti.potadar@kpit.com,yukta.rane@kpit.com,vaishnavi.kore@kpit.com,chandrakant.bhalekar@kpit.com,sahil.bhalekar@kpit.com,rohan.jagtap@kpit.com,vitthal.panhalkar@kpit.com,sayali.raut@kpit.com,neha.suryawanshi@kpit.com,gayathri.g@kpit.com,abhijeet.rathore@kpit.com,hemant.singh@kpit.com,vedant.chavan@kpit.com'
+
+# Convert the Excel data into an HTML table
+socversion = str(sheet['C3'].value)
+systemucom = str(sheet['C4'].value)
+CANwhitelist = str(sheet['C5'].value)
+buildNumber = str(sheet['C6'].value)
+
+# Read the Excel file
+websheet = openpyxl.load_workbook('D:/OCR_Validation/Result.xlsx')
+sheet1 = websheet.active
+
+status = str(sheet1['C2'].value)
+# Convert the Excel data into an HTML table
+socversion_actual = str(sheet['C3'].value)
+systemucom_actual = open('Actaul.txt', 'r').read().strip()
+CANwhitelist_actual = open('D:/OCR_Validation/CANwhitelist_actual.txt', 'r').read().strip()
+buildNumber_actual = open('D:/OCR_Validation/android_build_number.txt', 'r').read().strip()
+
+# Create a message
+msg = MIMEMultipart()
+msg['Subject'] = f'Build Details Verification : {status}'
+msg['From'] = 'DRT_Automation@kpit.com'
+msg['To'] = recipient_email
+msg['Cc'] = cc_recipients
+
+recipient_emails = msg['To'].split(",") + msg['Cc'].split(",")
+
+# Add the HTML table as a string to the message
+body = f""""
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>Build Details Verification Status : {status} </title>
+        </head>
+        <body>
+            <h1>Build Details:</h1>
+        </body>
+    </html>
+"""
+table_style = "width: 60%; border-collapse: collapse; margin-top: 1px;"
+th_td_style = "border: 1px solid #ddd; padding: 1px;"
+autoflashing_style = "padding: 30px; margin-bottom: 30px; border-radius: 10px; text-align: center;"
+autoflashing_color, autoflashing_text_color = status_to_color(status)
+
+body = f"""
+    <html>
+    <head>
+        <style>
+            body {{
+                font-family: Arial, sans-serif;
+                color: #333;
+                background-color: #f9f9f9;
+            }}
+            .container {{
+                max-width: 600px;
+                margin: 0 auto;
+                padding: 20px;
+                border: 1px solid #ccc;
+                border-radius: 10px;
+                background-color: #fff;
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            }}
+            h1 {{
+                color: #007bff;
+            }}
+            table {{
+                {table_style}
+            }}
+            th, td {{
+                {th_td_style}
+            }}
+            th {{
+                background-color: #007bff;
+                color: #fff;
+            }}
+            .auto-flashing {{
+                {autoflashing_style}
+                background-color: {autoflashing_color};
+                color: {autoflashing_text_color};
+            }}
+            .auto-flashing-status {{
+                font-size: 20px;
+                margin-top: 10px;
+            }}
+            .button {{
+                display: inline-block;
+                background-color: #007bff;
+                color: #fff;
+                padding: 10px 20px;
+                text-decoration: none;
+                border-radius: 5px;
+            }}
+            .button:hover {{
+                background-color: #0056b3;
+            }}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h4>Build Details Verification Result:</h4>
+            <div class="auto-flashing">
+                <p>Build Number: {buildNumber} Build Flashing Status - {status}</p>
+            </div>
+            <h4>Refrence Values:</h4>
+            <table>
+                <tr>
+                    <th>Type</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td>Build Number</td>
+                    <td align="center">{buildNumber}</td>
+                </tr>
+                <tr>
+                    <td>Systemucom</td>
+                    <td align="center">{systemucom}</td>
+                </tr>
+                <tr>
+                    <td>CANWhitelist</td>
+                    <td align="center">{CANwhitelist}</td>
+                </tr>
+                <tr>
+                    <td>SOC Version</td>
+                    <td align="center">{socversion}</td>
+                </tr>
+            </table>
+            <h4>Actual Values:</h4>
+            <table>
+                <tr>
+                    <th>Type</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td>Build Number</td>
+                    <td align="center">{buildNumber_actual}</td>
+                </tr>
+                <tr>
+                    <td>Systemucom</td>
+                    <td align="center">{systemucom_actual}</td>
+                </tr>
+                <tr>
+                    <td>CANWhitelist</td>
+                    <td align="center">{CANwhitelist_actual}</td>
+                </tr>
+                <tr>
+                    <td>SOC Version</td>
+                    <td align="center">{socversion_actual}</td>
+                </tr>
+            </table>
+
+            <p><em>**This is a system-generated e-mail, please do not reply.**</em></p>
+        </div>
+    </body>
+    </html>"""
+
+msg.attach(MIMEText(body, 'html'))
+
+# Create a server
+server = smtplib.SMTP('smtp.kpit.com', 587)
+server.starttls()
+encoded_password = "QzI0QGF1dG8x"
+password = base64.b64decode(encoded_password).decode()
+server.login(msg['From'], password)
+
+# Send the email
+server.sendmail(msg['From'], recipient_emails, msg.as_string())
+server.quit()
+
+print('Email sent successfully!')

@@ -1,0 +1,78 @@
+2025-12-23 15:06:34,545 | INFO | ⏳ Updating 'DRT-4669: KPIT_TC_DRT_MET_056'...
+2025-12-23 15:06:34,546 | INFO |   🔄 Updating fields for DRT-4669: 'KPIT_TC_DRT_MET_056...
+2025-12-23 15:06:34,546 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:34,547 | INFO |     Failure Sub Category : Network Issue
+2025-12-23 15:06:34,548 | INFO |     Previous Failure Category : ['ICB Issue (Once)']
+2025-12-23 15:06:34,548 | INFO |     Root Cause Details : "01_Automation_Honda" Wi-Fi goes into saved state even if the password was correct.
+2025-12-23 15:06:34,549 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:34,550 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 15:06:34,551 | INFO |     Reviewer : Rajashri
+2025-12-23 15:06:35,517 | INFO |   ✅ Updated fields for DRT-4669: 'KPIT_TC_DRT_MET_056.
+2025-12-23 15:06:35,517 | INFO |   🔄 Commenting on DRT-4669: 'KPIT_TC_DRT_MET_056...
+2025-12-23 15:06:35,518 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 15:06:35,518 | INFO |     Result : Fail
+2025-12-23 15:06:35,519 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:35,519 | INFO |     Failure Sub Category : Network Issue
+2025-12-23 15:06:35,520 | INFO |     Root Cause Details : "01_Automation_Honda" Wi-Fi goes into saved state even if the password was correct.
+2025-12-23 15:06:35,520 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:36,302 | INFO |   ✅ Commented on DRT-4669: 'KPIT_TC_DRT_MET_056.
+
+2025-12-23 15:06:36,623 | INFO | ⏳ Updating 'DRT-6284: KPIT_TC_DRT_MET_098'...
+2025-12-23 15:06:36,624 | INFO |   🔄 Updating fields for DRT-6284: 'KPIT_TC_DRT_MET_098...
+2025-12-23 15:06:36,624 | INFO |     Failure Category : KITE Issue
+2025-12-23 15:06:36,625 | INFO |     Failure Sub Category : Image Comparision
+2025-12-23 15:06:36,625 | INFO |     Previous Failure Category : []
+2025-12-23 15:06:36,625 | INFO |     Root Cause Details : Incorrect Text detected for OCR_VERIFY_TEXT_BY_RECT command, Hence date validation failed.
+2025-12-23 15:06:36,626 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:36,626 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 15:06:36,627 | INFO |     Reviewer : Rajashri
+2025-12-23 15:06:37,495 | INFO |   ✅ Updated fields for DRT-6284: 'KPIT_TC_DRT_MET_098.
+2025-12-23 15:06:37,495 | INFO |   🔄 Commenting on DRT-6284: 'KPIT_TC_DRT_MET_098...
+2025-12-23 15:06:37,496 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 15:06:37,496 | INFO |     Result : Fail
+2025-12-23 15:06:37,496 | INFO |     Failure Category : KITE Issue
+2025-12-23 15:06:37,497 | INFO |     Failure Sub Category : Image Comparision
+2025-12-23 15:06:37,497 | INFO |     Root Cause Details : Incorrect Text detected for OCR_VERIFY_TEXT_BY_RECT command, Hence date validation failed.
+2025-12-23 15:06:37,501 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:38,007 | INFO |   ✅ Commented on DRT-6284: 'KPIT_TC_DRT_MET_098.
+
+2025-12-23 15:06:38,631 | INFO | ⏳ Updating 'DRT-3493: KPIT_TC_DRT_SND_008'...
+2025-12-23 15:06:38,631 | INFO |   🔄 Updating fields for DRT-3493: 'KPIT_TC_DRT_SND_008...
+2025-12-23 15:06:38,631 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:38,631 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 15:06:38,632 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 15:06:38,632 | INFO |     Root Cause Details : Beep Audio Validation Failed
+2025-12-23 15:06:38,632 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:38,632 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 15:06:38,634 | INFO |     Reviewer : Rajashri
+2025-12-23 15:06:39,555 | INFO |   ✅ Updated fields for DRT-3493: 'KPIT_TC_DRT_SND_008.
+2025-12-23 15:06:39,556 | INFO |   🔄 Commenting on DRT-3493: 'KPIT_TC_DRT_SND_008...
+2025-12-23 15:06:39,557 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 15:06:39,557 | INFO |     Result : Fail
+2025-12-23 15:06:39,558 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:39,558 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 15:06:39,559 | INFO |     Root Cause Details : Beep Audio Validation Failed
+2025-12-23 15:06:39,559 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:40,125 | INFO |   ✅ Commented on DRT-3493: 'KPIT_TC_DRT_SND_008.
+
+2025-12-23 15:06:40,476 | INFO | ⏳ Updating 'DRT-1815: KPIT_TC_DRT_HAC_043'...
+2025-12-23 15:06:40,477 | INFO |   🔄 Updating fields for DRT-1815: 'KPIT_TC_DRT_HAC_043...
+2025-12-23 15:06:40,477 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:40,478 | INFO |     Failure Sub Category : Network Issue
+2025-12-23 15:06:40,478 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 15:06:40,478 | INFO |     Root Cause Details : "01_Automation_Honda" Wi-Fi goes into saved state even if the password was correct.
+2025-12-23 15:06:40,479 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:40,479 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 15:06:40,479 | INFO |     Reviewer : Rajashri
+2025-12-23 15:06:41,341 | INFO |   ✅ Updated fields for DRT-1815: 'KPIT_TC_DRT_HAC_043.
+2025-12-23 15:06:41,342 | INFO |   🔄 Commenting on DRT-1815: 'KPIT_TC_DRT_HAC_043...
+2025-12-23 15:06:41,342 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 15:06:41,342 | INFO |     Result : Fail
+2025-12-23 15:06:41,343 | INFO |     Failure Category : Test Env Issue
+2025-12-23 15:06:41,343 | INFO |     Failure Sub Category : Network Issue
+2025-12-23 15:06:41,343 | INFO |     Root Cause Details : "01_Automation_Honda" Wi-Fi goes into saved state even if the password was correct.
+2025-12-23 15:06:41,343 | INFO |     Fixation Performed : NA
+2025-12-23 15:06:41,881 | INFO |   ✅ Commented on DRT-1815: 'KPIT_TC_DRT_HAC_043.
+
+2025-12-23 15:06:41,882 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

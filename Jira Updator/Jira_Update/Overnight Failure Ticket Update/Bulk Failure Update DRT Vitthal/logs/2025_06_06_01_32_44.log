@@ -1,0 +1,38 @@
+2025-06-06 01:32:45,571 | INFO | ------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-06-06 01:32:45,572 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:32:45,572 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:32:45,573 | INFO |     Failure Category : KITE Issue
+2025-06-06 01:32:45,573 | INFO |     Failure Sub Category : Image Comparison
+2025-06-06 01:32:45,573 | INFO |     Root Cause Details : Image Comparison failed with 79%
+2025-06-06 01:32:45,574 | INFO |     Fixation Performed : NA
+2025-06-06 01:32:46,899 | INFO |   ✅ Updated fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+2025-06-06 01:32:46,914 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:32:46,916 | INFO |     Date : 27 May 2025 (1407 REL)
+2025-06-06 01:32:46,917 | INFO |     Result : Fail
+2025-06-06 01:32:46,917 | INFO |     Failure Category : KITE Issue
+2025-06-06 01:32:46,918 | INFO |     Failure Sub Category : Image Comparison
+2025-06-06 01:32:46,918 | INFO |     Root Cause Details : Image Comparison failed with 79%
+2025-06-06 01:32:46,918 | INFO |     Fixation Performed : NA
+2025-06-06 01:32:48,122 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:32:48,948 | INFO | ------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-06-06 01:32:48,948 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:32:48,949 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:32:48,950 | INFO |     Date : 29 May 2025 (1408 DEV)
+2025-06-06 01:32:48,950 | INFO |     Result : Pass
+2025-06-06 01:32:49,540 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:32:49,892 | INFO | ------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-06-06 01:32:49,892 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:32:49,893 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:32:49,893 | INFO |     Date : 4 June 2025 (1408 DEV)
+2025-06-06 01:32:49,893 | INFO |     Result : Pass
+2025-06-06 01:32:50,892 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:32:51,265 | INFO | ------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-06-06 01:32:51,265 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:32:51,266 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:32:51,266 | INFO |     Date : 5 June 2025 (1409 DEV)
+2025-06-06 01:32:51,266 | INFO |     Result : Pass
+2025-06-06 01:32:51,858 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+

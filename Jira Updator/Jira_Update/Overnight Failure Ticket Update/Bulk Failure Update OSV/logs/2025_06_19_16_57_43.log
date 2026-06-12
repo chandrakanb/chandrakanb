@@ -1,0 +1,355 @@
+2025-06-19 16:57:46,613 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-19 16:57:46,614 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-19 16:57:46,615 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:46,615 | INFO |     Result : Pratham
+2025-06-19 16:57:46,616 | INFO |     Result : Pass
+2025-06-19 16:57:47,829 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-19 16:57:48,296 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-19 16:57:48,297 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 16:57:48,298 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:48,298 | INFO |     Result : Pratham
+2025-06-19 16:57:48,299 | INFO |     Result : Pass
+2025-06-19 16:57:48,975 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-19 16:57:49,437 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-19 16:57:49,437 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 16:57:49,438 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:49,438 | INFO |     Result : Pratham
+2025-06-19 16:57:49,439 | INFO |     Result : Pass
+2025-06-19 16:57:50,625 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-19 16:57:51,074 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-19 16:57:51,075 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-19 16:57:51,075 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:51,076 | INFO |     Result : Pratham
+2025-06-19 16:57:51,077 | INFO |     Result : Pass
+2025-06-19 16:57:51,737 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-19 16:57:52,224 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-19 16:57:52,225 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-19 16:57:52,226 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:52,227 | INFO |     Result : Pratham
+2025-06-19 16:57:52,227 | INFO |     Result : Pass
+2025-06-19 16:57:53,410 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-19 16:57:53,930 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-19 16:57:53,931 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 16:57:53,932 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:53,932 | INFO |     Result : Pratham
+2025-06-19 16:57:53,933 | INFO |     Result : Pass
+2025-06-19 16:57:54,677 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-19 16:57:55,190 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-19 16:57:55,191 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-19 16:57:55,192 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:55,193 | INFO |     Result : Pratham
+2025-06-19 16:57:55,194 | INFO |     Result : Pass
+2025-06-19 16:57:55,872 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-19 16:57:56,357 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-19 16:57:56,358 | INFO |   🔄 Updating fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 16:57:56,358 | INFO |     Failure Category : 
+2025-06-19 16:57:56,359 | INFO |     Failure Sub Category : 
+2025-06-19 16:57:56,360 | INFO |     Root Cause Details : 
+2025-06-19 16:57:56,360 | INFO |     Fixation Performed : 
+2025-06-19 16:57:57,302 | INFO |   ✅ Updated fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-19 16:57:57,303 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 16:57:57,303 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:57,304 | INFO |     Result : Pratham
+2025-06-19 16:57:57,305 | INFO |     Result : Fail
+2025-06-19 16:57:57,306 | INFO |     Failure Category : 
+2025-06-19 16:57:57,306 | INFO |     Failure Sub Category : 
+2025-06-19 16:57:57,307 | INFO |     Root Cause Details : 
+2025-06-19 16:57:57,308 | INFO |     Fixation Performed : 
+2025-06-19 16:57:57,930 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-19 16:57:58,409 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-19 16:57:58,409 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 16:57:58,409 | INFO |     Failure Category : 
+2025-06-19 16:57:58,411 | INFO |     Failure Sub Category : 
+2025-06-19 16:57:58,411 | INFO |     Root Cause Details : 
+2025-06-19 16:57:58,412 | INFO |     Fixation Performed : 
+2025-06-19 16:57:59,239 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-19 16:57:59,241 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 16:57:59,241 | INFO |     Date : 23rd May 2025
+2025-06-19 16:57:59,242 | INFO |     Result : Pratham
+2025-06-19 16:57:59,243 | INFO |     Result : Fail
+2025-06-19 16:57:59,244 | INFO |     Failure Category : 
+2025-06-19 16:57:59,244 | INFO |     Failure Sub Category : 
+2025-06-19 16:57:59,245 | INFO |     Root Cause Details : 
+2025-06-19 16:57:59,246 | INFO |     Fixation Performed : 
+2025-06-19 16:57:59,954 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-19 16:58:00,484 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-19 16:58:00,485 | INFO |   🔄 Updating fields for OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 16:58:00,486 | INFO |     Failure Category : 
+2025-06-19 16:58:00,486 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:00,487 | INFO |     Root Cause Details : 
+2025-06-19 16:58:00,488 | INFO |     Fixation Performed : 
+2025-06-19 16:58:01,347 | INFO |   ✅ Updated fields for OSV-2479: 'KPIT_TC_DRT_SUW_004.
+2025-06-19 16:58:01,348 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 16:58:01,348 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:01,349 | INFO |     Result : Pratham
+2025-06-19 16:58:01,350 | INFO |     Result : Fail
+2025-06-19 16:58:01,350 | INFO |     Failure Category : 
+2025-06-19 16:58:01,351 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:01,351 | INFO |     Root Cause Details : 
+2025-06-19 16:58:01,352 | INFO |     Fixation Performed : 
+2025-06-19 16:58:02,106 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-19 16:58:02,627 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-19 16:58:02,628 | INFO |   🔄 Updating fields for OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 16:58:02,629 | INFO |     Failure Category : 
+2025-06-19 16:58:02,629 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:02,630 | INFO |     Root Cause Details : 
+2025-06-19 16:58:02,631 | INFO |     Fixation Performed : 
+2025-06-19 16:58:03,485 | INFO |   ✅ Updated fields for OSV-2482: 'KPIT_TC_DRT_SSR_012.
+2025-06-19 16:58:03,486 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 16:58:03,486 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:03,487 | INFO |     Result : Pratham
+2025-06-19 16:58:03,487 | INFO |     Result : Fail
+2025-06-19 16:58:03,488 | INFO |     Failure Category : 
+2025-06-19 16:58:03,488 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:03,489 | INFO |     Root Cause Details : 
+2025-06-19 16:58:03,489 | INFO |     Fixation Performed : 
+2025-06-19 16:58:04,213 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-19 16:58:04,760 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-19 16:58:04,761 | INFO |   🔄 Updating fields for OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 16:58:04,761 | INFO |     Failure Category : 
+2025-06-19 16:58:04,762 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:04,763 | INFO |     Root Cause Details : 
+2025-06-19 16:58:04,763 | INFO |     Fixation Performed : 
+2025-06-19 16:58:05,590 | INFO |   ✅ Updated fields for OSV-2490: 'KPIT_TC_DRT_SSR_004.
+2025-06-19 16:58:05,591 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 16:58:05,592 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:05,593 | INFO |     Result : Pratham
+2025-06-19 16:58:05,593 | INFO |     Result : Fail
+2025-06-19 16:58:05,594 | INFO |     Failure Category : 
+2025-06-19 16:58:05,595 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:05,595 | INFO |     Root Cause Details : 
+2025-06-19 16:58:05,596 | INFO |     Fixation Performed : 
+2025-06-19 16:58:06,728 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-19 16:58:07,231 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-19 16:58:07,232 | INFO |   🔄 Updating fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 16:58:07,233 | INFO |     Failure Category : 
+2025-06-19 16:58:07,233 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:07,234 | INFO |     Root Cause Details : 
+2025-06-19 16:58:07,234 | INFO |     Fixation Performed : 
+2025-06-19 16:58:08,118 | INFO |   ✅ Updated fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-19 16:58:08,118 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 16:58:08,119 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:08,119 | INFO |     Result : Pratham
+2025-06-19 16:58:08,120 | INFO |     Result : Fail
+2025-06-19 16:58:08,121 | INFO |     Failure Category : 
+2025-06-19 16:58:08,121 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:08,122 | INFO |     Root Cause Details : 
+2025-06-19 16:58:08,122 | INFO |     Fixation Performed : 
+2025-06-19 16:58:08,797 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-19 16:58:09,260 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-19 16:58:09,261 | INFO |   🔄 Updating fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 16:58:09,261 | INFO |     Failure Category : 
+2025-06-19 16:58:09,262 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:09,263 | INFO |     Root Cause Details : 
+2025-06-19 16:58:09,263 | INFO |     Fixation Performed : 
+2025-06-19 16:58:10,190 | INFO |   ✅ Updated fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-19 16:58:10,191 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 16:58:10,192 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:10,192 | INFO |     Result : Pratham
+2025-06-19 16:58:10,193 | INFO |     Result : Fail
+2025-06-19 16:58:10,193 | INFO |     Failure Category : 
+2025-06-19 16:58:10,194 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:10,195 | INFO |     Root Cause Details : 
+2025-06-19 16:58:10,195 | INFO |     Fixation Performed : 
+2025-06-19 16:58:10,983 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-19 16:58:11,455 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-19 16:58:11,456 | INFO |   🔄 Updating fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 16:58:11,456 | INFO |     Failure Category : 
+2025-06-19 16:58:11,457 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:11,458 | INFO |     Root Cause Details : 
+2025-06-19 16:58:11,458 | INFO |     Fixation Performed : 
+2025-06-19 16:58:12,313 | INFO |   ✅ Updated fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+2025-06-19 16:58:12,315 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 16:58:12,315 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:12,316 | INFO |     Result : Pratham
+2025-06-19 16:58:12,316 | INFO |     Result : Fail
+2025-06-19 16:58:12,316 | INFO |     Failure Category : 
+2025-06-19 16:58:12,317 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:12,317 | INFO |     Root Cause Details : 
+2025-06-19 16:58:12,317 | INFO |     Fixation Performed : 
+2025-06-19 16:58:13,015 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-19 16:58:13,488 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-19 16:58:13,488 | INFO |   🔄 Updating fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 16:58:13,489 | INFO |     Failure Category : 
+2025-06-19 16:58:13,489 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:13,490 | INFO |     Root Cause Details : 
+2025-06-19 16:58:13,490 | INFO |     Fixation Performed : 
+2025-06-19 16:58:14,338 | INFO |   ✅ Updated fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+2025-06-19 16:58:14,340 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 16:58:14,341 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:14,341 | INFO |     Result : Pratham
+2025-06-19 16:58:14,342 | INFO |     Result : Fail
+2025-06-19 16:58:14,342 | INFO |     Failure Category : 
+2025-06-19 16:58:14,343 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:14,343 | INFO |     Root Cause Details : 
+2025-06-19 16:58:14,344 | INFO |     Fixation Performed : 
+2025-06-19 16:58:15,040 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-19 16:58:15,484 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-19 16:58:15,485 | INFO |   🔄 Updating fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 16:58:15,485 | INFO |     Failure Category : 
+2025-06-19 16:58:15,486 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:15,486 | INFO |     Root Cause Details : 
+2025-06-19 16:58:15,487 | INFO |     Fixation Performed : 
+2025-06-19 16:58:16,400 | INFO |   ✅ Updated fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+2025-06-19 16:58:16,401 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 16:58:16,402 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:16,403 | INFO |     Result : Pratham
+2025-06-19 16:58:16,404 | INFO |     Result : Fail
+2025-06-19 16:58:16,404 | INFO |     Failure Category : 
+2025-06-19 16:58:16,405 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:16,405 | INFO |     Root Cause Details : 
+2025-06-19 16:58:16,406 | INFO |     Fixation Performed : 
+2025-06-19 16:58:17,060 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-19 16:58:17,572 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-19 16:58:17,573 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 16:58:17,573 | INFO |     Failure Category : 
+2025-06-19 16:58:17,574 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:17,574 | INFO |     Root Cause Details : 
+2025-06-19 16:58:17,574 | INFO |     Fixation Performed : 
+2025-06-19 16:58:18,471 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-19 16:58:18,471 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 16:58:18,472 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:18,472 | INFO |     Result : Pratham
+2025-06-19 16:58:18,472 | INFO |     Result : Fail
+2025-06-19 16:58:18,473 | INFO |     Failure Category : 
+2025-06-19 16:58:18,473 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:18,473 | INFO |     Root Cause Details : 
+2025-06-19 16:58:18,474 | INFO |     Fixation Performed : 
+2025-06-19 16:58:19,650 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-19 16:58:20,577 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-19 16:58:20,578 | INFO |   🔄 Updating fields for OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 16:58:20,578 | INFO |     Failure Category : 
+2025-06-19 16:58:20,579 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:20,579 | INFO |     Root Cause Details : 
+2025-06-19 16:58:20,580 | INFO |     Fixation Performed : 
+2025-06-19 16:58:21,933 | INFO |   ✅ Updated fields for OSV-2491: 'KPIT_TC_DRT_MCS_036.
+2025-06-19 16:58:21,933 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 16:58:21,933 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:21,933 | INFO |     Result : Pratham
+2025-06-19 16:58:21,934 | INFO |     Result : Fail
+2025-06-19 16:58:21,934 | INFO |     Failure Category : 
+2025-06-19 16:58:21,934 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:21,934 | INFO |     Root Cause Details : 
+2025-06-19 16:58:21,935 | INFO |     Fixation Performed : 
+2025-06-19 16:58:22,599 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-19 16:58:23,071 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-19 16:58:23,072 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 16:58:23,072 | INFO |     Failure Category : 
+2025-06-19 16:58:23,073 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:23,073 | INFO |     Root Cause Details : 
+2025-06-19 16:58:23,074 | INFO |     Fixation Performed : 
+2025-06-19 16:58:24,335 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-19 16:58:24,335 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 16:58:24,335 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:24,336 | INFO |     Result : Pratham
+2025-06-19 16:58:24,336 | INFO |     Result : Fail
+2025-06-19 16:58:24,336 | INFO |     Failure Category : 
+2025-06-19 16:58:24,337 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:24,337 | INFO |     Root Cause Details : 
+2025-06-19 16:58:24,338 | INFO |     Fixation Performed : 
+2025-06-19 16:58:25,406 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-19 16:58:25,849 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-19 16:58:25,849 | INFO |   🔄 Updating fields for OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 16:58:25,849 | INFO |     Failure Category : 
+2025-06-19 16:58:25,851 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:25,852 | INFO |     Root Cause Details : 
+2025-06-19 16:58:25,852 | INFO |     Fixation Performed : 
+2025-06-19 16:58:26,745 | INFO |   ✅ Updated fields for OSV-2607: 'KPIT_TC_DRT_HFT_048.
+2025-06-19 16:58:26,746 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 16:58:26,747 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:26,747 | INFO |     Result : Pratham
+2025-06-19 16:58:26,748 | INFO |     Result : Fail
+2025-06-19 16:58:26,748 | INFO |     Failure Category : 
+2025-06-19 16:58:26,749 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:26,749 | INFO |     Root Cause Details : 
+2025-06-19 16:58:26,749 | INFO |     Fixation Performed : 
+2025-06-19 16:58:27,478 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-19 16:58:27,968 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-19 16:58:27,969 | INFO |   🔄 Updating fields for OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 16:58:27,970 | INFO |     Failure Category : 
+2025-06-19 16:58:27,970 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:27,971 | INFO |     Root Cause Details : 
+2025-06-19 16:58:27,971 | INFO |     Fixation Performed : 
+2025-06-19 16:58:28,786 | INFO |   ✅ Updated fields for OSV-2610: 'KPIT_TC_DRT_BTA_053.
+2025-06-19 16:58:28,786 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 16:58:28,787 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:28,787 | INFO |     Result : Pratham
+2025-06-19 16:58:28,787 | INFO |     Result : Fail
+2025-06-19 16:58:28,787 | INFO |     Failure Category : 
+2025-06-19 16:58:28,788 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:28,788 | INFO |     Root Cause Details : 
+2025-06-19 16:58:28,788 | INFO |     Fixation Performed : 
+2025-06-19 16:58:29,536 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-19 16:58:29,982 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-19 16:58:29,983 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 16:58:29,984 | INFO |     Failure Category : 
+2025-06-19 16:58:29,985 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:29,985 | INFO |     Root Cause Details : 
+2025-06-19 16:58:29,986 | INFO |     Fixation Performed : 
+2025-06-19 16:58:30,866 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-19 16:58:30,867 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 16:58:30,867 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:30,868 | INFO |     Result : Pratham
+2025-06-19 16:58:30,869 | INFO |     Result : Fail
+2025-06-19 16:58:30,869 | INFO |     Failure Category : 
+2025-06-19 16:58:30,870 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:30,871 | INFO |     Root Cause Details : 
+2025-06-19 16:58:30,871 | INFO |     Fixation Performed : 
+2025-06-19 16:58:31,466 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-19 16:58:31,923 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-19 16:58:31,924 | INFO |   🔄 Updating fields for OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 16:58:31,925 | INFO |     Failure Category : 
+2025-06-19 16:58:31,925 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:31,926 | INFO |     Root Cause Details : 
+2025-06-19 16:58:31,927 | INFO |     Fixation Performed : 
+2025-06-19 16:58:32,719 | INFO |   ✅ Updated fields for OSV-2612: 'KPIT_TC_DRT_BTA_024.
+2025-06-19 16:58:32,720 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 16:58:32,721 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:32,721 | INFO |     Result : Pratham
+2025-06-19 16:58:32,722 | INFO |     Result : Fail
+2025-06-19 16:58:32,723 | INFO |     Failure Category : 
+2025-06-19 16:58:32,723 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:32,724 | INFO |     Root Cause Details : 
+2025-06-19 16:58:32,725 | INFO |     Fixation Performed : 
+2025-06-19 16:58:33,404 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-19 16:58:33,944 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-19 16:58:33,945 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 16:58:33,946 | INFO |     Failure Category : 
+2025-06-19 16:58:33,946 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:33,947 | INFO |     Root Cause Details : 
+2025-06-19 16:58:33,948 | INFO |     Fixation Performed : 
+2025-06-19 16:58:34,807 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-19 16:58:34,808 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 16:58:34,808 | INFO |     Date : 23rd May 2025
+2025-06-19 16:58:34,809 | INFO |     Result : Pratham
+2025-06-19 16:58:34,809 | INFO |     Result : Fail
+2025-06-19 16:58:34,811 | INFO |     Failure Category : 
+2025-06-19 16:58:34,811 | INFO |     Failure Sub Category : 
+2025-06-19 16:58:34,811 | INFO |     Root Cause Details : 
+2025-06-19 16:58:34,811 | INFO |     Fixation Performed : 
+2025-06-19 16:58:35,588 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+

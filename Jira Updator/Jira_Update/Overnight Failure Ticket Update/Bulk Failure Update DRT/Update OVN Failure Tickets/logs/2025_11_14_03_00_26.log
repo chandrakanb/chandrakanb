@@ -1,0 +1,38 @@
+2025-11-14 03:00:29,284 | INFO | ⏳ Updating 'DRT-5850: KPIT_TC_DRT_HFT_015'...
+2025-11-14 03:00:29,285 | INFO |   🔄 Updating fields for DRT-5850: 'KPIT_TC_DRT_HFT_015...
+2025-11-14 03:00:29,286 | INFO |     Failure Category : Human Error
+2025-11-14 03:00:29,287 | INFO |     Failure Sub Category : -
+2025-11-14 03:00:29,288 | INFO |     Previous Failure Category : []
+2025-11-14 03:00:29,288 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 03:00:29,289 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 03:00:29,290 | INFO |     Remarks : NA
+2025-11-14 03:00:29,291 | INFO |     Reviewer : Lumesh
+2025-11-14 03:00:30,616 | INFO |   ✅ Updated fields for DRT-5850: 'KPIT_TC_DRT_HFT_015.
+2025-11-14 03:00:30,618 | INFO |   🔄 Commenting on DRT-5850: 'KPIT_TC_DRT_HFT_015...
+2025-11-14 03:00:30,618 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 03:00:30,619 | INFO |     Result : Fail
+2025-11-14 03:00:30,620 | INFO |     Failure Category : Human Error
+2025-11-14 03:00:30,621 | INFO |     Failure Sub Category : -
+2025-11-14 03:00:30,622 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 03:00:30,622 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 03:00:31,489 | INFO |   ✅ Commented on DRT-5850: 'KPIT_TC_DRT_HFT_015.
+
+2025-11-14 03:00:32,156 | INFO | ⏳ Updating 'DRT-5849: KPIT_TC_DRT_HMI_1243'...
+2025-11-14 03:00:32,157 | INFO |   🔄 Updating fields for DRT-5849: 'KPIT_TC_DRT_HMI_1243...
+2025-11-14 03:00:32,158 | INFO |     Failure Category : Human Error
+2025-11-14 03:00:32,158 | INFO |     Failure Sub Category : -
+2025-11-14 03:00:32,159 | INFO |     Previous Failure Category : []
+2025-11-14 03:00:32,160 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 03:00:32,161 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 03:00:32,162 | INFO |     Remarks : NA
+2025-11-14 03:00:32,162 | INFO |     Reviewer : Lumesh
+2025-11-14 03:00:33,831 | INFO |   ✅ Updated fields for DRT-5849: 'KPIT_TC_DRT_HMI_1243.
+2025-11-14 03:00:33,832 | INFO |   🔄 Commenting on DRT-5849: 'KPIT_TC_DRT_HMI_1243...
+2025-11-14 03:00:33,832 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 03:00:33,833 | INFO |     Result : Fail
+2025-11-14 03:00:33,834 | INFO |     Failure Category : Human Error
+2025-11-14 03:00:33,834 | INFO |     Failure Sub Category : -
+2025-11-14 03:00:33,835 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 03:00:33,835 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 03:00:34,723 | INFO |   ✅ Commented on DRT-5849: 'KPIT_TC_DRT_HMI_1243.
+

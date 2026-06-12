@@ -1,0 +1,17 @@
+2026-02-13 19:48:43,986 | INFO | Token loaded from Environment Variable
+2026-02-13 19:48:44,672 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-02-13 19:48:45,462 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-02-13 19:48:45,854 | INFO | Processing ticket A15-2483 with current status: TS_Assigned
+2026-02-13 19:48:45,855 | WARNING | No mapping found for status: TS_Assigned
+2026-02-13 19:48:45,855 | INFO | Ticket A15-2483 is transited till status: TS_Assigned
+2026-02-13 19:48:46,587 | INFO | Processing ticket A15-1956 with current status: TS_Assigned
+2026-02-13 19:48:46,587 | WARNING | No mapping found for status: TS_Assigned
+2026-02-13 19:48:46,588 | INFO | Ticket A15-1956 is transited till status: TS_Assigned
+2026-02-13 19:48:47,340 | INFO | Processing ticket A15-1886 with current status: TS_Assigned
+2026-02-13 19:48:47,341 | WARNING | No mapping found for status: TS_Assigned
+2026-02-13 19:48:47,341 | INFO | Ticket A15-1886 is transited till status: TS_Assigned
+2026-02-13 19:48:47,662 | INFO | Processing ticket A15-1873 with current status: TS_Assigned
+2026-02-13 19:48:47,663 | WARNING | No mapping found for status: TS_Assigned
+2026-02-13 19:48:47,663 | INFO | Ticket A15-1873 is transited till status: TS_Assigned
+2026-02-13 19:48:47,664 | INFO | ✅ JIRA ISSUE TRANSITED...
+

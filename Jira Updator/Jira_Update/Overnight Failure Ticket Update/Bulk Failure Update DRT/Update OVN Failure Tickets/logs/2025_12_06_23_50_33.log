@@ -1,0 +1,76 @@
+2025-12-06 23:50:36,168 | INFO | ⏳ Updating 'DRT-1811: KPIT_TC_DRT_BT_003'...
+2025-12-06 23:50:36,169 | INFO |   🔄 Updating fields for DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:36,170 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:50:36,171 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:50:36,172 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-12-06 23:50:36,173 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:50:36,174 | INFO |     Fixation Performed : NA
+2025-12-06 23:50:36,175 | INFO |     Remarks : NA
+2025-12-06 23:50:36,187 | INFO |     Reviewer : Rajashri
+2025-12-06 23:50:37,924 | INFO |   ✅ Updated fields for DRT-1811: 'KPIT_TC_DRT_BT_003.
+2025-12-06 23:50:37,925 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:37,925 | INFO |     Date AEA1413R0.251119.1  : 2025-11-19
+2025-12-06 23:50:37,926 | INFO |     Result : Fail
+2025-12-06 23:50:37,926 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:50:37,927 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:50:37,927 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:50:37,928 | INFO |     Fixation Performed : NA
+2025-12-06 23:50:38,465 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:39,175 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:39,175 | INFO |     Date : 2025-11-20
+2025-12-06 23:50:39,175 | INFO |     Result : Pass
+2025-12-06 23:50:39,176 | INFO |     Boild Number : AEA1413R0.251120.1
+2025-12-06 23:50:40,201 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:40,471 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:40,472 | INFO |     Date : 2025-11-21
+2025-12-06 23:50:40,472 | INFO |     Result : Pass
+2025-12-06 23:50:40,473 | INFO |     Boild Number : AEA1412S0.251121.1
+2025-12-06 23:50:41,518 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:42,157 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:42,158 | INFO |     Date : 2025-11-25
+2025-12-06 23:50:42,158 | INFO |     Result : Pass
+2025-12-06 23:50:42,159 | INFO |     Boild Number : AEA1412S1.251125.1
+2025-12-06 23:50:42,575 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:43,226 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:43,227 | INFO |     Date : 2025-11-27
+2025-12-06 23:50:43,228 | INFO |     Result : Pass
+2025-12-06 23:50:43,228 | INFO |     Boild Number : AEA1413R0.251127.1
+2025-12-06 23:50:43,689 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:43,975 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:43,976 | INFO |     Date : 2025-11-28
+2025-12-06 23:50:43,976 | INFO |     Result : Pass
+2025-12-06 23:50:43,977 | INFO |     Boild Number : AEA1412S0.251128.1 
+2025-12-06 23:50:44,774 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:45,401 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:45,402 | INFO |     Date : 2025-12-03
+2025-12-06 23:50:45,403 | INFO |     Result : Pass
+2025-12-06 23:50:45,403 | INFO |     Boild Number : AEA1414R0.251203.1
+2025-12-06 23:50:46,241 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:46,514 | INFO | ⏳ Updating 'DRT-1811: KPIT_TC_DRT_BT_003'...
+2025-12-06 23:50:46,515 | INFO |   🔄 Updating fields for DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:46,516 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:50:46,516 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:50:46,517 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-12-06 23:50:46,518 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:50:46,518 | INFO |     Fixation Performed : NA
+2025-12-06 23:50:46,519 | INFO |     Remarks : NA
+2025-12-06 23:50:46,519 | INFO |     Reviewer : Rajashri
+2025-12-06 23:50:47,460 | INFO |   ✅ Updated fields for DRT-1811: 'KPIT_TC_DRT_BT_003.
+2025-12-06 23:50:47,460 | INFO |   🔄 Commenting on DRT-1811: 'KPIT_TC_DRT_BT_003...
+2025-12-06 23:50:47,461 | INFO |     Date AEA1412S0.251205.1 : 2025-12-05
+2025-12-06 23:50:47,461 | INFO |     Result : Fail
+2025-12-06 23:50:47,462 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:50:47,462 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:50:47,463 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:50:47,464 | INFO |     Fixation Performed : NA
+2025-12-06 23:50:47,887 | INFO |   ✅ Commented on DRT-1811: 'KPIT_TC_DRT_BT_003.
+
+2025-12-06 23:50:47,887 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

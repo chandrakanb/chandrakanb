@@ -1,0 +1,62 @@
+import subprocess
+import pyautogui
+import time
+import serial.tools.list_ports
+import os
+import sys
+
+def find_silicon_labs_port():
+    for port in serial.tools.list_ports.comports():
+        if "Silicon Labs CP210x USB to UART Bridge" in port.description:
+            return port.device  # Return COM port name (e.g., COM9)
+    return None
+
+def launch_teraterm(com_port):
+    try:
+        # Get the path to the Tera Term executable
+        base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "."))
+        tterm_path = os.path.join(base_dir, "teraterm", "ttermpro.exe")
+        print(tterm_path)
+        # Launch Tera Term with the specified COM port and baud rate
+        subprocess.Popen([tterm_path, f'/C={com_port[3:]}', '/BAUD=115200'])
+        print(f"Tera Term launched on {com_port} with baud rate 115200")
+        return True
+    except FileNotFoundError:
+        print("Tera Term executable not found. Ensure the path is correct.")
+        return False
+
+def send_command(command):
+    time.sleep(3)  # Wait to ensure Tera Term is ready
+    pyautogui.typewrite(command)
+    pyautogui.press("enter")
+
+def close_teraterm():
+    subprocess.run(["taskkill", "/f", "/im", "ttermpro.exe"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    print("Tera Term closed.")
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:  # Check for exactly one additional argument
+        sys.exit("Usage: python script.py <variant_code>")
+
+    # Find Silicon Labs COM port
+    # com_port = find_silicon_labs_port()
+    #if not com_port:
+    #    sys.exit("No Silicon Labs COM port found. Exiting.")
+    com_port = "COM9"
+    # Launch Tera Term
+    if not launch_teraterm(com_port):
+        sys.exit("Failed to launch Tera Term. Exiting.")
+
+    # Send commands to Tera Term
+    commands = ["MCU_DEBUG00", "MCU_DEBUG01"]
+    for command in commands:
+        send_command(command)
+    
+    variant_code = sys.argv[1]
+    for i in range(4):  # Send the variant code 4 times
+        send_command(variant_code)
+        time.sleep(1)
+
+    # Close Tera Term
+    time.sleep(2)
+    close_teraterm()

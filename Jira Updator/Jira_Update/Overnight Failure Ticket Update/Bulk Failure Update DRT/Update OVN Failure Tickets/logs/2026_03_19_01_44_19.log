@@ -1,0 +1,6 @@
+2026-03-19 01:44:20,253 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'customfield_12208' is not defined.
+
+2026-03-19 01:44:20,902 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'customfield_12208' is not defined.
+
+2026-03-19 01:44:20,902 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

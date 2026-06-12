@@ -1,0 +1,44 @@
+2025-06-06 01:19:11,263 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:19:11,265 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:19:11,266 | INFO |     Failure Category : KITE issue
+2025-06-06 01:19:11,268 | INFO |     Failure Sub Category : Image Comparison
+2025-06-06 01:19:11,269 | INFO |     Root Cause Details : Image Comparison failed with 79%
+2025-06-06 01:19:11,270 | INFO |     Fixation Performed : NA
+2025-06-06 01:19:11,929 | ERROR | [ERROR] Could not process DRT-4614: 'KPIT_TC_FNC_FM_0638_0001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2072018
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 05 Jun 2025 19:49:11 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd9247056b3429d9abc2729af845691e3', 'X-Aaccountid': '712020%3Ae0866d18-2231-4728-b8b2-bb9b749f333e', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '1401a570f81941758b5d1be72b339c8c', 'Atl-Request-Id': '1401a570-f819-4175-8b5d-1be72b339c8c', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=186,atl-edge-internal;dur=14,atl-edge-upstream;dur=172,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 dbb6065d3602c806650346acc35d28f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'GV1SGohWNrIthOBrHmtCoNe17bAIvg7ssJyuN1TbYOD-gTpgvoW03A=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'KITE issue' is not valid"}}.
+
+2025-06-06 01:19:12,241 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:19:12,242 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:19:12,242 | INFO |     Failure Category : 
+2025-06-06 01:19:12,243 | INFO |     Failure Sub Category : 
+2025-06-06 01:19:12,243 | INFO |     Root Cause Details : 
+2025-06-06 01:19:12,244 | INFO |     Fixation Performed : 
+2025-06-06 01:19:12,820 | ERROR | [ERROR] Could not process DRT-4614: 'KPIT_TC_FNC_FM_0638_0001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2072018
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 05 Jun 2025 19:49:12 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '4a94811fb7f4741d3b61445ed563c32a', 'X-Aaccountid': '712020%3Ae0866d18-2231-4728-b8b2-bb9b749f333e', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '07e41c3595e440a1b204cfed07cb294c', 'Atl-Request-Id': '07e41c35-95e4-40a1-b204-cfed07cb294c', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=144,atl-edge-internal;dur=14,atl-edge-upstream;dur=129,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 dbb6065d3602c806650346acc35d28f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'ie6pp_LNRqs_Nt26curPJkZDMi-6CG9xwwvX5r10r1jLsTvJGQSgtw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'KITE issue' is not valid"}}.
+
+2025-06-06 01:19:13,212 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:19:13,213 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:19:13,213 | INFO |     Failure Category : 
+2025-06-06 01:19:13,213 | INFO |     Failure Sub Category : 
+2025-06-06 01:19:13,214 | INFO |     Root Cause Details : 
+2025-06-06 01:19:13,214 | INFO |     Fixation Performed : 
+2025-06-06 01:19:13,816 | ERROR | [ERROR] Could not process DRT-4614: 'KPIT_TC_FNC_FM_0638_0001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2072018
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 05 Jun 2025 19:49:13 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '70758c37b5db4ee21b29279c1a4a0949', 'X-Aaccountid': '712020%3Ae0866d18-2231-4728-b8b2-bb9b749f333e', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '22527db55031466a9699eebf21182bc3', 'Atl-Request-Id': '22527db5-5031-466a-9699-eebf21182bc3', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=157,atl-edge-internal;dur=13,atl-edge-upstream;dur=144,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 dbb6065d3602c806650346acc35d28f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'GtJtlBz6ey9C75lNnWGLsbgIbEC82LxsAXDBmIye0ptN7xr7QTY8kg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'KITE issue' is not valid"}}.
+
+2025-06-06 01:19:14,245 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:19:14,246 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:19:14,246 | INFO |     Failure Category : 
+2025-06-06 01:19:14,247 | INFO |     Failure Sub Category : 
+2025-06-06 01:19:14,247 | INFO |     Root Cause Details : 
+2025-06-06 01:19:14,249 | INFO |     Fixation Performed : 
+2025-06-06 01:19:14,881 | ERROR | [ERROR] Could not process DRT-4614: 'KPIT_TC_FNC_FM_0638_0001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2072018
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 05 Jun 2025 19:49:14 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '28bb47ab5f7b43d6fa533c0cd4a9f93a', 'X-Aaccountid': '712020%3Ae0866d18-2231-4728-b8b2-bb9b749f333e', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'dadc713ae90c4e768761b77040a9fc9d', 'Atl-Request-Id': 'dadc713a-e90c-4e76-8761-b77040a9fc9d', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=174,atl-edge-internal;dur=16,atl-edge-upstream;dur=158,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 dbb6065d3602c806650346acc35d28f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'TGGX7ob3HCCWT8IfC1ghON9-7sKRwl5RQhPr2YbYIL9ZcF8BtD754Q=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'KITE issue' is not valid"}}.
+

@@ -1,0 +1,192 @@
+2026-02-17 18:29:46 | 🚀 Jira Update Started.
+
+2026-02-17 18:29:47 | ⏳ Updating    		            : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-17 18:29:47 |   🔄 Updating fields          : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-17 18:29:48 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:48 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:48 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-17 18:29:48 |     Root Cause Details        : Song sequence is changed in iPod as Test data was change yesterday
+2026-02-17 18:29:48 |     Fixation Performed        : Changed test data in iPod.
+2026-02-17 18:29:49 |   ✅ Updated fields           : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-17 18:29:49 |   🔄 Commenting               : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-17 18:29:49 |     Date                      : 2026-02-17
+2026-02-17 18:29:49 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:49 |     Result                    : Fail
+2026-02-17 18:29:49 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:49 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:49 |     Root Cause Details        : Song sequence is changed in iPod as Test data was change yesterday
+2026-02-17 18:29:49 |     Fixation Performed        : Changed test data in iPod.
+2026-02-17 18:29:49 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+2026-02-17 18:29:49 |     Reviewer                  : Rajashri
+2026-02-17 18:29:49 |   🔄 Commented                : DRT-3841 ('KPIT_TC_DRT_IPD_047') | Comment ID: 161344
+
+2026-02-17 18:29:50 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-17 18:29:50 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-17 18:29:50 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:29:50 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:29:50 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-17 18:29:50 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:29:50 |     Fixation Performed        : NA
+2026-02-17 18:29:51 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-17 18:29:51 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-17 18:29:51 |     Date                      : 2026-02-17
+2026-02-17 18:29:51 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:51 |     Result                    : Fail
+2026-02-17 18:29:51 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:29:51 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:29:51 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:29:51 |     Fixation Performed        : NA
+2026-02-17 18:29:51 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-17 18:29:51 |     Reviewer                  : Rajashri
+2026-02-17 18:29:51 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 161345
+
+2026-02-17 18:29:52 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-17 18:29:52 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-17 18:29:52 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:52 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:52 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-17 18:29:52 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:52 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:53 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-17 18:29:53 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-17 18:29:53 |     Date                      : 2026-02-17
+2026-02-17 18:29:53 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:53 |     Result                    : Fail
+2026-02-17 18:29:53 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:53 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:53 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:53 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:53 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+2026-02-17 18:29:53 |     Reviewer                  : Rajashri
+2026-02-17 18:29:53 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 161346
+
+2026-02-17 18:29:54 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-17 18:29:54 |   🔄 Updating fields          : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-17 18:29:54 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:54 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:54 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-17 18:29:54 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:54 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:55 |   ✅ Updated fields           : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-17 18:29:55 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-17 18:29:55 |     Date                      : 2026-02-17
+2026-02-17 18:29:55 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:55 |     Result                    : Fail
+2026-02-17 18:29:55 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:55 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:55 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:55 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:55 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+2026-02-17 18:29:55 |     Reviewer                  : Rajashri
+2026-02-17 18:29:55 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 161347
+
+2026-02-17 18:29:56 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-17 18:29:56 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-17 18:29:56 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:29:56 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:29:56 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issue']
+2026-02-17 18:29:56 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:29:56 |     Fixation Performed        : NA
+2026-02-17 18:29:57 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-17 18:29:57 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-17 18:29:57 |     Date                      : 2026-02-17
+2026-02-17 18:29:57 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:57 |     Result                    : Fail
+2026-02-17 18:29:57 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:29:57 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:29:57 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:29:57 |     Fixation Performed        : NA
+2026-02-17 18:29:57 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-17 18:29:57 |     Reviewer                  : Rajashri
+2026-02-17 18:29:57 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 161348
+
+2026-02-17 18:29:58 | ⏳ Updating    		            : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-17 18:29:58 |   🔄 Updating fields          : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-17 18:29:58 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:58 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:58 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-17 18:29:58 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:58 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:59 |   ✅ Updated fields           : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-17 18:29:59 |   🔄 Commenting               : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-17 18:29:59 |     Date                      : 2026-02-17
+2026-02-17 18:29:59 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:29:59 |     Result                    : Fail
+2026-02-17 18:29:59 |     Failure Category          : Test Env Issue
+2026-02-17 18:29:59 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:29:59 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:29:59 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:29:59 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+2026-02-17 18:29:59 |     Reviewer                  : Rajashri
+2026-02-17 18:29:59 |   🔄 Commented                : DRT-2308 ('KPIT_TC_DRT_BZA_005') | Comment ID: 161349
+
+2026-02-17 18:30:00 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-17 18:30:00 |   🔄 Updating fields          : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-17 18:30:00 |     Failure Category          : Test Env Issue
+2026-02-17 18:30:00 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:30:00 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-17 18:30:00 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:30:00 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:30:01 |   ✅ Updated fields           : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-17 18:30:01 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-17 18:30:01 |     Date                      : 2026-02-17
+2026-02-17 18:30:01 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:30:01 |     Result                    : Fail
+2026-02-17 18:30:01 |     Failure Category          : Test Env Issue
+2026-02-17 18:30:01 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-17 18:30:01 |     Root Cause Details        : Fast DRAG operation on Phone8, Hence failed to send VE notification.
+2026-02-17 18:30:01 |     Fixation Performed        : Changed DRAG Co-ordinates.
+2026-02-17 18:30:01 |     Remarks                   : Executed in daytime, result: Pass.
+Attached reports for the same.
+2026-02-17 18:30:01 |     Reviewer                  : Rajashri
+2026-02-17 18:30:02 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 161350
+
+2026-02-17 18:30:02 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-17 18:30:02 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-17 18:30:02 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:30:02 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:30:02 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issue']
+2026-02-17 18:30:02 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:30:02 |     Fixation Performed        : NA
+2026-02-17 18:30:03 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-17 18:30:03 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-17 18:30:03 |     Date                      : 2026-02-17
+2026-02-17 18:30:03 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:30:03 |     Result                    : Fail
+2026-02-17 18:30:03 |     Failure Category          : ICB Issue (Always)
+2026-02-17 18:30:03 |     Failure Sub Category      : Valid Issue
+2026-02-17 18:30:03 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-17 18:30:03 |     Fixation Performed        : NA
+2026-02-17 18:30:03 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-17 18:30:03 |     Reviewer                  : Rajashri
+2026-02-17 18:30:04 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 161351
+
+2026-02-17 18:30:04 | ⏳ Updating    		            : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-17 18:30:04 |   🔄 Commenting               : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-17 18:30:04 |     Date                      : 2026-02-17
+2026-02-17 18:30:04 |     Result                    : Pass
+2026-02-17 18:30:04 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:30:05 |   🔄 Commented                : DRT-2140 ('KPIT_TC_DRT_BTA_052') | Comment ID: 161352
+
+2026-02-17 18:30:05 | ⏳ Updating    		            : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-17 18:30:05 |   🔄 Commenting               : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-17 18:30:05 |     Date                      : 2026-02-17
+2026-02-17 18:30:05 |     Result                    : Pass
+2026-02-17 18:30:05 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:30:06 |   🔄 Commented                : DRT-1859 ('KPIT_TC_DRT_LMG_024') | Comment ID: 161353
+
+2026-02-17 18:30:06 | ⏳ Updating    		            : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-17 18:30:06 |   🔄 Commenting               : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-17 18:30:06 |     Date                      : 2026-02-17
+2026-02-17 18:30:06 |     Result                    : Pass
+2026-02-17 18:30:06 |     Build Number              : AEA1412S0.260217.1
+2026-02-17 18:30:07 |   🔄 Commented                : DRT-1809 ('KPIT_TC_DRT_LMG_021') | Comment ID: 161354
+
+2026-02-17 18:30:07 | ✅ Jira Update Completed.

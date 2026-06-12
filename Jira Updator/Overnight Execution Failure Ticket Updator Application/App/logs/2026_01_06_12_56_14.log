@@ -1,0 +1,23 @@
+2026-01-06 12:56:14 | 🚀 Jira Update Started.
+
+2026-01-06 12:56:14 | ⏳ Updating    		            : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:56:14 |   🔄 Updating fields          : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:56:14 |     Failure Category          : Test Env Issue
+2026-01-06 12:56:14 |     Failure Sub Category      : Network Issue
+2026-01-06 12:56:14 |     Previous Failure Category : ['ICB Issue (Once)']
+2026-01-06 12:56:14 |     Root Cause Details        : Incoming call not received.
+2026-01-06 12:56:14 |     Fixation Performed        : NA
+2026-01-06 12:56:15 |   ✅ Updated fields           : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:56:15 |   🔄 Commenting               : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:56:15 |     Date                      : 2025-12-24
+2026-01-06 12:56:15 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:56:15 |     Result                    : Fail
+2026-01-06 12:56:15 |     Failure Category          : Test Env Issue
+2026-01-06 12:56:15 |     Failure Sub Category      : Network Issue
+2026-01-06 12:56:15 |     Root Cause Details        : Incoming call not received.
+2026-01-06 12:56:15 |     Fixation Performed        : NA
+2026-01-06 12:56:15 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 12:56:15 |     Reviewer                  : Rajashri
+2026-01-06 12:56:16 |   🔄 Commented                : DRT-2031 ('KPIT_TC_DRT_MET_100') | Comment ID: 137043
+
+2026-01-06 12:56:16 | ✅ Jira Update Completed.

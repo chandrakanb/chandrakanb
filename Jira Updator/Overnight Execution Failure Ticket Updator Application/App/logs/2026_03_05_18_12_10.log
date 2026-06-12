@@ -1,0 +1,413 @@
+2026-03-05 18:12:10 | 🚀 Jira Update Started.
+
+2026-03-05 18:12:11 | ⏳ Updating    		            : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-05 18:12:11 |   🔄 Updating fields          : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-05 18:12:12 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:12 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:12 |     Previous Failure Category : ['TS Issue']
+2026-03-05 18:12:12 |     Root Cause Details        : Image comparision failed due to brightness difference
+2026-03-05 18:12:12 |     Fixation Performed        : NA
+2026-03-05 18:12:13 |   ✅ Updated fields           : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-05 18:12:13 |   🔄 Commenting               : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-05 18:12:13 |     Date                      : 2026-03-04
+2026-03-05 18:12:13 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:13 |     Result                    : Fail
+2026-03-05 18:12:13 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:13 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:13 |     Root Cause Details        : Image comparision failed due to brightness difference
+2026-03-05 18:12:13 |     Fixation Performed        : NA
+2026-03-05 18:12:13 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:13 |     Reviewer                  : Rajashri
+2026-03-05 18:12:14 |   🔄 Commented                : DRT-5002 ('KPIT_TC_DRT_PKS_004') | Comment ID: 169577
+
+2026-03-05 18:12:14 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-05 18:12:14 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-05 18:12:14 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:14 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:14 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-05 18:12:14 |     Root Cause Details        : Lag in transition VE App while sending notification
+2026-03-05 18:12:14 |     Fixation Performed        : Added 500 wait in FB before operation
+2026-03-05 18:12:15 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-05 18:12:15 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-05 18:12:15 |     Date                      : 2026-03-04
+2026-03-05 18:12:15 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:15 |     Result                    : Fail
+2026-03-05 18:12:15 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:15 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:15 |     Root Cause Details        : Lag in transition VE App while sending notification
+2026-03-05 18:12:15 |     Fixation Performed        : Added 500 wait in FB before operation
+2026-03-05 18:12:15 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:15 |     Reviewer                  : Rajashri
+2026-03-05 18:12:16 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 169578
+
+2026-03-05 18:12:16 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-05 18:12:16 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-05 18:12:16 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:16 |     Failure Sub Category      : External Application Issue
+2026-03-05 18:12:16 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-03-05 18:12:16 |     Root Cause Details        : VE App not connected with error 31 & 32
+2026-03-05 18:12:16 |     Fixation Performed        : NA
+2026-03-05 18:12:18 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-05 18:12:18 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-05 18:12:18 |     Date                      : 2026-03-04
+2026-03-05 18:12:18 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:18 |     Result                    : Fail
+2026-03-05 18:12:18 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:18 |     Failure Sub Category      : External Application Issue
+2026-03-05 18:12:18 |     Root Cause Details        : VE App not connected with error 31 & 32
+2026-03-05 18:12:18 |     Fixation Performed        : NA
+2026-03-05 18:12:18 |     Remarks                   : Executed manually in daytime, result: Pass.
+2026-03-05 18:12:18 |     Reviewer                  : Rajashri
+2026-03-05 18:12:19 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 169579
+
+2026-03-05 18:12:19 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-05 18:12:19 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-05 18:12:19 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:19 |     Failure Sub Category      : External Application Issue
+2026-03-05 18:12:19 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-03-05 18:12:19 |     Root Cause Details        : VE App not connected with error 31 & 32
+2026-03-05 18:12:19 |     Fixation Performed        : NA
+2026-03-05 18:12:20 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-05 18:12:21 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-05 18:12:21 |     Date                      : 2026-03-04
+2026-03-05 18:12:21 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:21 |     Result                    : Fail
+2026-03-05 18:12:21 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:21 |     Failure Sub Category      : External Application Issue
+2026-03-05 18:12:21 |     Root Cause Details        : VE App not connected with error 31 & 32
+2026-03-05 18:12:21 |     Fixation Performed        : NA
+2026-03-05 18:12:21 |     Remarks                   : Executed manually in daytime, result: Pass.
+2026-03-05 18:12:21 |     Reviewer                  : Rajashri
+2026-03-05 18:12:21 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 169580
+
+2026-03-05 18:12:22 | ⏳ Updating    		            : DRT-7395 ('KPIT_TC_DRT_SPCAA_074')
+2026-03-05 18:12:22 |   🔄 Updating fields          : DRT-7395 ('KPIT_TC_DRT_SPCAA_074')
+2026-03-05 18:12:22 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:22 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:22 |     Previous Failure Category : []
+2026-03-05 18:12:22 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:22 |     Fixation Performed        : NA
+2026-03-05 18:12:23 |   ✅ Updated fields           : DRT-7395 ('KPIT_TC_DRT_SPCAA_074')
+2026-03-05 18:12:23 |   🔄 Commenting               : DRT-7395 ('KPIT_TC_DRT_SPCAA_074')
+2026-03-05 18:12:23 |     Date                      : 2026-03-04
+2026-03-05 18:12:23 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:23 |     Result                    : Fail
+2026-03-05 18:12:23 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:23 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:23 |     Fixation Performed        : NA
+2026-03-05 18:12:23 |     Remarks                   : Executed manually in daytime, result: Pass.
+2026-03-05 18:12:23 |     Reviewer                  : Rajashri
+2026-03-05 18:12:24 |   🔄 Commented                : DRT-7395 ('KPIT_TC_DRT_SPCAA_074') | Comment ID: 169581
+
+2026-03-05 18:12:24 | ⏳ Updating    		            : DRT-7396 ('KPIT_TC_DRT_SPCAA_075')
+2026-03-05 18:12:24 |   🔄 Updating fields          : DRT-7396 ('KPIT_TC_DRT_SPCAA_075')
+2026-03-05 18:12:24 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:24 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:24 |     Previous Failure Category : []
+2026-03-05 18:12:24 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:24 |     Fixation Performed        : NA
+2026-03-05 18:12:25 |   ✅ Updated fields           : DRT-7396 ('KPIT_TC_DRT_SPCAA_075')
+2026-03-05 18:12:25 |   🔄 Commenting               : DRT-7396 ('KPIT_TC_DRT_SPCAA_075')
+2026-03-05 18:12:25 |     Date                      : 2026-03-04
+2026-03-05 18:12:25 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:25 |     Result                    : Fail
+2026-03-05 18:12:25 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:25 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:25 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:25 |     Fixation Performed        : NA
+2026-03-05 18:12:25 |     Remarks                   : Executed manually in daytime, result: Pass.
+2026-03-05 18:12:25 |     Reviewer                  : Rajashri
+2026-03-05 18:12:26 |   🔄 Commented                : DRT-7396 ('KPIT_TC_DRT_SPCAA_075') | Comment ID: 169582
+
+2026-03-05 18:12:26 | ⏳ Updating    		            : DRT-5927 ('KPIT_TC_DRT_HFT_020')
+2026-03-05 18:12:26 |   🔄 Updating fields          : DRT-5927 ('KPIT_TC_DRT_HFT_020')
+2026-03-05 18:12:26 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:26 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:26 |     Previous Failure Category : ['Test Env Issue']
+2026-03-05 18:12:26 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:26 |     Fixation Performed        : NA
+2026-03-05 18:12:28 |   ✅ Updated fields           : DRT-5927 ('KPIT_TC_DRT_HFT_020')
+2026-03-05 18:12:28 |   🔄 Commenting               : DRT-5927 ('KPIT_TC_DRT_HFT_020')
+2026-03-05 18:12:28 |     Date                      : 2026-03-04
+2026-03-05 18:12:28 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:28 |     Result                    : Fail
+2026-03-05 18:12:28 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:28 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:28 |     Root Cause Details        : Audio Validation Issue
+2026-03-05 18:12:28 |     Fixation Performed        : NA
+2026-03-05 18:12:28 |     Remarks                   : Executed manually in daytime, result: Pass.
+2026-03-05 18:12:28 |     Reviewer                  : Rajashri
+2026-03-05 18:12:28 |   🔄 Commented                : DRT-5927 ('KPIT_TC_DRT_HFT_020') | Comment ID: 169583
+
+2026-03-05 18:12:29 | ⏳ Updating    		            : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-03-05 18:12:29 |   🔄 Updating fields          : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-03-05 18:12:29 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:29 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:29 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'Human Error', 'ICB Issue (Once)']
+2026-03-05 18:12:29 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-03-05 18:12:29 |     Fixation Performed        : NA
+2026-03-05 18:12:30 |   ✅ Updated fields           : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-03-05 18:12:30 |   🔄 Commenting               : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-03-05 18:12:30 |     Date                      : 2026-03-04
+2026-03-05 18:12:30 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:30 |     Result                    : Fail
+2026-03-05 18:12:30 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:30 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:30 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-03-05 18:12:30 |     Fixation Performed        : NA
+2026-03-05 18:12:30 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:30 |     Reviewer                  : Rajashri
+2026-03-05 18:12:30 |   🔄 Commented                : DRT-2140 ('KPIT_TC_DRT_BTA_052') | Comment ID: 169584
+
+2026-03-05 18:12:31 | ⏳ Updating    		            : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-05 18:12:31 |   🔄 Commenting               : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-05 18:12:31 |     Date                      : 2026-03-04
+2026-03-05 18:12:31 |     Result                    : Pass
+2026-03-05 18:12:31 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:31 |   🔄 Commented                : DRT-4222 ('KPIT_TC_DRT_BSICTM_001') | Comment ID: 169585
+
+2026-03-05 18:12:32 | ⏳ Updating    		            : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-03-05 18:12:32 |   🔄 Updating fields          : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-03-05 18:12:32 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:32 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:32 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-05 18:12:32 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal Validation failed
+2026-03-05 18:12:32 |     Fixation Performed        : NA
+2026-03-05 18:12:33 |   ✅ Updated fields           : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-03-05 18:12:33 |   🔄 Commenting               : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-03-05 18:12:33 |     Date                      : 2026-03-04
+2026-03-05 18:12:33 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:33 |     Result                    : Fail
+2026-03-05 18:12:33 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:33 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:33 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal Validation failed
+2026-03-05 18:12:33 |     Fixation Performed        : NA
+2026-03-05 18:12:33 |     Remarks                   : For GPS Simualtor POC we have connected the GPS.
+Already communicated with Saurabh san
+2026-03-05 18:12:33 |     Reviewer                  : Rajashri
+2026-03-05 18:12:34 |   🔄 Commented                : DRT-5249 ('KPIT_TC_DRT_MET_048') | Comment ID: 169586
+
+2026-03-05 18:12:34 | ⏳ Updating    		            : DRT-2054 ('KPIT_TC_DRT_MET_100')
+2026-03-05 18:12:34 |   🔄 Updating fields          : DRT-2054 ('KPIT_TC_DRT_MET_100')
+2026-03-05 18:12:34 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:34 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:34 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-05 18:12:34 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-05 18:12:34 |     Fixation Performed        : NA
+2026-03-05 18:12:36 |   ✅ Updated fields           : DRT-2054 ('KPIT_TC_DRT_MET_100')
+2026-03-05 18:12:36 |   🔄 Commenting               : DRT-2054 ('KPIT_TC_DRT_MET_100')
+2026-03-05 18:12:36 |     Date                      : 2026-03-04
+2026-03-05 18:12:36 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:36 |     Result                    : Fail
+2026-03-05 18:12:36 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:36 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:36 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-05 18:12:36 |     Fixation Performed        : NA
+2026-03-05 18:12:36 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:36 |     Reviewer                  : Rajashri
+2026-03-05 18:12:36 |   🔄 Commented                : DRT-2054 ('KPIT_TC_DRT_MET_100') | Comment ID: 169587
+
+2026-03-05 18:12:37 | ⏳ Updating    		            : DRT-1847 ('KPIT_TC_FNC_SPCAA_0448_0001')
+2026-03-05 18:12:37 |   🔄 Updating fields          : DRT-1847 ('KPIT_TC_FNC_SPCAA_0448_0001')
+2026-03-05 18:12:37 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:37 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:37 |     Previous Failure Category : ['ICB Issue (Once)']
+2026-03-05 18:12:37 |     Root Cause Details        : Image comparision failed due to hight brightness
+2026-03-05 18:12:37 |     Fixation Performed        : NA
+2026-03-05 18:12:38 |   ✅ Updated fields           : DRT-1847 ('KPIT_TC_FNC_SPCAA_0448_0001')
+2026-03-05 18:12:38 |   🔄 Commenting               : DRT-1847 ('KPIT_TC_FNC_SPCAA_0448_0001')
+2026-03-05 18:12:38 |     Date                      : 2026-03-04
+2026-03-05 18:12:38 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:38 |     Result                    : Fail
+2026-03-05 18:12:38 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:38 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:38 |     Root Cause Details        : Image comparision failed due to hight brightness
+2026-03-05 18:12:38 |     Fixation Performed        : NA
+2026-03-05 18:12:38 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:38 |     Reviewer                  : Rajashri
+2026-03-05 18:12:39 |   🔄 Commented                : DRT-1847 ('KPIT_TC_FNC_SPCAA_0448_0001') | Comment ID: 169588
+
+2026-03-05 18:12:39 | ⏳ Updating    		            : DRT-3549 ('KPIT_TC_DRT_SPCCP_026')
+2026-03-05 18:12:39 |   🔄 Updating fields          : DRT-3549 ('KPIT_TC_DRT_SPCCP_026')
+2026-03-05 18:12:39 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:39 |     Previous Failure Category : ['Test Env Issue']
+2026-03-05 18:12:39 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal Validation failed
+2026-03-05 18:12:39 |     Fixation Performed        : NA
+2026-03-05 18:12:40 |   ✅ Updated fields           : DRT-3549 ('KPIT_TC_DRT_SPCCP_026')
+2026-03-05 18:12:40 |   🔄 Commenting               : DRT-3549 ('KPIT_TC_DRT_SPCCP_026')
+2026-03-05 18:12:40 |     Date                      : 2026-03-04
+2026-03-05 18:12:40 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:40 |     Result                    : Fail
+2026-03-05 18:12:40 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:40 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:40 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal Validation failed
+2026-03-05 18:12:40 |     Fixation Performed        : NA
+2026-03-05 18:12:41 |     Remarks                   : For GPS Simualtor POC we have connected the GPS.
+Already communicated with Saurabh san
+2026-03-05 18:12:41 |     Reviewer                  : Rajashri
+2026-03-05 18:12:41 |   🔄 Commented                : DRT-3549 ('KPIT_TC_DRT_SPCCP_026') | Comment ID: 169589
+
+2026-03-05 18:12:41 | ⏳ Updating    		            : DRT-6270 ('KPIT_TC_DRT_VEH_025')
+2026-03-05 18:12:42 |   🔄 Updating fields          : DRT-6270 ('KPIT_TC_DRT_VEH_025')
+2026-03-05 18:12:42 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:42 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:42 |     Previous Failure Category : ['KITE Issue']
+2026-03-05 18:12:42 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:42 |     Fixation Performed        : NA
+2026-03-05 18:12:43 |   ✅ Updated fields           : DRT-6270 ('KPIT_TC_DRT_VEH_025')
+2026-03-05 18:12:43 |   🔄 Commenting               : DRT-6270 ('KPIT_TC_DRT_VEH_025')
+2026-03-05 18:12:43 |     Date                      : 2026-03-04
+2026-03-05 18:12:43 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:43 |     Result                    : Fail
+2026-03-05 18:12:43 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:43 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:43 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:43 |     Fixation Performed        : NA
+2026-03-05 18:12:43 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:43 |     Reviewer                  : Rajashri
+2026-03-05 18:12:43 |   🔄 Commented                : DRT-6270 ('KPIT_TC_DRT_VEH_025') | Comment ID: 169590
+
+2026-03-05 18:12:44 | ⏳ Updating    		            : DRT-7397 ('KPIT_TC_DRT_VEH_031')
+2026-03-05 18:12:44 |   🔄 Updating fields          : DRT-7397 ('KPIT_TC_DRT_VEH_031')
+2026-03-05 18:12:44 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:44 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:44 |     Previous Failure Category : []
+2026-03-05 18:12:44 |     Root Cause Details        : Image comparision failed due to hight brightness
+2026-03-05 18:12:44 |     Fixation Performed        : NA
+2026-03-05 18:12:45 |   ✅ Updated fields           : DRT-7397 ('KPIT_TC_DRT_VEH_031')
+2026-03-05 18:12:45 |   🔄 Commenting               : DRT-7397 ('KPIT_TC_DRT_VEH_031')
+2026-03-05 18:12:45 |     Date                      : 2026-03-04
+2026-03-05 18:12:45 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:45 |     Result                    : Fail
+2026-03-05 18:12:45 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:45 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:45 |     Root Cause Details        : Image comparision failed due to hight brightness
+2026-03-05 18:12:45 |     Fixation Performed        : NA
+2026-03-05 18:12:45 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:45 |     Reviewer                  : Rajashri
+2026-03-05 18:12:46 |   🔄 Commented                : DRT-7397 ('KPIT_TC_DRT_VEH_031') | Comment ID: 169591
+
+2026-03-05 18:12:46 | ⏳ Updating    		            : DRT-6220 ('KPIT_TC_DRT_VEH_022')
+2026-03-05 18:12:46 |   🔄 Updating fields          : DRT-6220 ('KPIT_TC_DRT_VEH_022')
+2026-03-05 18:12:46 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:46 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:46 |     Previous Failure Category : ['KITE Issue']
+2026-03-05 18:12:46 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:46 |     Fixation Performed        : NA
+2026-03-05 18:12:47 |   ✅ Updated fields           : DRT-6220 ('KPIT_TC_DRT_VEH_022')
+2026-03-05 18:12:47 |   🔄 Commenting               : DRT-6220 ('KPIT_TC_DRT_VEH_022')
+2026-03-05 18:12:47 |     Date                      : 2026-03-04
+2026-03-05 18:12:47 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:47 |     Result                    : Fail
+2026-03-05 18:12:47 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:47 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:47 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:47 |     Fixation Performed        : NA
+2026-03-05 18:12:47 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:47 |     Reviewer                  : Rajashri
+2026-03-05 18:12:48 |   🔄 Commented                : DRT-6220 ('KPIT_TC_DRT_VEH_022') | Comment ID: 169592
+
+2026-03-05 18:12:49 | ⏳ Updating    		            : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-03-05 18:12:49 |   🔄 Updating fields          : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-03-05 18:12:49 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:49 |     Failure Sub Category      : Network Iss
+2026-03-05 18:12:49 |     Previous Failure Category : ['Test Env Issue']
+2026-03-05 18:12:49 |     Root Cause Details        : Wifi Connection Failed : "01_Automation_Lab" Network name didn't display in the WIFi List
+2026-03-05 18:12:49 |     Fixation Performed        : NA
+2026-03-05 18:12:50 |   ✅ Updated fields           : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-03-05 18:12:50 |   🔄 Commenting               : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-03-05 18:12:50 |     Date                      : 2026-03-04
+2026-03-05 18:12:50 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:50 |     Result                    : Fail
+2026-03-05 18:12:50 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:50 |     Failure Sub Category      : Network Iss
+2026-03-05 18:12:50 |     Root Cause Details        : Wifi Connection Failed : "01_Automation_Lab" Network name didn't display in the WIFi List
+2026-03-05 18:12:50 |     Fixation Performed        : NA
+2026-03-05 18:12:50 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:50 |     Reviewer                  : Rajashri
+2026-03-05 18:12:51 |   🔄 Commented                : DRT-1815 ('KPIT_TC_DRT_HAC_043') | Comment ID: 169593
+
+2026-03-05 18:12:51 | ⏳ Updating    		            : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-03-05 18:12:51 |   🔄 Updating fields          : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-03-05 18:12:51 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:51 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:51 |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issue']
+2026-03-05 18:12:51 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:51 |     Fixation Performed        : NA
+2026-03-05 18:12:52 |   ✅ Updated fields           : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-03-05 18:12:52 |   🔄 Commenting               : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-03-05 18:12:52 |     Date                      : 2026-03-04
+2026-03-05 18:12:52 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:52 |     Result                    : Fail
+2026-03-05 18:12:52 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:52 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:52 |     Root Cause Details        : Click by image failed due to high brightness
+2026-03-05 18:12:52 |     Fixation Performed        : NA
+2026-03-05 18:12:52 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:52 |     Reviewer                  : Rajashri
+2026-03-05 18:12:53 |   🔄 Commented                : DRT-6030 ('KPIT_TC_DRT_VEH_027') | Comment ID: 169594
+
+2026-03-05 18:12:53 | ⏳ Updating    		            : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-03-05 18:12:53 |   🔄 Updating fields          : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-03-05 18:12:53 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:53 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:53 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-05 18:12:53 |     Root Cause Details        : CAN Signals not reflected
+2026-03-05 18:12:54 |     Fixation Performed        : NA
+2026-03-05 18:12:54 |   ✅ Updated fields           : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-03-05 18:12:55 |   🔄 Commenting               : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-03-05 18:12:55 |     Date                      : 2026-03-04
+2026-03-05 18:12:55 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:55 |     Result                    : Fail
+2026-03-05 18:12:55 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:55 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:55 |     Root Cause Details        : CAN Signals not reflected
+2026-03-05 18:12:55 |     Fixation Performed        : NA
+2026-03-05 18:12:55 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:55 |     Reviewer                  : Rajashri
+2026-03-05 18:12:55 |   🔄 Commented                : DRT-6000 ('KPIT_TC_DRT_PSE_002') | Comment ID: 169595
+
+2026-03-05 18:12:56 | ⏳ Updating    		            : DRT-4627 ('KPIT_TC_DRT_PSE_005')
+2026-03-05 18:12:56 |   🔄 Updating fields          : DRT-4627 ('KPIT_TC_DRT_PSE_005')
+2026-03-05 18:12:56 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:56 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:56 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-05 18:12:56 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-05 18:12:56 |     Fixation Performed        : NA
+2026-03-05 18:12:57 |   ✅ Updated fields           : DRT-4627 ('KPIT_TC_DRT_PSE_005')
+2026-03-05 18:12:57 |   🔄 Commenting               : DRT-4627 ('KPIT_TC_DRT_PSE_005')
+2026-03-05 18:12:57 |     Date                      : 2026-03-04
+2026-03-05 18:12:57 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:57 |     Result                    : Fail
+2026-03-05 18:12:57 |     Failure Category          : Test Env Issue
+2026-03-05 18:12:57 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-05 18:12:57 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-05 18:12:57 |     Fixation Performed        : NA
+2026-03-05 18:12:57 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-05 18:12:57 |     Reviewer                  : Rajashri
+2026-03-05 18:12:57 |   🔄 Commented                : DRT-4627 ('KPIT_TC_DRT_PSE_005') | Comment ID: 169596
+
+2026-03-05 18:12:58 | ⏳ Updating    		            : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-03-05 18:12:58 |   🔄 Commenting               : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-03-05 18:12:58 |     Date                      : 2026-03-04
+2026-03-05 18:12:58 |     Result                    : Pass
+2026-03-05 18:12:58 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:58 |   🔄 Commented                : DRT-6284 ('KPIT_TC_DRT_MET_098') | Comment ID: 169597
+
+2026-03-05 18:12:59 | ⏳ Updating    		            : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-03-05 18:12:59 |   🔄 Commenting               : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-03-05 18:12:59 |     Date                      : 2026-03-04
+2026-03-05 18:12:59 |     Result                    : Pass
+2026-03-05 18:12:59 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:12:59 |   🔄 Commented                : DRT-5020 ('KPIT_TC_DRT_SRW_018') | Comment ID: 169598
+
+2026-03-05 18:13:00 | ⏳ Updating    		            : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-03-05 18:13:00 |   🔄 Commenting               : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-03-05 18:13:00 |     Date                      : 2026-03-04
+2026-03-05 18:13:00 |     Result                    : Pass
+2026-03-05 18:13:00 |     Build Number              : AEA1412S0.260304.1 
+2026-03-05 18:13:00 |   🔄 Commented                : DRT-4669 ('KPIT_TC_DRT_MET_056') | Comment ID: 169599
+
+2026-03-05 18:13:00 | ✅ Jira Update Completed.

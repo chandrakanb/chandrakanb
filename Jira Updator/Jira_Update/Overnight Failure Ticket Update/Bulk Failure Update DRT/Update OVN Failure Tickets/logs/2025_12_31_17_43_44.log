@@ -1,0 +1,16 @@
+2025-12-31 17:43:45,272 | INFO | ⏳ Updating 'DRT-6298: KPIT_TC_DRT_LMG_012'...
+2025-12-31 17:43:45,273 | INFO |   🔄 Updating fields for DRT-6298: 'KPIT_TC_DRT_LMG_012...
+2025-12-31 17:43:45,274 | INFO |     Failure Category : KITE Issue
+2025-12-31 17:43:45,274 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-31 17:43:45,275 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue', 'ICB Issue (Always)']
+2025-12-31 17:43:45,275 | INFO |     Root Cause Details : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2025-12-31 17:43:45,276 | INFO |     Fixation Performed : Updated Batch file with adb over wifi connect command.
+2025-12-31 17:43:45,287 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-31 17:43:45,287 | INFO |     Reviewer : Rajashri
+2025-12-31 17:43:46,022 | ERROR | [ERROR] Could not process DRT-6298: 'KPIT_TC_DRT_LMG_012 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3230594
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Wed, 31 Dec 2025 12:13:45 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'a8f631566eeb0377335b50c0f25c6186', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'cc89f2d4c33d40baa09ca7b1f4d4083f', 'Atl-Request-Id': 'cc89f2d4-c33d-40ba-a09c-a7b1f4d4083f', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=226,atl-edge-internal;dur=16,atl-edge-upstream;dur=211,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 473a7327891bdce42eed5ffe7062b9f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'cdAniZgA6r0JJNw4nDw7dNM6bfLAMGOSiywHZj76-4Mm_jEjVUGmXw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-31 17:43:46,023 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

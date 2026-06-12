@@ -1,0 +1,25 @@
+2026-02-09 10:58:11 | 🚀 Jira Update Started.
+
+2026-02-09 10:58:11 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 10:58:11 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 10:58:11 |     Failure Category          : KITE Issue
+2026-02-09 10:58:11 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 10:58:11 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-09 10:58:11 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 10:58:11 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection. 
+
+2026-02-09 10:58:12 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 10:58:12 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 10:58:12 |     Date                      : 2026-02-06
+2026-02-09 10:58:12 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 10:58:12 |     Result                    : Fail
+2026-02-09 10:58:12 |     Failure Category          : KITE Issue
+2026-02-09 10:58:12 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 10:58:12 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 10:58:12 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection. 
+
+2026-02-09 10:58:12 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 10:58:12 |     Reviewer                  : Rajashri
+2026-02-09 10:58:13 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 156280
+
+2026-02-09 10:58:13 | ✅ Jira Update Completed.

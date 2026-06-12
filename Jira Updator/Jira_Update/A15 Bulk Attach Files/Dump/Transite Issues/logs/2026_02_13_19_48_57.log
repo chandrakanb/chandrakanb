@@ -1,0 +1,4 @@
+2026-02-13 19:48:57,103 | INFO | Token loaded from Environment Variable
+2026-02-13 19:48:57,869 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-02-13 19:48:59,699 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-02-13 19:49:00,053 | INFO | Processing ticket A15-2483 with current status: TS_Assigned

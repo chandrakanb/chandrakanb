@@ -1,0 +1,279 @@
+2026-02-04 19:25:40 | 🚀 Jira Update Started.
+
+2026-02-04 19:25:40 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-04 19:25:40 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-04 19:25:41 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:41 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:41 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-04 19:25:41 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:41 |     Fixation Performed        : NA
+2026-02-04 19:25:42 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-04 19:25:42 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-04 19:25:42 |     Date                      : 2026-02-04
+2026-02-04 19:25:42 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:42 |     Result                    : Fail
+2026-02-04 19:25:42 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:42 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:42 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:42 |     Fixation Performed        : NA
+2026-02-04 19:25:42 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-02-04 19:25:42 |     Reviewer                  : Rajashri
+2026-02-04 19:25:43 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 153745
+
+2026-02-04 19:25:44 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-04 19:25:44 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-04 19:25:44 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:44 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:44 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-04 19:25:44 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:44 |     Fixation Performed        : NA
+2026-02-04 19:25:45 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-04 19:25:45 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-04 19:25:45 |     Date                      : 2026-02-04
+2026-02-04 19:25:45 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:45 |     Result                    : Fail
+2026-02-04 19:25:45 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:45 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:45 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:45 |     Fixation Performed        : NA
+2026-02-04 19:25:45 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-02-04 19:25:46 |     Reviewer                  : Rajashri
+2026-02-04 19:25:47 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 153746
+
+2026-02-04 19:25:47 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-04 19:25:47 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-04 19:25:47 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:47 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:47 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-04 19:25:47 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:47 |     Fixation Performed        : NA
+2026-02-04 19:25:48 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-04 19:25:48 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-04 19:25:48 |     Date                      : 2026-02-04
+2026-02-04 19:25:48 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:48 |     Result                    : Fail
+2026-02-04 19:25:48 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:48 |     Failure Sub Category      : External Application Issue
+2026-02-04 19:25:48 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-04 19:25:48 |     Fixation Performed        : NA
+2026-02-04 19:25:48 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-02-04 19:25:48 |     Reviewer                  : Rajashri
+2026-02-04 19:25:49 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 153747
+
+2026-02-04 19:25:50 | ⏳ Updating    		            : DRT-3475 ('KPIT_TC_DRT_MET_1214')
+2026-02-04 19:25:50 |   🔄 Updating fields          : DRT-3475 ('KPIT_TC_DRT_MET_1214')
+2026-02-04 19:25:50 |     Failure Category          : ICB Issue (Once)
+2026-02-04 19:25:50 |     Failure Sub Category      : Once Seen
+2026-02-04 19:25:50 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-04 19:25:50 |     Root Cause Details        : CAN data not transmitted properly from ICB to Meter.
+2026-02-04 19:25:50 |     Fixation Performed        : Reconnected CAN Hardware.
+2026-02-04 19:25:51 |   ✅ Updated fields           : DRT-3475 ('KPIT_TC_DRT_MET_1214')
+2026-02-04 19:25:51 |   🔄 Commenting               : DRT-3475 ('KPIT_TC_DRT_MET_1214')
+2026-02-04 19:25:51 |     Date                      : 2026-02-04
+2026-02-04 19:25:51 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:51 |     Result                    : Fail
+2026-02-04 19:25:51 |     Failure Category          : ICB Issue (Once)
+2026-02-04 19:25:51 |     Failure Sub Category      : Once Seen
+2026-02-04 19:25:51 |     Root Cause Details        : CAN data not transmitted properly from ICB to Meter.
+2026-02-04 19:25:51 |     Fixation Performed        : Reconnected CAN Hardware.
+2026-02-04 19:25:51 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:25:51 |     Reviewer                  : Rajashri
+2026-02-04 19:25:52 |   🔄 Commented                : DRT-3475 ('KPIT_TC_DRT_MET_1214') | Comment ID: 153748
+
+2026-02-04 19:25:53 | ⏳ Updating    		            : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-02-04 19:25:53 |   🔄 Updating fields          : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-02-04 19:25:53 |     Failure Category          : KITE Issue
+2026-02-04 19:25:53 |     Failure Sub Category      : Image Comparision
+2026-02-04 19:25:53 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Always)']
+2026-02-04 19:25:53 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-04 19:25:53 |     Fixation Performed        : NA
+2026-02-04 19:25:54 |   ✅ Updated fields           : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-02-04 19:25:54 |   🔄 Commenting               : DRT-2023 ('KPIT_TC_DRT_MET_014')
+2026-02-04 19:25:54 |     Date                      : 2026-02-04
+2026-02-04 19:25:54 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:54 |     Result                    : Fail
+2026-02-04 19:25:54 |     Failure Category          : KITE Issue
+2026-02-04 19:25:54 |     Failure Sub Category      : Image Comparision
+2026-02-04 19:25:54 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-04 19:25:54 |     Fixation Performed        : NA
+2026-02-04 19:25:54 |     Remarks                   : Issue is still observed after multiple times.
+2026-02-04 19:25:54 |     Reviewer                  : Rajashri
+2026-02-04 19:25:55 |   🔄 Commented                : DRT-2023 ('KPIT_TC_DRT_MET_014') | Comment ID: 153749
+
+2026-02-04 19:25:55 | ⏳ Updating    		            : DRT-2024 ('KPIT_TC_DRT_MET_103')
+2026-02-04 19:25:55 |   🔄 Updating fields          : DRT-2024 ('KPIT_TC_DRT_MET_103')
+2026-02-04 19:25:55 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:55 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:25:55 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Always)']
+2026-02-04 19:25:55 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-04 19:25:55 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-04 19:25:57 |   ✅ Updated fields           : DRT-2024 ('KPIT_TC_DRT_MET_103')
+2026-02-04 19:25:57 |   🔄 Commenting               : DRT-2024 ('KPIT_TC_DRT_MET_103')
+2026-02-04 19:25:57 |     Date                      : 2026-02-04
+2026-02-04 19:25:57 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:57 |     Result                    : Fail
+2026-02-04 19:25:57 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:57 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:25:57 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-04 19:25:57 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-04 19:25:57 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:25:57 |     Reviewer                  : Rajashri
+2026-02-04 19:25:57 |   🔄 Commented                : DRT-2024 ('KPIT_TC_DRT_MET_103') | Comment ID: 153750
+
+2026-02-04 19:25:58 | ⏳ Updating    		            : DRT-4372 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-04 19:25:58 |   🔄 Updating fields          : DRT-4372 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-04 19:25:58 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:58 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:25:58 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-04 19:25:58 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-04 19:25:58 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-04 19:25:59 |   ✅ Updated fields           : DRT-4372 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-04 19:25:59 |   🔄 Commenting               : DRT-4372 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-04 19:25:59 |     Date                      : 2026-02-04
+2026-02-04 19:25:59 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:25:59 |     Result                    : Fail
+2026-02-04 19:25:59 |     Failure Category          : Test Env Issue
+2026-02-04 19:25:59 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:25:59 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-04 19:26:00 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-04 19:26:00 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:26:00 |     Reviewer                  : Rajashri
+2026-02-04 19:26:00 |   🔄 Commented                : DRT-4372 ('KPIT_TC_DRT_SPCAA_023') | Comment ID: 153751
+
+2026-02-04 19:26:01 | ⏳ Updating    		            : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-02-04 19:26:01 |   🔄 Updating fields          : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-02-04 19:26:01 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:01 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:01 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-04 19:26:01 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-04 19:26:01 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:02 |   ✅ Updated fields           : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-02-04 19:26:02 |   🔄 Commenting               : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-02-04 19:26:02 |     Date                      : 2026-02-04
+2026-02-04 19:26:02 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:02 |     Result                    : Fail
+2026-02-04 19:26:02 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:02 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:02 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-04 19:26:02 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:02 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:26:02 |     Reviewer                  : Rajashri
+2026-02-04 19:26:03 |   🔄 Commented                : DRT-1735 ('KPIT_TC_DRT_HAC_043') | Comment ID: 153752
+
+2026-02-04 19:26:04 | ⏳ Updating    		            : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-02-04 19:26:04 |   🔄 Updating fields          : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-02-04 19:26:04 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:04 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:04 |     Previous Failure Category : ['Test Env Issue']
+2026-02-04 19:26:04 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-04 19:26:04 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:05 |   ✅ Updated fields           : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-02-04 19:26:05 |   🔄 Commenting               : DRT-5014 ('KPIT_TC_DRT_SRW_003')
+2026-02-04 19:26:05 |     Date                      : 2026-02-04
+2026-02-04 19:26:05 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:05 |     Result                    : Fail
+2026-02-04 19:26:05 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:05 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:05 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-04 19:26:05 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:05 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:26:05 |     Reviewer                  : Rajashri
+2026-02-04 19:26:06 |   🔄 Commented                : DRT-5014 ('KPIT_TC_DRT_SRW_003') | Comment ID: 153753
+
+2026-02-04 19:26:06 | ⏳ Updating    		            : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-02-04 19:26:06 |   🔄 Updating fields          : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-02-04 19:26:06 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:06 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:06 |     Previous Failure Category : ['Test Env Issue']
+2026-02-04 19:26:06 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-04 19:26:06 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:07 |   ✅ Updated fields           : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-02-04 19:26:07 |   🔄 Commenting               : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-02-04 19:26:08 |     Date                      : 2026-02-04
+2026-02-04 19:26:08 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:08 |     Result                    : Fail
+2026-02-04 19:26:08 |     Failure Category          : Test Env Issue
+2026-02-04 19:26:08 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-04 19:26:08 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-04 19:26:08 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-04 19:26:08 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-04 19:26:08 |     Reviewer                  : Rajashri
+2026-02-04 19:26:09 |   🔄 Commented                : DRT-5013 ('KPIT_TC_DRT_SRW_018') | Comment ID: 153754
+
+2026-02-04 19:26:09 | ⏳ Updating    		            : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-02-04 19:26:09 |   🔄 Updating fields          : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-02-04 19:26:09 |     Failure Category          : KITE Issue
+2026-02-04 19:26:09 |     Failure Sub Category      : Image Comparision
+2026-02-04 19:26:09 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-04 19:26:09 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-04 19:26:09 |     Fixation Performed        : NA
+2026-02-04 19:26:10 |   ✅ Updated fields           : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-02-04 19:26:10 |   🔄 Commenting               : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-02-04 19:26:10 |     Date                      : 2026-02-04
+2026-02-04 19:26:10 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:10 |     Result                    : Fail
+2026-02-04 19:26:10 |     Failure Category          : KITE Issue
+2026-02-04 19:26:10 |     Failure Sub Category      : Image Comparision
+2026-02-04 19:26:10 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-04 19:26:10 |     Fixation Performed        : NA
+2026-02-04 19:26:10 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-02-04 19:26:10 |     Reviewer                  : Rajashri
+2026-02-04 19:26:11 |   🔄 Commented                : DRT-5781 ('KPIT_TC_DRT_VEH_027') | Comment ID: 153756
+
+2026-02-04 19:26:11 | ⏳ Updating    		            : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-02-04 19:26:11 |   🔄 Commenting               : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-02-04 19:26:11 |     Date                      : 2026-02-04
+2026-02-04 19:26:11 |     Result                    : Pass
+2026-02-04 19:26:11 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:12 |   🔄 Commented                : DRT-5780 ('KPIT_TC_DRT_VEH_021') | Comment ID: 153757
+
+2026-02-04 19:26:12 | ⏳ Updating    		            : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-02-04 19:26:12 |   🔄 Commenting               : DRT-4474 ('KPIT_TC_DRT_MET_060')
+2026-02-04 19:26:12 |     Date                      : 2026-02-04
+2026-02-04 19:26:12 |     Result                    : Pass
+2026-02-04 19:26:12 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:13 |   🔄 Commented                : DRT-4474 ('KPIT_TC_DRT_MET_060') | Comment ID: 153758
+
+2026-02-04 19:26:13 | ⏳ Updating    		            : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-02-04 19:26:13 |   🔄 Commenting               : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-02-04 19:26:13 |     Date                      : 2026-02-04
+2026-02-04 19:26:13 |     Result                    : Pass
+2026-02-04 19:26:13 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:14 |   🔄 Commented                : DRT-3981 ('KPIT_TC_DRT_BT_003') | Comment ID: 153759
+
+2026-02-04 19:26:14 | ⏳ Updating    		            : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-02-04 19:26:14 |   🔄 Commenting               : DRT-3867 ('KPIT_TC_DRT_MET_048')
+2026-02-04 19:26:14 |     Date                      : 2026-02-04
+2026-02-04 19:26:14 |     Result                    : Pass
+2026-02-04 19:26:14 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:15 |   🔄 Commented                : DRT-3867 ('KPIT_TC_DRT_MET_048') | Comment ID: 153760
+
+2026-02-04 19:26:15 | ⏳ Updating    		            : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-02-04 19:26:15 |   🔄 Commenting               : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-02-04 19:26:15 |     Date                      : 2026-02-04
+2026-02-04 19:26:15 |     Result                    : Pass
+2026-02-04 19:26:15 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:16 |   🔄 Commented                : DRT-3831 ('KPIT_TC_DRT_IPD_047') | Comment ID: 153761
+
+2026-02-04 19:26:16 | ⏳ Updating    		            : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-02-04 19:26:16 |   🔄 Commenting               : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-02-04 19:26:16 |     Date                      : 2026-02-04
+2026-02-04 19:26:16 |     Result                    : Pass
+2026-02-04 19:26:16 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:17 |   🔄 Commented                : DRT-1740 ('KPIT_TC_DRT_LMG_014') | Comment ID: 153762
+
+2026-02-04 19:26:18 | ⏳ Updating    		            : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-02-04 19:26:18 |   🔄 Commenting               : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-02-04 19:26:18 |     Date                      : 2026-02-04
+2026-02-04 19:26:18 |     Result                    : Pass
+2026-02-04 19:26:18 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:19 |   🔄 Commented                : DRT-1733 ('KPIT_TC_DRT_LMG_005') | Comment ID: 153763
+
+2026-02-04 19:26:19 | ⏳ Updating    		            : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-02-04 19:26:19 |   🔄 Commenting               : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-02-04 19:26:19 |     Date                      : 2026-02-04
+2026-02-04 19:26:19 |     Result                    : Pass
+2026-02-04 19:26:19 |     Build Number              : AEA1417D0.260204.1
+2026-02-04 19:26:20 |   🔄 Commented                : DRT-1732 ('KPIT_TC_DRT_LMG_021') | Comment ID: 153764
+
+2026-02-04 19:26:20 | ✅ Jira Update Completed.

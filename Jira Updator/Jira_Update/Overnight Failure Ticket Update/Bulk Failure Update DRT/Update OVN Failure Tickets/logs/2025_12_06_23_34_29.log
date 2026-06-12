@@ -1,0 +1,28 @@
+2025-12-06 23:34:31,369 | INFO |   🔄 Commenting on DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-06 23:34:31,369 | INFO |     Date : 2025-11-05
+2025-12-06 23:34:31,370 | INFO |     Result : Pass
+2025-12-06 23:34:31,370 | INFO |     Boild Number : AEA1412S0.251205.1
+2025-12-06 23:34:32,277 | INFO |   ✅ Commented on DRT-2309: 'KPIT_TC_DRT_BZA_015.
+
+2025-12-06 23:34:32,544 | INFO |   🔄 Commenting on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-06 23:34:32,545 | INFO |     Date : 2025-11-05
+2025-12-06 23:34:32,545 | INFO |     Result : Pass
+2025-12-06 23:34:32,546 | INFO |     Boild Number : AEA1412S0.251205.1
+2025-12-06 23:34:33,021 | INFO |   ✅ Commented on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-12-06 23:34:33,327 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-06 23:34:33,328 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-06 23:34:33,328 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:34:33,329 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:34:33,329 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issues', 'Test Env Issue']
+2025-12-06 23:34:33,330 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:34:33,330 | INFO |     Fixation Performed : NA
+2025-12-06 23:34:33,331 | INFO |     Remarks : NA
+2025-12-06 23:34:33,331 | INFO |     Reviewer : Rajashri
+2025-12-06 23:34:33,652 | ERROR | [ERROR] Could not process DRT-1859: 'KPIT_TC_DRT_LMG_024 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18011
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 06 Dec 2025 18:04:33 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '7b16d7fbe8a976af6a58139daa2ed23c', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'ffeac6e9aa35413b935083abadcf7420', 'Atl-Request-Id': 'ffeac6e9-aa35-413b-9350-83abadcf7420', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=178,atl-edge-internal;dur=17,atl-edge-upstream;dur=162,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 31ee5bc763f28a23b077361a6e2fa376.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P2', 'X-Amz-Cf-Id': 'Ow6e2JGVd2vWRqSk7oQUzGWZ184NVO5Y3VtK1cZNqldtXhS036ayIg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-06 23:34:33,652 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

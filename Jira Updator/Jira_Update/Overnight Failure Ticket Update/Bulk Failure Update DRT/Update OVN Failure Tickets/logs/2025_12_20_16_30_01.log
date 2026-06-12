@@ -1,0 +1,40 @@
+2025-12-20 16:30:02,237 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-20 16:30:02,239 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-20 16:30:02,240 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:30:02,241 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:30:02,242 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-12-20 16:30:02,243 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:30:02,244 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:30:02,245 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:30:02,256 | INFO |     Reviewer : Rajashri
+2025-12-20 16:30:03,440 | INFO |   ✅ Updated fields for DRT-1859: 'KPIT_TC_DRT_LMG_024.
+2025-12-20 16:30:03,441 | INFO |   🔄 Commenting on DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-20 16:30:03,442 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:30:03,442 | INFO |     Result : Fail
+2025-12-20 16:30:03,442 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:30:03,443 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:30:03,443 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:30:03,444 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:30:03,927 | INFO |   ✅ Commented on DRT-1859: 'KPIT_TC_DRT_LMG_024.
+
+2025-12-20 16:30:04,204 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-20 16:30:04,205 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-20 16:30:04,205 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:30:04,206 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:30:04,206 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-12-20 16:30:04,207 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:30:04,208 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:30:04,208 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:30:04,209 | INFO |     Reviewer : Rajashri
+2025-12-20 16:30:05,136 | INFO |   ✅ Updated fields for DRT-1809: 'KPIT_TC_DRT_LMG_021.
+2025-12-20 16:30:05,137 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-20 16:30:05,138 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:30:05,139 | INFO |     Result : Fail
+2025-12-20 16:30:05,139 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:30:05,140 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:30:05,140 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:30:05,141 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:30:05,668 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-20 16:30:05,669 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

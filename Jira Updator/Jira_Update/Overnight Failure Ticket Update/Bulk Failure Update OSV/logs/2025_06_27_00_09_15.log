@@ -1,0 +1,476 @@
+2025-06-27 00:09:22,353 | INFO | ⏳ Updating 'OSV-4360: KPIT_TC_DRT_ANT_011'...
+2025-06-27 00:09:22,354 | INFO |   🔄 Updating fields for OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-06-27 00:09:22,354 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:09:22,354 | INFO |     Failure Sub Category : Timing Issue
+2025-06-27 00:09:22,356 | INFO |     Root Cause Details : Disclaimer Popup remained for longer duration, Hence Home screen  Validation failed. TS Objective passed.
+2025-06-27 00:09:22,356 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:23,657 | INFO |   ✅ Updated fields for OSV-4360: 'KPIT_TC_DRT_ANT_011.
+2025-06-27 00:09:23,657 | INFO |   🔄 Commenting on OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-06-27 00:09:23,658 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:23,658 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:23,658 | INFO |     Result               : Fail
+2025-06-27 00:09:23,659 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:09:23,659 | INFO |     Failure Sub Category : Timing Issue
+2025-06-27 00:09:23,659 | INFO |     Root Cause Details   : Disclaimer Popup remained for longer duration, Hence Home screen  Validation failed. TS Objective passed.
+2025-06-27 00:09:23,659 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:24,610 | INFO |   ✅ Commented on OSV-4360: 'KPIT_TC_DRT_ANT_011.
+
+2025-06-27 00:09:24,933 | INFO | ⏳ Updating 'OSV-4366: KPIT_TC_DRT_BTA_024'...
+2025-06-27 00:09:24,935 | INFO |   🔄 Updating fields for OSV-4366: 'KPIT_TC_DRT_BTA_024...
+2025-06-27 00:09:24,936 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:24,936 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:24,937 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:24,937 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:25,783 | INFO |   ✅ Updated fields for OSV-4366: 'KPIT_TC_DRT_BTA_024.
+2025-06-27 00:09:25,783 | INFO |   🔄 Commenting on OSV-4366: 'KPIT_TC_DRT_BTA_024...
+2025-06-27 00:09:25,784 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:25,784 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:25,785 | INFO |     Result               : Fail
+2025-06-27 00:09:25,785 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:25,786 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:25,786 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:25,787 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:26,376 | INFO |   ✅ Commented on OSV-4366: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-27 00:09:26,710 | INFO | ⏳ Updating 'OSV-4427: KPIT_TC_DRT_BTA_021'...
+2025-06-27 00:09:26,710 | INFO |   🔄 Updating fields for OSV-4427: 'KPIT_TC_DRT_BTA_021...
+2025-06-27 00:09:26,711 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:26,711 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:26,711 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:26,712 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:27,595 | INFO |   ✅ Updated fields for OSV-4427: 'KPIT_TC_DRT_BTA_021.
+2025-06-27 00:09:27,595 | INFO |   🔄 Commenting on OSV-4427: 'KPIT_TC_DRT_BTA_021...
+2025-06-27 00:09:27,595 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:27,596 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:27,596 | INFO |     Result               : Fail
+2025-06-27 00:09:27,596 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:27,597 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:27,597 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:27,597 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:28,132 | INFO |   ✅ Commented on OSV-4427: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-27 00:09:28,465 | INFO | ⏳ Updating 'OSV-4358: KPIT_TC_DRT_BTA_049'...
+2025-06-27 00:09:28,466 | INFO |   🔄 Updating fields for OSV-4358: 'KPIT_TC_DRT_BTA_049...
+2025-06-27 00:09:28,466 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:28,467 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:28,467 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:28,468 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:29,336 | INFO |   ✅ Updated fields for OSV-4358: 'KPIT_TC_DRT_BTA_049.
+2025-06-27 00:09:29,337 | INFO |   🔄 Commenting on OSV-4358: 'KPIT_TC_DRT_BTA_049...
+2025-06-27 00:09:29,337 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:29,337 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:29,338 | INFO |     Result               : Fail
+2025-06-27 00:09:29,338 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:29,338 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:29,338 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:29,338 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:30,275 | INFO |   ✅ Commented on OSV-4358: 'KPIT_TC_DRT_BTA_049.
+
+2025-06-27 00:09:30,613 | INFO | ⏳ Updating 'OSV-4368: KPIT_TC_DRT_BTA_032'...
+2025-06-27 00:09:30,614 | INFO |   🔄 Updating fields for OSV-4368: 'KPIT_TC_DRT_BTA_032...
+2025-06-27 00:09:30,615 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:30,615 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:30,615 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:30,616 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:31,420 | INFO |   ✅ Updated fields for OSV-4368: 'KPIT_TC_DRT_BTA_032.
+2025-06-27 00:09:31,420 | INFO |   🔄 Commenting on OSV-4368: 'KPIT_TC_DRT_BTA_032...
+2025-06-27 00:09:31,421 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:31,421 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:31,421 | INFO |     Result               : Fail
+2025-06-27 00:09:31,422 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:31,422 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:31,422 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:31,423 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:31,999 | INFO |   ✅ Commented on OSV-4368: 'KPIT_TC_DRT_BTA_032.
+
+2025-06-27 00:09:32,343 | INFO | ⏳ Updating 'OSV-4356: KPIT_TC_DRT_HED_013'...
+2025-06-27 00:09:32,344 | INFO |   🔄 Updating fields for OSV-4356: 'KPIT_TC_DRT_HED_013...
+2025-06-27 00:09:32,344 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:32,344 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:32,345 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:32,345 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:33,187 | INFO |   ✅ Updated fields for OSV-4356: 'KPIT_TC_DRT_HED_013.
+2025-06-27 00:09:33,187 | INFO |   🔄 Commenting on OSV-4356: 'KPIT_TC_DRT_HED_013...
+2025-06-27 00:09:33,188 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:33,188 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:33,188 | INFO |     Result               : Fail
+2025-06-27 00:09:33,189 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:33,189 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:33,189 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:33,189 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:34,101 | INFO |   ✅ Commented on OSV-4356: 'KPIT_TC_DRT_HED_013.
+
+2025-06-27 00:09:34,433 | INFO | ⏳ Updating 'OSV-4376: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-27 00:09:34,433 | INFO |   🔄 Updating fields for OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-27 00:09:34,434 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:09:34,434 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:34,435 | INFO |     Root Cause Details : Android Auto Device disconnected, Post Acc cycle.
+2025-06-27 00:09:34,435 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass. Gen Box Required for Bench01.
+2025-06-27 00:09:35,286 | INFO |   ✅ Updated fields for OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-27 00:09:35,287 | INFO |   🔄 Commenting on OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-27 00:09:35,287 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:35,288 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:35,288 | INFO |     Result               : Fail
+2025-06-27 00:09:35,288 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:09:35,289 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:35,289 | INFO |     Root Cause Details   : Android Auto Device disconnected, Post Acc cycle.
+2025-06-27 00:09:35,289 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass. Gen Box Required for Bench01.
+2025-06-27 00:09:36,215 | INFO |   ✅ Commented on OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-27 00:09:36,559 | INFO | ⏳ Updating 'OSV-4373: KPIT_TC_DRT_KBD_003'...
+2025-06-27 00:09:36,559 | INFO |   🔄 Updating fields for OSV-4373: 'KPIT_TC_DRT_KBD_003...
+2025-06-27 00:09:36,559 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:36,559 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:36,561 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:36,561 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:37,371 | INFO |   ✅ Updated fields for OSV-4373: 'KPIT_TC_DRT_KBD_003.
+2025-06-27 00:09:37,371 | INFO |   🔄 Commenting on OSV-4373: 'KPIT_TC_DRT_KBD_003...
+2025-06-27 00:09:37,372 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:37,372 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:37,372 | INFO |     Result               : Fail
+2025-06-27 00:09:37,373 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:37,373 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:37,373 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:37,374 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:37,956 | INFO |   ✅ Commented on OSV-4373: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-27 00:09:38,274 | INFO | ⏳ Updating 'OSV-4364: KPIT_TC_DRT_KBD_017'...
+2025-06-27 00:09:38,275 | INFO |   🔄 Updating fields for OSV-4364: 'KPIT_TC_DRT_KBD_017...
+2025-06-27 00:09:38,275 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:09:38,276 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:38,276 | INFO |     Root Cause Details : Keyboard Input Language is not get set to Francais, Even if the robot click performed.
+2025-06-27 00:09:38,276 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:39,118 | INFO |   ✅ Updated fields for OSV-4364: 'KPIT_TC_DRT_KBD_017.
+2025-06-27 00:09:39,119 | INFO |   🔄 Commenting on OSV-4364: 'KPIT_TC_DRT_KBD_017...
+2025-06-27 00:09:39,119 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:39,120 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:39,120 | INFO |     Result               : Fail
+2025-06-27 00:09:39,121 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:09:39,121 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:39,122 | INFO |     Root Cause Details   : Keyboard Input Language is not get set to Francais, Even if the robot click performed.
+2025-06-27 00:09:39,122 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:40,002 | INFO |   ✅ Commented on OSV-4364: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-27 00:09:40,375 | INFO | ⏳ Updating 'OSV-4421: KPIT_TC_DRT_PRM_003'...
+2025-06-27 00:09:40,375 | INFO |   🔄 Updating fields for OSV-4421: 'KPIT_TC_DRT_PRM_003...
+2025-06-27 00:09:40,375 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:09:40,376 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:40,376 | INFO |     Root Cause Details : Do_not_show_this_again is not get selected on Profile Setup Notification in B-zone, Even if the robot click performed.
+2025-06-27 00:09:40,376 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:41,267 | INFO |   ✅ Updated fields for OSV-4421: 'KPIT_TC_DRT_PRM_003.
+2025-06-27 00:09:41,267 | INFO |   🔄 Commenting on OSV-4421: 'KPIT_TC_DRT_PRM_003...
+2025-06-27 00:09:41,268 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:41,268 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:41,268 | INFO |     Result               : Fail
+2025-06-27 00:09:41,269 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:09:41,269 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-27 00:09:41,270 | INFO |     Root Cause Details   : Do_not_show_this_again is not get selected on Profile Setup Notification in B-zone, Even if the robot click performed.
+2025-06-27 00:09:41,270 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:42,220 | INFO |   ✅ Commented on OSV-4421: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-27 00:09:42,605 | INFO | ⏳ Updating 'OSV-4363: KPIT_TC_DRT_HFT_017'...
+2025-06-27 00:09:42,606 | INFO |   🔄 Updating fields for OSV-4363: 'KPIT_TC_DRT_HFT_017...
+2025-06-27 00:09:42,606 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:42,607 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:42,607 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:42,607 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:43,531 | INFO |   ✅ Updated fields for OSV-4363: 'KPIT_TC_DRT_HFT_017.
+2025-06-27 00:09:43,532 | INFO |   🔄 Commenting on OSV-4363: 'KPIT_TC_DRT_HFT_017...
+2025-06-27 00:09:43,532 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:43,532 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:43,534 | INFO |     Result               : Fail
+2025-06-27 00:09:43,534 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:43,534 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:43,534 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:43,534 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:44,423 | INFO |   ✅ Commented on OSV-4363: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-27 00:09:44,736 | INFO | ⏳ Updating 'OSV-4377: KPIT_TC_DRT_HFT_046'...
+2025-06-27 00:09:44,736 | INFO |   🔄 Updating fields for OSV-4377: 'KPIT_TC_DRT_HFT_046...
+2025-06-27 00:09:44,737 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:44,737 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:44,737 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:44,737 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:45,536 | INFO |   ✅ Updated fields for OSV-4377: 'KPIT_TC_DRT_HFT_046.
+2025-06-27 00:09:45,537 | INFO |   🔄 Commenting on OSV-4377: 'KPIT_TC_DRT_HFT_046...
+2025-06-27 00:09:45,537 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:45,538 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:45,538 | INFO |     Result               : Fail
+2025-06-27 00:09:45,538 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:45,538 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:45,539 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:45,539 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:46,034 | INFO |   ✅ Commented on OSV-4377: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-27 00:09:46,346 | INFO | ⏳ Updating 'OSV-4353: KPIT_TC_DRT_HFT_052'...
+2025-06-27 00:09:46,347 | INFO |   🔄 Updating fields for OSV-4353: 'KPIT_TC_DRT_HFT_052...
+2025-06-27 00:09:46,347 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:46,347 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:46,348 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:46,348 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:47,212 | INFO |   ✅ Updated fields for OSV-4353: 'KPIT_TC_DRT_HFT_052.
+2025-06-27 00:09:47,213 | INFO |   🔄 Commenting on OSV-4353: 'KPIT_TC_DRT_HFT_052...
+2025-06-27 00:09:47,213 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:47,213 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:47,214 | INFO |     Result               : Fail
+2025-06-27 00:09:47,214 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:47,214 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:47,214 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:47,215 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:47,811 | INFO |   ✅ Commented on OSV-4353: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-27 00:09:48,160 | INFO | ⏳ Updating 'OSV-4361: KPIT_TC_DRT_HFT_059'...
+2025-06-27 00:09:48,160 | INFO |   🔄 Updating fields for OSV-4361: 'KPIT_TC_DRT_HFT_059...
+2025-06-27 00:09:48,161 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:48,161 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:48,162 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:48,162 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:48,981 | INFO |   ✅ Updated fields for OSV-4361: 'KPIT_TC_DRT_HFT_059.
+2025-06-27 00:09:48,982 | INFO |   🔄 Commenting on OSV-4361: 'KPIT_TC_DRT_HFT_059...
+2025-06-27 00:09:48,983 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:48,983 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:48,984 | INFO |     Result               : Fail
+2025-06-27 00:09:48,984 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:48,984 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:48,985 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:48,985 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:49,567 | INFO |   ✅ Commented on OSV-4361: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-27 00:09:49,900 | INFO | ⏳ Updating 'OSV-4351: KPIT_TC_DRT_HFT_047'...
+2025-06-27 00:09:49,901 | INFO |   🔄 Updating fields for OSV-4351: 'KPIT_TC_DRT_HFT_047...
+2025-06-27 00:09:49,901 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:49,902 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:49,902 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:49,902 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:50,754 | INFO |   ✅ Updated fields for OSV-4351: 'KPIT_TC_DRT_HFT_047.
+2025-06-27 00:09:50,754 | INFO |   🔄 Commenting on OSV-4351: 'KPIT_TC_DRT_HFT_047...
+2025-06-27 00:09:50,755 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:50,755 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:50,755 | INFO |     Result               : Fail
+2025-06-27 00:09:50,755 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:50,755 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:50,756 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:50,756 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:51,815 | INFO |   ✅ Commented on OSV-4351: 'KPIT_TC_DRT_HFT_047.
+
+2025-06-27 00:09:52,137 | INFO | ⏳ Updating 'OSV-4354: KPIT_TC_DRT_HFT_054'...
+2025-06-27 00:09:52,137 | INFO |   🔄 Updating fields for OSV-4354: 'KPIT_TC_DRT_HFT_054...
+2025-06-27 00:09:52,138 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:52,138 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:52,138 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:52,138 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:52,933 | INFO |   ✅ Updated fields for OSV-4354: 'KPIT_TC_DRT_HFT_054.
+2025-06-27 00:09:52,934 | INFO |   🔄 Commenting on OSV-4354: 'KPIT_TC_DRT_HFT_054...
+2025-06-27 00:09:52,934 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:52,935 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:52,935 | INFO |     Result               : Fail
+2025-06-27 00:09:52,935 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:52,935 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:52,935 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:52,936 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:53,902 | INFO |   ✅ Commented on OSV-4354: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-27 00:09:54,246 | INFO | ⏳ Updating 'OSV-4438: KPIT_TC_DRT_USB_102'...
+2025-06-27 00:09:54,247 | INFO |   🔄 Updating fields for OSV-4438: 'KPIT_TC_DRT_USB_102...
+2025-06-27 00:09:54,247 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:09:54,247 | INFO |     Failure Sub Category : Once Seen
+2025-06-27 00:09:54,247 | INFO |     Root Cause Details : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-27 00:09:54,248 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:55,096 | INFO |   ✅ Updated fields for OSV-4438: 'KPIT_TC_DRT_USB_102.
+2025-06-27 00:09:55,097 | INFO |   🔄 Commenting on OSV-4438: 'KPIT_TC_DRT_USB_102...
+2025-06-27 00:09:55,097 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:55,097 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:55,098 | INFO |     Result               : Fail
+2025-06-27 00:09:55,098 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:09:55,098 | INFO |     Failure Sub Category : Once Seen
+2025-06-27 00:09:55,098 | INFO |     Root Cause Details   : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-27 00:09:55,099 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:55,606 | INFO |   ✅ Commented on OSV-4438: 'KPIT_TC_DRT_USB_102.
+
+2025-06-27 00:09:55,937 | INFO | ⏳ Updating 'OSV-4439: KPIT_TC_DRT_USB_103'...
+2025-06-27 00:09:55,937 | INFO |   🔄 Updating fields for OSV-4439: 'KPIT_TC_DRT_USB_103...
+2025-06-27 00:09:55,937 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:09:55,938 | INFO |     Failure Sub Category : Once Seen
+2025-06-27 00:09:55,938 | INFO |     Root Cause Details : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-27 00:09:55,939 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:56,804 | INFO |   ✅ Updated fields for OSV-4439: 'KPIT_TC_DRT_USB_103.
+2025-06-27 00:09:56,805 | INFO |   🔄 Commenting on OSV-4439: 'KPIT_TC_DRT_USB_103...
+2025-06-27 00:09:56,805 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:56,805 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:56,805 | INFO |     Result               : Fail
+2025-06-27 00:09:56,806 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:09:56,806 | INFO |     Failure Sub Category : Once Seen
+2025-06-27 00:09:56,806 | INFO |     Root Cause Details   : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-27 00:09:56,806 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-27 00:09:57,648 | INFO |   ✅ Commented on OSV-4439: 'KPIT_TC_DRT_USB_103.
+
+2025-06-27 00:09:57,974 | INFO | ⏳ Updating 'OSV-4378: KPIT_TC_DRT_USB_1245'...
+2025-06-27 00:09:57,975 | INFO |   🔄 Updating fields for OSV-4378: 'KPIT_TC_DRT_USB_1245...
+2025-06-27 00:09:57,976 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:57,976 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:57,977 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:57,977 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:58,817 | INFO |   ✅ Updated fields for OSV-4378: 'KPIT_TC_DRT_USB_1245.
+2025-06-27 00:09:58,817 | INFO |   🔄 Commenting on OSV-4378: 'KPIT_TC_DRT_USB_1245...
+2025-06-27 00:09:58,818 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:09:58,818 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:09:58,818 | INFO |     Result               : Fail
+2025-06-27 00:09:58,818 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:09:58,818 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:58,819 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:58,819 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:09:59,369 | INFO |   ✅ Commented on OSV-4378: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-27 00:09:59,680 | INFO | ⏳ Updating 'OSV-4428: KPIT_TC_DRT_BTA_018'...
+2025-06-27 00:09:59,681 | INFO |   🔄 Updating fields for OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 00:09:59,681 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:09:59,681 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:09:59,682 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:09:59,682 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:00,558 | INFO |   ✅ Updated fields for OSV-4428: 'KPIT_TC_DRT_BTA_018.
+2025-06-27 00:10:00,559 | INFO |   🔄 Commenting on OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 00:10:00,559 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:00,559 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:00,560 | INFO |     Result               : Fail
+2025-06-27 00:10:00,560 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:00,560 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:00,560 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:00,561 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:01,052 | INFO |   ✅ Commented on OSV-4428: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-27 00:10:01,366 | INFO | ⏳ Updating 'OSV-4416: KPIT_TC_DRT_BTA_053'...
+2025-06-27 00:10:01,367 | INFO |   🔄 Updating fields for OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 00:10:01,367 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:01,367 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:01,368 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:01,368 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:02,304 | INFO |   ✅ Updated fields for OSV-4416: 'KPIT_TC_DRT_BTA_053.
+2025-06-27 00:10:02,304 | INFO |   🔄 Commenting on OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 00:10:02,305 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:02,305 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:02,305 | INFO |     Result               : Fail
+2025-06-27 00:10:02,306 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:02,306 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:02,306 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:02,306 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:02,852 | INFO |   ✅ Commented on OSV-4416: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-27 00:10:03,232 | INFO | ⏳ Updating 'OSV-4409: KPIT_TC_DRT_HMI_001'...
+2025-06-27 00:10:03,232 | INFO |   🔄 Updating fields for OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 00:10:03,232 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:03,233 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:03,233 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:03,233 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:04,130 | INFO |   ✅ Updated fields for OSV-4409: 'KPIT_TC_DRT_HMI_001.
+2025-06-27 00:10:04,130 | INFO |   🔄 Commenting on OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 00:10:04,131 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:04,131 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:04,131 | INFO |     Result               : Fail
+2025-06-27 00:10:04,132 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:04,132 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:04,132 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:04,132 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:04,717 | INFO |   ✅ Commented on OSV-4409: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-27 00:10:05,052 | INFO | ⏳ Updating 'OSV-4430: KPIT_TC_DRT_SPCCP_021'...
+2025-06-27 00:10:05,053 | INFO |   🔄 Updating fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 00:10:05,053 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:05,054 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:05,054 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:05,054 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:05,898 | INFO |   ✅ Updated fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-27 00:10:05,905 | INFO |   🔄 Commenting on OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 00:10:05,906 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:05,907 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:05,907 | INFO |     Result               : Fail
+2025-06-27 00:10:05,907 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:05,908 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:05,908 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:05,908 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:06,766 | INFO |   ✅ Commented on OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-27 00:10:07,100 | INFO | ⏳ Updating 'OSV-4420: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-27 00:10:07,101 | INFO |   🔄 Updating fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 00:10:07,101 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:07,101 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:07,102 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:07,102 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:08,013 | INFO |   ✅ Updated fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-27 00:10:08,013 | INFO |   🔄 Commenting on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 00:10:08,014 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:08,014 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:08,015 | INFO |     Result               : Fail
+2025-06-27 00:10:08,015 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:08,015 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:08,016 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:08,016 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:08,495 | INFO |   ✅ Commented on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-27 00:10:08,839 | INFO | ⏳ Updating 'OSV-4426: KPIT_TC_DRT_BTA_020'...
+2025-06-27 00:10:08,840 | INFO |   🔄 Updating fields for OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 00:10:08,840 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:08,841 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:08,841 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:08,841 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:09,761 | INFO |   ✅ Updated fields for OSV-4426: 'KPIT_TC_DRT_BTA_020.
+2025-06-27 00:10:09,762 | INFO |   🔄 Commenting on OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 00:10:09,762 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:09,762 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:09,763 | INFO |     Result               : Fail
+2025-06-27 00:10:09,763 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:09,763 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:09,763 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:09,764 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:10,492 | INFO |   ✅ Commented on OSV-4426: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-27 00:10:10,898 | INFO | ⏳ Updating 'OSV-4423: KPIT_TC_DRT_BTA_025'...
+2025-06-27 00:10:10,899 | INFO |   🔄 Updating fields for OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 00:10:10,899 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:10,899 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:10,900 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:10,900 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:11,813 | INFO |   ✅ Updated fields for OSV-4423: 'KPIT_TC_DRT_BTA_025.
+2025-06-27 00:10:11,814 | INFO |   🔄 Commenting on OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 00:10:11,814 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:11,815 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:11,815 | INFO |     Result               : Fail
+2025-06-27 00:10:11,816 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:11,817 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:11,817 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:11,818 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:12,768 | INFO |   ✅ Commented on OSV-4423: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-27 00:10:13,082 | INFO | ⏳ Updating 'OSV-4408: KPIT_TC_DRT_SPCCP_099'...
+2025-06-27 00:10:13,083 | INFO |   🔄 Updating fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 00:10:13,083 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:13,083 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:13,083 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:13,084 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:13,938 | INFO |   ✅ Updated fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-27 00:10:13,938 | INFO |   🔄 Commenting on OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 00:10:13,939 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:13,939 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:13,940 | INFO |     Result               : Fail
+2025-06-27 00:10:13,940 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:13,940 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:13,940 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:13,941 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:14,445 | INFO |   ✅ Commented on OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-27 00:10:14,784 | INFO | ⏳ Updating 'OSV-4407: KPIT_TC_DRT_HFT_048'...
+2025-06-27 00:10:14,785 | INFO |   🔄 Updating fields for OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 00:10:14,785 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:10:14,785 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:14,786 | INFO |     Root Cause Details : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:14,786 | INFO |     Fixation Performed : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:15,655 | INFO |   ✅ Updated fields for OSV-4407: 'KPIT_TC_DRT_HFT_048.
+2025-06-27 00:10:15,656 | INFO |   🔄 Commenting on OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 00:10:15,656 | INFO |     Date                 : 4th June 2025
+2025-06-27 00:10:15,657 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:10:15,657 | INFO |     Result               : Fail
+2025-06-27 00:10:15,658 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:10:15,658 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:10:15,659 | INFO |     Root Cause Details   : PJ04DEF00-3511: Bluetooth MAC Address changes after Factory Data Reset.
+2025-06-27 00:10:15,660 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus can't be fixed.
+2025-06-27 00:10:16,571 | INFO |   ✅ Commented on OSV-4407: 'KPIT_TC_DRT_HFT_048.
+

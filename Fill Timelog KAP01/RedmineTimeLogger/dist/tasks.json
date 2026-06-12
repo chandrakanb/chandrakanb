@@ -1,0 +1,23 @@
+[
+  {
+    "issue": 823477,
+    "hours": 1.0,
+    "comment": "Team Sync-up",
+    "cat": "TEAM MEETING",
+    "type": "WORK"
+  },
+  {
+    "issue": 823479,
+    "hours": 4.0,
+    "comment": "Test Execution Failure Analysis/Defect Log",
+    "cat": "TEST AUTOMATION",
+    "type": "WORK"
+  },
+  {
+    "issue": 823478,
+    "hours": 4.0,
+    "comment": "Bench Readiness and Test Execution",
+    "cat": "TEST AUTOMATION",
+    "type": "WORK"
+  }
+]

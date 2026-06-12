@@ -1,0 +1,16 @@
+2025-11-13 23:47:14,558 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-13 23:47:14,559 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 23:47:14,560 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 23:47:14,560 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 23:47:14,562 | INFO |     Previous Failure Category : ['Human Error', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-13 23:47:14,562 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 23:47:14,563 | INFO |     Fixation Performed : NA
+2025-11-13 23:47:14,563 | INFO |     Remarks : NA
+2025-11-13 23:47:14,573 | INFO |     Reviewer : Lumesh
+2025-11-13 23:47:15,252 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18530
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 18:17:15 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '279bc4d6bba4873f368997ac365546ca', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f0ad3cea076c472a82b7859438dd7ab9', 'Atl-Request-Id': 'f0ad3cea-076c-472a-82b7-859438dd7ab9', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=170,atl-edge-internal;dur=14,atl-edge-upstream;dur=156,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 ede20cdfefdc1dd189c132c45a53a14c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'xpVVyCpq4HrjEXy5ykQvSefkcXhoLDZq_asC1KznsDNOqd6LYyYK5Q=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 23:47:15,253 | ERROR | 
+ ✅ All tasks completed successfully.

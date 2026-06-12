@@ -1,0 +1,166 @@
+2025-11-23 23:42:34,624 | INFO |   🔄 Commenting on DRT-5151: 'KPIT_TC_DRT_BT_035...
+2025-11-23 23:42:34,625 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:42:34,625 | INFO |     Result : Pass
+2025-11-23 23:42:35,124 | INFO |   ✅ Commented on DRT-5151: 'KPIT_TC_DRT_BT_035.
+
+2025-11-23 23:42:35,415 | INFO |   🔄 Commenting on DRT-5151: 'KPIT_TC_DRT_BT_035...
+2025-11-23 23:42:35,416 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:42:35,416 | INFO |     Result : Pass
+2025-11-23 23:42:36,248 | INFO |   ✅ Commented on DRT-5151: 'KPIT_TC_DRT_BT_035.
+
+2025-11-23 23:42:36,906 | INFO |   🔄 Commenting on DRT-1965: 'KPIT_TC_DRT_BT_002...
+2025-11-23 23:42:36,907 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:42:36,908 | INFO |     Result : Pass
+2025-11-23 23:42:37,361 | INFO |   ✅ Commented on DRT-1965: 'KPIT_TC_DRT_BT_002.
+
+2025-11-23 23:42:38,040 | INFO |   🔄 Commenting on DRT-1965: 'KPIT_TC_DRT_BT_002...
+2025-11-23 23:42:38,040 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:42:38,041 | INFO |     Result : Pass
+2025-11-23 23:42:38,850 | INFO |   ✅ Commented on DRT-1965: 'KPIT_TC_DRT_BT_002.
+
+2025-11-23 23:42:39,515 | INFO | ⏳ Updating 'DRT-2132: KPIT_TC_DRT_BZA_015'...
+2025-11-23 23:42:39,515 | INFO |   🔄 Updating fields for DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 23:42:39,516 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:39,516 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:39,517 | INFO |     Previous Failure Category : ['KITE Issues', 'ICB Issue (Once)', 'Test Env Issue']
+2025-11-23 23:42:39,517 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:39,517 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:39,518 | INFO |     Remarks : NA
+2025-11-23 23:42:39,519 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:40,963 | INFO |   ✅ Updated fields for DRT-2132: 'KPIT_TC_DRT_BZA_015.
+2025-11-23 23:42:40,964 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 23:42:40,964 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:42:40,965 | INFO |     Result : Fail
+2025-11-23 23:42:40,965 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:40,965 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:40,966 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:40,966 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:41,820 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 23:42:42,181 | INFO | ⏳ Updating 'DRT-2132: KPIT_TC_DRT_BZA_015'...
+2025-11-23 23:42:42,182 | INFO |   🔄 Updating fields for DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 23:42:42,182 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:42,183 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:42,183 | INFO |     Previous Failure Category : ['KITE Issues', 'ICB Issue (Once)', 'Test Env Issue']
+2025-11-23 23:42:42,183 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:42,184 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:42,184 | INFO |     Remarks : NA
+2025-11-23 23:42:42,184 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:43,569 | INFO |   ✅ Updated fields for DRT-2132: 'KPIT_TC_DRT_BZA_015.
+2025-11-23 23:42:43,570 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 23:42:43,570 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:42:43,570 | INFO |     Result : Fail
+2025-11-23 23:42:43,570 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:43,571 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:43,571 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:43,572 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:44,438 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 23:42:44,753 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 23:42:44,754 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 23:42:44,754 | INFO |     Result : Pass
+2025-11-23 23:42:45,216 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 23:42:45,529 | INFO | ⏳ Updating 'DRT-2122: KPIT_TC_DRT_VEND_092'...
+2025-11-23 23:42:45,531 | INFO |   🔄 Updating fields for DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 23:42:45,531 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:45,532 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:45,535 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-23 23:42:45,538 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:45,539 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:45,539 | INFO |     Remarks : NA
+2025-11-23 23:42:45,540 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:46,798 | INFO |   ✅ Updated fields for DRT-2122: 'KPIT_TC_DRT_VEND_092.
+2025-11-23 23:42:46,799 | INFO |   🔄 Commenting on DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 23:42:46,800 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:42:46,801 | INFO |     Result : Fail
+2025-11-23 23:42:46,803 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:46,804 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:46,805 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:46,806 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:47,633 | INFO |   ✅ Commented on DRT-2122: 'KPIT_TC_DRT_VEND_092.
+
+2025-11-23 23:42:47,943 | INFO | ⏳ Updating 'DRT-2122: KPIT_TC_DRT_VEND_092'...
+2025-11-23 23:42:47,944 | INFO |   🔄 Updating fields for DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 23:42:47,945 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:47,945 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:47,945 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-23 23:42:47,946 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:47,946 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:47,946 | INFO |     Remarks : NA
+2025-11-23 23:42:47,947 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:48,956 | INFO |   ✅ Updated fields for DRT-2122: 'KPIT_TC_DRT_VEND_092.
+2025-11-23 23:42:48,957 | INFO |   🔄 Commenting on DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 23:42:48,957 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:42:48,957 | INFO |     Result : Fail
+2025-11-23 23:42:48,958 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:48,958 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:48,958 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:48,959 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:49,766 | INFO |   ✅ Commented on DRT-2122: 'KPIT_TC_DRT_VEND_092.
+
+2025-11-23 23:42:50,065 | INFO |   🔄 Commenting on DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 23:42:50,066 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 23:42:50,066 | INFO |     Result : Pass
+2025-11-23 23:42:50,505 | INFO |   ✅ Commented on DRT-2122: 'KPIT_TC_DRT_VEND_092.
+
+2025-11-23 23:42:51,181 | INFO | ⏳ Updating 'DRT-2119: KPIT_TC_FNC_VEND_0063_0001'...
+2025-11-23 23:42:51,181 | INFO |   🔄 Updating fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:51,181 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:51,181 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:51,183 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-11-23 23:42:51,183 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:51,183 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:51,183 | INFO |     Remarks : NA
+2025-11-23 23:42:51,184 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:52,424 | INFO |   ✅ Updated fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-11-23 23:42:52,425 | INFO |   🔄 Commenting on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:52,425 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:42:52,425 | INFO |     Result : Fail
+2025-11-23 23:42:52,426 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:52,426 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:52,426 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:52,427 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:53,229 | INFO |   ✅ Commented on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-11-23 23:42:53,549 | INFO | ⏳ Updating 'DRT-2119: KPIT_TC_FNC_VEND_0063_0001'...
+2025-11-23 23:42:53,550 | INFO |   🔄 Updating fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:53,551 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:53,551 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:53,552 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-11-23 23:42:53,552 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:53,553 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:53,553 | INFO |     Remarks : NA
+2025-11-23 23:42:53,554 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:54,612 | INFO |   ✅ Updated fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-11-23 23:42:54,612 | INFO |   🔄 Commenting on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:54,613 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:42:54,613 | INFO |     Result : Fail
+2025-11-23 23:42:54,613 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:42:54,613 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 23:42:54,613 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 23:42:54,614 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 23:42:55,435 | INFO |   ✅ Commented on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-11-23 23:42:55,753 | INFO | ⏳ Updating 'DRT-2119: KPIT_TC_FNC_VEND_0063_0001'...
+2025-11-23 23:42:55,754 | INFO |   🔄 Updating fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:55,755 | INFO |     Failure Category : KITE Issue
+2025-11-23 23:42:55,755 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 23:42:55,755 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-11-23 23:42:55,756 | INFO |     Root Cause Details : Failed to drag. Error: Unable to perform W3C actions on Phone8.
+2025-11-23 23:42:55,756 | INFO |     Fixation Performed : NA
+2025-11-23 23:42:55,757 | INFO |     Remarks : Official execution is extended till 7 PM, Hence didn't get time for fixation.
+2025-11-23 23:42:55,757 | INFO |     Reviewer : Rajashri
+2025-11-23 23:42:56,648 | INFO |   ✅ Updated fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-11-23 23:42:56,649 | INFO |   🔄 Commenting on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 23:42:56,649 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 23:42:56,650 | INFO |     Result : Fail
+2025-11-23 23:42:56,650 | INFO |     Failure Category : KITE Issue
+2025-11-23 23:42:56,650 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 23:42:56,652 | INFO |     Root Cause Details : Failed to drag. Error: Unable to perform W3C actions on Phone8.
+2025-11-23 23:42:56,652 | INFO |     Fixation Performed : NA
+2025-11-23 23:42:57,109 | INFO |   ✅ Commented on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-11-23 23:42:57,110 | INFO | 
+  ✅ JIRA UPDATE COMPLETED...
+

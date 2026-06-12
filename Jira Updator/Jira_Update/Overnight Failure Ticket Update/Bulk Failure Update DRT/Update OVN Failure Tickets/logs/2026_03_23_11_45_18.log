@@ -1,0 +1,78 @@
+2026-03-23 11:45:20,977 | INFO | ⏳ Updating 'DRT-1841: KPIT_TC_DRT_AVC_091'...
+2026-03-23 11:45:20,978 | INFO |   🔄 Updating fields for DRT-1841: 'KPIT_TC_DRT_AVC_091...
+2026-03-23 11:45:20,979 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:45:20,979 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:45:20,980 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'TS Issue']
+2026-03-23 11:45:20,980 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, Smart Phone Projection reset failed as ICB remained on System Links screen.
+2026-03-23 11:45:20,991 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:45:22,131 | INFO |   ✅ Updated fields for DRT-1841: 'KPIT_TC_DRT_AVC_091.
+2026-03-23 11:45:22,131 | INFO |   🔄 Commenting on DRT-1841: 'KPIT_TC_DRT_AVC_091...
+2026-03-23 11:45:22,132 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:45:22,132 | INFO |     Result : Fail
+2026-03-23 11:45:22,132 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:45:22,133 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:45:22,133 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, Smart Phone Projection reset failed as ICB remained on System Links screen.
+2026-03-23 11:45:22,133 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:45:22,134 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:45:22,134 | INFO |     Reviewer : Rajashri
+2026-03-23 11:45:22,704 | INFO |   ✅ Commented on DRT-1841: 'KPIT_TC_DRT_AVC_091.
+
+2026-03-23 11:45:22,996 | INFO | ⏳ Updating 'DRT-4091: KPIT_TC_DRT_KEY_001'...
+2026-03-23 11:45:22,997 | INFO |   🔄 Updating fields for DRT-4091: 'KPIT_TC_DRT_KEY_001...
+2026-03-23 11:45:22,998 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:45:22,998 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:45:22,999 | INFO |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2026-03-23 11:45:23,000 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, ICB remained on System Links screen, causing further operations to fail.
+2026-03-23 11:45:23,000 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:45:24,194 | INFO |   ✅ Updated fields for DRT-4091: 'KPIT_TC_DRT_KEY_001.
+2026-03-23 11:45:24,195 | INFO |   🔄 Commenting on DRT-4091: 'KPIT_TC_DRT_KEY_001...
+2026-03-23 11:45:24,196 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:45:24,196 | INFO |     Result : Fail
+2026-03-23 11:45:24,196 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:45:24,197 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:45:24,197 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, ICB remained on System Links screen, causing further operations to fail.
+2026-03-23 11:45:24,198 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:45:24,198 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:45:24,198 | INFO |     Reviewer : Rajashri
+2026-03-23 11:45:25,143 | INFO |   ✅ Commented on DRT-4091: 'KPIT_TC_DRT_KEY_001.
+
+2026-03-23 11:45:25,428 | INFO | ⏳ Updating 'DRT-3942: KPIT_TC_DRT_AMFM_195'...
+2026-03-23 11:45:25,428 | INFO |   🔄 Updating fields for DRT-3942: 'KPIT_TC_DRT_AMFM_195...
+2026-03-23 11:45:25,429 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:45:25,429 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:45:25,430 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-23 11:45:25,431 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:45:25,431 | INFO |     Fixation Performed : NA
+2026-03-23 11:45:26,388 | INFO |   ✅ Updated fields for DRT-3942: 'KPIT_TC_DRT_AMFM_195.
+2026-03-23 11:45:26,389 | INFO |   🔄 Commenting on DRT-3942: 'KPIT_TC_DRT_AMFM_195...
+2026-03-23 11:45:26,390 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:45:26,391 | INFO |     Result : Fail
+2026-03-23 11:45:26,391 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:45:26,392 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:45:26,393 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:45:26,394 | INFO |     Fixation Performed : NA
+2026-03-23 11:45:26,394 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-23 11:45:26,396 | INFO |     Reviewer : Rajashri
+2026-03-23 11:45:26,953 | INFO |   ✅ Commented on DRT-3942: 'KPIT_TC_DRT_AMFM_195.
+
+2026-03-23 11:45:27,228 | INFO | ⏳ Updating 'DRT-3941: KPIT_TC_DRT_AMFM_196'...
+2026-03-23 11:45:27,228 | INFO |   🔄 Updating fields for DRT-3941: 'KPIT_TC_DRT_AMFM_196...
+2026-03-23 11:45:27,229 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:45:27,229 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:45:27,229 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-23 11:45:27,230 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:45:27,230 | INFO |     Fixation Performed : NA
+2026-03-23 11:45:28,151 | INFO |   ✅ Updated fields for DRT-3941: 'KPIT_TC_DRT_AMFM_196.
+2026-03-23 11:45:28,152 | INFO |   🔄 Commenting on DRT-3941: 'KPIT_TC_DRT_AMFM_196...
+2026-03-23 11:45:28,152 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:45:28,152 | INFO |     Result : Fail
+2026-03-23 11:45:28,153 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:45:28,153 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:45:28,154 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:45:28,154 | INFO |     Fixation Performed : NA
+2026-03-23 11:45:28,154 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-23 11:45:28,155 | INFO |     Reviewer : Rajashri
+2026-03-23 11:45:28,666 | INFO |   ✅ Commented on DRT-3941: 'KPIT_TC_DRT_AMFM_196.
+
+2026-03-23 11:45:28,667 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

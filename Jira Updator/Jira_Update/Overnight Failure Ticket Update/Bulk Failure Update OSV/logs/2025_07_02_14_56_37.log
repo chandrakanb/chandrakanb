@@ -1,0 +1,140 @@
+2025-07-02 14:56:40,625 | INFO | 🔧 Processing: OSV-4360 - KPIT_TC_DRT_ANT_011 | Result: Fail
+2025-07-02 14:56:40,626 | INFO | 📥 Field Updates for OSV-4360:
+2025-07-02 14:56:40,627 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Once)'}, {'value': 'Icb Issue (once)'}]
+2025-07-02 14:56:40,627 | INFO |     customfield_11460 : Timing Issue
+2025-07-02 14:56:40,628 | INFO |     customfield_11462 : ICB took more time to start after ACC cycle.
+2025-07-02 14:56:40,628 | INFO |     customfield_11461 : No modifications where made, Executed in daytime, result : Pass.
+2025-07-02 14:56:41,061 | ERROR | [ERROR] Could not process OSV-4360 - KPIT_TC_DRT_ANT_011: JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2088153
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Wed, 02 Jul 2025 09:26:40 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'b07bfd72ef388ad4256ca620ad93cae8', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '876f98bc1507426ba502ea65155a9b12', 'Atl-Request-Id': '876f98bc-1507-426b-a502-ea65155a9b12', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=208,atl-edge-internal;dur=21,atl-edge-upstream;dur=187,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 b5090b04c7a6e0e278c9b99bf6212176.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'MAA50-P2', 'X-Amz-Cf-Id': '75l0Zx2aIS1eNqgQmJsMUWT8H03j88SWAkxTPn9Nx1vtI6MGOOhBUg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Icb Issue (once)' is not valid"}}
+2025-07-02 14:56:41,524 | INFO | 🔧 Processing: OSV-4432 - KPIT_TC_DRT_KBD_013 | Result: Fail
+2025-07-02 14:56:41,524 | INFO | 📥 Field Updates for OSV-4432:
+2025-07-02 14:56:41,525 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Once)'}, {'value': 'Icb Issue (once)'}]
+2025-07-02 14:56:41,525 | INFO |     customfield_11460 : TS Modification Required
+2025-07-02 14:56:41,526 | INFO |     customfield_11462 : ICB Name displayed as Honda Passport instead of HondaAccord, ROI needs to be increased.
+2025-07-02 14:56:41,527 | INFO |     customfield_11461 : Increased ROI of Honda Passport OCR validation command.
+2025-07-02 14:56:41,872 | ERROR | [ERROR] Could not process OSV-4432 - KPIT_TC_DRT_KBD_013: JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2088279
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Wed, 02 Jul 2025 09:26:41 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '0f527bfe49383b1d9929f133bfd71634', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '07da0d2c5d2547ccbb9c1f2640db10dd', 'Atl-Request-Id': '07da0d2c-5d25-47cc-bb9c-1f2640db10dd', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=129,atl-edge-internal;dur=17,atl-edge-upstream;dur=113,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 b5090b04c7a6e0e278c9b99bf6212176.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'MAA50-P2', 'X-Amz-Cf-Id': 'SbWmhtQc7iovoc7lErUsIl9Cld7yPmhwZ4_7Cqnwc-zKQr8QQfg5Jg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Icb Issue (once)' is not valid"}}
+2025-07-02 14:56:42,374 | INFO | 🔧 Processing: OSV-4364 - KPIT_TC_DRT_KBD_017 | Result: Fail
+2025-07-02 14:56:42,374 | INFO | 📥 Field Updates for OSV-4364:
+2025-07-02 14:56:42,375 | INFO |     customfield_12208 : [{'value': 'Test Env Issue'}]
+2025-07-02 14:56:42,375 | INFO |     customfield_11460 : Automation Set up malfunction
+2025-07-02 14:56:42,376 | INFO |     customfield_11462 : Keyboard Input Language is not get set to Francais, Even if the robot click performed.
+2025-07-02 14:56:42,376 | INFO |     customfield_11461 : Cropped the click by image for "Francais_Language_Icon.png". Executed in daytime, result : Pass.
+2025-07-02 14:56:43,492 | INFO | ✅ Fields updated for OSV-4364
+
+2025-07-02 14:56:44,777 | INFO | 💬 Comment added for OSV-4364: KPIT_TC_DRT_KBD_017
+2025-07-02 14:56:44,778 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Set up malfunction | Keyboard Input Language is not get set to Francais, Even if the robot click performed. | Cropped the click by image for "Francais_Language_Icon.png". Executed in daytime, result : Pass. |
+2025-07-02 14:56:45,283 | INFO | 🔧 Processing: OSV-4437 - KPIT_TC_DRT_HOM_013 | Result: Fail
+2025-07-02 14:56:45,285 | INFO | 📥 Field Updates for OSV-4437:
+2025-07-02 14:56:45,285 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Once)'}, {'value': 'Kite Issue'}]
+2025-07-02 14:56:45,286 | INFO |     customfield_11460 : Image comparison
+2025-07-02 14:56:45,286 | INFO |     customfield_11462 : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-02 14:56:45,286 | INFO |     customfield_11461 : No modifications where made, Executed in daytime, result : Pass.
+2025-07-02 14:56:45,668 | ERROR | [ERROR] Could not process OSV-4437 - KPIT_TC_DRT_HOM_013: JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2088284
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Wed, 02 Jul 2025 09:26:45 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e7473188901c8350c5ff7a37a0ad49fd', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '29ffdbb6c9a64fd0921ba6ef994d830f', 'Atl-Request-Id': '29ffdbb6-c9a6-4fd0-921b-a6ef994d830f', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=164,atl-edge-internal;dur=15,atl-edge-upstream;dur=149,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 b5090b04c7a6e0e278c9b99bf6212176.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'MAA50-P2', 'X-Amz-Cf-Id': 'DKS6lbhSGYiWdOxudfVOJWCZiRqV5H6FekK9wdP93DNJ_Q8aBqjEJw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Kite Issue' is not valid"}}
+2025-07-02 14:56:46,127 | INFO | 🔧 Processing: OSV-4428 - KPIT_TC_DRT_BTA_018 | Result: Fail
+2025-07-02 14:56:46,128 | INFO | 📥 Field Updates for OSV-4428:
+2025-07-02 14:56:46,128 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:46,129 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:46,130 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:46,130 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:56:47,239 | INFO | ✅ Fields updated for OSV-4428
+
+2025-07-02 14:56:48,015 | INFO | 💬 Comment added for OSV-4428: KPIT_TC_DRT_BTA_018
+2025-07-02 14:56:48,015 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:56:48,508 | INFO | 🔧 Processing: OSV-4416 - KPIT_TC_DRT_BTA_053 | Result: Fail
+2025-07-02 14:56:48,509 | INFO | 📥 Field Updates for OSV-4416:
+2025-07-02 14:56:48,509 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:48,510 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:48,510 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:48,510 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:56:49,670 | INFO | ✅ Fields updated for OSV-4416
+
+2025-07-02 14:56:50,402 | INFO | 💬 Comment added for OSV-4416: KPIT_TC_DRT_BTA_053
+2025-07-02 14:56:50,402 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:56:50,934 | INFO | 🔧 Processing: OSV-4409 - KPIT_TC_DRT_HMI_001 | Result: Fail
+2025-07-02 14:56:50,935 | INFO | 📥 Field Updates for OSV-4409:
+2025-07-02 14:56:50,936 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:50,936 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:50,937 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:50,937 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:56:52,005 | INFO | ✅ Fields updated for OSV-4409
+
+2025-07-02 14:56:53,325 | INFO | 💬 Comment added for OSV-4409: KPIT_TC_DRT_HMI_001
+2025-07-02 14:56:53,326 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:56:53,895 | INFO | 🔧 Processing: OSV-4430 - KPIT_TC_DRT_SPCCP_021 | Result: Fail
+2025-07-02 14:56:53,895 | INFO | 📥 Field Updates for OSV-4430:
+2025-07-02 14:56:53,896 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:53,896 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:53,896 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:53,897 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:56:55,055 | INFO | ✅ Fields updated for OSV-4430
+
+2025-07-02 14:56:55,823 | INFO | 💬 Comment added for OSV-4430: KPIT_TC_DRT_SPCCP_021
+2025-07-02 14:56:55,823 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:56:56,276 | INFO | 🔧 Processing: OSV-4420 - KPIT_TC_FNC_AVG_0878_0001 | Result: Fail
+2025-07-02 14:56:56,276 | INFO | 📥 Field Updates for OSV-4420:
+2025-07-02 14:56:56,276 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:56,277 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:56,277 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:56,277 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:56:57,362 | INFO | ✅ Fields updated for OSV-4420
+
+2025-07-02 14:56:58,801 | INFO | 💬 Comment added for OSV-4420: KPIT_TC_FNC_AVG_0878_0001
+2025-07-02 14:56:58,801 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:56:59,342 | INFO | 🔧 Processing: OSV-4426 - KPIT_TC_DRT_BTA_020 | Result: Fail
+2025-07-02 14:56:59,343 | INFO | 📥 Field Updates for OSV-4426:
+2025-07-02 14:56:59,344 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:56:59,345 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:56:59,346 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:56:59,346 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:57:00,416 | INFO | ✅ Fields updated for OSV-4426
+
+2025-07-02 14:57:02,846 | INFO | 💬 Comment added for OSV-4426: KPIT_TC_DRT_BTA_020
+2025-07-02 14:57:02,847 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:57:03,402 | INFO | 🔧 Processing: OSV-4423 - KPIT_TC_DRT_BTA_025 | Result: Fail
+2025-07-02 14:57:03,403 | INFO | 📥 Field Updates for OSV-4423:
+2025-07-02 14:57:03,403 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:57:03,404 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:57:03,404 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:57:03,405 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:57:04,453 | INFO | ✅ Fields updated for OSV-4423
+
+2025-07-02 14:57:05,733 | INFO | 💬 Comment added for OSV-4423: KPIT_TC_DRT_BTA_025
+2025-07-02 14:57:05,734 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:57:06,197 | INFO | 🔧 Processing: OSV-4408 - KPIT_TC_DRT_SPCCP_099 | Result: Fail
+2025-07-02 14:57:06,197 | INFO | 📥 Field Updates for OSV-4408:
+2025-07-02 14:57:06,198 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:57:06,198 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:57:06,199 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:57:06,199 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:57:07,188 | INFO | ✅ Fields updated for OSV-4408
+
+2025-07-02 14:57:08,617 | INFO | 💬 Comment added for OSV-4408: KPIT_TC_DRT_SPCCP_099
+2025-07-02 14:57:08,617 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |
+2025-07-02 14:57:09,084 | INFO | 🔧 Processing: OSV-4407 - KPIT_TC_DRT_HFT_048 | Result: Fail
+2025-07-02 14:57:09,085 | INFO | 📥 Field Updates for OSV-4407:
+2025-07-02 14:57:09,085 | INFO |     customfield_12208 : [{'value': 'ICB Issue (Always)'}, {'value': 'Test Env Issue'}]
+2025-07-02 14:57:09,086 | INFO |     customfield_11460 : Automation Setup malfunction
+2025-07-02 14:57:09,086 | INFO |     customfield_11462 : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-07-02 14:57:09,087 | INFO |     customfield_11461 : Added FB to set settings screen to settings home, Executed in Daytime, result: Pass.
+2025-07-02 14:57:10,208 | INFO | ✅ Fields updated for OSV-4407
+
+2025-07-02 14:57:11,048 | INFO | 💬 Comment added for OSV-4407: KPIT_TC_DRT_HFT_048
+2025-07-02 14:57:11,048 | INFO |     ↪ | *Date* | *Analysis Done By* | *Result* | *Failure Category* | *Failure Sub Category* | *Root Cause Details* | *Fixation Performed* |
+| 27th June 2025 | Chandrakant | Fail | Test Env issue | Automation Setup malfunction | While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed. | Added FB to set settings screen to settings home, Executed in Daytime, result: Pass. |

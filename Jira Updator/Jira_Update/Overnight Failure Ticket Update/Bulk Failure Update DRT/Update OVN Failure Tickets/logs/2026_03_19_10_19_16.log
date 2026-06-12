@@ -1,0 +1,591 @@
+2026-03-19 10:19:17,913 | INFO |   🔄 Updating fields for A15-3448: 'KPIT_TC_DRT_USB_132...
+2026-03-19 10:19:17,913 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:17,914 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:17,915 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-19 10:19:17,915 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:17,916 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:18,769 | INFO |   ✅ Updated fields for A15-3448: 'KPIT_TC_DRT_USB_132.
+2026-03-19 10:19:18,770 | INFO |   🔄 Commenting on A15-3448: 'KPIT_TC_DRT_USB_132...
+2026-03-19 10:19:18,781 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:18,782 | INFO |     Result : Fail
+2026-03-19 10:19:18,783 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:18,783 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:18,784 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:18,784 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:18,784 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:18,785 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:19,668 | INFO |   ✅ Commented on A15-3448: 'KPIT_TC_DRT_USB_132.
+
+2026-03-19 10:19:19,951 | INFO |   🔄 Updating fields for A15-3449: 'KPIT_TC_DRT_USB_133...
+2026-03-19 10:19:19,952 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:19,952 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:19,952 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:19:19,952 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:19,952 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:20,804 | INFO |   ✅ Updated fields for A15-3449: 'KPIT_TC_DRT_USB_133.
+2026-03-19 10:19:20,805 | INFO |   🔄 Commenting on A15-3449: 'KPIT_TC_DRT_USB_133...
+2026-03-19 10:19:20,806 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:20,807 | INFO |     Result : Fail
+2026-03-19 10:19:20,808 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:20,808 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:20,809 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:20,809 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:20,809 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:20,810 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:21,294 | INFO |   ✅ Commented on A15-3449: 'KPIT_TC_DRT_USB_133.
+
+2026-03-19 10:19:22,135 | INFO |   🔄 Updating fields for A15-3466: 'KPIT_TC_FNC_USB_0796_0001...
+2026-03-19 10:19:22,136 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:22,137 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:22,137 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:19:22,138 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:22,139 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:23,075 | INFO |   ✅ Updated fields for A15-3466: 'KPIT_TC_FNC_USB_0796_0001.
+2026-03-19 10:19:23,075 | INFO |   🔄 Commenting on A15-3466: 'KPIT_TC_FNC_USB_0796_0001...
+2026-03-19 10:19:23,076 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:23,076 | INFO |     Result : Fail
+2026-03-19 10:19:23,076 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:23,077 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:23,077 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 10:19:23,077 | INFO |     Fixation Performed : Replaced old image with new image.
+2026-03-19 10:19:23,077 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:23,077 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:24,427 | INFO |   ✅ Commented on A15-3466: 'KPIT_TC_FNC_USB_0796_0001.
+
+2026-03-19 10:19:24,745 | INFO |   🔄 Updating fields for A15-3474: 'KPIT_TC_DRT_VEH_051...
+2026-03-19 10:19:24,746 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:24,746 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:24,747 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:19:24,747 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-19 10:19:24,747 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:25,993 | INFO |   ✅ Updated fields for A15-3474: 'KPIT_TC_DRT_VEH_051.
+2026-03-19 10:19:25,993 | INFO |   🔄 Commenting on A15-3474: 'KPIT_TC_DRT_VEH_051...
+2026-03-19 10:19:25,993 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:25,994 | INFO |     Result : Fail
+2026-03-19 10:19:25,994 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:25,994 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:25,995 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-19 10:19:25,995 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:25,995 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:25,996 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:26,862 | INFO |   ✅ Commented on A15-3474: 'KPIT_TC_DRT_VEH_051.
+
+2026-03-19 10:19:27,160 | INFO |   🔄 Updating fields for A15-3470: 'KPIT_TC_DRT_VEH_061...
+2026-03-19 10:19:27,161 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:27,162 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:27,162 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:19:27,163 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-19 10:19:27,163 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:28,046 | INFO |   ✅ Updated fields for A15-3470: 'KPIT_TC_DRT_VEH_061.
+2026-03-19 10:19:28,047 | INFO |   🔄 Commenting on A15-3470: 'KPIT_TC_DRT_VEH_061...
+2026-03-19 10:19:28,047 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:28,048 | INFO |     Result : Fail
+2026-03-19 10:19:28,048 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:28,050 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:28,050 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-19 10:19:28,051 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:28,051 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:28,052 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:28,604 | INFO |   ✅ Commented on A15-3470: 'KPIT_TC_DRT_VEH_061.
+
+2026-03-19 10:19:28,870 | INFO |   🔄 Updating fields for A15-3451: 'KPIT_TC_DRT_AMFM_017...
+2026-03-19 10:19:28,871 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:28,871 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:28,872 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:28,873 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:28,873 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:29,788 | INFO |   ✅ Updated fields for A15-3451: 'KPIT_TC_DRT_AMFM_017.
+2026-03-19 10:19:29,788 | INFO |   🔄 Commenting on A15-3451: 'KPIT_TC_DRT_AMFM_017...
+2026-03-19 10:19:29,789 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:29,789 | INFO |     Result : Fail
+2026-03-19 10:19:29,790 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:29,790 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:29,791 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:29,791 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:29,791 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:29,792 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:30,283 | INFO |   ✅ Commented on A15-3451: 'KPIT_TC_DRT_AMFM_017.
+
+2026-03-19 10:19:30,569 | INFO |   🔄 Updating fields for A15-3452: 'KPIT_TC_DRT_AMFM_015...
+2026-03-19 10:19:30,570 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:30,571 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:30,571 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:30,572 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:30,572 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:31,534 | INFO |   ✅ Updated fields for A15-3452: 'KPIT_TC_DRT_AMFM_015.
+2026-03-19 10:19:31,535 | INFO |   🔄 Commenting on A15-3452: 'KPIT_TC_DRT_AMFM_015...
+2026-03-19 10:19:31,535 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:31,536 | INFO |     Result : Fail
+2026-03-19 10:19:31,536 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:31,537 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:31,538 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:31,538 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:31,539 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:31,540 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:32,172 | INFO |   ✅ Commented on A15-3452: 'KPIT_TC_DRT_AMFM_015.
+
+2026-03-19 10:19:32,461 | INFO |   🔄 Updating fields for A15-3453: 'KPIT_TC_DRT_AMFM_195...
+2026-03-19 10:19:32,461 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:32,461 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:32,462 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:32,462 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:32,463 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:33,294 | INFO |   ✅ Updated fields for A15-3453: 'KPIT_TC_DRT_AMFM_195.
+2026-03-19 10:19:33,294 | INFO |   🔄 Commenting on A15-3453: 'KPIT_TC_DRT_AMFM_195...
+2026-03-19 10:19:33,295 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:33,295 | INFO |     Result : Fail
+2026-03-19 10:19:33,296 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:33,296 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:33,296 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:33,297 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:33,298 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:33,298 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:33,762 | INFO |   ✅ Commented on A15-3453: 'KPIT_TC_DRT_AMFM_195.
+
+2026-03-19 10:19:34,050 | INFO |   🔄 Updating fields for A15-3454: 'KPIT_TC_DRT_AMFM_196...
+2026-03-19 10:19:34,051 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:34,052 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:34,053 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:34,054 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:34,055 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:35,380 | INFO |   ✅ Updated fields for A15-3454: 'KPIT_TC_DRT_AMFM_196.
+2026-03-19 10:19:35,381 | INFO |   🔄 Commenting on A15-3454: 'KPIT_TC_DRT_AMFM_196...
+2026-03-19 10:19:35,384 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:35,385 | INFO |     Result : Fail
+2026-03-19 10:19:35,386 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:35,387 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:35,387 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:35,389 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:35,404 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:35,414 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:35,933 | INFO |   ✅ Commented on A15-3454: 'KPIT_TC_DRT_AMFM_196.
+
+2026-03-19 10:19:36,197 | INFO |   🔄 Updating fields for A15-3455: 'KPIT_TC_DRT_AMFM_189...
+2026-03-19 10:19:36,198 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:36,199 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:36,203 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:36,204 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:36,205 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:37,478 | INFO |   ✅ Updated fields for A15-3455: 'KPIT_TC_DRT_AMFM_189.
+2026-03-19 10:19:37,479 | INFO |   🔄 Commenting on A15-3455: 'KPIT_TC_DRT_AMFM_189...
+2026-03-19 10:19:37,479 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:37,479 | INFO |     Result : Fail
+2026-03-19 10:19:37,481 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:37,481 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:37,482 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:37,483 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:37,483 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:37,483 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:38,030 | INFO |   ✅ Commented on A15-3455: 'KPIT_TC_DRT_AMFM_189.
+
+2026-03-19 10:19:38,665 | INFO |   🔄 Updating fields for A15-3467: 'KPIT_TC_DRT_DAB_047...
+2026-03-19 10:19:38,665 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:38,666 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:38,667 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:38,667 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:38,668 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:39,849 | INFO |   ✅ Updated fields for A15-3467: 'KPIT_TC_DRT_DAB_047.
+2026-03-19 10:19:39,849 | INFO |   🔄 Commenting on A15-3467: 'KPIT_TC_DRT_DAB_047...
+2026-03-19 10:19:39,850 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:39,851 | INFO |     Result : Fail
+2026-03-19 10:19:39,852 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:39,852 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:39,853 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:39,854 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:39,854 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:39,855 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:40,329 | INFO |   ✅ Commented on A15-3467: 'KPIT_TC_DRT_DAB_047.
+
+2026-03-19 10:19:40,645 | INFO |   🔄 Updating fields for A15-3468: 'KPIT_TC_DRT_DAB_048...
+2026-03-19 10:19:40,646 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:40,647 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:40,647 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:40,648 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:40,649 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:41,598 | INFO |   ✅ Updated fields for A15-3468: 'KPIT_TC_DRT_DAB_048.
+2026-03-19 10:19:41,599 | INFO |   🔄 Commenting on A15-3468: 'KPIT_TC_DRT_DAB_048...
+2026-03-19 10:19:41,600 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:41,601 | INFO |     Result : Fail
+2026-03-19 10:19:41,601 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:41,602 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:41,603 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:41,603 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:41,604 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:41,605 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:42,613 | INFO |   ✅ Commented on A15-3468: 'KPIT_TC_DRT_DAB_048.
+
+2026-03-19 10:19:43,292 | INFO |   🔄 Updating fields for A15-3444: 'KPIT_TC_DRT_SPCCP_103...
+2026-03-19 10:19:43,293 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:43,294 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:43,295 | INFO |     Previous Failure Category : ['ICB Issue (Always)']
+2026-03-19 10:19:43,295 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:43,296 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:44,278 | INFO |   ✅ Updated fields for A15-3444: 'KPIT_TC_DRT_SPCCP_103.
+2026-03-19 10:19:44,278 | INFO |   🔄 Commenting on A15-3444: 'KPIT_TC_DRT_SPCCP_103...
+2026-03-19 10:19:44,279 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:44,280 | INFO |     Result : Fail
+2026-03-19 10:19:44,280 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:44,281 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:44,282 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:44,282 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:44,283 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+TS failed due to Valid ICB Issue, But TS Objective is Pass.
+2026-03-19 10:19:44,284 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:44,713 | INFO |   ✅ Commented on A15-3444: 'KPIT_TC_DRT_SPCCP_103.
+
+2026-03-19 10:19:44,986 | INFO |   🔄 Updating fields for A15-3445: 'KPIT_TC_DRT_SPCCP_096...
+2026-03-19 10:19:44,987 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:44,988 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:44,988 | INFO |     Previous Failure Category : ['ICB Issue (Always)']
+2026-03-19 10:19:44,989 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:44,990 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:45,860 | INFO |   ✅ Updated fields for A15-3445: 'KPIT_TC_DRT_SPCCP_096.
+2026-03-19 10:19:45,865 | INFO |   🔄 Commenting on A15-3445: 'KPIT_TC_DRT_SPCCP_096...
+2026-03-19 10:19:45,875 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:45,882 | INFO |     Result : Fail
+2026-03-19 10:19:45,884 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:45,887 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:45,889 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:45,890 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:45,892 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+We will Pass the TS as TS objective is met.
+2026-03-19 10:19:45,898 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:46,422 | INFO |   ✅ Commented on A15-3445: 'KPIT_TC_DRT_SPCCP_096.
+
+2026-03-19 10:19:47,058 | INFO |   🔄 Updating fields for A15-3446: 'KPIT_TC_DRT_SPCCP_037...
+2026-03-19 10:19:47,059 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:47,059 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:47,060 | INFO |     Previous Failure Category : ['ICB Issue (Always)']
+2026-03-19 10:19:47,061 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:47,062 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:47,967 | INFO |   ✅ Updated fields for A15-3446: 'KPIT_TC_DRT_SPCCP_037.
+2026-03-19 10:19:47,967 | INFO |   🔄 Commenting on A15-3446: 'KPIT_TC_DRT_SPCCP_037...
+2026-03-19 10:19:47,968 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:47,968 | INFO |     Result : Fail
+2026-03-19 10:19:47,969 | INFO |     Failure Category : ICB issue
+2026-03-19 10:19:47,969 | INFO |     Failure Sub Category : Always
+2026-03-19 10:19:47,970 | INFO |     Root Cause Details : Incoming Call Status is not displayed on Header while Wired CarPlay device is connected to ICB.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-747
+2026-03-19 10:19:47,970 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:47,970 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+We will Pass the TS as TS objective is met.
+2026-03-19 10:19:47,970 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:48,981 | INFO |   ✅ Commented on A15-3446: 'KPIT_TC_DRT_SPCCP_037.
+
+2026-03-19 10:19:49,335 | INFO |   🔄 Updating fields for A15-3447: 'KPIT_TC_DRT_IVI_046...
+2026-03-19 10:19:49,335 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:49,336 | INFO |     Failure Sub Category : FB Modification Required
+2026-03-19 10:19:49,336 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:49,337 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:49,337 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:50,313 | INFO |   ✅ Updated fields for A15-3447: 'KPIT_TC_DRT_IVI_046.
+2026-03-19 10:19:50,314 | INFO |   🔄 Commenting on A15-3447: 'KPIT_TC_DRT_IVI_046...
+2026-03-19 10:19:50,314 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:50,314 | INFO |     Result : Fail
+2026-03-19 10:19:50,315 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:50,315 | INFO |     Failure Sub Category : FB Modification Required
+2026-03-19 10:19:50,316 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:50,316 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:50,316 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:19:50,317 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:50,764 | INFO |   ✅ Commented on A15-3447: 'KPIT_TC_DRT_IVI_046.
+
+2026-03-19 10:19:51,104 | INFO |   🔄 Updating fields for A15-3450: 'KPIT_TC_DRT_KEY_022...
+2026-03-19 10:19:51,105 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:51,106 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:51,106 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:19:51,107 | INFO |     Root Cause Details : Set Volume 20 from tuner failed due to brightness difference, Due to which audio validation failed.
+2026-03-19 10:19:51,108 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:51,990 | INFO |   ✅ Updated fields for A15-3450: 'KPIT_TC_DRT_KEY_022.
+2026-03-19 10:19:51,990 | INFO |   🔄 Commenting on A15-3450: 'KPIT_TC_DRT_KEY_022...
+2026-03-19 10:19:51,990 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:51,991 | INFO |     Result : Fail
+2026-03-19 10:19:51,991 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:19:51,991 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:19:51,992 | INFO |     Root Cause Details : Set Volume 20 from tuner failed due to brightness difference, Due to which audio validation failed.
+2026-03-19 10:19:51,992 | INFO |     Fixation Performed : NA
+2026-03-19 10:19:51,992 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:51,993 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:52,606 | INFO |   ✅ Commented on A15-3450: 'KPIT_TC_DRT_KEY_022.
+
+2026-03-19 10:19:53,338 | INFO |   🔄 Updating fields for A15-3471: 'KPIT_TC_DRT_IDS_012...
+2026-03-19 10:19:53,338 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:53,339 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:53,339 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:53,339 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:53,339 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:54,391 | INFO |   ✅ Updated fields for A15-3471: 'KPIT_TC_DRT_IDS_012.
+2026-03-19 10:19:54,392 | INFO |   🔄 Commenting on A15-3471: 'KPIT_TC_DRT_IDS_012...
+2026-03-19 10:19:54,392 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:54,393 | INFO |     Result : Fail
+2026-03-19 10:19:54,394 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:54,394 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:54,395 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:54,395 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:54,396 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:54,396 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:55,147 | INFO |   ✅ Commented on A15-3471: 'KPIT_TC_DRT_IDS_012.
+
+2026-03-19 10:19:55,508 | INFO |   🔄 Updating fields for A15-3465: 'KPIT_TC_DRT_IDS_002...
+2026-03-19 10:19:55,508 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:55,508 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:55,508 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:55,509 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:55,509 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:56,398 | INFO |   ✅ Updated fields for A15-3465: 'KPIT_TC_DRT_IDS_002.
+2026-03-19 10:19:56,399 | INFO |   🔄 Commenting on A15-3465: 'KPIT_TC_DRT_IDS_002...
+2026-03-19 10:19:56,399 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:56,400 | INFO |     Result : Fail
+2026-03-19 10:19:56,401 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:56,402 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:56,402 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:56,403 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:56,403 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:56,404 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:56,836 | INFO |   ✅ Commented on A15-3465: 'KPIT_TC_DRT_IDS_002.
+
+2026-03-19 10:19:57,167 | INFO |   🔄 Updating fields for A15-3463: 'KPIT_TC_DRT_IDS_003...
+2026-03-19 10:19:57,167 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:57,168 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:57,168 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:57,168 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:57,169 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:58,428 | INFO |   ✅ Updated fields for A15-3463: 'KPIT_TC_DRT_IDS_003.
+2026-03-19 10:19:58,429 | INFO |   🔄 Commenting on A15-3463: 'KPIT_TC_DRT_IDS_003...
+2026-03-19 10:19:58,429 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:19:58,430 | INFO |     Result : Fail
+2026-03-19 10:19:58,430 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:58,431 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:58,431 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:58,431 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:19:58,432 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:19:58,432 | INFO |     Reviewer : Rajashri
+2026-03-19 10:19:58,896 | INFO |   ✅ Commented on A15-3463: 'KPIT_TC_DRT_IDS_003.
+
+2026-03-19 10:19:59,221 | INFO |   🔄 Updating fields for A15-3458: 'KPIT_TC_DRT_IDS_008...
+2026-03-19 10:19:59,221 | INFO |     Failure Category : TS issue
+2026-03-19 10:19:59,222 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:19:59,223 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:19:59,226 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:19:59,227 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:00,219 | INFO |   ✅ Updated fields for A15-3458: 'KPIT_TC_DRT_IDS_008.
+2026-03-19 10:20:00,220 | INFO |   🔄 Commenting on A15-3458: 'KPIT_TC_DRT_IDS_008...
+2026-03-19 10:20:00,220 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:00,220 | INFO |     Result : Fail
+2026-03-19 10:20:00,221 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:00,221 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:00,222 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:00,222 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:00,223 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:00,223 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:00,941 | INFO |   ✅ Commented on A15-3458: 'KPIT_TC_DRT_IDS_008.
+
+2026-03-19 10:20:01,221 | INFO |   🔄 Updating fields for A15-3464: 'KPIT_TC_DRT_IDS_011...
+2026-03-19 10:20:01,222 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:01,223 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:01,224 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:01,225 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:01,225 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:02,130 | INFO |   ✅ Updated fields for A15-3464: 'KPIT_TC_DRT_IDS_011.
+2026-03-19 10:20:02,131 | INFO |   🔄 Commenting on A15-3464: 'KPIT_TC_DRT_IDS_011...
+2026-03-19 10:20:02,131 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:02,132 | INFO |     Result : Fail
+2026-03-19 10:20:02,133 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:02,133 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:02,134 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:02,135 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:02,135 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:02,136 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:02,720 | INFO |   ✅ Commented on A15-3464: 'KPIT_TC_DRT_IDS_011.
+
+2026-03-19 10:20:03,064 | INFO |   🔄 Updating fields for A15-3461: 'KPIT_TC_DRT_IDS_013...
+2026-03-19 10:20:03,065 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:03,065 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:03,066 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:03,066 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:03,066 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:03,951 | INFO |   ✅ Updated fields for A15-3461: 'KPIT_TC_DRT_IDS_013.
+2026-03-19 10:20:03,951 | INFO |   🔄 Commenting on A15-3461: 'KPIT_TC_DRT_IDS_013...
+2026-03-19 10:20:03,952 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:03,953 | INFO |     Result : Fail
+2026-03-19 10:20:03,954 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:03,954 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:03,955 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:03,956 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:03,957 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:03,957 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:04,483 | INFO |   ✅ Commented on A15-3461: 'KPIT_TC_DRT_IDS_013.
+
+2026-03-19 10:20:04,780 | INFO |   🔄 Updating fields for A15-3460: 'KPIT_TC_DRT_IDS_014...
+2026-03-19 10:20:04,782 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:04,783 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:04,783 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:20:04,784 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:04,785 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:05,732 | INFO |   ✅ Updated fields for A15-3460: 'KPIT_TC_DRT_IDS_014.
+2026-03-19 10:20:05,733 | INFO |   🔄 Commenting on A15-3460: 'KPIT_TC_DRT_IDS_014...
+2026-03-19 10:20:05,734 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:05,734 | INFO |     Result : Fail
+2026-03-19 10:20:05,736 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:05,736 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:05,737 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:05,737 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:05,738 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:05,738 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:06,367 | INFO |   ✅ Commented on A15-3460: 'KPIT_TC_DRT_IDS_014.
+
+2026-03-19 10:20:06,746 | INFO |   🔄 Updating fields for A15-3462: 'KPIT_TC_DRT_IDS_015...
+2026-03-19 10:20:06,747 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:06,747 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:06,748 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:20:06,749 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:06,749 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:07,636 | INFO |   ✅ Updated fields for A15-3462: 'KPIT_TC_DRT_IDS_015.
+2026-03-19 10:20:07,637 | INFO |   🔄 Commenting on A15-3462: 'KPIT_TC_DRT_IDS_015...
+2026-03-19 10:20:07,637 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:07,638 | INFO |     Result : Fail
+2026-03-19 10:20:07,638 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:07,639 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:07,640 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:07,640 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:07,641 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:07,641 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:08,151 | INFO |   ✅ Commented on A15-3462: 'KPIT_TC_DRT_IDS_015.
+
+2026-03-19 10:20:08,422 | INFO |   🔄 Updating fields for A15-3456: 'KPIT_TC_DRT_IDS_1216...
+2026-03-19 10:20:08,423 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:08,423 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:08,424 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:08,425 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:08,425 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:09,646 | INFO |   ✅ Updated fields for A15-3456: 'KPIT_TC_DRT_IDS_1216.
+2026-03-19 10:20:09,646 | INFO |   🔄 Commenting on A15-3456: 'KPIT_TC_DRT_IDS_1216...
+2026-03-19 10:20:09,647 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:09,648 | INFO |     Result : Fail
+2026-03-19 10:20:09,649 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:09,649 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:09,650 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:09,651 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:09,651 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:09,652 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:10,453 | INFO |   ✅ Commented on A15-3456: 'KPIT_TC_DRT_IDS_1216.
+
+2026-03-19 10:20:10,747 | INFO |   🔄 Updating fields for A15-3457: 'KPIT_TC_DRT_IDS_1215...
+2026-03-19 10:20:10,748 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:10,748 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:10,749 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 10:20:10,749 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:10,750 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:11,557 | INFO |   ✅ Updated fields for A15-3457: 'KPIT_TC_DRT_IDS_1215.
+2026-03-19 10:20:11,559 | INFO |   🔄 Commenting on A15-3457: 'KPIT_TC_DRT_IDS_1215...
+2026-03-19 10:20:11,559 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:11,559 | INFO |     Result : Fail
+2026-03-19 10:20:11,560 | INFO |     Failure Category : Test Env issue
+2026-03-19 10:20:11,560 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 10:20:11,560 | INFO |     Root Cause Details : Send CAN Signal failed with Error: VectorXL Error Code : 11 -> XL_ERR_QUEUE_IS_FULL.
+2026-03-19 10:20:11,560 | INFO |     Fixation Performed : Reconnected Vector CAN hardware.
+2026-03-19 10:20:11,560 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:11,561 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:12,429 | INFO |   ✅ Commented on A15-3457: 'KPIT_TC_DRT_IDS_1215.
+
+2026-03-19 10:20:12,717 | INFO |   🔄 Updating fields for A15-3459: 'KPIT_TC_DRT_IDS_009...
+2026-03-19 10:20:12,717 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:12,718 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:12,718 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:12,719 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:12,719 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:13,610 | INFO |   ✅ Updated fields for A15-3459: 'KPIT_TC_DRT_IDS_009.
+2026-03-19 10:20:13,610 | INFO |   🔄 Commenting on A15-3459: 'KPIT_TC_DRT_IDS_009...
+2026-03-19 10:20:13,610 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:13,611 | INFO |     Result : Fail
+2026-03-19 10:20:13,612 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:13,612 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:13,613 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:13,613 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:13,613 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:13,614 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:14,066 | INFO |   ✅ Commented on A15-3459: 'KPIT_TC_DRT_IDS_009.
+
+2026-03-19 10:20:14,368 | INFO |   🔄 Updating fields for A15-3473: 'KPIT_TC_DRT_IDS_016...
+2026-03-19 10:20:14,369 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:14,369 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:14,370 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:14,371 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:14,372 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:15,350 | INFO |   ✅ Updated fields for A15-3473: 'KPIT_TC_DRT_IDS_016.
+2026-03-19 10:20:15,351 | INFO |   🔄 Commenting on A15-3473: 'KPIT_TC_DRT_IDS_016...
+2026-03-19 10:20:15,351 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:15,351 | INFO |     Result : Fail
+2026-03-19 10:20:15,352 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:15,352 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:15,352 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:15,353 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:15,353 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:15,353 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:15,865 | INFO |   ✅ Commented on A15-3473: 'KPIT_TC_DRT_IDS_016.
+
+2026-03-19 10:20:16,780 | INFO |   🔄 Updating fields for A15-3475: 'KPIT_TC_DRT_IDS_007...
+2026-03-19 10:20:16,780 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:16,781 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:16,781 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:16,781 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:16,781 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:17,763 | INFO |   ✅ Updated fields for A15-3475: 'KPIT_TC_DRT_IDS_007.
+2026-03-19 10:20:17,763 | INFO |   🔄 Commenting on A15-3475: 'KPIT_TC_DRT_IDS_007...
+2026-03-19 10:20:17,764 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:17,764 | INFO |     Result : Fail
+2026-03-19 10:20:17,764 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:17,764 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:17,765 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:17,765 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:17,766 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:17,766 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:18,667 | INFO |   ✅ Commented on A15-3475: 'KPIT_TC_DRT_IDS_007.
+
+2026-03-19 10:20:19,120 | INFO |   🔄 Updating fields for A15-3472: 'KPIT_TC_DRT_IDS_018...
+2026-03-19 10:20:19,121 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:19,121 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:19,122 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:19,122 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:19,123 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:20,020 | INFO |   ✅ Updated fields for A15-3472: 'KPIT_TC_DRT_IDS_018.
+2026-03-19 10:20:20,020 | INFO |   🔄 Commenting on A15-3472: 'KPIT_TC_DRT_IDS_018...
+2026-03-19 10:20:20,021 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:20,021 | INFO |     Result : Fail
+2026-03-19 10:20:20,021 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:20,022 | INFO |     Failure Sub Category : Other TS Failed
+2026-03-19 10:20:20,022 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:20,022 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:20,023 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 10:20:20,023 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:20,486 | INFO |   ✅ Commented on A15-3472: 'KPIT_TC_DRT_IDS_018.
+
+2026-03-19 10:20:20,773 | INFO |   🔄 Updating fields for A15-3469: 'KPIT_TC_DRT_HOM_1259...
+2026-03-19 10:20:20,773 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:20,774 | INFO |     Failure Sub Category : FB Modification Required
+2026-03-19 10:20:20,774 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-19 10:20:20,775 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:20,776 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:21,643 | INFO |   ✅ Updated fields for A15-3469: 'KPIT_TC_DRT_HOM_1259.
+2026-03-19 10:20:21,643 | INFO |   🔄 Commenting on A15-3469: 'KPIT_TC_DRT_HOM_1259...
+2026-03-19 10:20:21,643 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 10:20:21,644 | INFO |     Result : Fail
+2026-03-19 10:20:21,644 | INFO |     Failure Category : TS issue
+2026-03-19 10:20:21,644 | INFO |     Failure Sub Category : FB Modification Required
+2026-03-19 10:20:21,644 | INFO |     Root Cause Details : Generic FB "Select OK on Disclaimer Screen" is modified as per CR Change, which is applicable only for KA & KC Regions, not for KY Region, Due to which TS is impacted.
+2026-03-19 10:20:21,644 | INFO |     Fixation Performed : Used R variant specific FB in failed TS.
+2026-03-19 10:20:21,645 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 10:20:21,645 | INFO |     Reviewer : Rajashri
+2026-03-19 10:20:22,100 | INFO |   ✅ Commented on A15-3469: 'KPIT_TC_DRT_HOM_1259.
+
+2026-03-19 10:20:22,101 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

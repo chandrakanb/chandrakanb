@@ -1,0 +1,21 @@
+2026-03-19 09:24:31,700 | INFO | ⏳ Updating 'A15-3448: KPIT_TC_DRT_USB_132'...
+2026-03-19 09:24:31,702 | INFO |   🔄 Updating fields for A15-3448: 'KPIT_TC_DRT_USB_132...
+2026-03-19 09:24:31,703 | INFO |     Failure Category : Test Env issue
+2026-03-19 09:24:31,705 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 09:24:31,706 | INFO |     Previous Failure Category : []
+2026-03-19 09:24:31,707 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 09:24:31,708 | INFO |     Fixation Performed : Replaced Image with new image.
+2026-03-19 09:24:32,731 | INFO |   ✅ Updated fields for A15-3448: 'KPIT_TC_DRT_USB_132.
+2026-03-19 09:24:32,732 | INFO |   🔄 Commenting on A15-3448: 'KPIT_TC_DRT_USB_132...
+2026-03-19 09:24:32,733 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 09:24:32,734 | INFO |     Result : Fail
+2026-03-19 09:24:32,735 | INFO |     Failure Category : Test Env issue
+2026-03-19 09:24:32,735 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 09:24:32,736 | INFO |     Root Cause Details : Image Comparison failed, Due to Brightness difference.
+2026-03-19 09:24:32,737 | INFO |     Fixation Performed : Replaced Image with new image.
+2026-03-19 09:24:32,737 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 09:24:32,738 | INFO |     Reviewer : Rajashri
+2026-03-19 09:24:33,466 | INFO |   ✅ Commented on A15-3448: 'KPIT_TC_DRT_USB_132.
+
+2026-03-19 09:24:33,467 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,103 @@
+2026-03-14 16:15:10 | 🚀 Jira Update Started.
+
+2026-03-14 16:15:10 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:15:10 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:15:11 |     Failure Category          : Human error
+2026-03-14 16:15:11 |     Failure Sub Category      : -
+2026-03-14 16:15:11 |     Previous Failure Category : []
+2026-03-14 16:15:11 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:11 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:12 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:15:12 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:15:12 |     Date                      : Date
+2026-03-14 16:15:12 |     Build Number              : Build
+2026-03-14 16:15:12 |     Result                    : Fail
+2026-03-14 16:15:12 |     Failure Category          : Human error
+2026-03-14 16:15:12 |     Failure Sub Category      : -
+2026-03-14 16:15:12 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:12 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:13 |     Remarks                   : Remarks
+2026-03-14 16:15:13 |     Reviewer                  : Reviewer
+2026-03-14 16:15:14 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172783
+
+2026-03-14 16:15:14 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:15:14 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:15:14 |     Failure Category          : KITE issue
+2026-03-14 16:15:14 |     Failure Sub Category      : Device Mapping issue
+2026-03-14 16:15:14 |     Previous Failure Category : []
+2026-03-14 16:15:14 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:14 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:16 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:15:16 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:15:16 |     Date                      : Date
+2026-03-14 16:15:16 |     Build Number              : Build
+2026-03-14 16:15:16 |     Result                    : Fail
+2026-03-14 16:15:16 |     Failure Category          : KITE issue
+2026-03-14 16:15:16 |     Failure Sub Category      : Device Mapping issue
+2026-03-14 16:15:16 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:16 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:16 |     Remarks                   : Remarks
+2026-03-14 16:15:16 |     Reviewer                  : Reviewer
+2026-03-14 16:15:17 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172784
+
+2026-03-14 16:15:18 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:15:18 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:15:18 |     Failure Category          : TS issue
+2026-03-14 16:15:18 |     Failure Sub Category      : TS logic incorrect
+2026-03-14 16:15:18 |     Previous Failure Category : []
+2026-03-14 16:15:18 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:18 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:20 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:15:20 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:15:20 |     Date                      : Date
+2026-03-14 16:15:20 |     Build Number              : Build
+2026-03-14 16:15:20 |     Result                    : Fail
+2026-03-14 16:15:20 |     Failure Category          : TS issue
+2026-03-14 16:15:20 |     Failure Sub Category      : TS logic incorrect
+2026-03-14 16:15:20 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:20 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:20 |     Remarks                   : Remarks
+2026-03-14 16:15:20 |     Reviewer                  : Reviewer
+2026-03-14 16:15:21 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172785
+
+2026-03-14 16:15:21 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:15:21 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:15:21 |     Failure Category          : ICB issue
+2026-03-14 16:15:21 |     Failure Sub Category      : Once seen
+2026-03-14 16:15:21 |     Previous Failure Category : []
+2026-03-14 16:15:21 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:21 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:22 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:15:22 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:15:22 |     Date                      : Date
+2026-03-14 16:15:22 |     Build Number              : Build
+2026-03-14 16:15:22 |     Result                    : Fail
+2026-03-14 16:15:22 |     Failure Category          : ICB issue
+2026-03-14 16:15:22 |     Failure Sub Category      : Once seen
+2026-03-14 16:15:22 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:22 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:22 |     Remarks                   : Remarks
+2026-03-14 16:15:22 |     Reviewer                  : Reviewer
+2026-03-14 16:15:24 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172786
+
+2026-03-14 16:15:24 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:15:24 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:15:24 |     Failure Category          : Test Env issue
+2026-03-14 16:15:24 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-14 16:15:24 |     Previous Failure Category : []
+2026-03-14 16:15:24 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:24 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:26 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:15:26 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:15:26 |     Date                      : Date
+2026-03-14 16:15:26 |     Build Number              : Build
+2026-03-14 16:15:26 |     Result                    : Fail
+2026-03-14 16:15:26 |     Failure Category          : Test Env issue
+2026-03-14 16:15:26 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-14 16:15:26 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:15:26 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:15:26 |     Remarks                   : Remarks
+2026-03-14 16:15:26 |     Reviewer                  : Reviewer
+2026-03-14 16:15:27 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172787
+
+2026-03-14 16:15:27 | ✅ Jira Update Completed.

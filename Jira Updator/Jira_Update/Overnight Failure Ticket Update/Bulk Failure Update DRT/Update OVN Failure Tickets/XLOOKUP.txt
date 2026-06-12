@@ -1,0 +1,14 @@
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$G:$G,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$H:$H,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$I:$I,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$J:$J,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$K:$K,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$L:$L,"",0,1)
+
+=XLOOKUP(@C:C,'[Jira (4).csv]Sheet6'!$B:$B,'[Jira (4).csv]Sheet6'!$M:$M,"",0,1)	
+

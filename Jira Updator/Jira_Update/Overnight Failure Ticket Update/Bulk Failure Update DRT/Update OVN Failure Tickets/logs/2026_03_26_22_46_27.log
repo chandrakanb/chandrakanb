@@ -1,0 +1,164 @@
+2026-03-26 22:46:30,890 | INFO | ⏳ Updating 'A15-3718: KPIT_TC_DRT_USB_140'...
+2026-03-26 22:46:30,890 | INFO |   🔄 Updating fields for A15-3718: 'KPIT_TC_DRT_USB_140...
+2026-03-26 22:46:30,891 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:30,892 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:30,893 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:30,893 | INFO |     Root Cause Details : Validation of "Black Level Value on USB Video Image Settings is Set to 0" Failed due to color difference.
+2026-03-26 22:46:30,894 | INFO |     Fixation Performed : Replaced the image "Image_Settings_Video_R_Variant.png".
+2026-03-26 22:46:32,013 | INFO |   ✅ Updated fields for A15-3718: 'KPIT_TC_DRT_USB_140.
+2026-03-26 22:46:32,014 | INFO |   🔄 Commenting on A15-3718: 'KPIT_TC_DRT_USB_140...
+2026-03-26 22:46:32,014 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:32,015 | INFO |     Result : Fail
+2026-03-26 22:46:32,015 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:32,016 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:32,016 | INFO |     Root Cause Details : Validation of "Black Level Value on USB Video Image Settings is Set to 0" Failed due to color difference.
+2026-03-26 22:46:32,016 | INFO |     Fixation Performed : Replaced the image "Image_Settings_Video_R_Variant.png".
+2026-03-26 22:46:32,017 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQDlMwJXEyN7Tozm71mEdlzzAakmGQDqWQSYxV4zIfOyP_g?e=9bEFB3.
+2026-03-26 22:46:32,017 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:32,953 | INFO |   ✅ Commented on A15-3718: 'KPIT_TC_DRT_USB_140.
+
+2026-03-26 22:46:33,298 | INFO | ⏳ Updating 'A15-3722: KPIT_TC_DRT_VEH_051'...
+2026-03-26 22:46:33,298 | INFO |   🔄 Updating fields for A15-3722: 'KPIT_TC_DRT_VEH_051...
+2026-03-26 22:46:33,299 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 22:46:33,299 | INFO |     Failure Sub Category : Always
+2026-03-26 22:46:33,299 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:33,299 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-26 22:46:33,300 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:34,454 | INFO |   ✅ Updated fields for A15-3722: 'KPIT_TC_DRT_VEH_051.
+2026-03-26 22:46:34,454 | INFO |   🔄 Commenting on A15-3722: 'KPIT_TC_DRT_VEH_051...
+2026-03-26 22:46:34,455 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:34,456 | INFO |     Result : Fail
+2026-03-26 22:46:34,456 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 22:46:34,457 | INFO |     Failure Sub Category : Always
+2026-03-26 22:46:34,458 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-26 22:46:34,458 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:34,459 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 22:46:34,460 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:35,199 | INFO |   ✅ Commented on A15-3722: 'KPIT_TC_DRT_VEH_051.
+
+2026-03-26 22:46:35,605 | INFO | ⏳ Updating 'A15-3721: KPIT_TC_DRT_VEH_061'...
+2026-03-26 22:46:35,605 | INFO |   🔄 Updating fields for A15-3721: 'KPIT_TC_DRT_VEH_061...
+2026-03-26 22:46:35,605 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 22:46:35,606 | INFO |     Failure Sub Category : Always
+2026-03-26 22:46:35,607 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:35,609 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-26 22:46:35,609 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:36,749 | INFO |   ✅ Updated fields for A15-3721: 'KPIT_TC_DRT_VEH_061.
+2026-03-26 22:46:36,750 | INFO |   🔄 Commenting on A15-3721: 'KPIT_TC_DRT_VEH_061...
+2026-03-26 22:46:36,751 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:36,751 | INFO |     Result : Fail
+2026-03-26 22:46:36,752 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 22:46:36,752 | INFO |     Failure Sub Category : Always
+2026-03-26 22:46:36,753 | INFO |     Root Cause Details : Vehicle Settings List view is displayed when the App is re-launched from Home screen after changing view as Button.
+Defect is already raised, Defect : https://jira.honda-ivi.com/browse/PJ05DEF00-576.
+2026-03-26 22:46:36,754 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:36,754 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 22:46:36,755 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:37,895 | INFO |   ✅ Commented on A15-3721: 'KPIT_TC_DRT_VEH_061.
+
+2026-03-26 22:46:38,356 | INFO | ⏳ Updating 'A15-3715: KPIT_TC_DRT_USB_073'...
+2026-03-26 22:46:38,356 | INFO |   🔄 Updating fields for A15-3715: 'KPIT_TC_DRT_USB_073...
+2026-03-26 22:46:38,357 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:38,357 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:38,357 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:38,358 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-26 22:46:38,359 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:39,535 | INFO |   ✅ Updated fields for A15-3715: 'KPIT_TC_DRT_USB_073.
+2026-03-26 22:46:39,536 | INFO |   🔄 Commenting on A15-3715: 'KPIT_TC_DRT_USB_073...
+2026-03-26 22:46:39,537 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:39,538 | INFO |     Result : Fail
+2026-03-26 22:46:39,538 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:39,539 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:39,540 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-26 22:46:39,541 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:39,542 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQDFsK1Wzx7FSpbVxGHwcu4QASboYAZBGG21dd6GtG2pDJM?e=yle2Qj.
+2026-03-26 22:46:39,543 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:40,804 | INFO |   ✅ Commented on A15-3715: 'KPIT_TC_DRT_USB_073.
+
+2026-03-26 22:46:41,164 | INFO | ⏳ Updating 'A15-3720: KPIT_TC_DRT_AMFM_017'...
+2026-03-26 22:46:41,165 | INFO |   🔄 Updating fields for A15-3720: 'KPIT_TC_DRT_AMFM_017...
+2026-03-26 22:46:41,165 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:41,167 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:41,168 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:41,169 | INFO |     Root Cause Details : Validation for B Zone is displayed is failed due to position difference.
+2026-03-26 22:46:41,169 | INFO |     Fixation Performed : Replaced FB "Validate MCS, A Zone and B Zone are Displayed on Home Screen Page1" with "Validate MCS, A Zone and B Zone are Displayed on Home Screen Page1_R_Variant".
+2026-03-26 22:46:42,556 | INFO |   ✅ Updated fields for A15-3720: 'KPIT_TC_DRT_AMFM_017.
+2026-03-26 22:46:42,557 | INFO |   🔄 Commenting on A15-3720: 'KPIT_TC_DRT_AMFM_017...
+2026-03-26 22:46:42,558 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:42,559 | INFO |     Result : Fail
+2026-03-26 22:46:42,559 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:42,560 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:42,560 | INFO |     Root Cause Details : Validation for B Zone is displayed is failed due to position difference.
+2026-03-26 22:46:42,561 | INFO |     Fixation Performed : Replaced FB "Validate MCS, A Zone and B Zone are Displayed on Home Screen Page1" with "Validate MCS, A Zone and B Zone are Displayed on Home Screen Page1_R_Variant".
+2026-03-26 22:46:42,562 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQAIKZm5eJXQSLNGrDVBcoVfAeevupp8gpfu9HDz2OzRgHc?e=g37Juu.
+2026-03-26 22:46:42,562 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:43,303 | INFO |   ✅ Commented on A15-3720: 'KPIT_TC_DRT_AMFM_017.
+
+2026-03-26 22:46:43,640 | INFO | ⏳ Updating 'A15-3717: KPIT_TC_DRT_SPCCP_097'...
+2026-03-26 22:46:43,641 | INFO |   🔄 Updating fields for A15-3717: 'KPIT_TC_DRT_SPCCP_097...
+2026-03-26 22:46:43,642 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:43,642 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:43,643 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:43,644 | INFO |     Root Cause Details : CarPlay Active Call Screen validation failed due to color difference.
+2026-03-26 22:46:43,645 | INFO |     Fixation Performed : Replaced FB "Validate CarPlay Active Call Screen_R_Variant" with "Validate CarPlay Active Call Screen".
+2026-03-26 22:46:44,765 | INFO |   ✅ Updated fields for A15-3717: 'KPIT_TC_DRT_SPCCP_097.
+2026-03-26 22:46:44,766 | INFO |   🔄 Commenting on A15-3717: 'KPIT_TC_DRT_SPCCP_097...
+2026-03-26 22:46:44,767 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:44,768 | INFO |     Result : Fail
+2026-03-26 22:46:44,768 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:44,769 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:44,770 | INFO |     Root Cause Details : CarPlay Active Call Screen validation failed due to color difference.
+2026-03-26 22:46:44,770 | INFO |     Fixation Performed : Replaced FB "Validate CarPlay Active Call Screen_R_Variant" with "Validate CarPlay Active Call Screen".
+2026-03-26 22:46:44,771 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQAZeZDtCGGCS4nZp5M6nSy5AYSEq7PQP-FJFosVeI9X8As?e=Ss9T6q.
+2026-03-26 22:46:44,772 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:45,853 | INFO |   ✅ Commented on A15-3717: 'KPIT_TC_DRT_SPCCP_097.
+
+2026-03-26 22:46:46,329 | INFO | ⏳ Updating 'A15-3719: KPIT_TC_DRT_KEY_022'...
+2026-03-26 22:46:46,331 | INFO |   🔄 Updating fields for A15-3719: 'KPIT_TC_DRT_KEY_022...
+2026-03-26 22:46:46,332 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 22:46:46,332 | INFO |     Failure Sub Category : Timing issue
+2026-03-26 22:46:46,333 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:46,334 | INFO |     Root Cause Details : Audio validation failed for MUSIC1_Folder1 because the next song started while the expected song was already playing on ICB, causing the current song to end.
+2026-03-26 22:46:46,335 | INFO |     Fixation Performed : Added FB "Select Song Starting Position on Progress Bar" after selecting song from music library.
+2026-03-26 22:46:47,647 | INFO |   ✅ Updated fields for A15-3719: 'KPIT_TC_DRT_KEY_022.
+2026-03-26 22:46:47,648 | INFO |   🔄 Commenting on A15-3719: 'KPIT_TC_DRT_KEY_022...
+2026-03-26 22:46:47,649 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:47,649 | INFO |     Result : Fail
+2026-03-26 22:46:47,650 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 22:46:47,651 | INFO |     Failure Sub Category : Timing issue
+2026-03-26 22:46:47,653 | INFO |     Root Cause Details : Audio validation failed for MUSIC1_Folder1 because the next song started while the expected song was already playing on ICB, causing the current song to end.
+2026-03-26 22:46:47,653 | INFO |     Fixation Performed : Added FB "Select Song Starting Position on Progress Bar" after selecting song from music library.
+2026-03-26 22:46:47,653 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQD9r56NOQHKR6IkpmFevA46AVt1eA4EvuhYDvPTtei795M?e=bdCeKQ.
+2026-03-26 22:46:47,654 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:48,814 | INFO |   ✅ Commented on A15-3719: 'KPIT_TC_DRT_KEY_022.
+
+2026-03-26 22:46:49,144 | INFO | ⏳ Updating 'A15-3716: KPIT_TC_DRT_MCS_012'...
+2026-03-26 22:46:49,145 | INFO |   🔄 Updating fields for A15-3716: 'KPIT_TC_DRT_MCS_012...
+2026-03-26 22:46:49,146 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:49,147 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:49,147 | INFO |     Previous Failure Category : []
+2026-03-26 22:46:49,148 | INFO |     Root Cause Details : Robot performed fast swipe operation, this might be robot touch depth and/or park height issue
+2026-03-26 22:46:49,149 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:50,208 | INFO |   ✅ Updated fields for A15-3716: 'KPIT_TC_DRT_MCS_012.
+2026-03-26 22:46:50,209 | INFO |   🔄 Commenting on A15-3716: 'KPIT_TC_DRT_MCS_012...
+2026-03-26 22:46:50,209 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:46:50,211 | INFO |     Result : Fail
+2026-03-26 22:46:50,212 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:46:50,213 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:46:50,213 | INFO |     Root Cause Details : Robot performed fast swipe operation, this might be robot touch depth and/or park height issue
+2026-03-26 22:46:50,213 | INFO |     Fixation Performed : NA
+2026-03-26 22:46:50,214 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQCgSPpgGkXZRJuyYhkpjku0AVQysPSbNk7M3tu9Di1GKO4?e=F0EqRU.
+2026-03-26 22:46:50,215 | INFO |     Reviewer : Rajashri
+2026-03-26 22:46:51,355 | INFO |   ✅ Commented on A15-3716: 'KPIT_TC_DRT_MCS_012.
+
+2026-03-26 22:46:51,356 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

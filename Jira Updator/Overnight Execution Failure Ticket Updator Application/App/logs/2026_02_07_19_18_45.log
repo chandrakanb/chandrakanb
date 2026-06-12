@@ -1,0 +1,23 @@
+2026-02-07 19:18:45 | 🚀 Jira Update Started.
+
+2026-02-07 19:18:46 | ⏳ Updating    		            : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:18:46 |   🔄 Updating fields          : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:18:46 |     Failure Category          : KITE Issue
+2026-02-07 19:18:46 |     Failure Sub Category      : KITE Application Issue
+2026-02-07 19:18:46 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-07 19:18:46 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier.
+2026-02-07 19:18:46 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection. https://kpithondajapan.atlassian.net/rest/api/3/attachment/content/76348
+2026-02-07 19:18:47 |   ✅ Updated fields           : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:18:47 |   🔄 Commenting               : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:18:47 |     Date                      : 2026-02-06
+2026-02-07 19:18:47 |     Build Number              : AEA1416R0.260206.1
+2026-02-07 19:18:47 |     Result                    : Fail
+2026-02-07 19:18:47 |     Failure Category          : KITE Issue
+2026-02-07 19:18:47 |     Failure Sub Category      : KITE Application Issue
+2026-02-07 19:18:47 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier.
+2026-02-07 19:18:47 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection. https://kpithondajapan.atlassian.net/rest/api/3/attachment/content/76348
+2026-02-07 19:18:47 |     Remarks                   : Executed in daytime, result: Pass. https://kpithondajapan.atlassian.net/rest/api/3/attachment/content/76349
+2026-02-07 19:18:47 |     Reviewer                  : Rajashri
+2026-02-07 19:18:48 |   🔄 Commented                : DRT-4715 ('KPIT_TC_DRT_LMG_009') | Comment ID: 156188
+
+2026-02-07 19:18:48 | ✅ Jira Update Completed.

@@ -1,0 +1,164 @@
+2026-03-07 11:41:45 | 🚀 Jira Update Started.
+
+2026-03-07 11:41:46 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-07 11:41:46 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-07 11:41:47 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:47 |     Failure Sub Category      : External Application Issue
+2026-03-07 11:41:47 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-07 11:41:47 |     Root Cause Details        : VE App not got connected with error 30
+2026-03-07 11:41:47 |     Fixation Performed        : NA
+2026-03-07 11:41:49 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-07 11:41:49 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-07 11:41:49 |     Date                      : 2026-03-05
+2026-03-07 11:41:49 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:41:49 |     Result                    : Fail
+2026-03-07 11:41:49 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:49 |     Failure Sub Category      : External Application Issue
+2026-03-07 11:41:49 |     Root Cause Details        : VE App not got connected with error 30
+2026-03-07 11:41:49 |     Fixation Performed        : NA
+2026-03-07 11:41:49 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:41:49 |     Reviewer                  : Rajashri
+2026-03-07 11:41:50 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 170367
+
+2026-03-07 11:41:51 | ⏳ Updating    		            : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-03-07 11:41:51 |   🔄 Updating fields          : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-03-07 11:41:51 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:51 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:41:51 |     Previous Failure Category : ['Test Env Issue', 'TS Issue', 'ICB Issue (Always)']
+2026-03-07 11:41:51 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-07 11:41:51 |     Fixation Performed        : NA
+2026-03-07 11:41:52 |   ✅ Updated fields           : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-03-07 11:41:52 |   🔄 Commenting               : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-03-07 11:41:52 |     Date                      : 2026-03-05
+2026-03-07 11:41:52 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:41:52 |     Result                    : Fail
+2026-03-07 11:41:52 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:52 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:41:52 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-07 11:41:52 |     Fixation Performed        : NA
+2026-03-07 11:41:52 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:41:52 |     Reviewer                  : Rajashri
+2026-03-07 11:41:53 |   🔄 Commented                : DRT-1811 ('KPIT_TC_DRT_BT_003') | Comment ID: 170368
+
+2026-03-07 11:41:54 | ⏳ Updating    		            : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-03-07 11:41:54 |   🔄 Updating fields          : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-03-07 11:41:54 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:54 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:41:54 |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2026-03-07 11:41:54 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-07 11:41:54 |     Fixation Performed        : NA
+2026-03-07 11:41:55 |   ✅ Updated fields           : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-03-07 11:41:55 |   🔄 Commenting               : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-03-07 11:41:55 |     Date                      : 2026-03-05
+2026-03-07 11:41:55 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:41:55 |     Result                    : Fail
+2026-03-07 11:41:55 |     Failure Category          : Test Env Issue
+2026-03-07 11:41:55 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:41:55 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-07 11:41:55 |     Fixation Performed        : NA
+2026-03-07 11:41:55 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:41:55 |     Reviewer                  : Rajashri
+2026-03-07 11:41:56 |   🔄 Commented                : DRT-1800 ('KPIT_TC_DRT_BT_002') | Comment ID: 170369
+
+2026-03-07 11:41:56 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-07 11:41:56 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-07 11:41:56 |     Failure Category          : KITE Issue
+2026-03-07 11:41:56 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:41:56 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-07 11:41:56 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:41:56 |     Fixation Performed        : NA
+2026-03-07 11:41:57 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-07 11:41:57 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-03-07 11:41:57 |     Date                      : 2026-03-05
+2026-03-07 11:41:57 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:41:57 |     Result                    : Fail
+2026-03-07 11:41:57 |     Failure Category          : KITE Issue
+2026-03-07 11:41:57 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:41:57 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:41:57 |     Fixation Performed        : NA
+2026-03-07 11:41:57 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:41:57 |     Reviewer                  : Rajashri
+2026-03-07 11:41:58 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 170370
+
+2026-03-07 11:41:59 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-03-07 11:41:59 |   🔄 Updating fields          : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-03-07 11:41:59 |     Failure Category          : KITE Issue
+2026-03-07 11:41:59 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:41:59 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-07 11:41:59 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:41:59 |     Fixation Performed        : NA
+2026-03-07 11:42:00 |   ✅ Updated fields           : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-03-07 11:42:00 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-03-07 11:42:00 |     Date                      : 2026-03-05
+2026-03-07 11:42:00 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:00 |     Result                    : Fail
+2026-03-07 11:42:00 |     Failure Category          : KITE Issue
+2026-03-07 11:42:00 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:42:00 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:42:00 |     Fixation Performed        : NA
+2026-03-07 11:42:00 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:42:00 |     Reviewer                  : Rajashri
+2026-03-07 11:42:01 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 170371
+
+2026-03-07 11:42:02 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-07 11:42:02 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-07 11:42:02 |     Failure Category          : Test Env Issue
+2026-03-07 11:42:02 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:42:02 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-03-07 11:42:02 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-03-07 11:42:02 |     Fixation Performed        : Replaced the golden image
+2026-03-07 11:42:03 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-07 11:42:03 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-07 11:42:03 |     Date                      : 2026-03-05
+2026-03-07 11:42:03 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:03 |     Result                    : Fail
+2026-03-07 11:42:03 |     Failure Category          : Test Env Issue
+2026-03-07 11:42:03 |     Failure Sub Category      : Automation Setup Malfunction
+2026-03-07 11:42:03 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-03-07 11:42:03 |     Fixation Performed        : Replaced the golden image
+2026-03-07 11:42:03 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:42:03 |     Reviewer                  : Rajashri
+2026-03-07 11:42:04 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 170372
+
+2026-03-07 11:42:04 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-03-07 11:42:04 |   🔄 Updating fields          : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-03-07 11:42:04 |     Failure Category          : KITE Issue
+2026-03-07 11:42:04 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:42:04 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-07 11:42:04 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:42:04 |     Fixation Performed        : NA
+2026-03-07 11:42:05 |   ✅ Updated fields           : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-03-07 11:42:05 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-03-07 11:42:05 |     Date                      : 2026-03-05
+2026-03-07 11:42:05 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:05 |     Result                    : Fail
+2026-03-07 11:42:05 |     Failure Category          : KITE Issue
+2026-03-07 11:42:05 |     Failure Sub Category      : CAN Signal Issue
+2026-03-07 11:42:05 |     Root Cause Details        : OCR validation failed due high brightness
+2026-03-07 11:42:05 |     Fixation Performed        : NA
+2026-03-07 11:42:05 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-07 11:42:05 |     Reviewer                  : Rajashri
+2026-03-07 11:42:06 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 170373
+
+2026-03-07 11:42:07 | ⏳ Updating    		            : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-07 11:42:07 |   🔄 Commenting               : DRT-5002 ('KPIT_TC_DRT_PKS_004')
+2026-03-07 11:42:07 |     Date                      : 2026-03-05
+2026-03-07 11:42:07 |     Result                    : Pass
+2026-03-07 11:42:07 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:08 |   🔄 Commented                : DRT-5002 ('KPIT_TC_DRT_PKS_004') | Comment ID: 170374
+
+2026-03-07 11:42:08 | ⏳ Updating    		            : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-07 11:42:08 |   🔄 Commenting               : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-07 11:42:08 |     Date                      : 2026-03-05
+2026-03-07 11:42:08 |     Result                    : Pass
+2026-03-07 11:42:08 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:09 |   🔄 Commented                : DRT-4222 ('KPIT_TC_DRT_BSICTM_001') | Comment ID: 170375
+
+2026-03-07 11:42:10 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-07 11:42:10 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-07 11:42:10 |     Date                      : 2026-03-05
+2026-03-07 11:42:10 |     Result                    : Pass
+2026-03-07 11:42:10 |     Build Number              : AEA1414S0.260305.1 
+2026-03-07 11:42:11 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 170376
+
+2026-03-07 11:42:11 | ✅ Jira Update Completed.

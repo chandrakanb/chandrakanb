@@ -1,0 +1,26 @@
+2026-03-14 18:06:59,381 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 18:06:59,381 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 18:06:59,382 | INFO |     Failure Category : Human error
+2026-03-14 18:06:59,382 | INFO |     Failure Sub Category : -
+2026-03-14 18:06:59,383 | INFO |     Previous Failure Category : ['KITE issue', 'Test Env Issue']
+2026-03-14 18:06:59,383 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 18:06:59,384 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 18:07:00,110 | ERROR | [ERROR] Could not process DRT-7527: '12345 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3284918
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 14 Mar 2026 12:37:00 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd067da9d5e28f88168aa23800f5c18e0', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '2d93f249fd484d7bbbb16231db565001', 'Atl-Request-Id': '2d93f249-fd48-4d7b-bbb1-6231db565001', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=218,atl-edge-internal;dur=16,atl-edge-upstream;dur=202,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f034286b88541486f791a00fca47970e.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'cAKSZOA2xanBMLLrmWx28v3dWI21cPO3t-ESu-y7W-phlWxwLjIRMA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE issue' is not valid"}}.
+
+2026-03-14 18:07:00,781 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 18:07:00,782 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 18:07:00,782 | INFO |     Failure Category : KITE issue
+2026-03-14 18:07:00,784 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 18:07:00,784 | INFO |     Previous Failure Category : ['KITE issue', 'Test Env Issue']
+2026-03-14 18:07:00,785 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 18:07:00,785 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 18:07:01,448 | ERROR | [ERROR] Could not process DRT-7527: '12345 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3284918
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 14 Mar 2026 12:37:01 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '2196111606e93126fa2b13f8ac601955', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'e0ebf2576f4443e99440b1efe34be371', 'Atl-Request-Id': 'e0ebf257-6f44-43e9-9440-b1efe34be371', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=156,atl-edge-internal;dur=15,atl-edge-upstream;dur=141,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f034286b88541486f791a00fca47970e.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'uUT8YaZiu6aA_Fw-_AWyjQF-QjjNoQqwjy-q8Q_uV4PXDU9AS1jdJA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE issue' is not valid"}}.
+
+2026-03-14 18:07:01,449 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,40 @@
+2026-03-14 15:48:17,098 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 15:48:17,099 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 15:48:17,100 | INFO |     Failure Category : KITE issue
+2026-03-14 15:48:17,100 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 15:48:17,101 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-14 15:48:17,102 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:48:17,103 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:48:19,191 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-14 15:48:19,192 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-14 15:48:19,193 | INFO |     Date Build : Date
+2026-03-14 15:48:19,204 | INFO |     Result : Fail
+2026-03-14 15:48:19,204 | INFO |     Failure Category : KITE issue
+2026-03-14 15:48:19,205 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 15:48:19,205 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:48:19,206 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:48:19,206 | INFO |     Remarks : Remarks
+2026-03-14 15:48:19,206 | INFO |     Reviewer : Reviewer
+2026-03-14 15:48:20,589 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-14 15:48:21,341 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 15:48:21,342 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 15:48:21,343 | INFO |     Failure Category : Human error
+2026-03-14 15:48:21,344 | INFO |     Failure Sub Category : -
+2026-03-14 15:48:21,344 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-14 15:48:21,345 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:48:21,346 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:48:23,190 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-14 15:48:23,190 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-14 15:48:23,191 | INFO |     Date Build : Date
+2026-03-14 15:48:23,192 | INFO |     Result : Fail
+2026-03-14 15:48:23,192 | INFO |     Failure Category : Human error
+2026-03-14 15:48:23,193 | INFO |     Failure Sub Category : -
+2026-03-14 15:48:23,193 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:48:23,194 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:48:23,195 | INFO |     Remarks : Remarks
+2026-03-14 15:48:23,195 | INFO |     Reviewer : Reviewer
+2026-03-14 15:48:24,823 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-14 15:48:24,824 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

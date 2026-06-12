@@ -1,0 +1,90 @@
+2026-02-10 12:48:48,642 | INFO |   🔄 Commenting on A15-2902: 'KPIT_TC_DRT_MET_056...
+2026-02-10 12:48:48,643 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:48,644 | INFO |     Result : Fail
+2026-02-10 12:48:48,644 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:48,645 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-02-10 12:48:48,645 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence GA not initiated.
+2026-02-10 12:48:48,646 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-02-10 12:48:48,646 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:48,647 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:49,137 | INFO |   ✅ Commented on A15-2902: 'KPIT_TC_DRT_MET_056.
+
+2026-02-10 12:48:49,450 | INFO |   🔄 Commenting on A15-2901: 'KPIT_TC_DRT_MET_014...
+2026-02-10 12:48:49,451 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:49,451 | INFO |     Result : Fail
+2026-02-10 12:48:49,452 | INFO |     Failure Category : KITE Issue
+2026-02-10 12:48:49,453 | INFO |     Failure Sub Category : Image Comparision
+2026-02-10 12:48:49,454 | INFO |     Root Cause Details : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-10 12:48:49,455 | INFO |     Fixation Performed : NA
+2026-02-10 12:48:49,455 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:49,456 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:50,037 | INFO |   ✅ Commented on A15-2901: 'KPIT_TC_DRT_MET_014.
+
+2026-02-10 12:48:50,757 | INFO |   🔄 Commenting on A15-2903: 'KPIT_TC_DRT_SPCAA_023...
+2026-02-10 12:48:50,757 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:50,758 | INFO |     Result : Fail
+2026-02-10 12:48:50,759 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:50,759 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-02-10 12:48:50,760 | INFO |     Root Cause Details : Even after selecting Tracks on Android Auto Music Screen, Screen not transited.
+2026-02-10 12:48:50,760 | INFO |     Fixation Performed : NA
+2026-02-10 12:48:50,760 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:50,761 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:51,783 | INFO |   ✅ Commented on A15-2903: 'KPIT_TC_DRT_SPCAA_023.
+
+2026-02-10 12:48:52,132 | INFO |   🔄 Commenting on A15-2904: 'KPIT_TC_DRT_MET_060...
+2026-02-10 12:48:52,133 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:52,133 | INFO |     Result : Fail
+2026-02-10 12:48:52,133 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:52,133 | INFO |     Failure Sub Category : External Application Issue
+2026-02-10 12:48:52,134 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-10 12:48:52,134 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-02-10 12:48:52,134 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:52,135 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:52,690 | INFO |   ✅ Commented on A15-2904: 'KPIT_TC_DRT_MET_060.
+
+2026-02-10 12:48:53,027 | INFO |   🔄 Commenting on A15-2905: 'KPIT_TC_DRT_HAC_043...
+2026-02-10 12:48:53,028 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:53,028 | INFO |     Result : Fail
+2026-02-10 12:48:53,028 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:53,029 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-02-10 12:48:53,029 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-10 12:48:53,029 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-02-10 12:48:53,031 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:53,031 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:54,113 | INFO |   ✅ Commented on A15-2905: 'KPIT_TC_DRT_HAC_043.
+
+2026-02-10 12:48:54,430 | INFO |   🔄 Commenting on A15-2908: 'KPIT_TC_DRT_SRW_003...
+2026-02-10 12:48:54,431 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:54,431 | INFO |     Result : Fail
+2026-02-10 12:48:54,431 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:54,432 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-02-10 12:48:54,432 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-10 12:48:54,432 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-02-10 12:48:54,432 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:54,433 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:55,428 | INFO |   ✅ Commented on A15-2908: 'KPIT_TC_DRT_SRW_003.
+
+2026-02-10 12:48:56,104 | INFO |   🔄 Commenting on A15-2907: 'KPIT_TC_DRT_SRW_018...
+2026-02-10 12:48:56,105 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:56,106 | INFO |     Result : Fail
+2026-02-10 12:48:56,107 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:56,107 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-02-10 12:48:56,108 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-10 12:48:56,109 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-02-10 12:48:56,109 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-02-10 12:48:56,110 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:56,699 | INFO |   ✅ Commented on A15-2907: 'KPIT_TC_DRT_SRW_018.
+
+2026-02-10 12:48:57,013 | INFO |   🔄 Commenting on A15-2906: 'KPIT_TC_DRT_PSE_002...
+2026-02-10 12:48:57,014 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-02-10 12:48:57,015 | INFO |     Result : Fail
+2026-02-10 12:48:57,016 | INFO |     Failure Category : Test Env Issue
+2026-02-10 12:48:57,016 | INFO |     Failure Sub Category : External Application Issue
+2026-02-10 12:48:57,017 | INFO |     Root Cause Details : Seat Transmission Stop Signals not Reflected on ICB.
+2026-02-10 12:48:57,018 | INFO |     Fixation Performed : NA
+2026-02-10 12:48:57,018 | INFO |     Remarks : Executed in daytime, result: Pass. Issue not reproduced in daytime.
+2026-02-10 12:48:57,019 | INFO |     Reviewer : Rajashri
+2026-02-10 12:48:57,537 | INFO |   ✅ Commented on A15-2906: 'KPIT_TC_DRT_PSE_002.
+
+2026-02-10 12:48:57,538 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

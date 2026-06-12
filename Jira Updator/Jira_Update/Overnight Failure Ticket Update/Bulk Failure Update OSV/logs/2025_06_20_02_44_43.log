@@ -1,0 +1,595 @@
+2025-06-20 02:44:44,420 | INFO | ⏳ Updating 'OSV-3489: KPIT_TC_DRT_AMFM_175'...
+2025-06-20 02:44:44,420 | INFO |   🔄 Commenting on OSV-3489: 'KPIT_TC_DRT_AMFM_175...
+2025-06-20 02:44:44,421 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:44,421 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:44,423 | INFO |     Result               : Pass
+2025-06-20 02:44:45,254 | INFO |   ✅ Commented on OSV-3489: 'KPIT_TC_DRT_AMFM_175.
+
+2025-06-20 02:44:45,669 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-20 02:44:45,670 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-20 02:44:45,671 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:45,683 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:45,684 | INFO |     Result               : Pass
+2025-06-20 02:44:46,588 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-20 02:44:47,000 | INFO | ⏳ Updating 'OSV-3225: KPIT_TC_DRT_BTA_032'...
+2025-06-20 02:44:47,002 | INFO |   🔄 Commenting on OSV-3225: 'KPIT_TC_DRT_BTA_032...
+2025-06-20 02:44:47,002 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:47,002 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:47,002 | INFO |     Result               : Pass
+2025-06-20 02:44:47,503 | INFO |   ✅ Commented on OSV-3225: 'KPIT_TC_DRT_BTA_032.
+
+2025-06-20 02:44:47,879 | INFO | ⏳ Updating 'OSV-3486: KPIT_TC_DRT_BTA_049'...
+2025-06-20 02:44:47,880 | INFO |   🔄 Commenting on OSV-3486: 'KPIT_TC_DRT_BTA_049...
+2025-06-20 02:44:47,880 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:47,881 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:47,881 | INFO |     Result               : Pass
+2025-06-20 02:44:48,430 | INFO |   ✅ Commented on OSV-3486: 'KPIT_TC_DRT_BTA_049.
+
+2025-06-20 02:44:48,843 | INFO | ⏳ Updating 'OSV-2770: KPIT_TC_DRT_HED_013'...
+2025-06-20 02:44:48,844 | INFO |   🔄 Commenting on OSV-2770: 'KPIT_TC_DRT_HED_013...
+2025-06-20 02:44:48,845 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:48,845 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:48,846 | INFO |     Result               : Pass
+2025-06-20 02:44:49,425 | INFO |   ✅ Commented on OSV-2770: 'KPIT_TC_DRT_HED_013.
+
+2025-06-20 02:44:49,744 | INFO | ⏳ Updating 'OSV-3488: KPIT_TC_DRT_HFT_017'...
+2025-06-20 02:44:49,744 | INFO |   🔄 Commenting on OSV-3488: 'KPIT_TC_DRT_HFT_017...
+2025-06-20 02:44:49,745 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:49,745 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:49,745 | INFO |     Result               : Pass
+2025-06-20 02:44:50,191 | INFO |   ✅ Commented on OSV-3488: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-20 02:44:50,547 | INFO | ⏳ Updating 'OSV-3493: KPIT_TC_DRT_HFT_046'...
+2025-06-20 02:44:50,548 | INFO |   🔄 Commenting on OSV-3493: 'KPIT_TC_DRT_HFT_046...
+2025-06-20 02:44:50,549 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:50,549 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:50,550 | INFO |     Result               : Pass
+2025-06-20 02:44:50,989 | INFO |   ✅ Commented on OSV-3493: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-20 02:44:51,322 | INFO | ⏳ Updating 'OSV-3483: KPIT_TC_DRT_HFT_047'...
+2025-06-20 02:44:51,323 | INFO |   🔄 Commenting on OSV-3483: 'KPIT_TC_DRT_HFT_047...
+2025-06-20 02:44:51,323 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:51,323 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:51,323 | INFO |     Result               : Pass
+2025-06-20 02:44:51,726 | INFO |   ✅ Commented on OSV-3483: 'KPIT_TC_DRT_HFT_047.
+
+2025-06-20 02:44:52,089 | INFO | ⏳ Updating 'OSV-3484: KPIT_TC_DRT_HFT_052'...
+2025-06-20 02:44:52,090 | INFO |   🔄 Commenting on OSV-3484: 'KPIT_TC_DRT_HFT_052...
+2025-06-20 02:44:52,090 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:52,090 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:52,091 | INFO |     Result               : Pass
+2025-06-20 02:44:52,454 | INFO |   ✅ Commented on OSV-3484: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-20 02:44:52,941 | INFO | ⏳ Updating 'OSV-3485: KPIT_TC_DRT_HFT_054'...
+2025-06-20 02:44:52,942 | INFO |   🔄 Commenting on OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-20 02:44:52,943 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:52,943 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:52,944 | INFO |     Result               : Pass
+2025-06-20 02:44:53,474 | INFO |   ✅ Commented on OSV-3485: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-20 02:44:53,798 | INFO | ⏳ Updating 'OSV-3487: KPIT_TC_DRT_HFT_059'...
+2025-06-20 02:44:53,799 | INFO |   🔄 Commenting on OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-20 02:44:53,799 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:53,800 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:53,800 | INFO |     Result               : Pass
+2025-06-20 02:44:54,471 | INFO |   ✅ Commented on OSV-3487: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-20 02:44:54,866 | INFO | ⏳ Updating 'OSV-3010: KPIT_TC_DRT_IPD_1193'...
+2025-06-20 02:44:54,866 | INFO |   🔄 Commenting on OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-20 02:44:54,867 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:54,868 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:54,868 | INFO |     Result               : Pass
+2025-06-20 02:44:55,365 | INFO |   ✅ Commented on OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+
+2025-06-20 02:44:55,675 | INFO | ⏳ Updating 'OSV-3490: KPIT_TC_DRT_KBD_003'...
+2025-06-20 02:44:55,675 | INFO |   🔄 Commenting on OSV-3490: 'KPIT_TC_DRT_KBD_003...
+2025-06-20 02:44:55,676 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:55,676 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:55,677 | INFO |     Result               : Pass
+2025-06-20 02:44:56,184 | INFO |   ✅ Commented on OSV-3490: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-20 02:44:56,526 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-20 02:44:56,526 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-20 02:44:56,527 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:56,527 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:56,528 | INFO |     Result               : Pass
+2025-06-20 02:44:57,432 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-20 02:44:57,851 | INFO | ⏳ Updating 'OSV-3007: KPIT_TC_DRT_SND_039'...
+2025-06-20 02:44:57,851 | INFO |   🔄 Commenting on OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-20 02:44:57,851 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:57,852 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:57,852 | INFO |     Result               : Pass
+2025-06-20 02:44:58,788 | INFO |   ✅ Commented on OSV-3007: 'KPIT_TC_DRT_SND_039.
+
+2025-06-20 02:44:59,192 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-20 02:44:59,193 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-20 02:44:59,193 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:44:59,194 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:44:59,194 | INFO |     Result               : Pass
+2025-06-20 02:44:59,693 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-20 02:45:00,098 | INFO | ⏳ Updating 'OSV-3011: KPIT_TC_DRT_USB_1245'...
+2025-06-20 02:45:00,099 | INFO |   🔄 Commenting on OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-20 02:45:00,099 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:00,099 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:00,100 | INFO |     Result               : Pass
+2025-06-20 02:45:00,563 | INFO |   ✅ Commented on OSV-3011: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-20 02:45:00,926 | INFO | ⏳ Updating 'OSV-3009: KPIT_TC_DRT_BTA_018'...
+2025-06-20 02:45:00,926 | INFO |   🔄 Updating fields for OSV-3009: 'KPIT_TC_DRT_BTA_018...
+2025-06-20 02:45:00,927 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:00,927 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:00,928 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:00,928 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:01,736 | INFO |   ✅ Updated fields for OSV-3009: 'KPIT_TC_DRT_BTA_018.
+2025-06-20 02:45:01,737 | INFO |   🔄 Commenting on OSV-3009: 'KPIT_TC_DRT_BTA_018...
+2025-06-20 02:45:01,737 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:01,738 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:01,738 | INFO |     Result               : Fail
+2025-06-20 02:45:01,738 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:01,738 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:01,738 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:01,738 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:02,358 | INFO |   ✅ Commented on OSV-3009: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-20 02:45:02,761 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-20 02:45:02,763 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-20 02:45:02,763 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:02,764 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:02,764 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:02,765 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:03,482 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-20 02:45:03,482 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-20 02:45:03,483 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:03,483 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:03,484 | INFO |     Result               : Fail
+2025-06-20 02:45:03,484 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:03,484 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:03,484 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:03,484 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:03,951 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-20 02:45:04,303 | INFO | ⏳ Updating 'OSV-3008: KPIT_TC_DRT_BTA_021'...
+2025-06-20 02:45:04,304 | INFO |   🔄 Updating fields for OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 02:45:04,305 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:04,305 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:04,306 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:04,307 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:05,332 | INFO |   ✅ Updated fields for OSV-3008: 'KPIT_TC_DRT_BTA_021.
+2025-06-20 02:45:05,332 | INFO |   🔄 Commenting on OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 02:45:05,333 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:05,333 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:05,334 | INFO |     Result               : Fail
+2025-06-20 02:45:05,334 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:05,335 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:05,335 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:05,335 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:05,837 | INFO |   ✅ Commented on OSV-3008: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-20 02:45:06,242 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-20 02:45:06,243 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 02:45:06,243 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:06,243 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:06,243 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:06,254 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:07,063 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-20 02:45:07,065 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 02:45:07,065 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:07,067 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:07,067 | INFO |     Result               : Fail
+2025-06-20 02:45:07,067 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:07,067 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:07,068 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:07,068 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:07,609 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-20 02:45:07,985 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-20 02:45:07,986 | INFO |   🔄 Updating fields for OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-20 02:45:07,986 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:07,987 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:07,987 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:07,987 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:08,637 | INFO |   ✅ Updated fields for OSV-2610: 'KPIT_TC_DRT_BTA_053.
+2025-06-20 02:45:08,639 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-20 02:45:08,639 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:08,640 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:08,640 | INFO |     Result               : Fail
+2025-06-20 02:45:08,640 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:08,641 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:08,641 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:08,641 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:09,220 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-20 02:45:09,731 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-20 02:45:09,732 | INFO |   🔄 Updating fields for OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-20 02:45:09,732 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:09,733 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:09,733 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:09,733 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:10,348 | INFO |   ✅ Updated fields for OSV-2607: 'KPIT_TC_DRT_HFT_048.
+2025-06-20 02:45:10,348 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-20 02:45:10,349 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:10,350 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:10,350 | INFO |     Result               : Fail
+2025-06-20 02:45:10,350 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:10,350 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:10,351 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:10,352 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:10,849 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-20 02:45:11,227 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-20 02:45:11,228 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-20 02:45:11,229 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:11,229 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:11,229 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:11,231 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:12,192 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-20 02:45:12,193 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-20 02:45:12,194 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:12,194 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:12,195 | INFO |     Result               : Fail
+2025-06-20 02:45:12,195 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:12,195 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:12,196 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:12,196 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:12,698 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-20 02:45:13,061 | INFO | ⏳ Updating 'OSV-2780: KPIT_TC_DRT_HOM_005'...
+2025-06-20 02:45:13,061 | INFO |   🔄 Updating fields for OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-20 02:45:13,062 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:13,062 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:13,062 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:13,063 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:13,790 | INFO |   ✅ Updated fields for OSV-2780: 'KPIT_TC_DRT_HOM_005.
+2025-06-20 02:45:13,791 | INFO |   🔄 Commenting on OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-20 02:45:13,791 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:13,792 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:13,792 | INFO |     Result               : Fail
+2025-06-20 02:45:13,792 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:13,795 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:13,796 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:13,797 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:14,342 | INFO |   ✅ Commented on OSV-2780: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-20 02:45:14,799 | INFO | ⏳ Updating 'OSV-2781: KPIT_TC_DRT_HOM_006'...
+2025-06-20 02:45:14,800 | INFO |   🔄 Updating fields for OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-20 02:45:14,801 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:14,801 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:14,802 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:14,802 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:15,459 | INFO |   ✅ Updated fields for OSV-2781: 'KPIT_TC_DRT_HOM_006.
+2025-06-20 02:45:15,460 | INFO |   🔄 Commenting on OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-20 02:45:15,460 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:15,460 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:15,462 | INFO |     Result               : Fail
+2025-06-20 02:45:15,462 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:15,462 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:15,463 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:15,463 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:16,259 | INFO |   ✅ Commented on OSV-2781: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-20 02:45:16,650 | INFO | ⏳ Updating 'OSV-2778: KPIT_TC_DRT_HOM_009'...
+2025-06-20 02:45:16,651 | INFO |   🔄 Updating fields for OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-20 02:45:16,651 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:16,652 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:16,653 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:16,653 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:17,329 | INFO |   ✅ Updated fields for OSV-2778: 'KPIT_TC_DRT_HOM_009.
+2025-06-20 02:45:17,330 | INFO |   🔄 Commenting on OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-20 02:45:17,330 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:17,330 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:17,330 | INFO |     Result               : Fail
+2025-06-20 02:45:17,331 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:17,331 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:17,331 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:17,332 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:17,831 | INFO |   ✅ Commented on OSV-2778: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-20 02:45:18,160 | INFO | ⏳ Updating 'OSV-2779: KPIT_TC_DRT_HOM_012'...
+2025-06-20 02:45:18,160 | INFO |   🔄 Updating fields for OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-20 02:45:18,161 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:18,161 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:18,161 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:18,162 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:18,868 | INFO |   ✅ Updated fields for OSV-2779: 'KPIT_TC_DRT_HOM_012.
+2025-06-20 02:45:18,869 | INFO |   🔄 Commenting on OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-20 02:45:18,869 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:18,869 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:18,870 | INFO |     Result               : Fail
+2025-06-20 02:45:18,870 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:18,870 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:18,871 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:18,871 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:19,306 | INFO |   ✅ Commented on OSV-2779: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-20 02:45:19,645 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-20 02:45:19,646 | INFO |   🔄 Updating fields for OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-20 02:45:19,646 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:19,646 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:19,647 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:19,647 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:20,307 | INFO |   ✅ Updated fields for OSV-2494: 'KPIT_TC_DRT_HOM_013.
+2025-06-20 02:45:20,308 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-20 02:45:20,308 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:20,308 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:20,309 | INFO |     Result               : Fail
+2025-06-20 02:45:20,309 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:20,309 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:20,310 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:20,310 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:20,788 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-20 02:45:21,184 | INFO | ⏳ Updating 'OSV-2774: KPIT_TC_DRT_HOM_028'...
+2025-06-20 02:45:21,185 | INFO |   🔄 Updating fields for OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-20 02:45:21,186 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:21,186 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:21,187 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:21,187 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:21,827 | INFO |   ✅ Updated fields for OSV-2774: 'KPIT_TC_DRT_HOM_028.
+2025-06-20 02:45:21,827 | INFO |   🔄 Commenting on OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-20 02:45:21,828 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:21,828 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:21,829 | INFO |     Result               : Fail
+2025-06-20 02:45:21,830 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:21,830 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:21,831 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:21,831 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:22,301 | INFO |   ✅ Commented on OSV-2774: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-20 02:45:22,662 | INFO | ⏳ Updating 'OSV-2776: KPIT_TC_DRT_HOM_031'...
+2025-06-20 02:45:22,662 | INFO |   🔄 Updating fields for OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-20 02:45:22,663 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:22,663 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:22,663 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:22,664 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:23,341 | INFO |   ✅ Updated fields for OSV-2776: 'KPIT_TC_DRT_HOM_031.
+2025-06-20 02:45:23,342 | INFO |   🔄 Commenting on OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-20 02:45:23,343 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:23,343 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:23,343 | INFO |     Result               : Fail
+2025-06-20 02:45:23,344 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:23,344 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:23,345 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:23,345 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:23,822 | INFO |   ✅ Commented on OSV-2776: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-20 02:45:24,135 | INFO | ⏳ Updating 'OSV-2773: KPIT_TC_DRT_HOM_035'...
+2025-06-20 02:45:24,136 | INFO |   🔄 Updating fields for OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-20 02:45:24,137 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:24,137 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:24,138 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:24,138 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:24,761 | INFO |   ✅ Updated fields for OSV-2773: 'KPIT_TC_DRT_HOM_035.
+2025-06-20 02:45:24,764 | INFO |   🔄 Commenting on OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-20 02:45:24,766 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:24,766 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:24,767 | INFO |     Result               : Fail
+2025-06-20 02:45:24,767 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:24,768 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:24,768 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:24,768 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:25,641 | INFO |   ✅ Commented on OSV-2773: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-20 02:45:25,998 | INFO | ⏳ Updating 'OSV-2771: KPIT_TC_DRT_HOM_050'...
+2025-06-20 02:45:25,998 | INFO |   🔄 Updating fields for OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-20 02:45:25,998 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:25,999 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:25,999 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:26,000 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:26,654 | INFO |   ✅ Updated fields for OSV-2771: 'KPIT_TC_DRT_HOM_050.
+2025-06-20 02:45:26,654 | INFO |   🔄 Commenting on OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-20 02:45:26,655 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:26,656 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:26,656 | INFO |     Result               : Fail
+2025-06-20 02:45:26,657 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:26,657 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:26,657 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:26,658 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:27,073 | INFO |   ✅ Commented on OSV-2771: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-20 02:45:27,421 | INFO | ⏳ Updating 'OSV-2777: KPIT_TC_DRT_KBD_013'...
+2025-06-20 02:45:27,422 | INFO |   🔄 Updating fields for OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-20 02:45:27,423 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:27,423 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:27,424 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:27,425 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:28,117 | INFO |   ✅ Updated fields for OSV-2777: 'KPIT_TC_DRT_KBD_013.
+2025-06-20 02:45:28,118 | INFO |   🔄 Commenting on OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-20 02:45:28,118 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:28,119 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:28,119 | INFO |     Result               : Fail
+2025-06-20 02:45:28,120 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:28,120 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:28,121 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:28,121 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:28,619 | INFO |   ✅ Commented on OSV-2777: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-20 02:45:28,992 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-20 02:45:28,993 | INFO |   🔄 Updating fields for OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-20 02:45:28,994 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:28,995 | INFO |     Failure Sub Category : GAS Implementation
+2025-06-20 02:45:28,996 | INFO |     Root Cause Details : Instead of Maps it shows Google Maps.
+2025-06-20 02:45:28,998 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:29,644 | INFO |   ✅ Updated fields for OSV-2491: 'KPIT_TC_DRT_MCS_036.
+2025-06-20 02:45:29,644 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-20 02:45:29,645 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:29,646 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:29,647 | INFO |     Result               : Fail
+2025-06-20 02:45:29,648 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:29,648 | INFO |     Failure Sub Category : GAS Implementation
+2025-06-20 02:45:29,649 | INFO |     Root Cause Details   : Instead of Maps it shows Google Maps.
+2025-06-20 02:45:29,649 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:30,513 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-20 02:45:30,881 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-20 02:45:30,882 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 02:45:30,882 | INFO |     Failure Category : ICB issue (Always)
+2025-06-20 02:45:30,882 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:30,883 | INFO |     Root Cause Details : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:30,883 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:31,493 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-20 02:45:31,493 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 02:45:31,494 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:31,495 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:31,495 | INFO |     Result               : Fail
+2025-06-20 02:45:31,496 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-20 02:45:31,497 | INFO |     Failure Sub Category : UI Changed
+2025-06-20 02:45:31,497 | INFO |     Root Cause Details   : Instead of tick the arrow is there after entering pin in user selection screen.
+2025-06-20 02:45:31,498 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:32,010 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-20 02:45:32,372 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-20 02:45:32,373 | INFO |   🔄 Updating fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-20 02:45:32,373 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:32,374 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:32,374 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:32,375 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:33,062 | INFO |   ✅ Updated fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-20 02:45:33,062 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-20 02:45:33,063 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:33,063 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:33,064 | INFO |     Result               : Fail
+2025-06-20 02:45:33,064 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:33,064 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:33,065 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:33,065 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:33,490 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-20 02:45:33,899 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-20 02:45:33,900 | INFO |   🔄 Updating fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-20 02:45:33,900 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:33,900 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:33,901 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:33,902 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:34,532 | INFO |   ✅ Updated fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-20 02:45:34,533 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-20 02:45:34,533 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:34,534 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:34,535 | INFO |     Result               : Fail
+2025-06-20 02:45:34,535 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:34,537 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:34,539 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:34,541 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:35,125 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-20 02:45:35,536 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-20 02:45:35,536 | INFO |   🔄 Updating fields for OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-20 02:45:35,536 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:35,537 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:35,537 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:35,538 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:36,288 | INFO |   ✅ Updated fields for OSV-2496: 'KPIT_TC_DRT_SUW_003.
+2025-06-20 02:45:36,288 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-20 02:45:36,288 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:36,290 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:36,291 | INFO |     Result               : Fail
+2025-06-20 02:45:36,291 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:36,291 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:36,292 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:36,292 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:36,817 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-20 02:45:37,152 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-20 02:45:37,153 | INFO |   🔄 Updating fields for OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-20 02:45:37,153 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:37,154 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:37,154 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:37,155 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:37,812 | INFO |   ✅ Updated fields for OSV-2479: 'KPIT_TC_DRT_SUW_004.
+2025-06-20 02:45:37,812 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-20 02:45:37,812 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:37,813 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:37,813 | INFO |     Result               : Fail
+2025-06-20 02:45:37,813 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:37,814 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:37,814 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:37,814 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:38,359 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-20 02:45:38,717 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-20 02:45:38,718 | INFO |   🔄 Updating fields for OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-20 02:45:38,718 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:38,719 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:38,719 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:38,720 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:39,364 | INFO |   ✅ Updated fields for OSV-2480: 'KPIT_TC_DRT_SUW_005.
+2025-06-20 02:45:39,365 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-20 02:45:39,365 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:39,366 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:39,366 | INFO |     Result               : Fail
+2025-06-20 02:45:39,366 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:39,367 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:39,367 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:39,367 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:39,843 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-20 02:45:40,184 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-20 02:45:40,184 | INFO |   🔄 Updating fields for OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-20 02:45:40,185 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:40,186 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:40,186 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:40,186 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:40,822 | INFO |   ✅ Updated fields for OSV-2481: 'KPIT_TC_DRT_SUW_006.
+2025-06-20 02:45:40,822 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-20 02:45:40,823 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:40,823 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:40,823 | INFO |     Result               : Fail
+2025-06-20 02:45:40,824 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:40,824 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 02:45:40,824 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-20 02:45:40,824 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:41,656 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-20 02:45:42,046 | INFO | ⏳ Updating 'OSV-3491: KPIT_TC_DRT_USB_102'...
+2025-06-20 02:45:42,047 | INFO |   🔄 Updating fields for OSV-3491: 'KPIT_TC_DRT_USB_102...
+2025-06-20 02:45:42,047 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:42,047 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 02:45:42,047 | INFO |     Root Cause Details : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-20 02:45:42,047 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:42,754 | INFO |   ✅ Updated fields for OSV-3491: 'KPIT_TC_DRT_USB_102.
+2025-06-20 02:45:42,755 | INFO |   🔄 Commenting on OSV-3491: 'KPIT_TC_DRT_USB_102...
+2025-06-20 02:45:42,755 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:42,756 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:42,756 | INFO |     Result               : Fail
+2025-06-20 02:45:42,756 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:42,757 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 02:45:42,757 | INFO |     Root Cause Details   : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-20 02:45:42,757 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:43,249 | INFO |   ✅ Commented on OSV-3491: 'KPIT_TC_DRT_USB_102.
+
+2025-06-20 02:45:43,604 | INFO | ⏳ Updating 'OSV-3492: KPIT_TC_DRT_USB_103'...
+2025-06-20 02:45:43,604 | INFO |   🔄 Updating fields for OSV-3492: 'KPIT_TC_DRT_USB_103...
+2025-06-20 02:45:43,605 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 02:45:43,606 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 02:45:43,606 | INFO |     Root Cause Details : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-20 02:45:43,606 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:44,374 | INFO |   ✅ Updated fields for OSV-3492: 'KPIT_TC_DRT_USB_103.
+2025-06-20 02:45:44,375 | INFO |   🔄 Commenting on OSV-3492: 'KPIT_TC_DRT_USB_103...
+2025-06-20 02:45:44,376 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:44,376 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:44,377 | INFO |     Result               : Fail
+2025-06-20 02:45:44,377 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 02:45:44,378 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 02:45:44,379 | INFO |     Root Cause Details   : Music library is loading state for all options, except for folders, for longer duration.
+2025-06-20 02:45:44,379 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:44,860 | INFO |   ✅ Commented on OSV-3492: 'KPIT_TC_DRT_USB_103.
+
+2025-06-20 02:45:45,266 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-20 02:45:45,267 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 02:45:45,268 | INFO |     Failure Category : Test Env issue
+2025-06-20 02:45:45,268 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:45,269 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 02:45:45,269 | INFO |     Fixation Performed : NA
+2025-06-20 02:45:46,119 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-20 02:45:46,120 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 02:45:46,121 | INFO |     Date                 : 17th June 2025
+2025-06-20 02:45:46,121 | INFO |     Analysis Done By     : Chandrakant
+2025-06-20 02:45:46,121 | INFO |     Result               : Fail
+2025-06-20 02:45:46,122 | INFO |     Failure Category     : Test Env issue
+2025-06-20 02:45:46,122 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 02:45:46,124 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 02:45:46,125 | INFO |     Fixation Performed   : NA
+2025-06-20 02:45:46,754 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+

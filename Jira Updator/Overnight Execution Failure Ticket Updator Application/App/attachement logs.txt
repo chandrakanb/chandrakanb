@@ -1,0 +1,23 @@
+D:\chandrakanb\chandrakanb\Jira Updator\Jira_Update\A15 Bulk Attach Files>attach_files_comments_jira_ver1_working.py
+ℹ️ Found PDF: DetailedReport_KPIT_TC_DRT_BZA_015.pdf (will attach)
+ℹ️ Found Excel: DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx (will attach)
+
+[{'self': 'https://kpithondajapan.atlassian.net/rest/api/2/attachment/76506', 'id': '76506', 'filename': 'DetailedReport_KPIT_TC_DRT_BZA_015.pdf', 'author': {'self': 'https://kpithondajapan.atlassian.net/rest/api/2/user?accountId=712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'accountId': '712020:7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'emailAddress': 'chandrakanb@kpit.com', 'avatarUrls': {'48x48': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '24x24': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '16x16': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '32x32': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png'}, 'displayName': 'CHANDRAKANT PRADIP BHALEKAR', 'active': True, 'timeZone': 'Asia/Kolkata', 'accountType': 'atlassian'}, 'created': '2026-02-09T11:34:00.981+0530', 'size': 2433052, 'mimeType': 'application/pdf', 'content': 'https://kpithondajapan.atlassian.net/rest/api/2/attachment/content/76506'}, {'self': 'https://kpithondajapan.atlassian.net/rest/api/2/attachment/76507', 'id': '76507', 'filename': 'DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx', 'author': {'self': 'https://kpithondajapan.atlassian.net/rest/api/2/user?accountId=712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'accountId': '712020:7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'emailAddress': 'chandrakanb@kpit.com', 'avatarUrls': {'48x48': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '24x24': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '16x16': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png', '32x32': 'https://secure.gravatar.com/avatar/6551261c0ddcf94de3d8b34bcb468db2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCB-3.png'}, 'displayName': 'CHANDRAKANT PRADIP BHALEKAR', 'active': True, 'timeZone': 'Asia/Kolkata', 'accountType': 'atlassian'}, 'created': '2026-02-09T11:34:01.430+0530', 'size': 15245, 'mimeType': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'content': 'https://kpithondajapan.atlassian.net/rest/api/2/attachment/content/76507'}]
+
+✅ Attached: DetailedReport_KPIT_TC_DRT_BZA_015.pdf -> A15-2517
+✅ Attached: DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx -> A15-2517
+
+['DetailedReport_KPIT_TC_DRT_BZA_015.pdf', 'DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx']
+
+
+!DetailedReport_KPIT_TC_DRT_BZA_015.pdf!
+!DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx!
+
+
+Executed in 1 iterations and attached reports for the same.
+
+Attached Files:
+!DetailedReport_KPIT_TC_DRT_BZA_015.pdf!
+!DRT_TS_Review_Checklist_KPIT_TC_DRT_BZA_015_Self.xlsx!
+
+💬 Comment posted with file preview for A15-2517

@@ -1,0 +1,21 @@
+2026-03-13 20:47:07,672 | INFO | ⏳ Updating 'DRT-7527: KPIT_TC_DRT_MET_056'...
+2026-03-13 20:47:07,744 | INFO |   🔄 Updating fields for DRT-7527: 'KPIT_TC_DRT_MET_056...
+2026-03-13 20:47:07,745 | INFO |     Failure Category : Test Env Issue
+2026-03-13 20:47:07,747 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-03-13 20:47:07,747 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-13 20:47:07,748 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence GA not initiated.
+2026-03-13 20:47:07,749 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-03-13 20:47:09,147 | INFO |   ✅ Updated fields for DRT-7527: 'KPIT_TC_DRT_MET_056.
+2026-03-13 20:47:09,158 | INFO |   🔄 Commenting on DRT-7527: 'KPIT_TC_DRT_MET_056...
+2026-03-13 20:47:09,159 | INFO |     Date AFA1502D0.260203.1 : 2026-02-03
+2026-03-13 20:47:09,159 | INFO |     Result : Fail
+2026-03-13 20:47:09,161 | INFO |     Failure Category : Test Env Issue
+2026-03-13 20:47:09,162 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2026-03-13 20:47:09,162 | INFO |     Root Cause Details : Audio for VR was not clear from the Speakers, Hence GA not initiated.
+2026-03-13 20:47:09,163 | INFO |     Fixation Performed : Rearranged the Audio Setup.
+2026-03-13 20:47:09,163 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-13 20:47:09,164 | INFO |     Reviewer : Rajashri
+2026-03-13 20:47:10,169 | INFO |   ✅ Commented on DRT-7527: 'KPIT_TC_DRT_MET_056.
+
+2026-03-13 20:47:10,170 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

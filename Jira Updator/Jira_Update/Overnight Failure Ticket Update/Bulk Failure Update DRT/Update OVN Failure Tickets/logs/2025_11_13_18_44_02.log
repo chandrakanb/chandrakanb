@@ -1,0 +1,13 @@
+2025-11-13 18:44:04,694 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-13 18:44:04,698 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 18:44:04,698 | INFO |     Failure Category : ICB issue (Once)
+2025-11-13 18:44:04,699 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 18:44:04,700 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 18:44:04,700 | INFO |     Fixation Performed : NA
+2025-11-13 18:44:04,701 | INFO |     Remarks : NA
+2025-11-13 18:44:04,702 | INFO |     Reviewer : Lumesh
+2025-11-13 18:44:05,402 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18530
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 13:14:05 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'a666a0a01c08b14db515612c1a8d7ab6', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '44fade54dc6f4d41b29ca652c7fd7a53', 'Atl-Request-Id': '44fade54-dc6f-4d41-b29c-a652c7fd7a53', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=188,atl-edge-internal;dur=15,atl-edge-upstream;dur=172,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 e2e328d8c3505d4263e7e1f5c9ffa424.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P7', 'X-Amz-Cf-Id': 'UfKuO_9NOFZ4p5NBOuwqdXedDSfeXv7LFCKX_2MH7dxWEPsqZjmpJg=='}
+	response text = {"errorMessages":[],"errors":{"Current Failure Category":"Specify the value for Current Failure Category in an array"}}.
+

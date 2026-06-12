@@ -1,0 +1,41 @@
+2025-12-04 19:13:54,124 | INFO | Token loaded from Environment Variable
+2025-12-04 19:13:54,553 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2025-12-04 19:13:56,190 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2025-12-04 19:13:56,509 | INFO | Processing ticket DRT-1733 with current status: In_Progress
+2025-12-04 19:13:57,754 | INFO | Transitioned DRT-1733 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:13:59,125 | INFO | Transitioned DRT-1733 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:00,717 | INFO | Transitioned DRT-1733 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-04 19:14:02,148 | INFO | Transitioned DRT-1733 from 'No Fixation Required' to 'Ready for review'
+2025-12-04 19:14:02,848 | INFO | Ticket DRT-1733 is transited till status: Ready for review
+2025-12-04 19:14:03,158 | INFO | Processing ticket DRT-3981 with current status: In_Progress
+2025-12-04 19:14:04,496 | INFO | Transitioned DRT-3981 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:14:05,925 | INFO | Transitioned DRT-3981 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:08,181 | INFO | Transitioned DRT-3981 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-04 19:14:10,008 | INFO | Transitioned DRT-3981 from 'No Fixation Required' to 'Ready for review'
+2025-12-04 19:14:10,602 | INFO | Ticket DRT-3981 is transited till status: Ready for review
+2025-12-04 19:14:10,949 | INFO | Processing ticket DRT-3914 with current status: In_Progress
+2025-12-04 19:14:12,184 | INFO | Transitioned DRT-3914 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:14:14,076 | INFO | Transitioned DRT-3914 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:15,775 | INFO | Transitioned DRT-3914 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-04 19:14:17,254 | INFO | Transitioned DRT-3914 from 'No Fixation Required' to 'Ready for review'
+2025-12-04 19:14:18,307 | INFO | Ticket DRT-3914 is transited till status: Ready for review
+2025-12-04 19:14:18,662 | INFO | Processing ticket DRT-3980 with current status: In_Progress
+2025-12-04 19:14:19,803 | INFO | Transitioned DRT-3980 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:14:21,200 | INFO | Transitioned DRT-3980 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:23,215 | INFO | Transitioned DRT-3980 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-04 19:14:25,095 | INFO | Transitioned DRT-3980 from 'No Fixation Required' to 'Ready for review'
+2025-12-04 19:14:25,912 | INFO | Ticket DRT-3980 is transited till status: Ready for review
+2025-12-04 19:14:26,204 | INFO | Processing ticket DRT-2127 with current status: In_Progress
+2025-12-04 19:14:27,342 | INFO | Transitioned DRT-2127 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:14:29,042 | INFO | Transitioned DRT-2127 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:30,659 | INFO | Transitioned DRT-2127 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2025-12-04 19:14:32,268 | INFO | Transitioned DRT-2127 from 'Overnight Issue Fixed' to 'Ready for review'
+2025-12-04 19:14:33,062 | INFO | Ticket DRT-2127 is transited till status: Ready for review
+2025-12-04 19:14:33,373 | INFO | Processing ticket DRT-2125 with current status: In_Progress
+2025-12-04 19:14:34,513 | INFO | Transitioned DRT-2125 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-04 19:14:36,054 | INFO | Transitioned DRT-2125 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-04 19:14:37,596 | INFO | Transitioned DRT-2125 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-04 19:14:39,116 | INFO | Transitioned DRT-2125 from 'No Fixation Required' to 'Ready for review'
+2025-12-04 19:14:39,839 | INFO | Ticket DRT-2125 is transited till status: Ready for review
+2025-12-04 19:14:39,841 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

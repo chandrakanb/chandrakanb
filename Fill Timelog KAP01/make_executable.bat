@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "chromedriver.exe;." %1

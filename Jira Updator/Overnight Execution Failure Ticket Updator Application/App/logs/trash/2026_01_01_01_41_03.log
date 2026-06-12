@@ -1,0 +1,27 @@
+JIRA Update started at 2026_01_01_01_41_03
+⏳ Updating    				 : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+  🔄 Updating fields           : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+    Failure Category          : KITE Issue
+    Failure Sub Category      : KITE Application Issue
+    Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issue']
+    Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+    Fixation Performed        : Updated Batch file with adb over wifi connect command.
+  ✅ Updated fields           : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+  🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+    Date                      : 2025-12-23
+    Build Number              : AEA1414R0.251223.1
+    Result                    : Fail
+    Failure Category          : KITE Issue
+    Failure Sub Category      : KITE Application Issue
+    Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+    Fixation Performed        : Updated Batch file with adb over wifi connect command.
+    Remarks                   : Executed in daytime, result: Pass.
+    Reviewer                  : Rajashri
+  🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135651
+⏳ Updating    				 : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+  🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+    Date                      : 2025-12-23
+    Result                    : Pass
+    Build Number              : AEA1414R0.251223.1
+  🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135652
+✅ Jira Update Completed!

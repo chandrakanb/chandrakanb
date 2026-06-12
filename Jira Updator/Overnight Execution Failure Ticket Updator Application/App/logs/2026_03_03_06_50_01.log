@@ -1,0 +1,94 @@
+2026-03-03 06:50:01 | 🚀 Jira Update Started.
+
+2026-03-03 06:50:02 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-03 06:50:02 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-03 06:50:03 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:03 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:03 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-03 06:50:03 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:03 |     Fixation Performed        : 1. Modified TS from Phone2  to Phone1 with Vendor Extension Application version 4.1.
+2026-03-03 06:50:04 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-03 06:50:04 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-03-03 06:50:04 |     Date                      : 2026-03-02
+2026-03-03 06:50:04 |     Build Number              : AEA1415R1.260302.1
+2026-03-03 06:50:04 |     Result                    : Fail
+2026-03-03 06:50:04 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:04 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:04 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:04 |     Fixation Performed        : 1. Modified TS from Phone2  to Phone1 with Vendor Extension Application version 4.1.
+2026-03-03 06:50:04 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-03-03 06:50:04 |     Reviewer                  : Rajashri
+2026-03-03 06:50:05 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 168257
+
+2026-03-03 06:50:06 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-03 06:50:06 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-03 06:50:06 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:06 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:06 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-03-03 06:50:06 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:06 |     Fixation Performed        : 1. Developed python script to install and allow permissions for Vendor Extension Application in runtime.
+2. Implementated the same using Kite script.
+2026-03-03 06:50:08 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-03 06:50:08 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-03-03 06:50:08 |     Date                      : 2026-03-02
+2026-03-03 06:50:08 |     Build Number              : AEA1415R1.260302.1
+2026-03-03 06:50:08 |     Result                    : Fail
+2026-03-03 06:50:08 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:08 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:08 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:08 |     Fixation Performed        : 1. Developed python script to install and allow permissions for Vendor Extension Application in runtime.
+2. Implementated the same using Kite script.
+2026-03-03 06:50:08 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-03-03 06:50:08 |     Reviewer                  : Rajashri
+2026-03-03 06:50:09 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 168258
+
+2026-03-03 06:50:09 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-03 06:50:09 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-03 06:50:09 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:09 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:09 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-03-03 06:50:09 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:09 |     Fixation Performed        : 1. Developed python script to install and allow permissions for Vendor Extension Application in runtime.
+2. Implementated the same using Kite script.
+2026-03-03 06:50:11 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-03 06:50:11 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-03-03 06:50:11 |     Date                      : 2026-03-02
+2026-03-03 06:50:11 |     Build Number              : AEA1415R1.260302.1
+2026-03-03 06:50:11 |     Result                    : Fail
+2026-03-03 06:50:11 |     Failure Category          : ICB Issue (Always)
+2026-03-03 06:50:11 |     Failure Sub Category      : Valid Issue
+2026-03-03 06:50:11 |     Root Cause Details        : Vendor Extension Application Issue
+2026-03-03 06:50:11 |     Fixation Performed        : 1. Developed python script to install and allow permissions for Vendor Extension Application in runtime.
+2. Implementated the same using Kite script.
+2026-03-03 06:50:11 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-03-03 06:50:11 |     Reviewer                  : Rajashri
+2026-03-03 06:50:12 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 168259
+
+2026-03-03 06:50:12 | ⏳ Updating    		            : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-03 06:50:12 |   🔄 Updating fields          : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-03 06:50:12 |     Failure Category          : KITE Issue
+2026-03-03 06:50:12 |     Failure Sub Category      : Image Comparision
+2026-03-03 06:50:12 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-03 06:50:12 |     Root Cause Details        : Incorrect OCR detection for "O" on RWC Screen.
+2026-03-03 06:50:12 |     Fixation Performed        : 1. Changed the background paper from Blue to white in RWC setup.
+2. Added toggle switch to LED strip of RWC setup.
+3. Added black tape to one of the LED of LED strip of RWC setup.
+2026-03-03 06:50:14 |   ✅ Updated fields           : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-03 06:50:14 |   🔄 Commenting               : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-03-03 06:50:14 |     Date                      : 2026-03-02
+2026-03-03 06:50:14 |     Build Number              : AEA1415R1.260302.1
+2026-03-03 06:50:14 |     Result                    : Fail
+2026-03-03 06:50:14 |     Failure Category          : KITE Issue
+2026-03-03 06:50:14 |     Failure Sub Category      : Image Comparision
+2026-03-03 06:50:14 |     Root Cause Details        : Incorrect OCR detection for "O" on RWC Screen.
+2026-03-03 06:50:14 |     Fixation Performed        : 1. Changed the background paper from Blue to white in RWC setup.
+2. Added toggle switch to LED strip of RWC setup.
+3. Added black tape to one of the LED of LED strip of RWC setup.
+2026-03-03 06:50:14 |     Remarks                   : Executed in daytime, result: Pass.
+2026-03-03 06:50:14 |     Reviewer                  : Rajashri
+2026-03-03 06:50:15 |   🔄 Commented                : DRT-4222 ('KPIT_TC_DRT_BSICTM_001') | Comment ID: 168260
+
+2026-03-03 06:50:15 | ✅ Jira Update Completed.

@@ -1,0 +1,34 @@
+2025-07-24 00:25:16,996 | INFO | ⏳ Updating 'OSV-4384: KPIT_TC_DRT_PRM_011'...
+2025-07-24 00:25:17,001 | INFO |   🔄 Updating fields for OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:25:17,003 | INFO |     Failure Category : KITE issue
+2025-07-24 00:25:17,004 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:25:17,005 | INFO |     Root Cause Details : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:25:17,005 | INFO |     Fixation Performed : Replace image comparision with OCR Validation.
+2025-07-24 00:25:17,879 | INFO |   ✅ Updated fields for OSV-4384: 'KPIT_TC_DRT_PRM_011.
+2025-07-24 00:25:17,881 | INFO |   🔄 Commenting on OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:25:17,883 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:25:17,883 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:25:17,883 | INFO |     Result               : Fail
+2025-07-24 00:25:17,883 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:25:17,884 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:25:17,884 | INFO |     Root Cause Details   : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:25:17,884 | INFO |     Fixation Performed   : Replace image comparision with OCR Validation.
+2025-07-24 00:25:18,835 | INFO |   ✅ Commented on OSV-4384: 'KPIT_TC_DRT_PRM_011.
+
+2025-07-24 00:25:19,159 | INFO | ⏳ Updating 'OSV-4384: KPIT_TC_DRT_PRM_011'...
+2025-07-24 00:25:19,159 | INFO |   🔄 Updating fields for OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:25:19,159 | INFO |     Failure Category : KITE issue
+2025-07-24 00:25:19,160 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:25:19,160 | INFO |     Root Cause Details : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:25:19,161 | INFO |     Fixation Performed : Replace image comparision with OCR Validation.
+2025-07-24 00:25:19,817 | INFO |   ✅ Updated fields for OSV-4384: 'KPIT_TC_DRT_PRM_011.
+2025-07-24 00:25:19,818 | INFO |   🔄 Commenting on OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:25:19,818 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:25:19,818 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:25:19,818 | INFO |     Result               : Fail
+2025-07-24 00:25:19,819 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:25:19,819 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:25:19,819 | INFO |     Root Cause Details   : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:25:19,819 | INFO |     Fixation Performed   : Replace image comparision with OCR Validation.
+2025-07-24 00:25:20,694 | INFO |   ✅ Commented on OSV-4384: 'KPIT_TC_DRT_PRM_011.
+

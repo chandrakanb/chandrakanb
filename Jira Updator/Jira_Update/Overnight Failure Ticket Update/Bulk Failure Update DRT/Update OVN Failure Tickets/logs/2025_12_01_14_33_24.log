@@ -1,0 +1,65 @@
+2025-12-01 14:33:26,667 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:26,668 | INFO |     Date : 2025-11-21
+2025-12-01 14:33:26,668 | INFO |     Result : Pass
+2025-12-01 14:33:26,669 | INFO |     Boild Number : AEA1412S0.251121.1
+2025-12-01 14:33:27,299 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-01 14:33:27,659 | INFO | ⏳ Updating 'DRT-4715: KPIT_TC_DRT_LMG_009'...
+2025-12-01 14:33:27,659 | INFO |   🔄 Updating fields for DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:27,659 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:33:27,659 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:33:27,660 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-01 14:33:27,673 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:33:27,673 | INFO |     Fixation Performed : NA
+2025-12-01 14:33:27,674 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:33:27,674 | INFO |     Reviewer : Rajashri
+2025-12-01 14:33:28,704 | INFO |   ✅ Updated fields for DRT-4715: 'KPIT_TC_DRT_LMG_009.
+2025-12-01 14:33:28,705 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:28,706 | INFO |     Date AEA1412S1.251125.1 : 2025-11-25
+2025-12-01 14:33:28,706 | INFO |     Result : Fail
+2025-12-01 14:33:28,707 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:33:28,707 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:33:28,708 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:33:28,709 | INFO |     Fixation Performed : NA
+2025-12-01 14:33:29,257 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-01 14:33:29,632 | INFO | ⏳ Updating 'DRT-4715: KPIT_TC_DRT_LMG_009'...
+2025-12-01 14:33:29,633 | INFO |   🔄 Updating fields for DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:29,633 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:33:29,634 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:33:29,634 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-01 14:33:29,635 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:33:29,635 | INFO |     Fixation Performed : NA
+2025-12-01 14:33:29,635 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:33:29,636 | INFO |     Reviewer : Rajashri
+2025-12-01 14:33:30,403 | INFO |   ✅ Updated fields for DRT-4715: 'KPIT_TC_DRT_LMG_009.
+2025-12-01 14:33:30,403 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:30,403 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:33:30,404 | INFO |     Result : Fail
+2025-12-01 14:33:30,405 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:33:30,405 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:33:30,406 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:33:30,406 | INFO |     Fixation Performed : NA
+2025-12-01 14:33:31,063 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-01 14:33:31,495 | INFO | ⏳ Updating 'DRT-4715: KPIT_TC_DRT_LMG_009'...
+2025-12-01 14:33:31,495 | INFO |   🔄 Updating fields for DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:31,496 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:33:31,496 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:33:31,497 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-01 14:33:31,497 | INFO |     Root Cause Details : Send Key events [20] on android device(Phone8) Command execution failed due to device offline.
+2025-12-01 14:33:31,498 | INFO |     Fixation Performed : Added wait after disconnect wired AA device.
+2025-12-01 14:33:31,498 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:33:31,498 | INFO |     Reviewer : Rajashri
+2025-12-01 14:33:32,552 | INFO |   ✅ Updated fields for DRT-4715: 'KPIT_TC_DRT_LMG_009.
+2025-12-01 14:33:32,553 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-01 14:33:32,564 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:33:32,564 | INFO |     Result : Fail
+2025-12-01 14:33:32,565 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:33:32,565 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:33:32,565 | INFO |     Root Cause Details : Send Key events [20] on android device(Phone8) Command execution failed due to device offline.
+2025-12-01 14:33:32,566 | INFO |     Fixation Performed : Added wait after disconnect wired AA device.
+2025-12-01 14:33:33,105 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-01 14:33:33,106 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

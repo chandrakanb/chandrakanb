@@ -1,0 +1,21 @@
+2026-03-21 11:50:20,083 | INFO | ⏳ Updating 'DRT-4436: KPIT_TC_DRT_USB_012'...
+2026-03-21 11:50:20,085 | INFO |   🔄 Updating fields for DRT-4436: 'KPIT_TC_DRT_USB_012...
+2026-03-21 11:50:20,086 | INFO |     Failure Category : Test Env issue
+2026-03-21 11:50:20,087 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 11:50:20,087 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-21 11:50:20,088 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-21 11:50:20,088 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 11:50:21,870 | INFO |   ✅ Updated fields for DRT-4436: 'KPIT_TC_DRT_USB_012.
+2026-03-21 11:50:21,872 | INFO |   🔄 Commenting on DRT-4436: 'KPIT_TC_DRT_USB_012...
+2026-03-21 11:50:21,873 | INFO |     Date AEA1414S0.260319.1 :  2026-03-19
+2026-03-21 11:50:21,874 | INFO |     Result : Fail
+2026-03-21 11:50:21,874 | INFO |     Failure Category : Test Env issue
+2026-03-21 11:50:21,876 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 11:50:21,877 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-21 11:50:21,878 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 11:50:21,880 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-21 11:50:21,880 | INFO |     Reviewer : Rajashri
+2026-03-21 11:50:22,881 | INFO |   ✅ Commented on DRT-4436: 'KPIT_TC_DRT_USB_012.
+
+2026-03-21 11:50:22,882 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

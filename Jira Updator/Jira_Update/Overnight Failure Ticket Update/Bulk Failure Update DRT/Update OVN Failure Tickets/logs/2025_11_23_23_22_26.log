@@ -1,0 +1,37 @@
+2025-11-23 23:22:27,278 | INFO | ⏳ Updating 'DRT-3981: KPIT_TC_DRT_BT_003'...
+2025-11-23 23:22:27,279 | INFO |   🔄 Updating fields for DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:22:27,279 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:22:27,280 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 23:22:27,280 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 23:22:27,281 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 23:22:27,281 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 23:22:27,282 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 23:22:27,292 | INFO |     Reviewer : Rajashri
+2025-11-23 23:22:28,701 | INFO |   ✅ Updated fields for DRT-3981: 'KPIT_TC_DRT_BT_003.
+2025-11-23 23:22:28,702 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:22:28,703 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 23:22:28,703 | INFO |     Result : Fail
+2025-11-23 23:22:28,704 | INFO |     Failure Category : Test Env Issue
+2025-11-23 23:22:28,705 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 23:22:28,705 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 23:22:28,706 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 23:22:29,200 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:22:29,853 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:22:29,853 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:22:29,854 | INFO |     Result : Pass
+2025-11-23 23:22:30,701 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:22:31,368 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:22:31,368 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:22:31,369 | INFO |     Result : Pass
+2025-11-23 23:22:32,176 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:22:32,457 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:22:32,458 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 23:22:32,458 | INFO |     Result : Pass
+2025-11-23 23:22:32,917 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:22:32,917 | INFO | 
+  ✅ JIRA UPDATE COMPLETED...
+

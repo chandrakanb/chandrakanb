@@ -1,0 +1,125 @@
+2025-07-24 01:24:01,507 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:01,508 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:01,508 | INFO |     Date                 : 30th June 2025
+2025-07-24 01:24:01,509 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:01,509 | INFO |     Result               : Pass
+2025-07-24 01:24:02,500 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:03,247 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:03,248 | INFO |   🔄 Updating fields for OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:03,249 | INFO |     Failure Category : KITE issue
+2025-07-24 01:24:03,261 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 01:24:03,262 | INFO |     Root Cause Details : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-24 01:24:03,262 | INFO |     Fixation Performed : NA
+2025-07-24 01:24:04,136 | INFO |   ✅ Updated fields for OSV-4437: 'KPIT_TC_DRT_HOM_013.
+2025-07-24 01:24:04,136 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:04,137 | INFO |     Date                 : 1st July 2025
+2025-07-24 01:24:04,137 | INFO |     Analysis Done By     : Neha
+2025-07-24 01:24:04,138 | INFO |     Result               : Fail
+2025-07-24 01:24:04,138 | INFO |     Failure Category     : KITE issue
+2025-07-24 01:24:04,138 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 01:24:04,139 | INFO |     Root Cause Details   : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-24 01:24:04,139 | INFO |     Fixation Performed   : NA
+2025-07-24 01:24:05,011 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:05,328 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:05,329 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:05,329 | INFO |     Date                 : 2nd July 2025
+2025-07-24 01:24:05,330 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:05,330 | INFO |     Result               : Pass
+2025-07-24 01:24:05,888 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:06,204 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:06,204 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:06,206 | INFO |     Date                 : 3rd July 2025
+2025-07-24 01:24:06,206 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:06,207 | INFO |     Result               : Pass
+2025-07-24 01:24:07,104 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:07,420 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:07,421 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:07,421 | INFO |     Date                 : 4th July 2025
+2025-07-24 01:24:07,422 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:07,422 | INFO |     Result               : Pass
+2025-07-24 01:24:08,483 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:08,793 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:08,794 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:08,795 | INFO |     Date                 : 7th July 2025
+2025-07-24 01:24:08,795 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:08,796 | INFO |     Result               : Pass
+2025-07-24 01:24:09,744 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:10,075 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:10,077 | INFO |   🔄 Updating fields for OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:10,077 | INFO |     Failure Category : KITE issue
+2025-07-24 01:24:10,077 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 01:24:10,077 | INFO |     Root Cause Details : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-24 01:24:10,078 | INFO |     Fixation Performed : NA
+2025-07-24 01:24:10,656 | INFO |   ✅ Updated fields for OSV-4437: 'KPIT_TC_DRT_HOM_013.
+2025-07-24 01:24:10,656 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:10,657 | INFO |     Date                 : 8th July 2025
+2025-07-24 01:24:10,657 | INFO |     Analysis Done By     : Neha
+2025-07-24 01:24:10,657 | INFO |     Result               : Fail
+2025-07-24 01:24:10,657 | INFO |     Failure Category     : KITE issue
+2025-07-24 01:24:10,658 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 01:24:10,658 | INFO |     Root Cause Details   : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-24 01:24:10,658 | INFO |     Fixation Performed   : NA
+2025-07-24 01:24:11,189 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:11,506 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:11,507 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:11,507 | INFO |     Date                 : 9th July 2025
+2025-07-24 01:24:11,507 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:11,508 | INFO |     Result               : Pass
+2025-07-24 01:24:11,939 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:12,250 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:12,251 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:12,252 | INFO |     Date                 : 14th July 2025
+2025-07-24 01:24:12,253 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:12,253 | INFO |     Result               : Pass
+2025-07-24 01:24:12,748 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:13,062 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:13,063 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:13,064 | INFO |     Date                 : 15th July 2025
+2025-07-24 01:24:13,064 | INFO |     Analysis Done By     : Neha
+2025-07-24 01:24:13,065 | INFO |     Result               : Pass
+2025-07-24 01:24:13,534 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:13,836 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:13,837 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:13,838 | INFO |     Date                 : 16th July 2025
+2025-07-24 01:24:13,838 | INFO |     Analysis Done By     : Neha
+2025-07-24 01:24:13,839 | INFO |     Result               : Pass
+2025-07-24 01:24:14,812 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:15,110 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:15,111 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:15,111 | INFO |     Date                 : 17th July 2025
+2025-07-24 01:24:15,112 | INFO |     Analysis Done By     : Neha
+2025-07-24 01:24:15,112 | INFO |     Result               : Pass
+2025-07-24 01:24:15,614 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:15,914 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:15,915 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:15,915 | INFO |     Date                 : 21st July 2025
+2025-07-24 01:24:15,915 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:15,916 | INFO |     Result               : Pass
+2025-07-24 01:24:16,469 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:16,795 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:16,796 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:16,796 | INFO |     Date                 : 22nd July 2025
+2025-07-24 01:24:16,797 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:16,797 | INFO |     Result               : Pass
+2025-07-24 01:24:17,699 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-07-24 01:24:18,022 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-24 01:24:18,023 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-24 01:24:18,023 | INFO |     Date                 : 23rd July 2025
+2025-07-24 01:24:18,023 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 01:24:18,023 | INFO |     Result               : Pass
+2025-07-24 01:24:18,504 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+

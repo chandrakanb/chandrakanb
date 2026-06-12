@@ -1,0 +1,19 @@
+D:\chandrakanb\chandrakanb\Teraterm_Flashing\teraterm flashing caps>python argument.py 12345678901234567
+['12345678901234567']
+12345678901234567
+
+D:\chandrakanb\chandrakanb\Teraterm_Flashing\teraterm flashing caps>python argument.py 12345678901234567890123
+['12345678901234567890123']
+12345678901234567890123
+
+D:\chandrakanb\chandrakanb\Teraterm_Flashing\teraterm flashing caps>python argument.py 12345678901234567 12345678901234567890123
+['12345678901234567', '12345678901234567890123']
+Argument1: 12345678901234567
+Argument2: 12345678901234567890123
+
+D:\chandrakanb\chandrakanb\Teraterm_Flashing\teraterm flashing caps>python argument.py 12345678901234567890123 12345678901234567
+['12345678901234567', '12345678901234567890123']
+Argument1: 12345678901234567
+Argument2: 12345678901234567890123
+
+D:\chandrakanb\chandrakanb\Teraterm_Flashing\teraterm flashing caps>

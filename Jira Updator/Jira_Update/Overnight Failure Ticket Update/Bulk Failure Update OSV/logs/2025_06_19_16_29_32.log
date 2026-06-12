@@ -1,0 +1,355 @@
+2025-06-19 16:29:34,287 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-19 16:29:34,288 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 16:29:34,289 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:34,289 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:34,290 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:34,291 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:35,215 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-19 16:29:35,216 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 16:29:35,217 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:35,218 | INFO |     Result : Pratham
+2025-06-19 16:29:35,219 | INFO |     Result : Fail
+2025-06-19 16:29:35,220 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:35,221 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:35,222 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:35,222 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:35,848 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-19 16:29:36,347 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-19 16:29:36,349 | INFO |   🔄 Updating fields for OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 16:29:36,349 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:36,349 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:36,350 | INFO |     Root Cause Details : BTA Data loading Issue.
+2025-06-19 16:29:36,350 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:37,249 | INFO |   ✅ Updated fields for OSV-2612: 'KPIT_TC_DRT_BTA_024.
+2025-06-19 16:29:37,250 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 16:29:37,250 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:37,251 | INFO |     Result : Pratham
+2025-06-19 16:29:37,252 | INFO |     Result : Fail
+2025-06-19 16:29:37,252 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:37,253 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:37,254 | INFO |     Root Cause Details : BTA Data loading Issue.
+2025-06-19 16:29:37,254 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:38,408 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-19 16:29:38,861 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-19 16:29:38,862 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 16:29:38,862 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:38,863 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:38,863 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:38,864 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:39,997 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-19 16:29:39,997 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 16:29:39,998 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:39,998 | INFO |     Result : Pratham
+2025-06-19 16:29:39,999 | INFO |     Result : Fail
+2025-06-19 16:29:39,999 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:39,999 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:39,999 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:39,999 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:41,107 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-19 16:29:41,536 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-19 16:29:41,537 | INFO |   🔄 Updating fields for OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 16:29:41,538 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:41,538 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:41,539 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:41,540 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:42,431 | INFO |   ✅ Updated fields for OSV-2610: 'KPIT_TC_DRT_BTA_053.
+2025-06-19 16:29:42,432 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 16:29:42,432 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:42,433 | INFO |     Result : Pratham
+2025-06-19 16:29:42,433 | INFO |     Result : Fail
+2025-06-19 16:29:42,434 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:42,435 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:42,435 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:42,436 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:43,185 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-19 16:29:43,617 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-19 16:29:43,618 | INFO |   🔄 Updating fields for OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 16:29:43,618 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:43,618 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:43,619 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:43,619 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:44,445 | INFO |   ✅ Updated fields for OSV-2607: 'KPIT_TC_DRT_HFT_048.
+2025-06-19 16:29:44,445 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 16:29:44,446 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:44,446 | INFO |     Result : Pratham
+2025-06-19 16:29:44,446 | INFO |     Result : Fail
+2025-06-19 16:29:44,447 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:44,447 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:44,447 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:44,448 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:45,233 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-19 16:29:45,663 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-19 16:29:45,663 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 16:29:45,664 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:45,664 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:45,665 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:45,665 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:46,777 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-19 16:29:46,777 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 16:29:46,778 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:46,778 | INFO |     Result : Pratham
+2025-06-19 16:29:46,778 | INFO |     Result : Fail
+2025-06-19 16:29:46,778 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:46,778 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:46,778 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:46,779 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:47,488 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-19 16:29:47,955 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-19 16:29:47,955 | INFO |   🔄 Updating fields for OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-19 16:29:47,956 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 16:29:47,956 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 16:29:47,956 | INFO |     Root Cause Details : Home Customisation App Sequence got changed.
+2025-06-19 16:29:47,956 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:49,032 | INFO |   ✅ Updated fields for OSV-2494: 'KPIT_TC_DRT_HOM_013.
+2025-06-19 16:29:49,032 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-19 16:29:49,032 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:49,032 | INFO |     Result : Pratham
+2025-06-19 16:29:49,033 | INFO |     Result : Fail
+2025-06-19 16:29:49,033 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 16:29:49,033 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 16:29:49,033 | INFO |     Root Cause Details : Home Customisation App Sequence got changed.
+2025-06-19 16:29:49,034 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:49,635 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-19 16:29:50,130 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-19 16:29:50,131 | INFO |   🔄 Updating fields for OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 16:29:50,131 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:50,131 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:50,132 | INFO |     Root Cause Details : Robot Clicked properly on Required Image but on ICB side Language did not get selected.
+2025-06-19 16:29:50,132 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:50,938 | INFO |   ✅ Updated fields for OSV-2611: 'KPIT_TC_DRT_KBD_017.
+2025-06-19 16:29:50,939 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 16:29:50,939 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:50,939 | INFO |     Result : Pratham
+2025-06-19 16:29:50,939 | INFO |     Result : Fail
+2025-06-19 16:29:50,939 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:50,939 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:50,941 | INFO |     Root Cause Details : Robot Clicked properly on Required Image but on ICB side Language did not get selected.
+2025-06-19 16:29:50,941 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:51,681 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-19 16:29:52,117 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-19 16:29:52,118 | INFO |   🔄 Updating fields for OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 16:29:52,118 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 16:29:52,119 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 16:29:52,119 | INFO |     Root Cause Details : Home Customisation App Sequence got changed.
+2025-06-19 16:29:52,119 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:53,306 | INFO |   ✅ Updated fields for OSV-2491: 'KPIT_TC_DRT_MCS_036.
+2025-06-19 16:29:53,306 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 16:29:53,307 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:53,307 | INFO |     Result : Pratham
+2025-06-19 16:29:53,307 | INFO |     Result : Fail
+2025-06-19 16:29:53,308 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 16:29:53,308 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 16:29:53,308 | INFO |     Root Cause Details : Home Customisation App Sequence got changed.
+2025-06-19 16:29:53,309 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:54,095 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-19 16:29:54,563 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-19 16:29:54,563 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 16:29:54,564 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:54,564 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:54,564 | INFO |     Root Cause Details : Robot did not perform click properly on Do not Show Text.
+2025-06-19 16:29:54,565 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:55,577 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-19 16:29:55,578 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 16:29:55,578 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:55,578 | INFO |     Result : Pratham
+2025-06-19 16:29:55,579 | INFO |     Result : Fail
+2025-06-19 16:29:55,579 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:55,579 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:55,580 | INFO |     Root Cause Details : Robot did not perform click properly on Do not Show Text.
+2025-06-19 16:29:55,580 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:56,243 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-19 16:29:56,645 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-19 16:29:56,647 | INFO |   🔄 Updating fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 16:29:56,647 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:56,647 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:56,647 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:56,647 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:57,432 | INFO |   ✅ Updated fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-19 16:29:57,432 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 16:29:57,432 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:57,432 | INFO |     Result : Pratham
+2025-06-19 16:29:57,433 | INFO |     Result : Fail
+2025-06-19 16:29:57,433 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:57,433 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:57,433 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:57,434 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:58,123 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-19 16:29:58,621 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-19 16:29:58,622 | INFO |   🔄 Updating fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 16:29:58,623 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:58,623 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:58,624 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:58,625 | INFO |     Fixation Performed : NA
+2025-06-19 16:29:59,392 | INFO |   ✅ Updated fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-19 16:29:59,393 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 16:29:59,393 | INFO |     Date : 21st May 2025
+2025-06-19 16:29:59,393 | INFO |     Result : Pratham
+2025-06-19 16:29:59,394 | INFO |     Result : Fail
+2025-06-19 16:29:59,394 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:29:59,395 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:29:59,395 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:29:59,396 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:00,135 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-19 16:30:00,571 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-19 16:30:00,571 | INFO |   🔄 Updating fields for OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-19 16:30:00,572 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:00,573 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:00,573 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:00,574 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:01,684 | INFO |   ✅ Updated fields for OSV-2496: 'KPIT_TC_DRT_SUW_003.
+2025-06-19 16:30:01,684 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-19 16:30:01,684 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:01,684 | INFO |     Result : Pratham
+2025-06-19 16:30:01,685 | INFO |     Result : Fail
+2025-06-19 16:30:01,685 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:01,685 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:01,686 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:01,686 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:02,346 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-19 16:30:02,875 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-19 16:30:02,875 | INFO |   🔄 Updating fields for OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 16:30:02,875 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:02,876 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:02,876 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:02,876 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:04,052 | INFO |   ✅ Updated fields for OSV-2479: 'KPIT_TC_DRT_SUW_004.
+2025-06-19 16:30:04,052 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 16:30:04,053 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:04,053 | INFO |     Result : Pratham
+2025-06-19 16:30:04,053 | INFO |     Result : Fail
+2025-06-19 16:30:04,055 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:04,056 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:04,056 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:04,057 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:04,795 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-19 16:30:05,237 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-19 16:30:05,237 | INFO |   🔄 Updating fields for OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 16:30:05,238 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:05,238 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:05,238 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:05,239 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:06,365 | INFO |   ✅ Updated fields for OSV-2480: 'KPIT_TC_DRT_SUW_005.
+2025-06-19 16:30:06,366 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 16:30:06,366 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:06,366 | INFO |     Result : Pratham
+2025-06-19 16:30:06,366 | INFO |     Result : Fail
+2025-06-19 16:30:06,367 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:06,367 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:06,367 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:06,367 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:07,096 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-19 16:30:07,571 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-19 16:30:07,572 | INFO |   🔄 Updating fields for OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 16:30:07,572 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:07,572 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:07,573 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:07,573 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:08,586 | INFO |   ✅ Updated fields for OSV-2481: 'KPIT_TC_DRT_SUW_006.
+2025-06-19 16:30:08,587 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 16:30:08,587 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:08,587 | INFO |     Result : Pratham
+2025-06-19 16:30:08,587 | INFO |     Result : Fail
+2025-06-19 16:30:08,588 | INFO |     Failure Category : TS issue
+2025-06-19 16:30:08,588 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 16:30:08,588 | INFO |     Root Cause Details : General Settings Icon not displayed on Home screen Page 2.
+2025-06-19 16:30:08,588 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:09,813 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-19 16:30:10,255 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-19 16:30:10,256 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 16:30:10,256 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:30:10,257 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:30:10,257 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:30:10,258 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:11,300 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-19 16:30:11,300 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 16:30:11,300 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:11,301 | INFO |     Result : Pratham
+2025-06-19 16:30:11,301 | INFO |     Result : Fail
+2025-06-19 16:30:11,301 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:30:11,301 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:30:11,301 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-19 16:30:11,301 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:11,950 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-19 16:30:12,409 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-19 16:30:12,409 | INFO |   🔄 Updating fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 16:30:12,410 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:30:12,410 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:30:12,410 | INFO |     Root Cause Details : Android Auto disconnection, Post ACC cycle.
+2025-06-19 16:30:12,411 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:13,426 | INFO |   ✅ Updated fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-19 16:30:13,427 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 16:30:13,428 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:13,428 | INFO |     Result : Pratham
+2025-06-19 16:30:13,428 | INFO |     Result : Fail
+2025-06-19 16:30:13,429 | INFO |     Failure Category : Test Env issue
+2025-06-19 16:30:13,429 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 16:30:13,429 | INFO |     Root Cause Details : Android Auto disconnection, Post ACC cycle.
+2025-06-19 16:30:13,430 | INFO |     Fixation Performed : NA
+2025-06-19 16:30:14,090 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-19 16:30:14,567 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-19 16:30:14,568 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-19 16:30:14,568 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:14,568 | INFO |     Result : Pratham
+2025-06-19 16:30:14,569 | INFO |     Result : Pass
+2025-06-19 16:30:15,184 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-19 16:30:15,643 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-19 16:30:15,644 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 16:30:15,644 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:15,645 | INFO |     Result : Pratham
+2025-06-19 16:30:15,645 | INFO |     Result : Pass
+2025-06-19 16:30:16,415 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-19 16:30:16,952 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-19 16:30:16,953 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 16:30:16,953 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:16,954 | INFO |     Result : Pratham
+2025-06-19 16:30:16,954 | INFO |     Result : Pass
+2025-06-19 16:30:17,667 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-19 16:30:18,163 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-19 16:30:18,164 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 16:30:18,165 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:18,166 | INFO |     Result : Pratham
+2025-06-19 16:30:18,166 | INFO |     Result : Pass
+2025-06-19 16:30:19,302 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-19 16:30:19,737 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-19 16:30:19,738 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 16:30:19,738 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:19,739 | INFO |     Result : Pratham
+2025-06-19 16:30:19,740 | INFO |     Result : Pass
+2025-06-19 16:30:20,360 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-19 16:30:20,858 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-19 16:30:20,859 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 16:30:20,860 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:20,860 | INFO |     Result : Pratham
+2025-06-19 16:30:20,861 | INFO |     Result : Pass
+2025-06-19 16:30:21,478 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-19 16:30:21,948 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-19 16:30:21,949 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-19 16:30:21,949 | INFO |     Date : 21st May 2025
+2025-06-19 16:30:21,951 | INFO |     Result : Pratham
+2025-06-19 16:30:21,952 | INFO |     Result : Pass
+2025-06-19 16:30:22,620 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+

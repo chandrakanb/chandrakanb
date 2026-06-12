@@ -1,0 +1,21 @@
+2025-12-20 15:54:22,369 | INFO | ⏳ Updating 'DRT-1810: KPIT_TC_DRT_BTA_020'...
+2025-12-20 15:54:22,370 | INFO |   🔄 Updating fields for DRT-1810: 'KPIT_TC_DRT_BTA_020...
+2025-12-20 15:54:22,370 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:54:22,371 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:54:22,371 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)']
+2025-12-20 15:54:22,372 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:54:22,372 | INFO |     Fixation Performed : NA
+2025-12-20 15:54:22,372 | INFO |     Remarks : PJ04DEF00-507
+2025-12-20 15:54:22,373 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:54:23,179 | INFO |   ✅ Updated fields for DRT-1810: 'KPIT_TC_DRT_BTA_020.
+2025-12-20 15:54:23,181 | INFO |   🔄 Commenting on DRT-1810: 'KPIT_TC_DRT_BTA_020...
+2025-12-20 15:54:23,181 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:54:23,181 | INFO |     Result : Fail
+2025-12-20 15:54:23,181 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:54:23,181 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:54:23,181 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:54:23,182 | INFO |     Fixation Performed : NA
+2025-12-20 15:54:23,722 | INFO |   ✅ Commented on DRT-1810: 'KPIT_TC_DRT_BTA_020.
+
+2025-12-20 15:54:23,722 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

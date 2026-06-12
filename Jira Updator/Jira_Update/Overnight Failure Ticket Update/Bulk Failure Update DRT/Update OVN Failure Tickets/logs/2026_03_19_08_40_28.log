@@ -1,0 +1,4 @@
+2026-03-19 08:40:29,748 | ERROR | [ERROR] Could not process A15-3448: 'KPIT_TC_DRT_USB_132 : 'NoneType' object has no attribute 'value'.
+
+2026-03-19 08:40:29,750 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

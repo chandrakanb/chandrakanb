@@ -1,0 +1,15 @@
+2025-12-01 12:58:51,327 | INFO |   🔄 Commenting on DRT-4778: 'KPIT_TC_DRT_SND_009...
+2025-12-01 12:58:51,328 | INFO |     Date : 2025-11-21
+2025-12-01 12:58:51,329 | INFO |     Result : Pass
+2025-12-01 12:58:51,329 | INFO |     Boild Number : AEA1412S0.251121.1
+2025-12-01 12:58:51,330 | ERROR | [ERROR] Could not process DRT-4778: 'KPIT_TC_DRT_SND_009 : name 'JIRA_API_TOKEN' is not defined.
+
+2025-12-01 12:58:52,076 | INFO |   🔄 Commenting on DRT-4778: 'KPIT_TC_DRT_SND_009...
+2025-12-01 12:58:52,077 | INFO |     Date : 2025-11-25
+2025-12-01 12:58:52,077 | INFO |     Result : Pass
+2025-12-01 12:58:52,079 | INFO |     Boild Number : AEA1412S1.251125.1
+2025-12-01 12:58:52,079 | ERROR | [ERROR] Could not process DRT-4778: 'KPIT_TC_DRT_SND_009 : name 'JIRA_API_TOKEN' is not defined.
+
+2025-12-01 12:58:52,091 | INFO | 
+  ✅ JIRA UPDATE COMPLETED...
+

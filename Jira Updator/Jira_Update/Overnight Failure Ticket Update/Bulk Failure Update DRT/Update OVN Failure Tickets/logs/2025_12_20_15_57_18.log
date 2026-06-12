@@ -1,0 +1,21 @@
+2025-12-20 15:57:19,152 | INFO | ⏳ Updating 'DRT-5769: KPIT_TC_DRT_PLS_006'...
+2025-12-20 15:57:19,154 | INFO |   🔄 Updating fields for DRT-5769: 'KPIT_TC_DRT_PLS_006...
+2025-12-20 15:57:19,155 | INFO |     Failure Category : KITE Issue
+2025-12-20 15:57:19,157 | INFO |     Failure Sub Category : Image Comparision
+2025-12-20 15:57:19,158 | INFO |     Previous Failure Category : []
+2025-12-20 15:57:19,158 | INFO |     Root Cause Details : "CLICK_BY_TEXT" command failed even if the "Spotify" text is present on screen.
+2025-12-20 15:57:19,160 | INFO |     Fixation Performed : NA
+2025-12-20 15:57:19,161 | INFO |     Remarks : BUG ID: 3017360
+2025-12-20 15:57:19,162 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:57:19,976 | INFO |   ✅ Updated fields for DRT-5769: 'KPIT_TC_DRT_PLS_006.
+2025-12-20 15:57:19,977 | INFO |   🔄 Commenting on DRT-5769: 'KPIT_TC_DRT_PLS_006...
+2025-12-20 15:57:19,978 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:57:19,978 | INFO |     Result : Fail
+2025-12-20 15:57:19,979 | INFO |     Failure Category : KITE Issue
+2025-12-20 15:57:19,980 | INFO |     Failure Sub Category : Image Comparision
+2025-12-20 15:57:19,980 | INFO |     Root Cause Details : "CLICK_BY_TEXT" command failed even if the "Spotify" text is present on screen.
+2025-12-20 15:57:19,981 | INFO |     Fixation Performed : NA
+2025-12-20 15:57:20,454 | INFO |   ✅ Commented on DRT-5769: 'KPIT_TC_DRT_PLS_006.
+
+2025-12-20 15:57:20,455 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

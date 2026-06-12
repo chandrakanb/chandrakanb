@@ -1,0 +1,63 @@
+2025-06-27 01:31:55,246 | INFO | ⏳ Updating Failure Category for OSV-4360 - KPIT_TC_DRT_ANT_011: ICB Issue (Once)
+2025-06-27 01:31:56,676 | INFO | ✅ Updated Failure Category for OSV-4360 - KPIT_TC_DRT_ANT_011
+
+2025-06-27 01:31:57,064 | INFO | ⏳ Updating Failure Category for OSV-4376 - KPIT_TC_FNC_SPCAA_0447_0001: Test Env Issue
+2025-06-27 01:31:58,111 | INFO | ✅ Updated Failure Category for OSV-4376 - KPIT_TC_FNC_SPCAA_0447_0001
+
+2025-06-27 01:31:58,461 | INFO | ⏳ Updating Failure Category for OSV-4432 - KPIT_TC_DRT_KBD_013: ICB Issue (Once)
+2025-06-27 01:31:59,330 | INFO | ✅ Updated Failure Category for OSV-4432 - KPIT_TC_DRT_KBD_013
+
+2025-06-27 01:31:59,665 | INFO | ⏳ Updating Failure Category for OSV-4422 - KPIT_TC_DRT_PRM_007: ICB Issue (Once)
+2025-06-27 01:32:00,544 | INFO | ✅ Updated Failure Category for OSV-4422 - KPIT_TC_DRT_PRM_007
+
+2025-06-27 01:32:00,898 | INFO | ⏳ Updating Failure Category for OSV-4413 - KPIT_TC_DRT_PRM_011: ICB Issue (Once)
+2025-06-27 01:32:01,789 | INFO | ✅ Updated Failure Category for OSV-4413 - KPIT_TC_DRT_PRM_011
+
+2025-06-27 01:32:02,132 | INFO | ⏳ Updating Failure Category for OSV-4415 - KPIT_TC_DRT_PRM_015: ICB Issue (Once)
+2025-06-27 01:32:02,973 | INFO | ✅ Updated Failure Category for OSV-4415 - KPIT_TC_DRT_PRM_015
+
+2025-06-27 01:32:03,324 | INFO | ⏳ Updating Failure Category for OSV-4435 - KPIT_TC_DRT_HOM_005: ICB Issue (Once)
+2025-06-27 01:32:04,175 | INFO | ✅ Updated Failure Category for OSV-4435 - KPIT_TC_DRT_HOM_005
+
+2025-06-27 01:32:04,538 | INFO | ⏳ Updating Failure Category for OSV-4436 - KPIT_TC_DRT_HOM_006: ICB Issue (Once)
+2025-06-27 01:32:05,440 | INFO | ✅ Updated Failure Category for OSV-4436 - KPIT_TC_DRT_HOM_006
+
+2025-06-27 01:32:05,796 | INFO | ⏳ Updating Failure Category for OSV-4433 - KPIT_TC_DRT_HOM_009: ICB Issue (Once)
+2025-06-27 01:32:06,681 | INFO | ✅ Updated Failure Category for OSV-4433 - KPIT_TC_DRT_HOM_009
+
+2025-06-27 01:32:07,120 | INFO | ⏳ Updating Failure Category for OSV-4434 - KPIT_TC_DRT_HOM_012: ICB Issue (Once)
+2025-06-27 01:32:08,050 | INFO | ✅ Updated Failure Category for OSV-4434 - KPIT_TC_DRT_HOM_012
+
+2025-06-27 01:32:08,416 | INFO | ⏳ Updating Failure Category for OSV-4437 - KPIT_TC_DRT_HOM_013: ICB Issue (Once)
+2025-06-27 01:32:09,299 | INFO | ✅ Updated Failure Category for OSV-4437 - KPIT_TC_DRT_HOM_013
+
+2025-06-27 01:32:09,626 | INFO | ⏳ Updating Failure Category for OSV-4424 - KPIT_TC_DRT_HOM_028: ICB Issue (Once)
+2025-06-27 01:32:10,452 | INFO | ✅ Updated Failure Category for OSV-4424 - KPIT_TC_DRT_HOM_028
+
+2025-06-27 01:32:10,800 | INFO | ⏳ Updating Failure Category for OSV-4431 - KPIT_TC_DRT_HOM_031: ICB Issue (Once)
+2025-06-27 01:32:11,650 | INFO | ✅ Updated Failure Category for OSV-4431 - KPIT_TC_DRT_HOM_031
+
+2025-06-27 01:32:11,968 | INFO | ⏳ Updating Failure Category for OSV-4419 - KPIT_TC_DRT_HOM_035: ICB Issue (Once)
+2025-06-27 01:32:12,913 | INFO | ✅ Updated Failure Category for OSV-4419 - KPIT_TC_DRT_HOM_035
+
+2025-06-27 01:32:13,273 | INFO | ⏳ Updating Failure Category for OSV-4417 - KPIT_TC_DRT_HOM_049: ICB Issue (Once)
+2025-06-27 01:32:14,192 | INFO | ✅ Updated Failure Category for OSV-4417 - KPIT_TC_DRT_HOM_049
+
+2025-06-27 01:32:14,541 | INFO | ⏳ Updating Failure Category for OSV-4418 - KPIT_TC_DRT_HOM_050: ICB Issue (Once)
+2025-06-27 01:32:15,355 | INFO | ✅ Updated Failure Category for OSV-4418 - KPIT_TC_DRT_HOM_050
+
+2025-06-27 01:32:15,696 | INFO | ⏳ Updating Failure Category for OSV-4441 - KPIT_TC_DRT_SUW_003: ICB Issue (Once)
+2025-06-27 01:32:16,597 | INFO | ✅ Updated Failure Category for OSV-4441 - KPIT_TC_DRT_SUW_003
+
+2025-06-27 01:32:16,952 | INFO | ⏳ Updating Failure Category for OSV-4411 - KPIT_TC_DRT_SUW_005: ICB Issue (Once)
+2025-06-27 01:32:17,878 | INFO | ✅ Updated Failure Category for OSV-4411 - KPIT_TC_DRT_SUW_005
+
+2025-06-27 01:32:18,204 | INFO | ⏳ Updating Failure Category for OSV-4412 - KPIT_TC_DRT_SUW_006: ICB Issue (Once)
+2025-06-27 01:32:19,177 | INFO | ✅ Updated Failure Category for OSV-4412 - KPIT_TC_DRT_SUW_006
+
+2025-06-27 01:32:19,531 | INFO | ⏳ Updating Failure Category for OSV-4440 - KPIT_TC_FNC_SUW_0005_0001: ICB Issue (Once)
+2025-06-27 01:32:20,393 | INFO | ✅ Updated Failure Category for OSV-4440 - KPIT_TC_FNC_SUW_0005_0001
+
+2025-06-27 01:32:20,760 | INFO | ⏳ Updating Failure Category for OSV-4410 - KPIT_TC_DRT_SUW_004: ICB Issue (Once)
+2025-06-27 01:32:21,590 | INFO | ✅ Updated Failure Category for OSV-4410 - KPIT_TC_DRT_SUW_004
+

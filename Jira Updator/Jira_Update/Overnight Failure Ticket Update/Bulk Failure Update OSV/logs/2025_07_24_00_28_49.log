@@ -1,0 +1,884 @@
+2025-07-24 00:28:51,902 | INFO | ⏳ Updating 'OSV-4384: KPIT_TC_DRT_PRM_011'...
+2025-07-24 00:28:51,903 | INFO |   🔄 Updating fields for OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:28:51,904 | INFO |     Failure Category : KITE issue
+2025-07-24 00:28:51,904 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:51,904 | INFO |     Root Cause Details : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:28:51,905 | INFO |     Fixation Performed : Replace image comparision with OCR Validation.
+2025-07-24 00:28:53,001 | INFO |   ✅ Updated fields for OSV-4384: 'KPIT_TC_DRT_PRM_011.
+2025-07-24 00:28:53,002 | INFO |   🔄 Commenting on OSV-4384: 'KPIT_TC_DRT_PRM_011...
+2025-07-24 00:28:53,013 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:28:53,014 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:28:53,015 | INFO |     Result               : Fail
+2025-07-24 00:28:53,015 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:28:53,015 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:53,015 | INFO |     Root Cause Details   : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 66.0%.
+2025-07-24 00:28:53,016 | INFO |     Fixation Performed   : Replace image comparision with OCR Validation.
+2025-07-24 00:28:54,002 | INFO |   ✅ Commented on OSV-4384: 'KPIT_TC_DRT_PRM_011.
+
+2025-07-24 00:28:54,329 | INFO | ⏳ Updating 'OSV-4385: KPIT_TC_DRT_PRM_014'...
+2025-07-24 00:28:54,330 | INFO |   🔄 Updating fields for OSV-4385: 'KPIT_TC_DRT_PRM_014...
+2025-07-24 00:28:54,331 | INFO |     Failure Category : KITE issue
+2025-07-24 00:28:54,332 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:54,332 | INFO |     Root Cause Details : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 71.0%.
+2025-07-24 00:28:54,333 | INFO |     Fixation Performed : Replace image comparision with OCR Validation.
+2025-07-24 00:28:55,152 | INFO |   ✅ Updated fields for OSV-4385: 'KPIT_TC_DRT_PRM_014.
+2025-07-24 00:28:55,153 | INFO |   🔄 Commenting on OSV-4385: 'KPIT_TC_DRT_PRM_014...
+2025-07-24 00:28:55,153 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:28:55,153 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:28:55,153 | INFO |     Result               : Fail
+2025-07-24 00:28:55,153 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:28:55,154 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:55,154 | INFO |     Root Cause Details   : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 71.0%.
+2025-07-24 00:28:55,155 | INFO |     Fixation Performed   : Replace image comparision with OCR Validation.
+2025-07-24 00:28:55,615 | INFO |   ✅ Commented on OSV-4385: 'KPIT_TC_DRT_PRM_014.
+
+2025-07-24 00:28:55,961 | INFO | ⏳ Updating 'OSV-3962: KPIT_TC_DRT_PRM_015'...
+2025-07-24 00:28:55,962 | INFO |   🔄 Updating fields for OSV-3962: 'KPIT_TC_DRT_PRM_015...
+2025-07-24 00:28:55,962 | INFO |     Failure Category : KITE issue
+2025-07-24 00:28:55,963 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:55,964 | INFO |     Root Cause Details : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 71.0%.
+2025-07-24 00:28:55,964 | INFO |     Fixation Performed : Replace image comparision with OCR Validation.
+2025-07-24 00:28:56,856 | INFO |   ✅ Updated fields for OSV-3962: 'KPIT_TC_DRT_PRM_015.
+2025-07-24 00:28:56,857 | INFO |   🔄 Commenting on OSV-3962: 'KPIT_TC_DRT_PRM_015...
+2025-07-24 00:28:56,857 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:28:56,857 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:28:56,857 | INFO |     Result               : Fail
+2025-07-24 00:28:56,858 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:28:56,858 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:28:56,858 | INFO |     Root Cause Details   : Image Comaparision failed for "Enter PIN Screen when Owner is selected", with 71.0%.
+2025-07-24 00:28:56,868 | INFO |     Fixation Performed   : Replace image comparision with OCR Validation.
+2025-07-24 00:28:57,772 | INFO |   ✅ Commented on OSV-3962: 'KPIT_TC_DRT_PRM_015.
+
+2025-07-24 00:28:58,067 | INFO | ⏳ Updating 'OSV-4074: KPIT_TC_DRT_WLC_013'...
+2025-07-24 00:28:58,067 | INFO |   🔄 Updating fields for OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:28:58,068 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:28:58,068 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:28:58,069 | INFO |     Root Cause Details : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:28:58,069 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:28:58,717 | INFO |   ✅ Updated fields for OSV-4074: 'KPIT_TC_DRT_WLC_013.
+2025-07-24 00:28:58,717 | INFO |   🔄 Commenting on OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:28:58,717 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:28:58,718 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:28:58,718 | INFO |     Result               : Fail
+2025-07-24 00:28:58,718 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:28:58,718 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:28:58,719 | INFO |     Root Cause Details   : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:28:58,719 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:28:59,312 | INFO |   ✅ Commented on OSV-4074: 'KPIT_TC_DRT_WLC_013.
+
+2025-07-24 00:28:59,620 | INFO | ⏳ Updating 'OSV-4393: KPIT_TC_DRT_BTA_018'...
+2025-07-24 00:28:59,621 | INFO |   🔄 Updating fields for OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:28:59,621 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:28:59,621 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:28:59,622 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:28:59,622 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:00,478 | INFO |   ✅ Updated fields for OSV-4393: 'KPIT_TC_DRT_BTA_018.
+2025-07-24 00:29:00,479 | INFO |   🔄 Commenting on OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:29:00,481 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:00,481 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:00,482 | INFO |     Result               : Fail
+2025-07-24 00:29:00,482 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:00,483 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:00,483 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:00,483 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:00,966 | INFO |   ✅ Commented on OSV-4393: 'KPIT_TC_DRT_BTA_018.
+
+2025-07-24 00:29:01,274 | INFO | ⏳ Updating 'OSV-4386: KPIT_TC_DRT_BTA_053'...
+2025-07-24 00:29:01,275 | INFO |   🔄 Updating fields for OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:29:01,275 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:01,275 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:01,275 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:01,275 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:02,132 | INFO |   ✅ Updated fields for OSV-4386: 'KPIT_TC_DRT_BTA_053.
+2025-07-24 00:29:02,133 | INFO |   🔄 Commenting on OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:29:02,133 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:02,134 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:02,134 | INFO |     Result               : Fail
+2025-07-24 00:29:02,134 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:02,135 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:02,135 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:02,135 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:02,664 | INFO |   ✅ Commented on OSV-4386: 'KPIT_TC_DRT_BTA_053.
+
+2025-07-24 00:29:02,966 | INFO | ⏳ Updating 'OSV-3955: KPIT_TC_DRT_HMI_001'...
+2025-07-24 00:29:02,967 | INFO |   🔄 Updating fields for OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:29:02,967 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:02,967 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:02,968 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:02,968 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:03,767 | INFO |   ✅ Updated fields for OSV-3955: 'KPIT_TC_DRT_HMI_001.
+2025-07-24 00:29:03,768 | INFO |   🔄 Commenting on OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:29:03,768 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:03,768 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:03,768 | INFO |     Result               : Fail
+2025-07-24 00:29:03,768 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:03,768 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:03,769 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:03,769 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:04,222 | INFO |   ✅ Commented on OSV-3955: 'KPIT_TC_DRT_HMI_001.
+
+2025-07-24 00:29:04,549 | INFO | ⏳ Updating 'OSV-4073: KPIT_TC_DRT_SPCCP_021'...
+2025-07-24 00:29:04,550 | INFO |   🔄 Updating fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:29:04,552 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:04,554 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:04,556 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:04,557 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:05,338 | INFO |   ✅ Updated fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+2025-07-24 00:29:05,338 | INFO |   🔄 Commenting on OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:29:05,339 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:05,339 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:05,339 | INFO |     Result               : Fail
+2025-07-24 00:29:05,340 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:05,340 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:05,341 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:05,341 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:05,880 | INFO |   ✅ Commented on OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-07-24 00:29:06,207 | INFO | ⏳ Updating 'OSV-4390: KPIT_TC_FNC_AVG_0878_0001'...
+2025-07-24 00:29:06,208 | INFO |   🔄 Updating fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:29:06,208 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:06,209 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:06,209 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:06,210 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:07,060 | INFO |   ✅ Updated fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-07-24 00:29:07,061 | INFO |   🔄 Commenting on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:29:07,061 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:07,062 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:07,062 | INFO |     Result               : Fail
+2025-07-24 00:29:07,063 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:07,063 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:07,064 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:07,064 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:07,553 | INFO |   ✅ Commented on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-07-24 00:29:07,865 | INFO | ⏳ Updating 'OSV-4392: KPIT_TC_DRT_BTA_020'...
+2025-07-24 00:29:07,866 | INFO |   🔄 Updating fields for OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:29:07,867 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:07,868 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:07,868 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:07,869 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:08,651 | INFO |   ✅ Updated fields for OSV-4392: 'KPIT_TC_DRT_BTA_020.
+2025-07-24 00:29:08,652 | INFO |   🔄 Commenting on OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:29:08,653 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:08,653 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:08,654 | INFO |     Result               : Fail
+2025-07-24 00:29:08,655 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:08,655 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:08,656 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:08,658 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:09,159 | INFO |   ✅ Commented on OSV-4392: 'KPIT_TC_DRT_BTA_020.
+
+2025-07-24 00:29:09,468 | INFO | ⏳ Updating 'OSV-4391: KPIT_TC_DRT_BTA_025'...
+2025-07-24 00:29:09,469 | INFO |   🔄 Updating fields for OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:29:09,469 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:09,470 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:09,471 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:09,471 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:10,288 | INFO |   ✅ Updated fields for OSV-4391: 'KPIT_TC_DRT_BTA_025.
+2025-07-24 00:29:10,289 | INFO |   🔄 Commenting on OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:29:10,289 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:10,290 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:10,291 | INFO |     Result               : Fail
+2025-07-24 00:29:10,292 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:10,293 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:10,293 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:10,293 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:11,175 | INFO |   ✅ Commented on OSV-4391: 'KPIT_TC_DRT_BTA_025.
+
+2025-07-24 00:29:11,508 | INFO | ⏳ Updating 'OSV-4381: KPIT_TC_DRT_SPCCP_099'...
+2025-07-24 00:29:11,508 | INFO |   🔄 Updating fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:29:11,509 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:11,510 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:11,510 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:11,511 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:12,403 | INFO |   ✅ Updated fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+2025-07-24 00:29:12,404 | INFO |   🔄 Commenting on OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:29:12,404 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:12,404 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:12,405 | INFO |     Result               : Fail
+2025-07-24 00:29:12,405 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:12,405 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:12,405 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:12,405 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:13,380 | INFO |   ✅ Commented on OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-07-24 00:29:13,685 | INFO | ⏳ Updating 'OSV-4380: KPIT_TC_DRT_HFT_048'...
+2025-07-24 00:29:13,686 | INFO |   🔄 Updating fields for OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:29:13,687 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:13,687 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:13,688 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:13,688 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:14,563 | INFO |   ✅ Updated fields for OSV-4380: 'KPIT_TC_DRT_HFT_048.
+2025-07-24 00:29:14,564 | INFO |   🔄 Commenting on OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:29:14,564 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:14,564 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:14,564 | INFO |     Result               : Fail
+2025-07-24 00:29:14,565 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:14,565 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:14,565 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:14,566 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:15,102 | INFO |   ✅ Commented on OSV-4380: 'KPIT_TC_DRT_HFT_048.
+
+2025-07-24 00:29:15,409 | INFO | ⏳ Updating 'OSV-4403: KPIT_TC_DRT_SUW_003'...
+2025-07-24 00:29:15,410 | INFO |   🔄 Updating fields for OSV-4403: 'KPIT_TC_DRT_SUW_003...
+2025-07-24 00:29:15,410 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:15,411 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:15,411 | INFO |     Root Cause Details : Set Up Wizard Skipped, Post FDR.
+2025-07-24 00:29:15,412 | INFO |     Fixation Performed : As this is observed sometimes, Hence can't be fixed.
+2025-07-24 00:29:16,200 | INFO |   ✅ Updated fields for OSV-4403: 'KPIT_TC_DRT_SUW_003.
+2025-07-24 00:29:16,201 | INFO |   🔄 Commenting on OSV-4403: 'KPIT_TC_DRT_SUW_003...
+2025-07-24 00:29:16,201 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:16,202 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:16,203 | INFO |     Result               : Fail
+2025-07-24 00:29:16,203 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:16,203 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:16,203 | INFO |     Root Cause Details   : Set Up Wizard Skipped, Post FDR.
+2025-07-24 00:29:16,205 | INFO |     Fixation Performed   : As this is observed sometimes, Hence can't be fixed.
+2025-07-24 00:29:17,129 | INFO |   ✅ Commented on OSV-4403: 'KPIT_TC_DRT_SUW_003.
+
+2025-07-24 00:29:17,436 | INFO | ⏳ Updating 'OSV-3956: KPIT_TC_DRT_SUW_005'...
+2025-07-24 00:29:17,437 | INFO |   🔄 Updating fields for OSV-3956: 'KPIT_TC_DRT_SUW_005...
+2025-07-24 00:29:17,438 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:17,438 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:17,439 | INFO |     Root Cause Details : Set Up Wizard Skipped, Post FDR.
+2025-07-24 00:29:17,440 | INFO |     Fixation Performed : As this is observed sometimes, Hence can't be fixed.
+2025-07-24 00:29:18,241 | INFO |   ✅ Updated fields for OSV-3956: 'KPIT_TC_DRT_SUW_005.
+2025-07-24 00:29:18,241 | INFO |   🔄 Commenting on OSV-3956: 'KPIT_TC_DRT_SUW_005...
+2025-07-24 00:29:18,242 | INFO |     Date                 : 7th July 2025
+2025-07-24 00:29:18,242 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:18,243 | INFO |     Result               : Fail
+2025-07-24 00:29:18,243 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:18,243 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:18,244 | INFO |     Root Cause Details   : Set Up Wizard Skipped, Post FDR.
+2025-07-24 00:29:18,244 | INFO |     Fixation Performed   : As this is observed sometimes, Hence can't be fixed.
+2025-07-24 00:29:18,808 | INFO |   ✅ Commented on OSV-3956: 'KPIT_TC_DRT_SUW_005.
+
+2025-07-24 00:29:19,130 | INFO | ⏳ Updating 'OSV-4909: KPIT_TC_DRT_BTA_024'...
+2025-07-24 00:29:19,131 | INFO |   🔄 Updating fields for OSV-4909: 'KPIT_TC_DRT_BTA_024...
+2025-07-24 00:29:19,132 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:19,132 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:19,133 | INFO |     Root Cause Details : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:19,134 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:19,985 | INFO |   ✅ Updated fields for OSV-4909: 'KPIT_TC_DRT_BTA_024.
+2025-07-24 00:29:19,985 | INFO |   🔄 Commenting on OSV-4909: 'KPIT_TC_DRT_BTA_024...
+2025-07-24 00:29:19,985 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:19,985 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:19,985 | INFO |     Result               : Fail
+2025-07-24 00:29:19,986 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:19,986 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:19,986 | INFO |     Root Cause Details   : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:19,986 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:20,920 | INFO |   ✅ Commented on OSV-4909: 'KPIT_TC_DRT_BTA_024.
+
+2025-07-24 00:29:21,228 | INFO | ⏳ Updating 'OSV-4044: KPIT_TC_DRT_BTA_021'...
+2025-07-24 00:29:21,228 | INFO |   🔄 Updating fields for OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-07-24 00:29:21,228 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:21,230 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:21,230 | INFO |     Root Cause Details : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:21,230 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:22,007 | INFO |   ✅ Updated fields for OSV-4044: 'KPIT_TC_DRT_BTA_021.
+2025-07-24 00:29:22,008 | INFO |   🔄 Commenting on OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-07-24 00:29:22,009 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:22,010 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:22,010 | INFO |     Result               : Fail
+2025-07-24 00:29:22,011 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:22,012 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:22,012 | INFO |     Root Cause Details   : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:22,013 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:22,491 | INFO |   ✅ Commented on OSV-4044: 'KPIT_TC_DRT_BTA_021.
+
+2025-07-24 00:29:22,822 | INFO | ⏳ Updating 'OSV-4910: KPIT_TC_DRT_BTA_049'...
+2025-07-24 00:29:22,822 | INFO |   🔄 Updating fields for OSV-4910: 'KPIT_TC_DRT_BTA_049...
+2025-07-24 00:29:22,823 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:22,823 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:22,824 | INFO |     Root Cause Details : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:22,825 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:23,655 | INFO |   ✅ Updated fields for OSV-4910: 'KPIT_TC_DRT_BTA_049.
+2025-07-24 00:29:23,655 | INFO |   🔄 Commenting on OSV-4910: 'KPIT_TC_DRT_BTA_049...
+2025-07-24 00:29:23,656 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:23,657 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:23,657 | INFO |     Result               : Fail
+2025-07-24 00:29:23,658 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:23,659 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:23,659 | INFO |     Root Cause Details   : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:23,660 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:24,536 | INFO |   ✅ Commented on OSV-4910: 'KPIT_TC_DRT_BTA_049.
+
+2025-07-24 00:29:24,870 | INFO | ⏳ Updating 'OSV-4912: KPIT_TC_DRT_BTA_032'...
+2025-07-24 00:29:24,871 | INFO |   🔄 Updating fields for OSV-4912: 'KPIT_TC_DRT_BTA_032...
+2025-07-24 00:29:24,871 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:24,872 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:24,872 | INFO |     Root Cause Details : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:24,872 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:25,664 | INFO |   ✅ Updated fields for OSV-4912: 'KPIT_TC_DRT_BTA_032.
+2025-07-24 00:29:25,665 | INFO |   🔄 Commenting on OSV-4912: 'KPIT_TC_DRT_BTA_032...
+2025-07-24 00:29:25,665 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:25,666 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:25,666 | INFO |     Result               : Fail
+2025-07-24 00:29:25,667 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:25,667 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:25,667 | INFO |     Root Cause Details   : Even after connecting robot phone 1 as BT in Bluetooth audio application searching device pop up was displayed
+2025-07-24 00:29:25,668 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:26,218 | INFO |   ✅ Commented on OSV-4912: 'KPIT_TC_DRT_BTA_032.
+
+2025-07-24 00:29:26,566 | INFO | ⏳ Updating 'OSV-4911: KPIT_TC_DRT_KBD_017'...
+2025-07-24 00:29:26,566 | INFO |   🔄 Updating fields for OSV-4911: 'KPIT_TC_DRT_KBD_017...
+2025-07-24 00:29:26,567 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:26,567 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:26,567 | INFO |     Root Cause Details : Clicked on Francais but did not reflected on ICB 
+2025-07-24 00:29:26,567 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:27,344 | INFO |   ✅ Updated fields for OSV-4911: 'KPIT_TC_DRT_KBD_017.
+2025-07-24 00:29:27,344 | INFO |   🔄 Commenting on OSV-4911: 'KPIT_TC_DRT_KBD_017...
+2025-07-24 00:29:27,344 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:27,344 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:27,344 | INFO |     Result               : Fail
+2025-07-24 00:29:27,345 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:27,345 | INFO |     Failure Sub Category : Once Seen
+2025-07-24 00:29:27,345 | INFO |     Root Cause Details   : Clicked on Francais but did not reflected on ICB 
+2025-07-24 00:29:27,345 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:28,234 | INFO |   ✅ Commented on OSV-4911: 'KPIT_TC_DRT_KBD_017.
+
+2025-07-24 00:29:28,547 | INFO | ⏳ Updating 'OSV-4074: KPIT_TC_DRT_WLC_013'...
+2025-07-24 00:29:28,548 | INFO |   🔄 Updating fields for OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:29:28,548 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:28,549 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:28,550 | INFO |     Root Cause Details : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:29:28,550 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:29,172 | INFO |   ✅ Updated fields for OSV-4074: 'KPIT_TC_DRT_WLC_013.
+2025-07-24 00:29:29,172 | INFO |   🔄 Commenting on OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:29:29,173 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:29,174 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:29,174 | INFO |     Result               : Fail
+2025-07-24 00:29:29,175 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:29,176 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:29,176 | INFO |     Root Cause Details   : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:29:29,177 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:29,607 | INFO |   ✅ Commented on OSV-4074: 'KPIT_TC_DRT_WLC_013.
+
+2025-07-24 00:29:29,909 | INFO | ⏳ Updating 'OSV-4393: KPIT_TC_DRT_BTA_018'...
+2025-07-24 00:29:29,909 | INFO |   🔄 Updating fields for OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:29:29,910 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:29,910 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:29,911 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:29,911 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:30,602 | INFO |   ✅ Updated fields for OSV-4393: 'KPIT_TC_DRT_BTA_018.
+2025-07-24 00:29:30,602 | INFO |   🔄 Commenting on OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:29:30,603 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:30,603 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:30,604 | INFO |     Result               : Fail
+2025-07-24 00:29:30,605 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:30,605 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:30,605 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:30,605 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:31,199 | INFO |   ✅ Commented on OSV-4393: 'KPIT_TC_DRT_BTA_018.
+
+2025-07-24 00:29:31,509 | INFO | ⏳ Updating 'OSV-4386: KPIT_TC_DRT_BTA_053'...
+2025-07-24 00:29:31,509 | INFO |   🔄 Updating fields for OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:29:31,510 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:31,510 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:31,510 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:31,510 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:32,123 | INFO |   ✅ Updated fields for OSV-4386: 'KPIT_TC_DRT_BTA_053.
+2025-07-24 00:29:32,124 | INFO |   🔄 Commenting on OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:29:32,124 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:32,125 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:32,125 | INFO |     Result               : Fail
+2025-07-24 00:29:32,125 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:32,126 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:32,126 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:32,127 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:32,613 | INFO |   ✅ Commented on OSV-4386: 'KPIT_TC_DRT_BTA_053.
+
+2025-07-24 00:29:32,954 | INFO | ⏳ Updating 'OSV-3955: KPIT_TC_DRT_HMI_001'...
+2025-07-24 00:29:32,954 | INFO |   🔄 Updating fields for OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:29:32,955 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:32,955 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:32,955 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:32,955 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:33,568 | INFO |   ✅ Updated fields for OSV-3955: 'KPIT_TC_DRT_HMI_001.
+2025-07-24 00:29:33,569 | INFO |   🔄 Commenting on OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:29:33,569 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:33,570 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:33,570 | INFO |     Result               : Fail
+2025-07-24 00:29:33,570 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:33,571 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:33,571 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:33,571 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:34,494 | INFO |   ✅ Commented on OSV-3955: 'KPIT_TC_DRT_HMI_001.
+
+2025-07-24 00:29:34,824 | INFO | ⏳ Updating 'OSV-4073: KPIT_TC_DRT_SPCCP_021'...
+2025-07-24 00:29:34,824 | INFO |   🔄 Updating fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:29:34,824 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:34,824 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:34,824 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:34,824 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:35,482 | INFO |   ✅ Updated fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+2025-07-24 00:29:35,483 | INFO |   🔄 Commenting on OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:29:35,484 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:35,485 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:35,485 | INFO |     Result               : Fail
+2025-07-24 00:29:35,485 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:35,486 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:35,486 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:35,486 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:36,373 | INFO |   ✅ Commented on OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-07-24 00:29:36,674 | INFO | ⏳ Updating 'OSV-4390: KPIT_TC_FNC_AVG_0878_0001'...
+2025-07-24 00:29:36,675 | INFO |   🔄 Updating fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:29:36,676 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:36,676 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:36,677 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:36,678 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:37,301 | INFO |   ✅ Updated fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-07-24 00:29:37,302 | INFO |   🔄 Commenting on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:29:37,302 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:37,303 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:37,303 | INFO |     Result               : Fail
+2025-07-24 00:29:37,304 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:37,305 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:37,306 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:37,306 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:38,257 | INFO |   ✅ Commented on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-07-24 00:29:38,579 | INFO | ⏳ Updating 'OSV-4392: KPIT_TC_DRT_BTA_020'...
+2025-07-24 00:29:38,580 | INFO |   🔄 Updating fields for OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:29:38,581 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:38,581 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:38,581 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:38,582 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:39,217 | INFO |   ✅ Updated fields for OSV-4392: 'KPIT_TC_DRT_BTA_020.
+2025-07-24 00:29:39,217 | INFO |   🔄 Commenting on OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:29:39,218 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:39,218 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:39,219 | INFO |     Result               : Fail
+2025-07-24 00:29:39,219 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:39,220 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:39,220 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:39,220 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:39,769 | INFO |   ✅ Commented on OSV-4392: 'KPIT_TC_DRT_BTA_020.
+
+2025-07-24 00:29:40,082 | INFO | ⏳ Updating 'OSV-4391: KPIT_TC_DRT_BTA_025'...
+2025-07-24 00:29:40,082 | INFO |   🔄 Updating fields for OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:29:40,083 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:40,084 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:40,084 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:40,085 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:40,703 | INFO |   ✅ Updated fields for OSV-4391: 'KPIT_TC_DRT_BTA_025.
+2025-07-24 00:29:40,704 | INFO |   🔄 Commenting on OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:29:40,704 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:40,705 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:40,706 | INFO |     Result               : Fail
+2025-07-24 00:29:40,707 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:40,707 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:40,708 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:40,709 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:41,516 | INFO |   ✅ Commented on OSV-4391: 'KPIT_TC_DRT_BTA_025.
+
+2025-07-24 00:29:41,888 | INFO | ⏳ Updating 'OSV-4381: KPIT_TC_DRT_SPCCP_099'...
+2025-07-24 00:29:41,890 | INFO |   🔄 Updating fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:29:41,890 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:41,891 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:41,891 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:41,892 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:42,492 | INFO |   ✅ Updated fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+2025-07-24 00:29:42,493 | INFO |   🔄 Commenting on OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:29:42,493 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:42,494 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:42,494 | INFO |     Result               : Fail
+2025-07-24 00:29:42,495 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:42,495 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:42,496 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:42,496 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:43,413 | INFO |   ✅ Commented on OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-07-24 00:29:43,739 | INFO | ⏳ Updating 'OSV-4380: KPIT_TC_DRT_HFT_048'...
+2025-07-24 00:29:43,739 | INFO |   🔄 Updating fields for OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:29:43,740 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:29:43,740 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:43,740 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:43,740 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:44,338 | INFO |   ✅ Updated fields for OSV-4380: 'KPIT_TC_DRT_HFT_048.
+2025-07-24 00:29:44,339 | INFO |   🔄 Commenting on OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:29:44,340 | INFO |     Date                 : 17th July 2025
+2025-07-24 00:29:44,341 | INFO |     Analysis Done By     : Neha
+2025-07-24 00:29:44,341 | INFO |     Result               : Fail
+2025-07-24 00:29:44,343 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:29:44,343 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:29:44,344 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:29:44,344 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:29:44,856 | INFO |   ✅ Commented on OSV-4380: 'KPIT_TC_DRT_HFT_048.
+
+2025-07-24 00:29:45,189 | INFO | ⏳ Updating 'OSV-4925: KPIT_TC_DRT_ANT_011'...
+2025-07-24 00:29:45,190 | INFO |   🔄 Updating fields for OSV-4925: 'KPIT_TC_DRT_ANT_011...
+2025-07-24 00:29:45,190 | INFO |     Failure Category : KITE issue
+2025-07-24 00:29:45,190 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:45,191 | INFO |     Root Cause Details : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:45,191 | INFO |     Fixation Performed : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:46,002 | INFO |   ✅ Updated fields for OSV-4925: 'KPIT_TC_DRT_ANT_011.
+2025-07-24 00:29:46,002 | INFO |   🔄 Commenting on OSV-4925: 'KPIT_TC_DRT_ANT_011...
+2025-07-24 00:29:46,003 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:46,003 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:46,004 | INFO |     Result               : Fail
+2025-07-24 00:29:46,004 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:29:46,004 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:46,005 | INFO |     Root Cause Details   : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:46,005 | INFO |     Fixation Performed   : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:47,023 | INFO |   ✅ Commented on OSV-4925: 'KPIT_TC_DRT_ANT_011.
+
+2025-07-24 00:29:47,355 | INFO | ⏳ Updating 'OSV-4926: KPIT_TC_DRT_ANT_015'...
+2025-07-24 00:29:47,356 | INFO |   🔄 Updating fields for OSV-4926: 'KPIT_TC_DRT_ANT_015...
+2025-07-24 00:29:47,356 | INFO |     Failure Category : KITE issue
+2025-07-24 00:29:47,357 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:47,357 | INFO |     Root Cause Details : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:47,357 | INFO |     Fixation Performed : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:48,234 | INFO |   ✅ Updated fields for OSV-4926: 'KPIT_TC_DRT_ANT_015.
+2025-07-24 00:29:48,235 | INFO |   🔄 Commenting on OSV-4926: 'KPIT_TC_DRT_ANT_015...
+2025-07-24 00:29:48,235 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:48,235 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:48,235 | INFO |     Result               : Fail
+2025-07-24 00:29:48,236 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:29:48,236 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:48,236 | INFO |     Root Cause Details   : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:48,237 | INFO |     Fixation Performed   : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:48,760 | INFO |   ✅ Commented on OSV-4926: 'KPIT_TC_DRT_ANT_015.
+
+2025-07-24 00:29:49,079 | INFO | ⏳ Updating 'OSV-4044: KPIT_TC_DRT_BTA_021'...
+2025-07-24 00:29:49,080 | INFO |   🔄 Updating fields for OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-07-24 00:29:49,080 | INFO |     Failure Category : Test Env issue
+2025-07-24 00:29:49,080 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:29:49,081 | INFO |     Root Cause Details : IS_HMI_SCREEN_DISPLAYED Command failed for Validation of Progress Bar on Bluetooth Audio Main Screen.
+2025-07-24 00:29:49,081 | INFO |     Fixation Performed : Changed ROI, Executed in daytime, result : Pass.
+2025-07-24 00:29:49,975 | INFO |   ✅ Updated fields for OSV-4044: 'KPIT_TC_DRT_BTA_021.
+2025-07-24 00:29:49,975 | INFO |   🔄 Commenting on OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-07-24 00:29:49,976 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:49,976 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:49,976 | INFO |     Result               : Fail
+2025-07-24 00:29:49,976 | INFO |     Failure Category     : Test Env issue
+2025-07-24 00:29:49,977 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:29:49,977 | INFO |     Root Cause Details   : IS_HMI_SCREEN_DISPLAYED Command failed for Validation of Progress Bar on Bluetooth Audio Main Screen.
+2025-07-24 00:29:49,977 | INFO |     Fixation Performed   : Changed ROI, Executed in daytime, result : Pass.
+2025-07-24 00:29:50,508 | INFO |   ✅ Commented on OSV-4044: 'KPIT_TC_DRT_BTA_021.
+
+2025-07-24 00:29:50,847 | INFO | ⏳ Updating 'OSV-4928: KPIT_TC_DRT_ILL_016'...
+2025-07-24 00:29:50,848 | INFO |   🔄 Updating fields for OSV-4928: 'KPIT_TC_DRT_ILL_016...
+2025-07-24 00:29:50,848 | INFO |     Failure Category : ICB issue (Once)
+2025-07-24 00:29:50,849 | INFO |     Failure Sub Category : Timing Issue
+2025-07-24 00:29:50,850 | INFO |     Root Cause Details : Timing Issue for Validation of ICB Brightness Setting Value is Set to 3 on Display Mode Screen.
+2025-07-24 00:29:50,850 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:51,657 | INFO |   ✅ Updated fields for OSV-4928: 'KPIT_TC_DRT_ILL_016.
+2025-07-24 00:29:51,658 | INFO |   🔄 Commenting on OSV-4928: 'KPIT_TC_DRT_ILL_016...
+2025-07-24 00:29:51,659 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:51,660 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:51,660 | INFO |     Result               : Fail
+2025-07-24 00:29:51,661 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-24 00:29:51,662 | INFO |     Failure Sub Category : Timing Issue
+2025-07-24 00:29:51,663 | INFO |     Root Cause Details   : Timing Issue for Validation of ICB Brightness Setting Value is Set to 3 on Display Mode Screen.
+2025-07-24 00:29:51,663 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:52,190 | INFO |   ✅ Commented on OSV-4928: 'KPIT_TC_DRT_ILL_016.
+
+2025-07-24 00:29:52,515 | INFO | ⏳ Updating 'OSV-4927: KPIT_TC_DRT_BZA_001'...
+2025-07-24 00:29:52,515 | INFO |   🔄 Updating fields for OSV-4927: 'KPIT_TC_DRT_BZA_001...
+2025-07-24 00:29:52,516 | INFO |     Failure Category : KITE issue
+2025-07-24 00:29:52,517 | INFO |     Failure Sub Category : Robot Touch Operation
+2025-07-24 00:29:52,518 | INFO |     Root Cause Details : Soft Swipe on B-Zone, Hence Validation of Digital Clock Displayed in B-Zone.
+2025-07-24 00:29:52,519 | INFO |     Fixation Performed : Checked Calibration of Bench(Camera and Robot), Executed in daytime, Passed.
+2025-07-24 00:29:53,409 | INFO |   ✅ Updated fields for OSV-4927: 'KPIT_TC_DRT_BZA_001.
+2025-07-24 00:29:53,410 | INFO |   🔄 Commenting on OSV-4927: 'KPIT_TC_DRT_BZA_001...
+2025-07-24 00:29:53,410 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:53,411 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:53,412 | INFO |     Result               : Fail
+2025-07-24 00:29:53,412 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:29:53,413 | INFO |     Failure Sub Category : Robot Touch Operation
+2025-07-24 00:29:53,414 | INFO |     Root Cause Details   : Soft Swipe on B-Zone, Hence Validation of Digital Clock Displayed in B-Zone.
+2025-07-24 00:29:53,415 | INFO |     Fixation Performed   : Checked Calibration of Bench(Camera and Robot), Executed in daytime, Passed.
+2025-07-24 00:29:54,009 | INFO |   ✅ Commented on OSV-4927: 'KPIT_TC_DRT_BZA_001.
+
+2025-07-24 00:29:54,333 | INFO | ⏳ Updating 'OSV-4930: KPIT_TC_DRT_SSR_012'...
+2025-07-24 00:29:54,334 | INFO |   🔄 Updating fields for OSV-4930: 'KPIT_TC_DRT_SSR_012...
+2025-07-24 00:29:54,335 | INFO |     Failure Category : KITE issue
+2025-07-24 00:29:54,335 | INFO |     Failure Sub Category : Appium Issue
+2025-07-24 00:29:54,336 | INFO |     Root Cause Details : Set AppiumAndroid device failed, Hence Android Auto not connected.
+2025-07-24 00:29:54,337 | INFO |     Fixation Performed : Added Precondition to execute batch file to establish adb over wifi connection to wired android auto phone. before wired andriod auto connection.
+2025-07-24 00:29:55,111 | INFO |   ✅ Updated fields for OSV-4930: 'KPIT_TC_DRT_SSR_012.
+2025-07-24 00:29:55,112 | INFO |   🔄 Commenting on OSV-4930: 'KPIT_TC_DRT_SSR_012...
+2025-07-24 00:29:55,113 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:55,113 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:55,114 | INFO |     Result               : Fail
+2025-07-24 00:29:55,115 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:29:55,115 | INFO |     Failure Sub Category : Appium Issue
+2025-07-24 00:29:55,116 | INFO |     Root Cause Details   : Set AppiumAndroid device failed, Hence Android Auto not connected.
+2025-07-24 00:29:55,117 | INFO |     Fixation Performed   : Added Precondition to execute batch file to establish adb over wifi connection to wired android auto phone. before wired andriod auto connection.
+2025-07-24 00:29:56,046 | INFO |   ✅ Commented on OSV-4930: 'KPIT_TC_DRT_SSR_012.
+
+2025-07-24 00:29:56,379 | INFO | ⏳ Updating 'OSV-4934: KPIT_TC_DRT_HFT_054'...
+2025-07-24 00:29:56,380 | INFO |   🔄 Updating fields for OSV-4934: 'KPIT_TC_DRT_HFT_054...
+2025-07-24 00:29:56,380 | INFO |     Failure Category : Test Env issue
+2025-07-24 00:29:56,381 | INFO |     Failure Sub Category : Network Issue
+2025-07-24 00:29:56,382 | INFO |     Root Cause Details : Call not received on Phone1 from Remote Phone.
+2025-07-24 00:29:56,383 | INFO |     Fixation Performed : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:57,167 | INFO |   ✅ Updated fields for OSV-4934: 'KPIT_TC_DRT_HFT_054.
+2025-07-24 00:29:57,168 | INFO |   🔄 Commenting on OSV-4934: 'KPIT_TC_DRT_HFT_054...
+2025-07-24 00:29:57,168 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:57,169 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:57,170 | INFO |     Result               : Fail
+2025-07-24 00:29:57,171 | INFO |     Failure Category     : Test Env issue
+2025-07-24 00:29:57,171 | INFO |     Failure Sub Category : Network Issue
+2025-07-24 00:29:57,172 | INFO |     Root Cause Details   : Call not received on Phone1 from Remote Phone.
+2025-07-24 00:29:57,173 | INFO |     Fixation Performed   : No modifications are made, Executed in daytime, Passed.
+2025-07-24 00:29:57,718 | INFO |   ✅ Commented on OSV-4934: 'KPIT_TC_DRT_HFT_054.
+
+2025-07-24 00:29:58,030 | INFO | ⏳ Updating 'OSV-4388: KPIT_TC_DRT_HOM_050'...
+2025-07-24 00:29:58,031 | INFO |   🔄 Updating fields for OSV-4388: 'KPIT_TC_DRT_HOM_050...
+2025-07-24 00:29:58,031 | INFO |     Failure Category : KITE issue
+2025-07-24 00:29:58,032 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:58,032 | INFO |     Root Cause Details : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:58,033 | INFO |     Fixation Performed : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:58,884 | INFO |   ✅ Updated fields for OSV-4388: 'KPIT_TC_DRT_HOM_050.
+2025-07-24 00:29:58,885 | INFO |   🔄 Commenting on OSV-4388: 'KPIT_TC_DRT_HOM_050...
+2025-07-24 00:29:58,886 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:29:58,887 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:29:58,887 | INFO |     Result               : Fail
+2025-07-24 00:29:58,888 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:29:58,888 | INFO |     Failure Sub Category : Image Comparision
+2025-07-24 00:29:58,889 | INFO |     Root Cause Details   : Ok is not clicked on disclaimer popup due to color difference.
+2025-07-24 00:29:58,890 | INFO |     Fixation Performed   : Modified argument for OCR for ELSEIF, Executed in daytime, Passed.
+2025-07-24 00:29:59,346 | INFO |   ✅ Commented on OSV-4388: 'KPIT_TC_DRT_HOM_050.
+
+2025-07-24 00:29:59,677 | INFO | ⏳ Updating 'OSV-4931: KPIT_TC_DRT_USB_060'...
+2025-07-24 00:29:59,678 | INFO |   🔄 Updating fields for OSV-4931: 'KPIT_TC_DRT_USB_060...
+2025-07-24 00:29:59,679 | INFO |     Failure Category : Test Env issue
+2025-07-24 00:29:59,679 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:29:59,680 | INFO |     Root Cause Details : VERIFY_AUDIO_EX Command failed for Music01_Folder01.
+2025-07-24 00:29:59,681 | INFO |     Fixation Performed : Fixed Audio Setup, Executed in daytime, result: Pass.
+2025-07-24 00:30:00,407 | INFO |   ✅ Updated fields for OSV-4931: 'KPIT_TC_DRT_USB_060.
+2025-07-24 00:30:00,408 | INFO |   🔄 Commenting on OSV-4931: 'KPIT_TC_DRT_USB_060...
+2025-07-24 00:30:00,408 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:00,409 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:00,410 | INFO |     Result               : Fail
+2025-07-24 00:30:00,411 | INFO |     Failure Category     : Test Env issue
+2025-07-24 00:30:00,411 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:30:00,412 | INFO |     Root Cause Details   : VERIFY_AUDIO_EX Command failed for Music01_Folder01.
+2025-07-24 00:30:00,413 | INFO |     Fixation Performed   : Fixed Audio Setup, Executed in daytime, result: Pass.
+2025-07-24 00:30:00,898 | INFO |   ✅ Commented on OSV-4931: 'KPIT_TC_DRT_USB_060.
+
+2025-07-24 00:30:01,231 | INFO | ⏳ Updating 'OSV-4932: KPIT_TC_DRT_IPD_1193'...
+2025-07-24 00:30:01,232 | INFO |   🔄 Updating fields for OSV-4932: 'KPIT_TC_DRT_IPD_1193...
+2025-07-24 00:30:01,233 | INFO |     Failure Category : Test Env issue
+2025-07-24 00:30:01,233 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:30:01,235 | INFO |     Root Cause Details : iPod disconnected.
+2025-07-24 00:30:01,235 | INFO |     Fixation Performed : From today iPod will be removed from WLC before sanity, As it seems it will not get connected to ICB when kept on WLC.
+2025-07-24 00:30:02,092 | INFO |   ✅ Updated fields for OSV-4932: 'KPIT_TC_DRT_IPD_1193.
+2025-07-24 00:30:02,093 | INFO |   🔄 Commenting on OSV-4932: 'KPIT_TC_DRT_IPD_1193...
+2025-07-24 00:30:02,093 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:02,094 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:02,094 | INFO |     Result               : Fail
+2025-07-24 00:30:02,094 | INFO |     Failure Category     : Test Env issue
+2025-07-24 00:30:02,094 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:30:02,095 | INFO |     Root Cause Details   : iPod disconnected.
+2025-07-24 00:30:02,095 | INFO |     Fixation Performed   : From today iPod will be removed from WLC before sanity, As it seems it will not get connected to ICB when kept on WLC.
+2025-07-24 00:30:03,056 | INFO |   ✅ Commented on OSV-4932: 'KPIT_TC_DRT_IPD_1193.
+
+2025-07-24 00:30:03,361 | INFO | ⏳ Updating 'OSV-4933: KPIT_TC_DRT_USB_1245'...
+2025-07-24 00:30:03,362 | INFO |   🔄 Updating fields for OSV-4933: 'KPIT_TC_DRT_USB_1245...
+2025-07-24 00:30:03,363 | INFO |     Failure Category : Test Env issue
+2025-07-24 00:30:03,363 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:30:03,363 | INFO |     Root Cause Details : iPod disconnected.
+2025-07-24 00:30:03,364 | INFO |     Fixation Performed : From today iPod will be removed from WLC before sanity, As it seems it will not get connected to ICB when kept on WLC.
+2025-07-24 00:30:04,167 | INFO |   ✅ Updated fields for OSV-4933: 'KPIT_TC_DRT_USB_1245.
+2025-07-24 00:30:04,168 | INFO |   🔄 Commenting on OSV-4933: 'KPIT_TC_DRT_USB_1245...
+2025-07-24 00:30:04,168 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:04,168 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:04,169 | INFO |     Result               : Fail
+2025-07-24 00:30:04,169 | INFO |     Failure Category     : Test Env issue
+2025-07-24 00:30:04,169 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-07-24 00:30:04,170 | INFO |     Root Cause Details   : iPod disconnected.
+2025-07-24 00:30:04,170 | INFO |     Fixation Performed   : From today iPod will be removed from WLC before sanity, As it seems it will not get connected to ICB when kept on WLC.
+2025-07-24 00:30:04,848 | INFO |   ✅ Commented on OSV-4933: 'KPIT_TC_DRT_USB_1245.
+
+2025-07-24 00:30:05,174 | INFO | ⏳ Updating 'OSV-4929: KPIT_TC_DRT_SSR_004'...
+2025-07-24 00:30:05,175 | INFO |   🔄 Updating fields for OSV-4929: 'KPIT_TC_DRT_SSR_004...
+2025-07-24 00:30:05,175 | INFO |     Failure Category : KITE issue
+2025-07-24 00:30:05,176 | INFO |     Failure Sub Category : Appium Issue
+2025-07-24 00:30:05,176 | INFO |     Root Cause Details : Set AppiumAndroid device failed, Hence Android Auto not connected.
+2025-07-24 00:30:05,177 | INFO |     Fixation Performed : Added Precondition to execute batch file to establish adb over wifi connection to wired android auto phone. before wired andriod auto connection.
+2025-07-24 00:30:06,025 | INFO |   ✅ Updated fields for OSV-4929: 'KPIT_TC_DRT_SSR_004.
+2025-07-24 00:30:06,026 | INFO |   🔄 Commenting on OSV-4929: 'KPIT_TC_DRT_SSR_004...
+2025-07-24 00:30:06,027 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:06,028 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:06,028 | INFO |     Result               : Fail
+2025-07-24 00:30:06,029 | INFO |     Failure Category     : KITE issue
+2025-07-24 00:30:06,030 | INFO |     Failure Sub Category : Appium Issue
+2025-07-24 00:30:06,031 | INFO |     Root Cause Details   : Set AppiumAndroid device failed, Hence Android Auto not connected.
+2025-07-24 00:30:06,031 | INFO |     Fixation Performed   : Added Precondition to execute batch file to establish adb over wifi connection to wired android auto phone. before wired andriod auto connection.
+2025-07-24 00:30:06,557 | INFO |   ✅ Commented on OSV-4929: 'KPIT_TC_DRT_SSR_004.
+
+2025-07-24 00:30:06,873 | INFO | ⏳ Updating 'OSV-4074: KPIT_TC_DRT_WLC_013'...
+2025-07-24 00:30:06,874 | INFO |   🔄 Updating fields for OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:30:06,874 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:06,875 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:06,876 | INFO |     Root Cause Details : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:30:06,876 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:07,493 | INFO |   ✅ Updated fields for OSV-4074: 'KPIT_TC_DRT_WLC_013.
+2025-07-24 00:30:07,494 | INFO |   🔄 Commenting on OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-07-24 00:30:07,494 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:07,495 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:07,496 | INFO |     Result               : Fail
+2025-07-24 00:30:07,496 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:07,497 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:07,498 | INFO |     Root Cause Details   : PJ04DEF00-3988: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-07-24 00:30:07,498 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:08,356 | INFO |   ✅ Commented on OSV-4074: 'KPIT_TC_DRT_WLC_013.
+
+2025-07-24 00:30:08,699 | INFO | ⏳ Updating 'OSV-4393: KPIT_TC_DRT_BTA_018'...
+2025-07-24 00:30:08,700 | INFO |   🔄 Updating fields for OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:30:08,701 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:08,701 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:08,702 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:08,702 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:09,303 | INFO |   ✅ Updated fields for OSV-4393: 'KPIT_TC_DRT_BTA_018.
+2025-07-24 00:30:09,303 | INFO |   🔄 Commenting on OSV-4393: 'KPIT_TC_DRT_BTA_018...
+2025-07-24 00:30:09,304 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:09,304 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:09,304 | INFO |     Result               : Fail
+2025-07-24 00:30:09,305 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:09,305 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:09,305 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:09,306 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:09,828 | INFO |   ✅ Commented on OSV-4393: 'KPIT_TC_DRT_BTA_018.
+
+2025-07-24 00:30:10,136 | INFO | ⏳ Updating 'OSV-4386: KPIT_TC_DRT_BTA_053'...
+2025-07-24 00:30:10,137 | INFO |   🔄 Updating fields for OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:30:10,138 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:10,138 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:10,139 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:10,139 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:10,804 | INFO |   ✅ Updated fields for OSV-4386: 'KPIT_TC_DRT_BTA_053.
+2025-07-24 00:30:10,805 | INFO |   🔄 Commenting on OSV-4386: 'KPIT_TC_DRT_BTA_053...
+2025-07-24 00:30:10,805 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:10,806 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:10,806 | INFO |     Result               : Fail
+2025-07-24 00:30:10,808 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:10,808 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:10,809 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:10,809 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:11,267 | INFO |   ✅ Commented on OSV-4386: 'KPIT_TC_DRT_BTA_053.
+
+2025-07-24 00:30:11,592 | INFO | ⏳ Updating 'OSV-3955: KPIT_TC_DRT_HMI_001'...
+2025-07-24 00:30:11,592 | INFO |   🔄 Updating fields for OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:30:11,592 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:11,593 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:11,593 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:11,593 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:12,292 | INFO |   ✅ Updated fields for OSV-3955: 'KPIT_TC_DRT_HMI_001.
+2025-07-24 00:30:12,293 | INFO |   🔄 Commenting on OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-07-24 00:30:12,293 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:12,293 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:12,294 | INFO |     Result               : Fail
+2025-07-24 00:30:12,294 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:12,294 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:12,295 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:12,295 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:12,796 | INFO |   ✅ Commented on OSV-3955: 'KPIT_TC_DRT_HMI_001.
+
+2025-07-24 00:30:13,131 | INFO | ⏳ Updating 'OSV-4073: KPIT_TC_DRT_SPCCP_021'...
+2025-07-24 00:30:13,132 | INFO |   🔄 Updating fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:30:13,132 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:13,134 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:13,134 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:13,135 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:13,796 | INFO |   ✅ Updated fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+2025-07-24 00:30:13,797 | INFO |   🔄 Commenting on OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-07-24 00:30:13,797 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:13,798 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:13,798 | INFO |     Result               : Fail
+2025-07-24 00:30:13,798 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:13,798 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:13,800 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:13,800 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:14,290 | INFO |   ✅ Commented on OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-07-24 00:30:14,609 | INFO | ⏳ Updating 'OSV-4390: KPIT_TC_FNC_AVG_0878_0001'...
+2025-07-24 00:30:14,610 | INFO |   🔄 Updating fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:30:14,611 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:14,611 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:14,612 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:14,612 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:15,258 | INFO |   ✅ Updated fields for OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-07-24 00:30:15,259 | INFO |   🔄 Commenting on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-07-24 00:30:15,260 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:15,260 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:15,261 | INFO |     Result               : Fail
+2025-07-24 00:30:15,262 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:15,263 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:15,263 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:15,264 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:15,781 | INFO |   ✅ Commented on OSV-4390: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-07-24 00:30:16,100 | INFO | ⏳ Updating 'OSV-4392: KPIT_TC_DRT_BTA_020'...
+2025-07-24 00:30:16,101 | INFO |   🔄 Updating fields for OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:30:16,101 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:16,101 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:16,102 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:16,112 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:16,730 | INFO |   ✅ Updated fields for OSV-4392: 'KPIT_TC_DRT_BTA_020.
+2025-07-24 00:30:16,730 | INFO |   🔄 Commenting on OSV-4392: 'KPIT_TC_DRT_BTA_020...
+2025-07-24 00:30:16,731 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:16,732 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:16,732 | INFO |     Result               : Fail
+2025-07-24 00:30:16,732 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:16,733 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:16,733 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:16,734 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:17,637 | INFO |   ✅ Commented on OSV-4392: 'KPIT_TC_DRT_BTA_020.
+
+2025-07-24 00:30:17,962 | INFO | ⏳ Updating 'OSV-4391: KPIT_TC_DRT_BTA_025'...
+2025-07-24 00:30:17,963 | INFO |   🔄 Updating fields for OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:30:17,963 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:17,964 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:17,964 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:17,965 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:18,692 | INFO |   ✅ Updated fields for OSV-4391: 'KPIT_TC_DRT_BTA_025.
+2025-07-24 00:30:18,694 | INFO |   🔄 Commenting on OSV-4391: 'KPIT_TC_DRT_BTA_025...
+2025-07-24 00:30:18,694 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:18,695 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:18,696 | INFO |     Result               : Fail
+2025-07-24 00:30:18,696 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:18,697 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:18,697 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:18,698 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:19,234 | INFO |   ✅ Commented on OSV-4391: 'KPIT_TC_DRT_BTA_025.
+
+2025-07-24 00:30:19,542 | INFO | ⏳ Updating 'OSV-4381: KPIT_TC_DRT_SPCCP_099'...
+2025-07-24 00:30:19,543 | INFO |   🔄 Updating fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:30:19,543 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:19,544 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:19,544 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:19,545 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:20,170 | INFO |   ✅ Updated fields for OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+2025-07-24 00:30:20,170 | INFO |   🔄 Commenting on OSV-4381: 'KPIT_TC_DRT_SPCCP_099...
+2025-07-24 00:30:20,171 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:20,171 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:20,171 | INFO |     Result               : Fail
+2025-07-24 00:30:20,172 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:20,172 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:20,172 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:20,172 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:20,668 | INFO |   ✅ Commented on OSV-4381: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-07-24 00:30:20,993 | INFO | ⏳ Updating 'OSV-4380: KPIT_TC_DRT_HFT_048'...
+2025-07-24 00:30:20,993 | INFO |   🔄 Updating fields for OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:30:20,995 | INFO |     Failure Category : ICB issue (Always)
+2025-07-24 00:30:20,995 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:20,995 | INFO |     Root Cause Details : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:20,995 | INFO |     Fixation Performed : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:21,638 | INFO |   ✅ Updated fields for OSV-4380: 'KPIT_TC_DRT_HFT_048.
+2025-07-24 00:30:21,638 | INFO |   🔄 Commenting on OSV-4380: 'KPIT_TC_DRT_HFT_048...
+2025-07-24 00:30:21,638 | INFO |     Date                 : 21st July 2025
+2025-07-24 00:30:21,639 | INFO |     Analysis Done By     : Chandrakant
+2025-07-24 00:30:21,639 | INFO |     Result               : Fail
+2025-07-24 00:30:21,639 | INFO |     Failure Category     : ICB issue (Always)
+2025-07-24 00:30:21,639 | INFO |     Failure Sub Category : Valid Issue
+2025-07-24 00:30:21,639 | INFO |     Root Cause Details   : PJ04DEF00-4283: [CarPlay]An unexpected popup "Wi-Fi is Off" displayed during Wireless CarPlay Connection while Wi-Fi is turned ON.
+2025-07-24 00:30:21,640 | INFO |     Fixation Performed   : As this is ICB Issue(Valid), Hence can't be fixed.
+2025-07-24 00:30:22,156 | INFO |   ✅ Commented on OSV-4380: 'KPIT_TC_DRT_HFT_048.
+

@@ -1,0 +1,6 @@
+2026-03-17 20:15:45,530 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'issue_types' is not defined.
+
+2026-03-17 20:15:46,032 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'issue_types' is not defined.
+
+2026-03-17 20:15:46,033 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

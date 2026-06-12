@@ -1,0 +1,64 @@
+2025-06-06 01:20:53,745 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:20:53,745 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:53,746 | INFO |     Failure Category : KITE Issue
+2025-06-06 01:20:53,746 | INFO |     Failure Sub Category : Image Comparison
+2025-06-06 01:20:53,748 | INFO |     Root Cause Details : Image Comparison failed with 79%
+2025-06-06 01:20:53,748 | INFO |     Fixation Performed : NA
+2025-06-06 01:20:54,808 | INFO |   ✅ Updated fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+2025-06-06 01:20:54,809 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:54,810 | INFO |     Date : 27 May 2025 (1407 REL)
+2025-06-06 01:20:54,823 | INFO |     Result : Fail
+2025-06-06 01:20:54,824 | INFO |     Failure Category : KITE Issue
+2025-06-06 01:20:54,824 | INFO |     Failure Sub Category : Image Comparison
+2025-06-06 01:20:54,825 | INFO |     Root Cause Details : Image Comparison failed with 79%
+2025-06-06 01:20:54,825 | INFO |     Fixation Performed : NA
+2025-06-06 01:20:55,512 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:20:55,836 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:20:55,837 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:55,837 | INFO |     Failure Category : 
+2025-06-06 01:20:55,838 | INFO |     Failure Sub Category : 
+2025-06-06 01:20:55,838 | INFO |     Root Cause Details : 
+2025-06-06 01:20:55,838 | INFO |     Fixation Performed : 
+2025-06-06 01:20:56,677 | INFO |   ✅ Updated fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+2025-06-06 01:20:56,678 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:56,678 | INFO |     Date : 29 May 2025 (1408 DEV)
+2025-06-06 01:20:56,679 | INFO |     Result : Pass
+2025-06-06 01:20:56,680 | INFO |     Failure Category : 
+2025-06-06 01:20:56,680 | INFO |     Failure Sub Category : 
+2025-06-06 01:20:56,681 | INFO |     Root Cause Details : 
+2025-06-06 01:20:56,681 | INFO |     Fixation Performed : 
+2025-06-06 01:20:57,188 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:20:57,875 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:20:57,876 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:57,876 | INFO |     Failure Category : 
+2025-06-06 01:20:57,876 | INFO |     Failure Sub Category : 
+2025-06-06 01:20:57,877 | INFO |     Root Cause Details : 
+2025-06-06 01:20:57,877 | INFO |     Fixation Performed : 
+2025-06-06 01:20:59,002 | INFO |   ✅ Updated fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+2025-06-06 01:20:59,003 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:59,004 | INFO |     Date : 4 June 2025 (1408 DEV)
+2025-06-06 01:20:59,005 | INFO |     Result : Pass
+2025-06-06 01:20:59,005 | INFO |     Failure Category : 
+2025-06-06 01:20:59,006 | INFO |     Failure Sub Category : 
+2025-06-06 01:20:59,008 | INFO |     Root Cause Details : 
+2025-06-06 01:20:59,008 | INFO |     Fixation Performed : 
+2025-06-06 01:20:59,610 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+
+2025-06-06 01:20:59,964 | INFO | ⏳ Updating 'DRT-4614: KPIT_TC_FNC_FM_0638_0001'...
+2025-06-06 01:20:59,965 | INFO |   🔄 Updating fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:20:59,966 | INFO |     Failure Category : 
+2025-06-06 01:20:59,966 | INFO |     Failure Sub Category : 
+2025-06-06 01:20:59,968 | INFO |     Root Cause Details : 
+2025-06-06 01:20:59,970 | INFO |     Fixation Performed : 
+2025-06-06 01:21:01,237 | INFO |   ✅ Updated fields for DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+2025-06-06 01:21:01,238 | INFO |   🔄 Commenting on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001...
+2025-06-06 01:21:01,239 | INFO |     Date : 5 June 2025 (1409 DEV)
+2025-06-06 01:21:01,239 | INFO |     Result : Pass
+2025-06-06 01:21:01,240 | INFO |     Failure Category : 
+2025-06-06 01:21:01,240 | INFO |     Failure Sub Category : 
+2025-06-06 01:21:01,241 | INFO |     Root Cause Details : 
+2025-06-06 01:21:01,242 | INFO |     Fixation Performed : 
+2025-06-06 01:21:01,863 | INFO |   ✅ Commented on DRT-4614: 'KPIT_TC_FNC_FM_0638_0001.
+

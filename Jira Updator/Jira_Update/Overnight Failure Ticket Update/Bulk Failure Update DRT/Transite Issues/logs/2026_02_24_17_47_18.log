@@ -1,0 +1,35 @@
+2026-02-24 17:47:18,621 | INFO | Token loaded from Environment Variable
+2026-02-24 17:47:18,924 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-02-24 17:47:20,279 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-02-24 17:47:20,551 | INFO | Processing ticket DRT-4222 with current status: In_Progress
+2026-02-24 17:47:21,848 | INFO | Transitioned DRT-4222 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-24 17:47:23,284 | INFO | Transitioned DRT-4222 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-24 17:47:24,674 | INFO | Transitioned DRT-4222 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-24 17:47:26,417 | INFO | Transitioned DRT-4222 from 'No Fixation Required' to 'Ready for review'
+2026-02-24 17:47:27,010 | INFO | Ticket DRT-4222 is transited till status: Ready for review
+2026-02-24 17:47:27,303 | INFO | Processing ticket DRT-4715 with current status: In_Progress
+2026-02-24 17:47:29,354 | INFO | Transitioned DRT-4715 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-24 17:47:30,780 | INFO | Transitioned DRT-4715 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-24 17:47:32,586 | INFO | Transitioned DRT-4715 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-24 17:47:34,331 | INFO | Transitioned DRT-4715 from 'No Fixation Required' to 'Ready for review'
+2026-02-24 17:47:34,928 | INFO | Ticket DRT-4715 is transited till status: Ready for review
+2026-02-24 17:47:35,241 | INFO | Processing ticket DRT-3931 with current status: In_Progress
+2026-02-24 17:47:36,546 | INFO | Transitioned DRT-3931 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-24 17:47:38,111 | INFO | Transitioned DRT-3931 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-24 17:47:39,637 | INFO | Transitioned DRT-3931 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-24 17:47:41,884 | INFO | Transitioned DRT-3931 from 'No Fixation Required' to 'Ready for review'
+2026-02-24 17:47:42,599 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2026-02-24 17:47:42,894 | INFO | Processing ticket DRT-3933 with current status: In_Progress
+2026-02-24 17:47:44,220 | INFO | Transitioned DRT-3933 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-24 17:47:45,599 | INFO | Transitioned DRT-3933 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-24 17:47:47,102 | INFO | Transitioned DRT-3933 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-24 17:47:48,628 | INFO | Transitioned DRT-3933 from 'No Fixation Required' to 'Ready for review'
+2026-02-24 17:47:49,277 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2026-02-24 17:47:49,954 | INFO | Processing ticket DRT-2306 with current status: In_Progress
+2026-02-24 17:47:51,278 | INFO | Transitioned DRT-2306 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-24 17:47:52,825 | INFO | Transitioned DRT-2306 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-24 17:47:54,473 | INFO | Transitioned DRT-2306 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-24 17:47:55,960 | INFO | Transitioned DRT-2306 from 'No Fixation Required' to 'Ready for review'
+2026-02-24 17:47:56,617 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2026-02-24 17:47:56,618 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

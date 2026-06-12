@@ -1,0 +1,21 @@
+2025-12-31 17:27:42,784 | INFO | ⏳ Updating 'DRT-6298: KPIT_TC_DRT_LMG_012'...
+2025-12-31 17:27:42,785 | INFO |   🔄 Updating fields for DRT-6298: 'KPIT_TC_DRT_LMG_012...
+2025-12-31 17:27:42,785 | INFO |     Failure Category : KITE Issue
+2025-12-31 17:27:42,786 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-31 17:27:42,786 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2025-12-31 17:27:42,787 | INFO |     Root Cause Details : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2025-12-31 17:27:42,787 | INFO |     Fixation Performed : Updated Batch file with adb over wifi connect command.
+2025-12-31 17:27:42,795 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-31 17:27:42,796 | INFO |     Reviewer : Rajashri
+2025-12-31 17:27:47,156 | INFO |   ✅ Updated fields for DRT-6298: 'KPIT_TC_DRT_LMG_012.
+2025-12-31 17:27:47,157 | INFO |   🔄 Commenting on DRT-6298: 'KPIT_TC_DRT_LMG_012...
+2025-12-31 17:27:47,158 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-31 17:27:47,158 | INFO |     Result : Fail
+2025-12-31 17:27:47,159 | INFO |     Failure Category : KITE Issue
+2025-12-31 17:27:47,159 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-31 17:27:47,160 | INFO |     Root Cause Details : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2025-12-31 17:27:47,160 | INFO |     Fixation Performed : Updated Batch file with adb over wifi connect command.
+2025-12-31 17:27:52,930 | INFO |   ✅ Commented on DRT-6298: 'KPIT_TC_DRT_LMG_012.
+
+2025-12-31 17:27:52,931 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

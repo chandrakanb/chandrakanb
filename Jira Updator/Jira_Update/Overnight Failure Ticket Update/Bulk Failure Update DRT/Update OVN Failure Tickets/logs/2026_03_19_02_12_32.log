@@ -1,0 +1,23 @@
+2026-03-19 02:12:33,338 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 02:12:33,339 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 02:12:33,340 | INFO |     Failure Category : Human error
+2026-03-19 02:12:33,341 | INFO |     Failure Sub Category : -
+2026-03-19 02:12:33,342 | INFO |     Previous Failure Category : ['KITE Issue', 'Human Error', 'SRL/CR Changes']
+2026-03-19 02:12:33,342 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:12:33,343 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:12:34,593 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 02:12:34,594 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 02:12:34,594 | INFO |     Date Build : Date
+2026-03-19 02:12:34,605 | INFO |     Result : Fail
+2026-03-19 02:12:34,606 | INFO |     Failure Category : Human error
+2026-03-19 02:12:34,606 | INFO |     Failure Sub Category : -
+2026-03-19 02:12:34,607 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:12:34,607 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:12:34,608 | INFO |     Remarks : Remarks
+2026-03-19 02:12:34,608 | INFO |     Reviewer : Reviewer
+2026-03-19 02:12:35,440 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 02:12:36,083 | ERROR | [ERROR] Could not process DRT-7527: '12345 : <class 'jira.resources.CustomFieldOption'> object has no attribute 'child' ('CustomFieldOption' object is not subscriptable).
+
+2026-03-19 02:12:36,085 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

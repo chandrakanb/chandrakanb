@@ -1,0 +1,24 @@
+2026-03-14 15:45:39,403 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 15:45:39,404 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'failure_sub_category_id' is not defined.
+
+2026-03-14 15:45:40,106 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 15:45:40,107 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 15:45:40,108 | INFO |     Failure Category : Human error
+2026-03-14 15:45:40,109 | INFO |     Failure Sub Category : -
+2026-03-14 15:45:40,110 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-14 15:45:40,111 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:45:40,112 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:45:41,821 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-14 15:45:41,822 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-14 15:45:41,822 | INFO |     Date Build : Date
+2026-03-14 15:45:41,823 | INFO |     Result : Fail
+2026-03-14 15:45:41,823 | INFO |     Failure Category : Human error
+2026-03-14 15:45:41,824 | INFO |     Failure Sub Category : -
+2026-03-14 15:45:41,824 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:45:41,824 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:45:41,825 | INFO |     Remarks : Remarks
+2026-03-14 15:45:41,825 | INFO |     Reviewer : Reviewer
+2026-03-14 15:45:42,695 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-14 15:45:42,696 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,23 @@
+2026-03-26 20:33:57,771 | INFO | ⏳ Updating 'A15-3726: KPIT_TC_DRT_IVI_038'...
+2026-03-26 20:33:57,772 | INFO |   🔄 Updating fields for A15-3726: 'KPIT_TC_DRT_IVI_038...
+2026-03-26 20:33:57,773 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 20:33:57,773 | INFO |     Failure Sub Category : Always
+2026-03-26 20:33:57,773 | INFO |     Previous Failure Category : []
+2026-03-26 20:33:57,774 | INFO |     Root Cause Details : ICB didn't transited to home screen, after selecting Home button twice.
+Defect is already raised, Defect: https://jira.honda-ivi.com/browse/PJ05DEF00-785
+2026-03-26 20:33:57,774 | INFO |     Fixation Performed : NA
+2026-03-26 20:33:59,163 | INFO |   ✅ Updated fields for A15-3726: 'KPIT_TC_DRT_IVI_038.
+2026-03-26 20:33:59,174 | INFO |   🔄 Commenting on A15-3726: 'KPIT_TC_DRT_IVI_038...
+2026-03-26 20:33:59,175 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 20:33:59,175 | INFO |     Result : Fail
+2026-03-26 20:33:59,175 | INFO |     Failure Category : ICB Issue (Always)
+2026-03-26 20:33:59,175 | INFO |     Failure Sub Category : Always
+2026-03-26 20:33:59,176 | INFO |     Root Cause Details : ICB didn't transited to home screen, after selecting Home button twice.
+Defect is already raised, Defect: https://jira.honda-ivi.com/browse/PJ05DEF00-785
+2026-03-26 20:33:59,176 | INFO |     Fixation Performed : NA
+2026-03-26 20:33:59,177 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:33:59,177 | INFO |     Reviewer : Rajashri
+2026-03-26 20:34:00,139 | INFO |   ✅ Commented on A15-3726: 'KPIT_TC_DRT_IVI_038.
+
+2026-03-26 20:34:00,139 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

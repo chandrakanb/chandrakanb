@@ -1,0 +1,46 @@
+
+JIRA_USER_MAPPING = {
+	"kpt_dumbre_sa" : "JIRAUSER22209",
+	"kpt_sodnar_va" : "JIRAUSER22218",
+	"kpt_subhash_sa" : "JIRAUSER23324",
+	"kpt_bhalekar_ch" : "JIRAUSER21210",
+	"kpt_chavan_ru" : "JIRAUSER23318",
+	"kpt_ghadge_va" : "JIRAUSER23234"
+}
+
+
+
+
+JIRA_TOKEN_MAPPING = {
+	"kpt_dumbre_sa" : "NDg1ODY3NjY3ODcwOlCp9+xyU32BdsJqnmj8w1pxCy1K",
+	"kpt_sodnar_va" : "NzcyNDY2NzgyMTg1Op3ppp7/LfOQKJ1SxPFtYTkXqFl9",
+	"kpt_subhash_sa" : "Mzk5OTQ0MDQxNTY5Ojdv98DLxmR/hWW1BilKTqhbWHuJ",
+	"kpt_bhalekar_ch" : "MDE3NTE2MTg1MjQ5Oqc4yGWxGSApiFdsaSE/F4GPXrwK",
+	"kpt_chavan_ru" : "MzEzOTY3ODIxNjcwOg3ULfmS8AkpmdLbyXp0C03hO8NT",
+	"kpt_ghadge_va" : "OTg3NDcyMDM2MjYwOpwmhXZHVpyOc39BEGK3/5WNQyHz"
+}
+
+vaishnavi - JIRAUSER22218
+safalya - JIRAUSER23324 
+rupesh - JIRAUSER23318
+sahil -JIRAUSER22209 
+varun - JIRAUSER23234
+Gaurav - JIRAUSER22213
+
+"key": "JIRAUSER21210",
+  "name": "kpt_bhalekar_ch"
+  
+"key": "JIRAUSER22218",
+  "name": "kpt_sodnar_va"
+  
+"key": "JIRAUSER23324",
+  "name": "kpt_subhash_sa"
+  
+"key": "JIRAUSER23318",
+  "name": "kpt_chavan_ru"
+  
+"key": "JIRAUSER22209",
+  "name": "kpt_dumbre_sa"
+  
+"key": "JIRAUSER23234",
+  "name": "kpt_ghadge_va"

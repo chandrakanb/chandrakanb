@@ -1,0 +1,41 @@
+2025-12-06 23:06:41,403 | INFO | ⏳ Updating 'DRT-3841: KPIT_TC_DRT_IPD_047'...
+2025-12-06 23:06:41,403 | INFO |   🔄 Updating fields for DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 23:06:41,404 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:06:41,404 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:06:41,405 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-06 23:06:41,406 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 23:06:41,407 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 23:06:41,407 | INFO |     Remarks : Root Cause is not found, We will keep this under observation.
+We will keep this under observation.
+2025-12-06 23:06:41,409 | INFO |     Reviewer : Rajashri
+2025-12-06 23:06:43,122 | INFO |   ✅ Updated fields for DRT-3841: 'KPIT_TC_DRT_IPD_047.
+2025-12-06 23:06:43,123 | INFO |   🔄 Commenting on DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 23:06:43,123 | INFO |     Date AEA1412S0.251205.1 : 2025-11-05
+2025-12-06 23:06:43,123 | INFO |     Result : Fail
+2025-12-06 23:06:43,125 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:06:43,125 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:06:43,126 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 23:06:43,126 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 23:06:43,778 | INFO |   ✅ Commented on DRT-3841: 'KPIT_TC_DRT_IPD_047.
+
+2025-12-06 23:06:44,559 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-06 23:06:44,560 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-06 23:06:44,560 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:06:44,561 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:06:44,561 | INFO |     Previous Failure Category : []
+2025-12-06 23:06:44,562 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:06:44,562 | INFO |     Fixation Performed : NA
+2025-12-06 23:06:44,562 | INFO |     Remarks : NA
+2025-12-06 23:06:44,563 | INFO |     Reviewer : Rajashri
+2025-12-06 23:06:46,706 | INFO |   ✅ Updated fields for DRT-1809: 'KPIT_TC_DRT_LMG_021.
+2025-12-06 23:06:46,706 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-06 23:06:46,707 | INFO |     Date AEA1412S0.251205.1 : 2025-11-05
+2025-12-06 23:06:46,709 | INFO |     Result : Fail
+2025-12-06 23:06:46,710 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:06:46,710 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:06:46,711 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:06:46,712 | INFO |     Fixation Performed : NA
+2025-12-06 23:06:47,275 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-06 23:06:47,276 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

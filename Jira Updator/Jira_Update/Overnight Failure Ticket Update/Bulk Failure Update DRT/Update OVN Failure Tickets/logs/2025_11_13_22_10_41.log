@@ -1,0 +1,146 @@
+2025-11-13 22:10:43,904 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-13 22:10:43,905 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 22:10:43,906 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 22:10:43,906 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 22:10:43,907 | INFO |     Previous Failure Category : ['KITE Issues', 'Human Error', 'ICB Issue (Once)']
+2025-11-13 22:10:43,907 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 22:10:43,908 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:43,908 | INFO |     Remarks : NA
+2025-11-13 22:10:43,919 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:44,267 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18530
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:44 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e9c2b652ab5e2796cb1f8052d19b5407', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '99366d47d5834d82b6de06c79879e136', 'Atl-Request-Id': '99366d47-d583-4d82-b6de-06c79879e136', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=206,atl-edge-internal;dur=14,atl-edge-upstream;dur=191,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'tlX4qucVV09DX0fLIVFfi9mzPY7zshocg3AZW96mJ-8tPT9nE3k0kw=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:44,268 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:44,561 | INFO | ⏳ Updating 'DRT-1792: KPIT_TC_DRT_SPCAA_005'...
+2025-11-13 22:10:44,561 | INFO |   🔄 Updating fields for DRT-1792: 'KPIT_TC_DRT_SPCAA_005...
+2025-11-13 22:10:44,562 | INFO |     Failure Category : KITE Issue
+2025-11-13 22:10:44,562 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-13 22:10:44,562 | INFO |     Previous Failure Category : ['KITE Issues', 'Human Error']
+2025-11-13 22:10:44,563 | INFO |     Root Cause Details : Kite Internal Error for Capture Screen for Phone8, Hence Wireless AA Connection.
+2025-11-13 22:10:44,563 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:44,563 | INFO |     Remarks : Keeping this issue under observation.
+2025-11-13 22:10:44,564 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:44,851 | ERROR | [ERROR] Could not process DRT-1792: 'KPIT_TC_DRT_SPCAA_005 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17944
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:44 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '1843b196c8413ae8c64d1e67ded05293', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f3f29848553c43aeac790e4a8b624549', 'Atl-Request-Id': 'f3f29848-553c-43ae-ac79-0e4a8b624549', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=144,atl-edge-internal;dur=14,atl-edge-upstream;dur=130,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '7P5WEa0t-YIlg1orYxWuwN91JBBx-3QUzByM3ZRfOxgSwbJtttLIdA=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:44,852 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:45,126 | INFO | ⏳ Updating 'DRT-1825: KPIT_TC_DRT_SPCAA_028'...
+2025-11-13 22:10:45,128 | INFO |   🔄 Updating fields for DRT-1825: 'KPIT_TC_DRT_SPCAA_028...
+2025-11-13 22:10:45,128 | INFO |     Failure Category : Test Env Issue
+2025-11-13 22:10:45,128 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-13 22:10:45,129 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-13 22:10:45,129 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-13 22:10:45,129 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-13 22:10:45,130 | INFO |     Remarks : NA
+2025-11-13 22:10:45,130 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:45,423 | ERROR | [ERROR] Could not process DRT-1825: 'KPIT_TC_DRT_SPCAA_028 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17977
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:45 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'ae606ffc7155b021f57328a7bd8fc56b', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '297', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '58293082c8ed45089bda0386e0306d28', 'Atl-Request-Id': '58293082-c8ed-4508-9bda-0386e0306d28', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=147,atl-edge-internal;dur=17,atl-edge-upstream;dur=130,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'vnRwQk89B8ekPEROYGdw1M5hEkFZH8x_SXptxfie7ZMxouk66C3c1g=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:45,424 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:45,725 | INFO | ⏳ Updating 'DRT-2565: KPIT_TC_DRT_SPCAA_053'...
+2025-11-13 22:10:45,726 | INFO |   🔄 Updating fields for DRT-2565: 'KPIT_TC_DRT_SPCAA_053...
+2025-11-13 22:10:45,726 | INFO |     Failure Category : Test Env Issue
+2025-11-13 22:10:45,726 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-13 22:10:45,728 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-13 22:10:45,728 | INFO |     Root Cause Details : AA not disconnected after disabled wifi on Phone3.
+2025-11-13 22:10:45,728 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:45,729 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-13 22:10:45,729 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:46,029 | ERROR | [ERROR] Could not process DRT-2565: 'KPIT_TC_DRT_SPCAA_053 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/19292
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:45 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '26d02b3a405b2edeadf65114a4edfb0d', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '296', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '2dab386965f54b2ebef93f2131ab6937', 'Atl-Request-Id': '2dab3869-65f5-4b2e-bef9-3f2131ab6937', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=157,atl-edge-internal;dur=14,atl-edge-upstream;dur=143,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'qsIZtXGe4Q5CMkJlfa3RJODs4DsXTzu6-mZkB2OI5yJaQ7-1QDwYUg=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:46,030 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:46,308 | INFO | ⏳ Updating 'DRT-1793: KPIT_TC_DRT_SPCAA_080'...
+2025-11-13 22:10:46,309 | INFO |   🔄 Updating fields for DRT-1793: 'KPIT_TC_DRT_SPCAA_080...
+2025-11-13 22:10:46,309 | INFO |     Failure Category : Test Env Issue
+2025-11-13 22:10:46,309 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-13 22:10:46,310 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-13 22:10:46,310 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen, Hence AA Projection Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-13 22:10:46,310 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-13 22:10:46,312 | INFO |     Remarks : NA
+2025-11-13 22:10:46,312 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:46,601 | ERROR | [ERROR] Could not process DRT-1793: 'KPIT_TC_DRT_SPCAA_080 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17945
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:46 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd95c92058b9fdb8f7393bd55ce673b6c', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '295', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '88b7a46b729e45fe9f7b02bd8efb6a00', 'Atl-Request-Id': '88b7a46b-729e-45fe-9f7b-02bd8efb6a00', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=146,atl-edge-internal;dur=17,atl-edge-upstream;dur=128,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'hPwZPEdceIjPaZAEfxYtqatqhNVvqnW3-oouJF0V7RwnwVBYX75mDA=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:46,602 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:46,885 | INFO | ⏳ Updating 'DRT-3939: KPIT_TC_DRT_WF_048'...
+2025-11-13 22:10:46,886 | INFO |   🔄 Updating fields for DRT-3939: 'KPIT_TC_DRT_WF_048...
+2025-11-13 22:10:46,887 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 22:10:46,887 | INFO |     Failure Sub Category : Once Seen
+2025-11-13 22:10:46,887 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-13 22:10:46,888 | INFO |     Root Cause Details : Black Screen observed after selecting Manage Device Connections Screen Option.
+2025-11-13 22:10:46,888 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:46,888 | INFO |     Remarks : Keeping this issue under observation.
+2025-11-13 22:10:46,889 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:47,197 | ERROR | [ERROR] Could not process DRT-3939: 'KPIT_TC_DRT_WF_048 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/50497
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:47 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'f0b7ba0fc0c0a4f8052ee99a6d9e2f49', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '294', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f3e333b781044c4bae4840822f589d4e', 'Atl-Request-Id': 'f3e333b7-8104-4c4b-ae48-40822f589d4e', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=160,atl-edge-internal;dur=16,atl-edge-upstream;dur=144,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'e2ZxkucpDOFC6tcWI8fu9nzjQxyvKICCmD59pkm7zM4u1ygnBnD58w=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:47,199 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:47,474 | INFO | ⏳ Updating 'DRT-3938: KPIT_TC_DRT_HOM_038'...
+2025-11-13 22:10:47,475 | INFO |   🔄 Updating fields for DRT-3938: 'KPIT_TC_DRT_HOM_038...
+2025-11-13 22:10:47,475 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-13 22:10:47,476 | INFO |     Failure Sub Category : Valid Issue
+2025-11-13 22:10:47,476 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-13 22:10:47,476 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+Trip Computer displayed ROI mismatch on All Apps screen, Hence All Apps Screen 6 validation failed.
+2025-11-13 22:10:47,477 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:47,477 | INFO |     Remarks : 
+2025-11-13 22:10:47,478 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:47,790 | ERROR | [ERROR] Could not process DRT-3938: 'KPIT_TC_DRT_HOM_038 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/50496
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:47 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e56365ec77da3dfee464705d00b349c0', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '293', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '71426fb9716b46c9a5c0333c9e0839e9', 'Atl-Request-Id': '71426fb9-716b-46c9-a5c0-333c9e0839e9', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=167,atl-edge-internal;dur=18,atl-edge-upstream;dur=149,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'aaxqXb02IDhN3WVwfZ4zBI9vsHU5telEHiEk1iQ24PbKdlwLLhwKAA=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:47,791 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:48,096 | INFO | ⏳ Updating 'DRT-4355: KPIT_TC_DRT_SUW_1258'...
+2025-11-13 22:10:48,097 | INFO |   🔄 Updating fields for DRT-4355: 'KPIT_TC_DRT_SUW_1258...
+2025-11-13 22:10:48,097 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 22:10:48,097 | INFO |     Failure Sub Category : Once Seen
+2025-11-13 22:10:48,098 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-13 22:10:48,098 | INFO |     Root Cause Details : SUW Screen not displayed afters selecting "View Terms And Data Setting" on Notification Screen.
+2025-11-13 22:10:48,098 | INFO |     Fixation Performed : NA
+2025-11-13 22:10:48,098 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-13 22:10:48,099 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:48,417 | ERROR | [ERROR] Could not process DRT-4355: 'KPIT_TC_DRT_SUW_1258 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2057738
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:48 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '2d013a2fc4bc82f32b1335019fd1f432', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '292', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '20acf0fdf1c24822863acf6c228f66d6', 'Atl-Request-Id': '20acf0fd-f1c2-4822-863a-cf6c228f66d6', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=175,atl-edge-internal;dur=15,atl-edge-upstream;dur=160,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'dVnqJDwKg5_yEYdiziAmlyyZhoorsnI6qag_TOi_iYIlqd7_VE5Dow=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:48,418 | ERROR | 
+ ✅ All tasks completed successfully.
+2025-11-13 22:10:48,683 | INFO | ⏳ Updating 'DRT-5775: KPIT_TC_DRT_CLK_014'...
+2025-11-13 22:10:48,684 | INFO |   🔄 Updating fields for DRT-5775: 'KPIT_TC_DRT_CLK_014...
+2025-11-13 22:10:48,685 | INFO |     Failure Category : TS Issue
+2025-11-13 22:10:48,685 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-13 22:10:48,686 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-13 22:10:48,686 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-13 22:10:48,687 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-13 22:10:48,688 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-13 22:10:48,688 | INFO |     Reviewer : Lumesh
+2025-11-13 22:10:49,004 | ERROR | [ERROR] Could not process DRT-5775: 'KPIT_TC_DRT_CLK_014 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2166151
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 16:40:48 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'bb00126352082f71a49ab40a44e473d1', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '291', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '63f801656bc64d9d895e376827dcc987', 'Atl-Request-Id': '63f80165-6bc6-4d9d-895e-376827dcc987', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=165,atl-edge-internal;dur=15,atl-edge-upstream;dur=149,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 09fefbf1803f8aea6ae58460425fa49c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'QGkYhcycFY3hnzg-G0oUl041cJwxXNIFGtl-55yYFMuJTHWzJCVQSA=='}
+	response text = {"errorMessages":[],"errors":{"Previous Failure Category":"Specify the value for Previous Failure Category in an array"}}.
+
+2025-11-13 22:10:49,005 | ERROR | 
+ ✅ All tasks completed successfully.

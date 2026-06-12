@@ -1,0 +1,303 @@
+2026-01-27 19:48:57 | 🚀 Jira Update Started.
+
+2026-01-27 19:48:58 | ⏳ Updating    		            : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-27 19:48:58 |   🔄 Updating fields          : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-27 19:48:59 |     Failure Category          : Test Env Issue
+2026-01-27 19:48:59 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:48:59 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:48:59 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-27 19:48:59 |     Fixation Performed        : NA
+2026-01-27 19:49:00 |   ✅ Updated fields           : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-27 19:49:00 |   🔄 Commenting               : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-27 19:49:00 |     Date                      : 2026-01-27
+2026-01-27 19:49:00 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:00 |     Result                    : Fail
+2026-01-27 19:49:00 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:00 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:00 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-27 19:49:00 |     Fixation Performed        : NA
+2026-01-27 19:49:00 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:00 |     Reviewer                  : Rajashri
+2026-01-27 19:49:01 |   🔄 Commented                : DRT-3841 ('KPIT_TC_DRT_IPD_047') | Comment ID: 148967
+
+2026-01-27 19:49:01 | ⏳ Updating    		            : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-27 19:49:01 |   🔄 Updating fields          : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-27 19:49:01 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:01 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:01 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issue']
+2026-01-27 19:49:01 |     Root Cause Details        : In previous TS, High brightness post ACC cycle, Hence validation failed.
+2026-01-27 19:49:01 |     Fixation Performed        : Added CAN Signals for night mode with value 0 before sending as 1.
+2026-01-27 19:49:03 |   ✅ Updated fields           : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-27 19:49:03 |   🔄 Commenting               : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-27 19:49:03 |     Date                      : 2026-01-27
+2026-01-27 19:49:03 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:03 |     Result                    : Fail
+2026-01-27 19:49:03 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:03 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:03 |     Root Cause Details        : In previous TS, High brightness post ACC cycle, Hence validation failed.
+2026-01-27 19:49:03 |     Fixation Performed        : Added CAN Signals for night mode with value 0 before sending as 1.
+2026-01-27 19:49:03 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:03 |     Reviewer                  : Rajashri
+2026-01-27 19:49:04 |   🔄 Commented                : DRT-1859 ('KPIT_TC_DRT_LMG_024') | Comment ID: 148968
+
+2026-01-27 19:49:04 | ⏳ Updating    		            : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-27 19:49:04 |   🔄 Updating fields          : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-27 19:49:04 |     Failure Category          : KITE Issue
+2026-01-27 19:49:04 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:04 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:04 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:04 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:05 |   ✅ Updated fields           : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-27 19:49:05 |   🔄 Commenting               : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-27 19:49:05 |     Date                      : 2026-01-27
+2026-01-27 19:49:05 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:05 |     Result                    : Fail
+2026-01-27 19:49:05 |     Failure Category          : KITE Issue
+2026-01-27 19:49:05 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:05 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:05 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:05 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:05 |     Reviewer                  : Rajashri
+2026-01-27 19:49:06 |   🔄 Commented                : DRT-2615 ('KPIT_TC_DRT_LMG_012') | Comment ID: 148969
+
+2026-01-27 19:49:06 | ⏳ Updating    		            : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-27 19:49:06 |   🔄 Updating fields          : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-27 19:49:06 |     Failure Category          : KITE Issue
+2026-01-27 19:49:06 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:06 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:06 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:06 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:07 |   ✅ Updated fields           : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-27 19:49:07 |   🔄 Commenting               : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-27 19:49:07 |     Date                      : 2026-01-27
+2026-01-27 19:49:07 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:07 |     Result                    : Fail
+2026-01-27 19:49:07 |     Failure Category          : KITE Issue
+2026-01-27 19:49:07 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:07 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:07 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:07 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:07 |     Reviewer                  : Rajashri
+2026-01-27 19:49:08 |   🔄 Commented                : DRT-4715 ('KPIT_TC_DRT_LMG_009') | Comment ID: 148970
+
+2026-01-27 19:49:09 | ⏳ Updating    		            : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-27 19:49:09 |   🔄 Updating fields          : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-27 19:49:09 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:09 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:09 |     Previous Failure Category : ['Test Env Issue']
+2026-01-27 19:49:09 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:09 |     Fixation Performed        : NA
+2026-01-27 19:49:10 |   ✅ Updated fields           : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-27 19:49:10 |   🔄 Commenting               : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-27 19:49:10 |     Date                      : 2026-01-27
+2026-01-27 19:49:10 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:10 |     Result                    : Fail
+2026-01-27 19:49:10 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:10 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:10 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:10 |     Fixation Performed        : NA
+2026-01-27 19:49:10 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:10 |     Reviewer                  : Rajashri
+2026-01-27 19:49:10 |   🔄 Commented                : DRT-3932 ('KPIT_TC_DRT_VEND_006') | Comment ID: 148971
+
+2026-01-27 19:49:11 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-27 19:49:11 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-27 19:49:11 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:11 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:11 |     Previous Failure Category : ['Test Env Issue']
+2026-01-27 19:49:11 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:11 |     Fixation Performed        : NA
+2026-01-27 19:49:12 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-27 19:49:12 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-27 19:49:12 |     Date                      : 2026-01-27
+2026-01-27 19:49:12 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:12 |     Result                    : Fail
+2026-01-27 19:49:12 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:12 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:12 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:12 |     Fixation Performed        : NA
+2026-01-27 19:49:12 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:12 |     Reviewer                  : Rajashri
+2026-01-27 19:49:13 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 148972
+
+2026-01-27 19:49:13 | ⏳ Updating    		            : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-27 19:49:13 |   🔄 Updating fields          : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-27 19:49:13 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:13 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:13 |     Previous Failure Category : ['Test Env Issue']
+2026-01-27 19:49:13 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:13 |     Fixation Performed        : NA
+2026-01-27 19:49:15 |   ✅ Updated fields           : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-27 19:49:15 |   🔄 Commenting               : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-27 19:49:15 |     Date                      : 2026-01-27
+2026-01-27 19:49:15 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:15 |     Result                    : Fail
+2026-01-27 19:49:15 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:15 |     Failure Sub Category      : External Application Issue
+2026-01-27 19:49:15 |     Root Cause Details        : Vendor Extension Connection Issue.
+2026-01-27 19:49:15 |     Fixation Performed        : NA
+2026-01-27 19:49:15 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:15 |     Reviewer                  : Rajashri
+2026-01-27 19:49:15 |   🔄 Commented                : DRT-2139 ('KPIT_TC_DRT_BZA_013') | Comment ID: 148973
+
+2026-01-27 19:49:16 | ⏳ Updating    		            : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-27 19:49:16 |   🔄 Updating fields          : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-27 19:49:16 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:16 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:16 |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2026-01-27 19:49:16 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-27 19:49:16 |     Fixation Performed        : NA
+2026-01-27 19:49:17 |   ✅ Updated fields           : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-27 19:49:17 |   🔄 Commenting               : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-27 19:49:17 |     Date                      : 2026-01-27
+2026-01-27 19:49:17 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:17 |     Result                    : Fail
+2026-01-27 19:49:17 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:17 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:17 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-27 19:49:17 |     Fixation Performed        : NA
+2026-01-27 19:49:17 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:17 |     Reviewer                  : Rajashri
+2026-01-27 19:49:18 |   🔄 Commented                : DRT-1800 ('KPIT_TC_DRT_BT_002') | Comment ID: 148974
+
+2026-01-27 19:49:18 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-27 19:49:18 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-27 19:49:18 |     Failure Category          : KITE Issue
+2026-01-27 19:49:18 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:18 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:18 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:18 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:19 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-27 19:49:19 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-27 19:49:19 |     Date                      : 2026-01-27
+2026-01-27 19:49:19 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:19 |     Result                    : Fail
+2026-01-27 19:49:19 |     Failure Category          : KITE Issue
+2026-01-27 19:49:19 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:19 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:19 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:19 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:19 |     Reviewer                  : Rajashri
+2026-01-27 19:49:20 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 148975
+
+2026-01-27 19:49:20 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-27 19:49:20 |   🔄 Updating fields          : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-27 19:49:20 |     Failure Category          : KITE Issue
+2026-01-27 19:49:20 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:20 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:20 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:20 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:21 |   ✅ Updated fields           : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-27 19:49:21 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-27 19:49:21 |     Date                      : 2026-01-27
+2026-01-27 19:49:21 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:21 |     Result                    : Fail
+2026-01-27 19:49:21 |     Failure Category          : KITE Issue
+2026-01-27 19:49:21 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:21 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:21 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:21 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:21 |     Reviewer                  : Rajashri
+2026-01-27 19:49:22 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 148976
+
+2026-01-27 19:49:23 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-27 19:49:23 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-27 19:49:23 |     Failure Category          : KITE Issue
+2026-01-27 19:49:23 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:23 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:23 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:23 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:24 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-27 19:49:24 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-27 19:49:24 |     Date                      : 2026-01-27
+2026-01-27 19:49:24 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:24 |     Result                    : Fail
+2026-01-27 19:49:24 |     Failure Category          : KITE Issue
+2026-01-27 19:49:24 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:24 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:24 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:24 |     Reviewer                  : Rajashri
+2026-01-27 19:49:25 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 148977
+
+2026-01-27 19:49:25 | ⏳ Updating    		            : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-27 19:49:25 |   🔄 Updating fields          : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-27 19:49:25 |     Failure Category          : KITE Issue
+2026-01-27 19:49:25 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:25 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:25 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:25 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:26 |   ✅ Updated fields           : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-27 19:49:26 |   🔄 Commenting               : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-27 19:49:26 |     Date                      : 2026-01-27
+2026-01-27 19:49:26 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:26 |     Result                    : Fail
+2026-01-27 19:49:26 |     Failure Category          : KITE Issue
+2026-01-27 19:49:26 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:26 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:26 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:26 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:26 |     Reviewer                  : Rajashri
+2026-01-27 19:49:27 |   🔄 Commented                : DRT-2308 ('KPIT_TC_DRT_BZA_005') | Comment ID: 148978
+
+2026-01-27 19:49:27 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-27 19:49:27 |   🔄 Updating fields          : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-27 19:49:27 |     Failure Category          : KITE Issue
+2026-01-27 19:49:27 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:27 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:27 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:27 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:29 |   ✅ Updated fields           : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-27 19:49:29 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-27 19:49:29 |     Date                      : 2026-01-27
+2026-01-27 19:49:29 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:29 |     Result                    : Fail
+2026-01-27 19:49:29 |     Failure Category          : KITE Issue
+2026-01-27 19:49:29 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:29 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:29 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:29 |     Reviewer                  : Rajashri
+2026-01-27 19:49:29 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 148979
+
+2026-01-27 19:49:30 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-27 19:49:30 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-27 19:49:30 |     Failure Category          : KITE Issue
+2026-01-27 19:49:30 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:30 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-27 19:49:30 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:30 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:31 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-27 19:49:31 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-27 19:49:31 |     Date                      : 2026-01-27
+2026-01-27 19:49:31 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:31 |     Result                    : Fail
+2026-01-27 19:49:31 |     Failure Category          : KITE Issue
+2026-01-27 19:49:31 |     Failure Sub Category      : KITE Application Issue
+2026-01-27 19:49:31 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-27 19:49:31 |     Fixation Performed        : Replaced the Phone8 with new device having Android14 software. Modified the TS. Replaced Images for new Device.
+2026-01-27 19:49:31 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:31 |     Reviewer                  : Rajashri
+2026-01-27 19:49:31 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 148980
+
+2026-01-27 19:49:32 | ⏳ Updating    		            : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-01-27 19:49:32 |   🔄 Updating fields          : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-01-27 19:49:32 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:32 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:32 |     Previous Failure Category : ['Human Error', 'Test Env Issue', 'ICB Issue (Once)', 'KITE Issue']
+2026-01-27 19:49:32 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-01-27 19:49:32 |     Fixation Performed        : NA
+2026-01-27 19:49:33 |   ✅ Updated fields           : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-01-27 19:49:33 |   🔄 Commenting               : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-01-27 19:49:33 |     Date                      : 2026-01-27
+2026-01-27 19:49:33 |     Build Number              : AEA1414R0.260127.1
+2026-01-27 19:49:33 |     Result                    : Fail
+2026-01-27 19:49:33 |     Failure Category          : Test Env Issue
+2026-01-27 19:49:33 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-27 19:49:33 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-01-27 19:49:33 |     Fixation Performed        : NA
+2026-01-27 19:49:33 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-27 19:49:33 |     Reviewer                  : Rajashri
+2026-01-27 19:49:34 |   🔄 Commented                : DRT-2140 ('KPIT_TC_DRT_BTA_052') | Comment ID: 148981
+
+2026-01-27 19:49:34 | ✅ Jira Update Completed.

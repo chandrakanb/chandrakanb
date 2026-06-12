@@ -1,0 +1,16 @@
+2025-12-23 18:04:43,979 | INFO | Token loaded from Environment Variable
+2025-12-23 18:04:45,342 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2025-12-23 18:04:48,585 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2025-12-23 18:04:50,044 | INFO | Ticket DRT-1809 is transited till status: Ready for review
+2025-12-23 18:04:50,952 | INFO | Ticket DRT-2615 is transited till status: Ready for review
+2025-12-23 18:04:51,894 | INFO | Ticket DRT-4715 is transited till status: Ready for review
+2025-12-23 18:04:53,200 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2025-12-23 18:04:54,481 | INFO | Ticket DRT-1800 is transited till status: Ready for review
+2025-12-23 18:04:55,461 | INFO | Ticket DRT-2305 is transited till status: Ready for review
+2025-12-23 18:04:56,761 | INFO | Ticket DRT-2304 is transited till status: Ready for review
+2025-12-23 18:04:57,347 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2025-12-23 18:04:58,672 | INFO | Ticket DRT-2308 is transited till status: Ready for review
+2025-12-23 18:04:59,482 | INFO | Ticket DRT-2309 is transited till status: Ready for review
+2025-12-23 18:05:00,533 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2025-12-23 18:05:00,543 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

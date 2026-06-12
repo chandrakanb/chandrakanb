@@ -1,0 +1,39 @@
+2025-12-01 14:48:47,749 | INFO | ⏳ Updating 'DRT-1800: KPIT_TC_DRT_BT_002'...
+2025-12-01 14:48:47,753 | INFO |   🔄 Updating fields for DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-01 14:48:47,754 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:48:47,756 | INFO |     Failure Sub Category : Other TS Failed
+2025-12-01 14:48:47,757 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-01 14:48:47,759 | INFO |     Root Cause Details : Phone5 is in connected state due to previous testscript failed, Hence this testscript failed.
+2025-12-01 14:48:47,760 | INFO |     Fixation Performed : NA
+2025-12-01 14:48:47,761 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-12-01 14:48:47,765 | INFO |     Reviewer : Rajashri
+2025-12-01 14:48:48,789 | INFO |   ✅ Updated fields for DRT-1800: 'KPIT_TC_DRT_BT_002.
+2025-12-01 14:48:48,792 | INFO |   🔄 Commenting on DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-01 14:48:48,794 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-12-01 14:48:48,796 | INFO |     Result : Fail
+2025-12-01 14:48:48,798 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:48:48,800 | INFO |     Failure Sub Category : Other TS Failed
+2025-12-01 14:48:48,803 | INFO |     Root Cause Details : Phone5 is in connected state due to previous testscript failed, Hence this testscript failed.
+2025-12-01 14:48:48,812 | INFO |     Fixation Performed : NA
+2025-12-01 14:48:49,710 | INFO |   ✅ Commented on DRT-1800: 'KPIT_TC_DRT_BT_002.
+
+2025-12-01 14:48:50,551 | INFO |   🔄 Commenting on DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-01 14:48:50,569 | INFO |     Date : 2025-11-17
+2025-12-01 14:48:50,618 | INFO |     Result : Pass
+2025-12-01 14:48:50,629 | INFO |     Boild Number : AEA1412S0.251117.1
+2025-12-01 14:48:51,367 | INFO |   ✅ Commented on DRT-1800: 'KPIT_TC_DRT_BT_002.
+
+2025-12-01 14:48:51,697 | INFO |   🔄 Commenting on DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-01 14:48:51,704 | INFO |     Date : 2025-11-18
+2025-12-01 14:48:51,707 | INFO |     Result : Pass
+2025-12-01 14:48:51,709 | INFO |     Boild Number : AEA1414D0.251118.1
+2025-12-01 14:48:52,339 | INFO |   ✅ Commented on DRT-1800: 'KPIT_TC_DRT_BT_002.
+
+2025-12-01 14:48:52,700 | INFO |   🔄 Commenting on DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-01 14:48:52,702 | INFO |     Date : 2025-11-19
+2025-12-01 14:48:52,703 | INFO |     Result : Pass
+2025-12-01 14:48:52,706 | INFO |     Boild Number : AEA1414D0.251119.1 
+2025-12-01 14:48:53,614 | INFO |   ✅ Commented on DRT-1800: 'KPIT_TC_DRT_BT_002.
+
+2025-12-01 14:48:53,616 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

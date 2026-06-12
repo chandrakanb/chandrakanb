@@ -1,0 +1,105 @@
+2026-01-06 09:52:52 | 🚀 Jira Update Started.
+
+2026-01-06 09:52:53 | ⏳ Updating    		            : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-06 09:52:53 |   🔄 Commenting               : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-06 09:52:53 |     Date                      : 2025-12-24
+2026-01-06 09:52:53 |     Result                    : Pass
+2026-01-06 09:52:53 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:54 |   🔄 Commented                : DRT-3932 ('KPIT_TC_DRT_VEND_006') | Comment ID: 136654
+
+2026-01-06 09:52:54 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-06 09:52:54 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-06 09:52:54 |     Date                      : 2025-12-24
+2026-01-06 09:52:54 |     Result                    : Pass
+2026-01-06 09:52:54 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:55 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 136655
+
+2026-01-06 09:52:56 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-06 09:52:56 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-06 09:52:56 |     Date                      : 2025-12-24
+2026-01-06 09:52:56 |     Result                    : Pass
+2026-01-06 09:52:56 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:56 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 136656
+
+2026-01-06 09:52:56 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-06 09:52:56 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-06 09:52:56 |     Date                      : 2025-12-24
+2026-01-06 09:52:56 |     Result                    : Pass
+2026-01-06 09:52:56 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:57 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 136657
+
+2026-01-06 09:52:57 | ⏳ Updating    		            : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-06 09:52:57 |   🔄 Commenting               : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-06 09:52:57 |     Date                      : 2025-12-24
+2026-01-06 09:52:57 |     Result                    : Pass
+2026-01-06 09:52:57 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:58 |   🔄 Commented                : DRT-2139 ('KPIT_TC_DRT_BZA_013') | Comment ID: 136658
+
+2026-01-06 09:52:58 | ⏳ Updating    		            : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-06 09:52:58 |   🔄 Commenting               : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-06 09:52:58 |     Date                      : 2025-12-24
+2026-01-06 09:52:58 |     Result                    : Pass
+2026-01-06 09:52:58 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:52:58 |   🔄 Commented                : DRT-1800 ('KPIT_TC_DRT_BT_002') | Comment ID: 136659
+
+2026-01-06 09:52:59 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-06 09:52:59 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-06 09:52:59 |     Failure Category          : Test Env Issue
+2026-01-06 09:52:59 |     Failure Sub Category      : External Hardware Setup Malfunction
+2026-01-06 09:52:59 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 09:52:59 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last somg in current playlist screen.
+2026-01-06 09:52:59 |     Fixation Performed        : NA
+2026-01-06 09:53:00 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-06 09:53:00 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-06 09:53:00 |     Date                      : 2025-12-24
+2026-01-06 09:53:00 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:53:00 |     Result                    : Fail
+2026-01-06 09:53:00 |     Failure Category          : Test Env Issue
+2026-01-06 09:53:00 |     Failure Sub Category      : External Hardware Setup Malfunction
+2026-01-06 09:53:00 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last somg in current playlist screen.
+2026-01-06 09:53:00 |     Fixation Performed        : NA
+2026-01-06 09:53:00 |     Remarks                   : NA
+2026-01-06 09:53:00 |     Reviewer                  : Rajashri
+2026-01-06 09:53:00 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 136660
+
+2026-01-06 09:53:01 | ⏳ Updating    		            : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-06 09:53:01 |   🔄 Updating fields          : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-06 09:53:01 |     Failure Category          : Test Env Issue
+2026-01-06 09:53:01 |     Failure Sub Category      : External Application Issue
+2026-01-06 09:53:01 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-06 09:53:01 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-06 09:53:01 |     Fixation Performed        : NA
+2026-01-06 09:53:02 |   ✅ Updated fields           : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-06 09:53:02 |   🔄 Commenting               : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-01-06 09:53:02 |     Date                      : 2025-12-24
+2026-01-06 09:53:02 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:53:02 |     Result                    : Fail
+2026-01-06 09:53:02 |     Failure Category          : Test Env Issue
+2026-01-06 09:53:02 |     Failure Sub Category      : External Application Issue
+2026-01-06 09:53:02 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-06 09:53:02 |     Fixation Performed        : NA
+2026-01-06 09:53:02 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-01-06 09:53:02 |     Reviewer                  : Rajashri
+2026-01-06 09:53:02 |   🔄 Commented                : DRT-3841 ('KPIT_TC_DRT_IPD_047') | Comment ID: 136661
+
+2026-01-06 09:53:03 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-06 09:53:03 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-06 09:53:03 |     Failure Category          : Test Env Issue
+2026-01-06 09:53:03 |     Failure Sub Category      : External Application Issue
+2026-01-06 09:53:03 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-06 09:53:03 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-06 09:53:03 |     Fixation Performed        : NA
+2026-01-06 09:53:04 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-06 09:53:04 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-06 09:53:04 |     Date                      : 2025-12-24
+2026-01-06 09:53:04 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 09:53:04 |     Result                    : Fail
+2026-01-06 09:53:04 |     Failure Category          : Test Env Issue
+2026-01-06 09:53:04 |     Failure Sub Category      : External Application Issue
+2026-01-06 09:53:04 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-06 09:53:04 |     Fixation Performed        : NA
+2026-01-06 09:53:04 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-01-06 09:53:04 |     Reviewer                  : Rajashri
+2026-01-06 09:53:04 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 136662
+
+2026-01-06 09:53:04 | ✅ Jira Update Completed.

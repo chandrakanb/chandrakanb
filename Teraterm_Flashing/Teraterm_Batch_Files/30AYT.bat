@@ -1,0 +1,3 @@
+@echo off
+python teratermFlashing_Updated.py MCU_DEBUG14333041595401 MCU_DEBUG18020D07
+pause

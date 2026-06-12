@@ -1,0 +1,40 @@
+2026-03-21 12:08:50,117 | INFO | ⏳ Updating 'DRT-1787: KPIT_TC_DRT_AVC_091'...
+2026-03-21 12:08:50,118 | INFO |   🔄 Updating fields for DRT-1787: 'KPIT_TC_DRT_AVC_091...
+2026-03-21 12:08:50,119 | INFO |     Failure Category : Test Env issue
+2026-03-21 12:08:50,119 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 12:08:50,120 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'TS Issue']
+2026-03-21 12:08:50,120 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, Smart Phone Projection reset failed as ICB remained on System Links screen.
+2026-03-21 12:08:50,131 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 12:08:51,640 | INFO |   ✅ Updated fields for DRT-1787: 'KPIT_TC_DRT_AVC_091.
+2026-03-21 12:08:51,640 | INFO |   🔄 Commenting on DRT-1787: 'KPIT_TC_DRT_AVC_091...
+2026-03-21 12:08:51,641 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 12:08:51,641 | INFO |     Result : Fail
+2026-03-21 12:08:51,642 | INFO |     Failure Category : Test Env issue
+2026-03-21 12:08:51,643 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 12:08:51,643 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, Smart Phone Projection reset failed as ICB remained on System Links screen.
+2026-03-21 12:08:51,644 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 12:08:51,644 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-21 12:08:51,645 | INFO |     Reviewer : Rajashri
+2026-03-21 12:08:53,033 | INFO |   ✅ Commented on DRT-1787: 'KPIT_TC_DRT_AVC_091.
+
+2026-03-21 12:08:53,803 | INFO | ⏳ Updating 'DRT-2130: KPIT_TC_DRT_KEY_001'...
+2026-03-21 12:08:53,803 | INFO |   🔄 Updating fields for DRT-2130: 'KPIT_TC_DRT_KEY_001...
+2026-03-21 12:08:53,805 | INFO |     Failure Category : Test Env issue
+2026-03-21 12:08:53,805 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 12:08:53,805 | INFO |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2026-03-21 12:08:53,805 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, ICB remained on System Links screen, causing further operations to fail.
+2026-03-21 12:08:53,806 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 12:08:57,728 | INFO |   ✅ Updated fields for DRT-2130: 'KPIT_TC_DRT_KEY_001.
+2026-03-21 12:08:57,728 | INFO |   🔄 Commenting on DRT-2130: 'KPIT_TC_DRT_KEY_001...
+2026-03-21 12:08:57,729 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 12:08:57,729 | INFO |     Result : Fail
+2026-03-21 12:08:57,729 | INFO |     Failure Category : Test Env issue
+2026-03-21 12:08:57,730 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 12:08:57,731 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to home due to OCR validation failure from camera calibration. Hence, ICB remained on System Links screen, causing further operations to fail.
+2026-03-21 12:08:57,731 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 12:08:57,731 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-21 12:08:57,732 | INFO |     Reviewer : Rajashri
+2026-03-21 12:09:01,489 | INFO |   ✅ Commented on DRT-2130: 'KPIT_TC_DRT_KEY_001.
+
+2026-03-21 12:09:01,490 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,38 @@
+2025-11-14 02:49:09,046 | INFO | ⏳ Updating 'DRT-3899: KPIT_TC_DRT_CLK_014'...
+2025-11-14 02:49:09,047 | INFO |   🔄 Updating fields for DRT-3899: 'KPIT_TC_DRT_CLK_014...
+2025-11-14 02:49:09,048 | INFO |     Failure Category : TS Issue
+2025-11-14 02:49:09,049 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-14 02:49:09,049 | INFO |     Previous Failure Category : ['KITE Issues']
+2025-11-14 02:49:09,050 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-14 02:49:09,051 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-14 02:49:09,052 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:49:09,065 | INFO |     Reviewer : Lumesh
+2025-11-14 02:49:10,745 | INFO |   ✅ Updated fields for DRT-3899: 'KPIT_TC_DRT_CLK_014.
+2025-11-14 02:49:10,746 | INFO |   🔄 Commenting on DRT-3899: 'KPIT_TC_DRT_CLK_014...
+2025-11-14 02:49:10,746 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:49:10,746 | INFO |     Result : Fail
+2025-11-14 02:49:10,748 | INFO |     Failure Category : TS Issue
+2025-11-14 02:49:10,749 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-14 02:49:10,749 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-14 02:49:10,749 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-14 02:49:11,637 | INFO |   ✅ Commented on DRT-3899: 'KPIT_TC_DRT_CLK_014.
+
+2025-11-14 02:49:12,263 | INFO | ⏳ Updating 'DRT-4692: KPIT_TC_DRT_CLK_016'...
+2025-11-14 02:49:12,264 | INFO |   🔄 Updating fields for DRT-4692: 'KPIT_TC_DRT_CLK_016...
+2025-11-14 02:49:12,265 | INFO |     Failure Category : KITE Issue
+2025-11-14 02:49:12,265 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-11-14 02:49:12,266 | INFO |     Previous Failure Category : ['KITE Issues']
+2025-11-14 02:49:12,267 | INFO |     Root Cause Details : CAN Signals are not reflected for setting night mode in previous script, Hence further operations failed.
+2025-11-14 02:49:12,268 | INFO |     Fixation Performed : NA
+2025-11-14 02:49:12,269 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:49:12,270 | INFO |     Reviewer : Lumesh
+2025-11-14 02:49:13,459 | INFO |   ✅ Updated fields for DRT-4692: 'KPIT_TC_DRT_CLK_016.
+2025-11-14 02:49:13,460 | INFO |   🔄 Commenting on DRT-4692: 'KPIT_TC_DRT_CLK_016...
+2025-11-14 02:49:13,461 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:49:13,462 | INFO |     Result : Fail
+2025-11-14 02:49:13,462 | INFO |     Failure Category : KITE Issue
+2025-11-14 02:49:13,463 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-11-14 02:49:13,464 | INFO |     Root Cause Details : CAN Signals are not reflected for setting night mode in previous script, Hence further operations failed.
+2025-11-14 02:49:13,465 | INFO |     Fixation Performed : NA
+2025-11-14 02:49:14,325 | INFO |   ✅ Commented on DRT-4692: 'KPIT_TC_DRT_CLK_016.
+

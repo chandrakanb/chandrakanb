@@ -1,0 +1,65 @@
+2025-12-20 16:33:36,188 | INFO | Token loaded from Environment Variable
+2025-12-20 16:33:36,475 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2025-12-20 16:33:37,614 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2025-12-20 16:33:37,898 | INFO | Processing ticket DRT-4223 with current status: In_Progress
+2025-12-20 16:33:38,943 | INFO | Transitioned DRT-4223 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:33:40,191 | INFO | Transitioned DRT-4223 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:33:41,452 | INFO | Transitioned DRT-4223 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:33:42,705 | INFO | Transitioned DRT-4223 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:33:43,382 | INFO | Ticket DRT-4223 is transited till status: Ready for review
+2025-12-20 16:33:43,919 | INFO | Ticket DRT-3841 is transited till status: Ready for review
+2025-12-20 16:33:44,225 | INFO | Processing ticket DRT-1859 with current status: In_Progress
+2025-12-20 16:33:45,318 | INFO | Transitioned DRT-1859 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:33:46,982 | INFO | Transitioned DRT-1859 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:33:48,435 | INFO | Transitioned DRT-1859 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2025-12-20 16:33:49,766 | INFO | Transitioned DRT-1859 from 'Overnight Issue Fixed' to 'Ready for review'
+2025-12-20 16:33:50,409 | INFO | Ticket DRT-1859 is transited till status: Ready for review
+2025-12-20 16:33:50,716 | INFO | Processing ticket DRT-1809 with current status: In_Progress
+2025-12-20 16:33:52,481 | INFO | Transitioned DRT-1809 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:33:53,826 | INFO | Transitioned DRT-1809 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:33:55,562 | INFO | Transitioned DRT-1809 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2025-12-20 16:33:56,883 | INFO | Transitioned DRT-1809 from 'Overnight Issue Fixed' to 'Ready for review'
+2025-12-20 16:33:57,518 | INFO | Ticket DRT-1809 is transited till status: Ready for review
+2025-12-20 16:33:57,854 | INFO | Processing ticket DRT-3931 with current status: In_Progress
+2025-12-20 16:33:59,286 | INFO | Transitioned DRT-3931 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:00,715 | INFO | Transitioned DRT-3931 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:02,425 | INFO | Transitioned DRT-3931 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:03,801 | INFO | Transitioned DRT-3931 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:04,423 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2025-12-20 16:34:04,758 | INFO | Processing ticket DRT-3933 with current status: In_Progress
+2025-12-20 16:34:05,879 | INFO | Transitioned DRT-3933 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:07,334 | INFO | Transitioned DRT-3933 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:09,056 | INFO | Transitioned DRT-3933 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:10,484 | INFO | Transitioned DRT-3933 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:11,292 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2025-12-20 16:34:11,590 | INFO | Processing ticket DRT-2306 with current status: In_Progress
+2025-12-20 16:34:12,621 | INFO | Transitioned DRT-2306 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:13,979 | INFO | Transitioned DRT-2306 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:15,300 | INFO | Transitioned DRT-2306 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:16,689 | INFO | Transitioned DRT-2306 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:17,347 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2025-12-20 16:34:17,616 | INFO | Processing ticket DRT-5203 with current status: In_Progress
+2025-12-20 16:34:18,988 | INFO | Transitioned DRT-5203 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:20,227 | INFO | Transitioned DRT-5203 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:21,482 | INFO | Transitioned DRT-5203 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:22,814 | INFO | Transitioned DRT-5203 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:23,337 | INFO | Ticket DRT-5203 is transited till status: Ready for review
+2025-12-20 16:34:23,891 | INFO | Ticket DRT-3841 is transited till status: Ready for review
+2025-12-20 16:34:24,197 | INFO | Processing ticket DRT-3932 with current status: In_Progress
+2025-12-20 16:34:25,622 | INFO | Transitioned DRT-3932 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:26,960 | INFO | Transitioned DRT-3932 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:28,975 | INFO | Transitioned DRT-3932 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:30,270 | INFO | Transitioned DRT-3932 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:31,349 | INFO | Ticket DRT-3932 is transited till status: Ready for review
+2025-12-20 16:34:31,911 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2025-12-20 16:34:32,221 | INFO | Processing ticket DRT-2139 with current status: In_Progress
+2025-12-20 16:34:33,247 | INFO | Transitioned DRT-2139 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-12-20 16:34:34,579 | INFO | Transitioned DRT-2139 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-12-20 16:34:36,081 | INFO | Transitioned DRT-2139 from 'Issue Analysis Completed' to 'No Fixation Required'
+2025-12-20 16:34:37,391 | INFO | Transitioned DRT-2139 from 'No Fixation Required' to 'Ready for review'
+2025-12-20 16:34:38,064 | INFO | Ticket DRT-2139 is transited till status: Ready for review
+2025-12-20 16:34:38,847 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2025-12-20 16:34:39,439 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2025-12-20 16:34:40,019 | INFO | Ticket DRT-5203 is transited till status: Ready for review
+2025-12-20 16:34:40,019 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

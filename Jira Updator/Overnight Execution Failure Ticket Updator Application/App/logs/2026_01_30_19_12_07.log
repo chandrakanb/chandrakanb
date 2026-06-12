@@ -1,0 +1,406 @@
+2026-01-30 19:12:07 | 🚀 Jira Update Started.
+
+2026-01-30 19:12:08 | ⏳ Updating    		            : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-30 19:12:08 |   🔄 Updating fields          : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-30 19:12:09 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:09 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:12:09 |     Previous Failure Category : ['Test Env Issue']
+2026-01-30 19:12:09 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-30 19:12:09 |     Fixation Performed        : Changed the logic for the precondition. Before setting repeat and suttle off, we are setting them once so current playlist is enabled.
+2026-01-30 19:12:10 |   ✅ Updated fields           : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-30 19:12:10 |   🔄 Commenting               : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-30 19:12:10 |     Date                      : 2026-01-30
+2026-01-30 19:12:10 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:10 |     Result                    : Fail
+2026-01-30 19:12:10 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:10 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:12:10 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-30 19:12:10 |     Fixation Performed        : Changed the logic for the precondition. Before setting repeat and suttle off, we are setting them once so current playlist is enabled.
+2026-01-30 19:12:10 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:10 |     Reviewer                  : Rajashri
+2026-01-30 19:12:11 |   🔄 Commented                : DRT-3831 ('KPIT_TC_DRT_IPD_047') | Comment ID: 150761
+
+2026-01-30 19:12:12 | ⏳ Updating    		            : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-30 19:12:12 |   🔄 Updating fields          : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-30 19:12:12 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:12 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:12 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:12:12 |     Root Cause Details        : Android Information popup displayed twice even after selecting once, Hence TS failed, whereas Wireless Android Auto Setting is enabled on Phone5.
+2026-01-30 19:12:12 |     Fixation Performed        : NA
+2026-01-30 19:12:14 |   ✅ Updated fields           : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-30 19:12:14 |   🔄 Commenting               : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-30 19:12:14 |     Date                      : 2026-01-30
+2026-01-30 19:12:14 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:14 |     Result                    : Fail
+2026-01-30 19:12:14 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:14 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:14 |     Root Cause Details        : Android Information popup displayed twice even after selecting once, Hence TS failed, whereas Wireless Android Auto Setting is enabled on Phone5.
+2026-01-30 19:12:14 |     Fixation Performed        : NA
+2026-01-30 19:12:14 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:14 |     Reviewer                  : Rajashri
+2026-01-30 19:12:15 |   🔄 Commented                : DRT-1759 ('KPIT_TC_DRT_LMG_024') | Comment ID: 150762
+
+2026-01-30 19:12:15 | ⏳ Updating    		            : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-30 19:12:15 |   🔄 Updating fields          : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-30 19:12:15 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:15 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:15 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:15 |     Root Cause Details        : Android Information popup displayed due to Phone5 disconnection failed in previous TS, Hence current TS failed.
+2026-01-30 19:12:15 |     Fixation Performed        : NA
+2026-01-30 19:12:17 |   ✅ Updated fields           : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-30 19:12:17 |   🔄 Commenting               : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-30 19:12:17 |     Date                      : 2026-01-30
+2026-01-30 19:12:17 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:17 |     Result                    : Fail
+2026-01-30 19:12:17 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:17 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:17 |     Root Cause Details        : Android Information popup displayed due to Phone5 disconnection failed in previous TS, Hence current TS failed.
+2026-01-30 19:12:17 |     Fixation Performed        : NA
+2026-01-30 19:12:17 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:17 |     Reviewer                  : Rajashri
+2026-01-30 19:12:18 |   🔄 Commented                : DRT-1758 ('KPIT_TC_DRT_LMG_028') | Comment ID: 150763
+
+2026-01-30 19:12:18 | ⏳ Updating    		            : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-30 19:12:18 |   🔄 Updating fields          : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-30 19:12:18 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:19 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:19 |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:12:19 |     Root Cause Details        : Android Information popup displayed due to Phone5 disconnection failed in previous TS, Hence current TS failed.
+2026-01-30 19:12:19 |     Fixation Performed        : NA
+2026-01-30 19:12:20 |   ✅ Updated fields           : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-30 19:12:20 |   🔄 Commenting               : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-30 19:12:20 |     Date                      : 2026-01-30
+2026-01-30 19:12:20 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:20 |     Result                    : Fail
+2026-01-30 19:12:20 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:20 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:20 |     Root Cause Details        : Android Information popup displayed due to Phone5 disconnection failed in previous TS, Hence current TS failed.
+2026-01-30 19:12:20 |     Fixation Performed        : NA
+2026-01-30 19:12:20 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:20 |     Reviewer                  : Rajashri
+2026-01-30 19:12:21 |   🔄 Commented                : DRT-1742 ('KPIT_TC_DRT_LMG_004') | Comment ID: 150764
+
+2026-01-30 19:12:21 | ⏳ Updating    		            : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-30 19:12:21 |   🔄 Updating fields          : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-30 19:12:21 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:21 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:12:21 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:12:22 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-30 19:12:22 |     Fixation Performed        : NA
+2026-01-30 19:12:23 |   ✅ Updated fields           : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-30 19:12:23 |   🔄 Commenting               : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-30 19:12:23 |     Date                      : 2026-01-30
+2026-01-30 19:12:23 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:23 |     Result                    : Fail
+2026-01-30 19:12:23 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-30 19:12:23 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-30 19:12:23 |     Fixation Performed        : NA
+2026-01-30 19:12:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:24 |     Reviewer                  : Rajashri
+2026-01-30 19:12:24 |   🔄 Commented                : DRT-1732 ('KPIT_TC_DRT_LMG_021') | Comment ID: 150765
+
+2026-01-30 19:12:25 | ⏳ Updating    		            : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-01-30 19:12:25 |   🔄 Updating fields          : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-01-30 19:12:25 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:25 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:25 |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:12:25 |     Root Cause Details        : Link Manger Connection Status remained as Disconnected even after desired time after switching to BT connection from ICB, For Phone1.
+2026-01-30 19:12:25 |     Fixation Performed        : NA
+2026-01-30 19:12:26 |   ✅ Updated fields           : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-01-30 19:12:26 |   🔄 Commenting               : DRT-1733 ('KPIT_TC_DRT_LMG_005')
+2026-01-30 19:12:26 |     Date                      : 2026-01-30
+2026-01-30 19:12:26 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:26 |     Result                    : Fail
+2026-01-30 19:12:26 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:26 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:27 |     Root Cause Details        : Link Manger Connection Status remained as Disconnected even after desired time after switching to BT connection from ICB, For Phone1.
+2026-01-30 19:12:27 |     Fixation Performed        : NA
+2026-01-30 19:12:27 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:27 |     Reviewer                  : Rajashri
+2026-01-30 19:12:27 |   🔄 Commented                : DRT-1733 ('KPIT_TC_DRT_LMG_005') | Comment ID: 150766
+
+2026-01-30 19:12:27 | ⏳ Updating    		            : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-30 19:12:27 |   🔄 Updating fields          : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-30 19:12:27 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:27 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:27 |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:27 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wireless Android Auto Phone1.
+2026-01-30 19:12:28 |     Fixation Performed        : NA
+2026-01-30 19:12:29 |   ✅ Updated fields           : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-30 19:12:29 |   🔄 Commenting               : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-30 19:12:29 |     Date                      : 2026-01-30
+2026-01-30 19:12:29 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:29 |     Result                    : Fail
+2026-01-30 19:12:29 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:29 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:29 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wireless Android Auto Phone1.
+2026-01-30 19:12:29 |     Fixation Performed        : NA
+2026-01-30 19:12:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:29 |     Reviewer                  : Rajashri
+2026-01-30 19:12:30 |   🔄 Commented                : DRT-1743 ('KPIT_TC_DRT_LMG_010') | Comment ID: 150767
+
+2026-01-30 19:12:31 | ⏳ Updating    		            : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-30 19:12:31 |   🔄 Updating fields          : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-30 19:12:31 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:31 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:31 |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:31 |     Root Cause Details        : Link Manger Connection Status remained as Disconnected even after Phone1 is connected as wireless AA.
+2026-01-30 19:12:31 |     Fixation Performed        : NA
+2026-01-30 19:12:32 |   ✅ Updated fields           : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-30 19:12:32 |   🔄 Commenting               : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-30 19:12:32 |     Date                      : 2026-01-30
+2026-01-30 19:12:32 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:32 |     Result                    : Fail
+2026-01-30 19:12:32 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:32 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:32 |     Root Cause Details        : Link Manger Connection Status remained as Disconnected even after Phone1 is connected as wireless AA.
+2026-01-30 19:12:32 |     Fixation Performed        : NA
+2026-01-30 19:12:32 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:32 |     Reviewer                  : Rajashri
+2026-01-30 19:12:33 |   🔄 Commented                : DRT-1740 ('KPIT_TC_DRT_LMG_014') | Comment ID: 150768
+
+2026-01-30 19:12:33 | ⏳ Updating    		            : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-30 19:12:33 |   🔄 Updating fields          : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-30 19:12:33 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:33 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:33 |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:33 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wired Android Auto Phone8.
+2026-01-30 19:12:33 |     Fixation Performed        : NA
+2026-01-30 19:12:34 |   ✅ Updated fields           : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-30 19:12:34 |   🔄 Commenting               : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-30 19:12:34 |     Date                      : 2026-01-30
+2026-01-30 19:12:34 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:34 |     Result                    : Fail
+2026-01-30 19:12:34 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:34 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:34 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wired Android Auto Phone8.
+2026-01-30 19:12:34 |     Fixation Performed        : NA
+2026-01-30 19:12:34 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:34 |     Reviewer                  : Rajashri
+2026-01-30 19:12:35 |   🔄 Commented                : DRT-1731 ('KPIT_TC_DRT_LMG_012') | Comment ID: 150769
+
+2026-01-30 19:12:35 | ⏳ Updating    		            : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-30 19:12:35 |   🔄 Updating fields          : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-30 19:12:35 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:35 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:35 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:35 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wired Android Auto Phone8.
+2026-01-30 19:12:35 |     Fixation Performed        : NA
+2026-01-30 19:12:36 |   ✅ Updated fields           : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-30 19:12:36 |   🔄 Commenting               : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-30 19:12:36 |     Date                      : 2026-01-30
+2026-01-30 19:12:36 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:36 |     Result                    : Fail
+2026-01-30 19:12:36 |     Failure Category          : ICB Issue (Once)
+2026-01-30 19:12:36 |     Failure Sub Category      : Once Seen
+2026-01-30 19:12:36 |     Root Cause Details        : Android Auto projection screen displayed Blank after connecting wired Android Auto Phone8.
+2026-01-30 19:12:37 |     Fixation Performed        : NA
+2026-01-30 19:12:37 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:37 |     Reviewer                  : Rajashri
+2026-01-30 19:12:37 |   🔄 Commented                : DRT-4639 ('KPIT_TC_DRT_LMG_009') | Comment ID: 150770
+
+2026-01-30 19:12:37 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-30 19:12:37 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-30 19:12:38 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:38 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:38 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-01-30 19:12:38 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-30 19:12:38 |     Fixation Performed        : NA
+2026-01-30 19:12:39 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-30 19:12:39 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-30 19:12:39 |     Date                      : 2026-01-30
+2026-01-30 19:12:39 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:39 |     Result                    : Fail
+2026-01-30 19:12:39 |     Failure Category          : Test Env Issue
+2026-01-30 19:12:39 |     Failure Sub Category      : External Application Issue
+2026-01-30 19:12:39 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-30 19:12:39 |     Fixation Performed        : NA
+2026-01-30 19:12:39 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-01-30 19:12:39 |     Reviewer                  : Rajashri
+2026-01-30 19:12:39 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 150771
+
+2026-01-30 19:12:40 | ⏳ Updating    		            : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-30 19:12:40 |   🔄 Updating fields          : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-30 19:12:40 |     Failure Category          : KITE Issue
+2026-01-30 19:12:40 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:40 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:40 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:40 |     Fixation Performed        : NA
+2026-01-30 19:12:41 |   ✅ Updated fields           : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-30 19:12:41 |   🔄 Commenting               : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-30 19:12:41 |     Date                      : 2026-01-30
+2026-01-30 19:12:41 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:41 |     Result                    : Fail
+2026-01-30 19:12:41 |     Failure Category          : KITE Issue
+2026-01-30 19:12:41 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:41 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:41 |     Fixation Performed        : NA
+2026-01-30 19:12:41 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:41 |     Reviewer                  : Rajashri
+2026-01-30 19:12:42 |   🔄 Commented                : DRT-2122 ('KPIT_TC_DRT_VEND_092') | Comment ID: 150772
+
+2026-01-30 19:12:42 | ⏳ Updating    		            : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-30 19:12:42 |   🔄 Updating fields          : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-30 19:12:42 |     Failure Category          : KITE Issue
+2026-01-30 19:12:42 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:42 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:42 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:42 |     Fixation Performed        : NA
+2026-01-30 19:12:43 |   ✅ Updated fields           : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-30 19:12:43 |   🔄 Commenting               : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-30 19:12:43 |     Date                      : 2026-01-30
+2026-01-30 19:12:43 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:43 |     Result                    : Fail
+2026-01-30 19:12:43 |     Failure Category          : KITE Issue
+2026-01-30 19:12:43 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:43 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:43 |     Fixation Performed        : NA
+2026-01-30 19:12:43 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:44 |     Reviewer                  : Rajashri
+2026-01-30 19:12:44 |   🔄 Commented                : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 150773
+
+2026-01-30 19:12:45 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-30 19:12:45 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-30 19:12:45 |     Failure Category          : KITE Issue
+2026-01-30 19:12:45 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:45 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:45 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:45 |     Fixation Performed        : NA
+2026-01-30 19:12:46 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-30 19:12:46 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-30 19:12:46 |     Date                      : 2026-01-30
+2026-01-30 19:12:46 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:46 |     Result                    : Fail
+2026-01-30 19:12:46 |     Failure Category          : KITE Issue
+2026-01-30 19:12:46 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:46 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:46 |     Fixation Performed        : NA
+2026-01-30 19:12:46 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:46 |     Reviewer                  : Rajashri
+2026-01-30 19:12:47 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 150774
+
+2026-01-30 19:12:47 | ⏳ Updating    		            : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-30 19:12:47 |   🔄 Updating fields          : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-30 19:12:47 |     Failure Category          : KITE Issue
+2026-01-30 19:12:47 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:47 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:47 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:47 |     Fixation Performed        : NA
+2026-01-30 19:12:48 |   ✅ Updated fields           : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-30 19:12:48 |   🔄 Commenting               : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-30 19:12:48 |     Date                      : 2026-01-30
+2026-01-30 19:12:48 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:48 |     Result                    : Fail
+2026-01-30 19:12:48 |     Failure Category          : KITE Issue
+2026-01-30 19:12:48 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:48 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:48 |     Fixation Performed        : NA
+2026-01-30 19:12:48 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:48 |     Reviewer                  : Rajashri
+2026-01-30 19:12:49 |   🔄 Commented                : DRT-2127 ('KPIT_TC_DRT_BZA_005') | Comment ID: 150775
+
+2026-01-30 19:12:49 | ⏳ Updating    		            : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-30 19:12:49 |   🔄 Updating fields          : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-30 19:12:49 |     Failure Category          : KITE Issue
+2026-01-30 19:12:49 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:49 |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:49 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:49 |     Fixation Performed        : NA
+2026-01-30 19:12:50 |   ✅ Updated fields           : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-30 19:12:50 |   🔄 Commenting               : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-30 19:12:50 |     Date                      : 2026-01-30
+2026-01-30 19:12:50 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:50 |     Result                    : Fail
+2026-01-30 19:12:50 |     Failure Category          : KITE Issue
+2026-01-30 19:12:51 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:51 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:51 |     Fixation Performed        : NA
+2026-01-30 19:12:51 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:51 |     Reviewer                  : Rajashri
+2026-01-30 19:12:51 |   🔄 Commented                : DRT-2132 ('KPIT_TC_DRT_BZA_015') | Comment ID: 150776
+
+2026-01-30 19:12:51 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-30 19:12:51 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-30 19:12:52 |     Failure Category          : KITE Issue
+2026-01-30 19:12:52 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:52 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-30 19:12:52 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:52 |     Fixation Performed        : NA
+2026-01-30 19:12:53 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-30 19:12:53 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-30 19:12:53 |     Date                      : 2026-01-30
+2026-01-30 19:12:53 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:12:53 |     Result                    : Fail
+2026-01-30 19:12:53 |     Failure Category          : KITE Issue
+2026-01-30 19:12:53 |     Failure Sub Category      : KITE Application Issue
+2026-01-30 19:12:53 |     Root Cause Details        : In precondition for wired AA connection, KITE Internal Error while CAPTURE_SCREEN command for Phone8.
+2026-01-30 19:12:53 |     Fixation Performed        : NA
+2026-01-30 19:12:53 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-30 19:12:53 |     Reviewer                  : Rajashri
+2026-01-30 19:12:54 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 150777
+
+2026-01-30 19:12:54 | ⏳ Updating    		            : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-30 19:12:54 |   🔄 Commenting               : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-30 19:12:54 |     Date                      : 2026-01-28
+2026-01-30 19:12:54 |     Result                    : Pass
+2026-01-30 19:12:54 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:12:55 |   🔄 Commented                : DRT-6404 ('KPIT_TC_DRT_ILL_130') | Comment ID: 150778
+
+2026-01-30 19:12:55 | ⏳ Updating    		            : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-30 19:12:55 |   🔄 Commenting               : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-30 19:12:55 |     Date                      : 2026-01-28
+2026-01-30 19:12:55 |     Result                    : Pass
+2026-01-30 19:12:55 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:12:56 |   🔄 Commented                : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001') | Comment ID: 150779
+
+2026-01-30 19:12:56 | ⏳ Updating    		            : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-30 19:12:56 |   🔄 Commenting               : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-30 19:12:56 |     Date                      : 2026-01-28
+2026-01-30 19:12:56 |     Result                    : Pass
+2026-01-30 19:12:56 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:12:57 |   🔄 Commented                : DRT-3981 ('KPIT_TC_DRT_BT_003') | Comment ID: 150780
+
+2026-01-30 19:12:57 | ⏳ Updating    		            : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-30 19:12:57 |   🔄 Commenting               : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-30 19:12:57 |     Date                      : 2026-01-28
+2026-01-30 19:12:57 |     Result                    : Pass
+2026-01-30 19:12:57 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:12:58 |   🔄 Commented                : DRT-1965 ('KPIT_TC_DRT_BT_002') | Comment ID: 150781
+
+2026-01-30 19:12:58 | ⏳ Updating    		            : DRT-5715 ('KPIT_TC_DRT_INL_006')
+2026-01-30 19:12:58 |   🔄 Commenting               : DRT-5715 ('KPIT_TC_DRT_INL_006')
+2026-01-30 19:12:58 |     Date                      : 2026-01-28
+2026-01-30 19:12:58 |     Result                    : Pass
+2026-01-30 19:12:58 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:12:59 |   🔄 Commented                : DRT-5715 ('KPIT_TC_DRT_INL_006') | Comment ID: 150782
+
+2026-01-30 19:12:59 | ⏳ Updating    		            : DRT-3832 ('KPIT_TC_DRT_SND_009')
+2026-01-30 19:12:59 |   🔄 Commenting               : DRT-3832 ('KPIT_TC_DRT_SND_009')
+2026-01-30 19:12:59 |     Date                      : 2026-01-28
+2026-01-30 19:12:59 |     Result                    : Pass
+2026-01-30 19:12:59 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:13:00 |   🔄 Commented                : DRT-3832 ('KPIT_TC_DRT_SND_009') | Comment ID: 150783
+
+2026-01-30 19:13:00 | ⏳ Updating    		            : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-30 19:13:00 |   🔄 Commenting               : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-30 19:13:00 |     Date                      : 2026-01-28
+2026-01-30 19:13:00 |     Result                    : Pass
+2026-01-30 19:13:01 |     Build Number              : AFA1502D0.260128.1 
+2026-01-30 19:13:01 |   🔄 Commented                : DRT-1789 ('KPIT_TC_DRT_BTA_052') | Comment ID: 150784
+
+2026-01-30 19:13:01 | ⏳ Updating    		            : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-30 19:13:01 |   🔄 Commenting               : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-30 19:13:01 |     Date                      : 2026-01-30
+2026-01-30 19:13:01 |     Result                    : Pass
+2026-01-30 19:13:01 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:13:02 |   🔄 Commented                : DRT-3915 ('KPIT_TC_DRT_VEND_006') | Comment ID: 150785
+
+2026-01-30 19:13:03 | ⏳ Updating    		            : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-30 19:13:03 |   🔄 Commenting               : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-30 19:13:03 |     Date                      : 2026-01-30
+2026-01-30 19:13:03 |     Result                    : Pass
+2026-01-30 19:13:03 |     Build Number              : AEA1416D0.260130.1
+2026-01-30 19:13:03 |   🔄 Commented                : DRT-1880 ('KPIT_TC_DRT_BZA_013') | Comment ID: 150786
+
+2026-01-30 19:13:03 | ✅ Jira Update Completed.

@@ -1,0 +1,212 @@
+2025-11-14 02:17:18,594 | ERROR | [ERROR] Could not process DRT-1746: 'KPIT_TC_DRT_BT_010 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:19,258 | ERROR | [ERROR] Could not process DRT-1789: 'KPIT_TC_DRT_BTA_052 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:19,892 | ERROR | [ERROR] Could not process DRT-4988: 'KPIT_TC_DRT_SPCAA_007 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:20,227 | ERROR | [ERROR] Could not process DRT-4876: 'KPIT_TC_DRT_SPCAA_008 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:20,887 | INFO | ⏳ Updating 'DRT-1876: KPIT_TC_DRT_SPCAA_028'...
+2025-11-14 02:17:20,888 | INFO |   🔄 Updating fields for DRT-1876: 'KPIT_TC_DRT_SPCAA_028...
+2025-11-14 02:17:20,900 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:20,900 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:20,901 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-14 02:17:20,901 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:20,902 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:20,902 | INFO |     Remarks : NA
+2025-11-14 02:17:20,903 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:22,298 | INFO |   ✅ Updated fields for DRT-1876: 'KPIT_TC_DRT_SPCAA_028.
+2025-11-14 02:17:22,299 | INFO |   🔄 Commenting on DRT-1876: 'KPIT_TC_DRT_SPCAA_028...
+2025-11-14 02:17:22,299 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:22,300 | INFO |     Result : Fail
+2025-11-14 02:17:22,300 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:22,301 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:22,301 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:22,302 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:23,071 | INFO |   ✅ Commented on DRT-1876: 'KPIT_TC_DRT_SPCAA_028.
+
+2025-11-14 02:17:23,727 | INFO | ⏳ Updating 'DRT-4526: KPIT_TC_DRT_SPCAA_053'...
+2025-11-14 02:17:23,728 | INFO |   🔄 Updating fields for DRT-4526: 'KPIT_TC_DRT_SPCAA_053...
+2025-11-14 02:17:23,728 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:23,728 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:23,729 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:17:23,729 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:23,730 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:23,731 | INFO |     Remarks : NA
+2025-11-14 02:17:23,731 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:25,034 | INFO |   ✅ Updated fields for DRT-4526: 'KPIT_TC_DRT_SPCAA_053.
+2025-11-14 02:17:25,035 | INFO |   🔄 Commenting on DRT-4526: 'KPIT_TC_DRT_SPCAA_053...
+2025-11-14 02:17:25,035 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:25,036 | INFO |     Result : Fail
+2025-11-14 02:17:25,036 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:25,037 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:25,037 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:25,038 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:25,914 | INFO |   ✅ Commented on DRT-4526: 'KPIT_TC_DRT_SPCAA_053.
+
+2025-11-14 02:17:26,234 | INFO | ⏳ Updating 'DRT-1751: KPIT_TC_DRT_SPCAA_021'...
+2025-11-14 02:17:26,235 | INFO |   🔄 Updating fields for DRT-1751: 'KPIT_TC_DRT_SPCAA_021...
+2025-11-14 02:17:26,235 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:26,235 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:26,236 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-14 02:17:26,236 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:26,237 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:26,237 | INFO |     Remarks : NA
+2025-11-14 02:17:26,238 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:27,462 | INFO |   ✅ Updated fields for DRT-1751: 'KPIT_TC_DRT_SPCAA_021.
+2025-11-14 02:17:27,463 | INFO |   🔄 Commenting on DRT-1751: 'KPIT_TC_DRT_SPCAA_021...
+2025-11-14 02:17:27,463 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:27,464 | INFO |     Result : Fail
+2025-11-14 02:17:27,464 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:27,465 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:27,466 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:27,466 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:28,272 | INFO |   ✅ Commented on DRT-1751: 'KPIT_TC_DRT_SPCAA_021.
+
+2025-11-14 02:17:28,543 | INFO | ⏳ Updating 'DRT-3983: KPIT_TC_DRT_SPCAA_072'...
+2025-11-14 02:17:28,544 | INFO |   🔄 Updating fields for DRT-3983: 'KPIT_TC_DRT_SPCAA_072...
+2025-11-14 02:17:28,544 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:28,545 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:28,545 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-14 02:17:28,545 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:28,546 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:28,546 | INFO |     Remarks : NA
+2025-11-14 02:17:28,547 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:29,724 | INFO |   ✅ Updated fields for DRT-3983: 'KPIT_TC_DRT_SPCAA_072.
+2025-11-14 02:17:29,725 | INFO |   🔄 Commenting on DRT-3983: 'KPIT_TC_DRT_SPCAA_072...
+2025-11-14 02:17:29,725 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:29,726 | INFO |     Result : Fail
+2025-11-14 02:17:29,727 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:29,728 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:29,728 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:29,729 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:30,538 | INFO |   ✅ Commented on DRT-3983: 'KPIT_TC_DRT_SPCAA_072.
+
+2025-11-14 02:17:31,179 | ERROR | [ERROR] Could not process DRT-2630: 'KPIT_TC_DRT_SPCAA_076 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:31,495 | INFO | ⏳ Updating 'DRT-1902: KPIT_TC_DRT_SPCAA_080'...
+2025-11-14 02:17:31,495 | INFO |   🔄 Updating fields for DRT-1902: 'KPIT_TC_DRT_SPCAA_080...
+2025-11-14 02:17:31,495 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:31,495 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:31,497 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-11-14 02:17:31,497 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:31,498 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:31,498 | INFO |     Remarks : NA
+2025-11-14 02:17:31,498 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:32,458 | INFO |   ✅ Updated fields for DRT-1902: 'KPIT_TC_DRT_SPCAA_080.
+2025-11-14 02:17:32,458 | INFO |   🔄 Commenting on DRT-1902: 'KPIT_TC_DRT_SPCAA_080...
+2025-11-14 02:17:32,459 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:32,459 | INFO |     Result : Fail
+2025-11-14 02:17:32,460 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:32,460 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:32,461 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:32,461 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:33,290 | INFO |   ✅ Commented on DRT-1902: 'KPIT_TC_DRT_SPCAA_080.
+
+2025-11-14 02:17:33,573 | ERROR | [ERROR] Could not process DRT-3873: 'KPIT_TC_DRT_SPCAA_011 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:34,184 | ERROR | [ERROR] Could not process DRT-5850: 'KPIT_TC_DRT_HFT_015 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:34,445 | INFO | ⏳ Updating 'DRT-4046: KPIT_TC_DRT_KBD_056'...
+2025-11-14 02:17:34,446 | INFO |   🔄 Updating fields for DRT-4046: 'KPIT_TC_DRT_KBD_056...
+2025-11-14 02:17:34,447 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 02:17:34,448 | INFO |     Failure Sub Category : Timing Issue
+2025-11-14 02:17:34,448 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)']
+2025-11-14 02:17:34,449 | INFO |     Root Cause Details : Screen transition taken time while selecting Security type on add network screen.
+2025-11-14 02:17:34,450 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:34,451 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:17:34,452 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:35,622 | INFO |   ✅ Updated fields for DRT-4046: 'KPIT_TC_DRT_KBD_056.
+2025-11-14 02:17:35,623 | INFO |   🔄 Commenting on DRT-4046: 'KPIT_TC_DRT_KBD_056...
+2025-11-14 02:17:35,623 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:35,624 | INFO |     Result : Fail
+2025-11-14 02:17:35,625 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 02:17:35,625 | INFO |     Failure Sub Category : Timing Issue
+2025-11-14 02:17:35,625 | INFO |     Root Cause Details : Screen transition taken time while selecting Security type on add network screen.
+2025-11-14 02:17:35,626 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:36,102 | INFO |   ✅ Commented on DRT-4046: 'KPIT_TC_DRT_KBD_056.
+
+2025-11-14 02:17:36,739 | INFO | ⏳ Updating 'DRT-3943: KPIT_TC_DRT_WF_048'...
+2025-11-14 02:17:36,740 | INFO |   🔄 Updating fields for DRT-3943: 'KPIT_TC_DRT_WF_048...
+2025-11-14 02:17:36,740 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:36,741 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:36,741 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-11-14 02:17:36,742 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:36,743 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:36,743 | INFO |     Remarks : NA
+2025-11-14 02:17:36,744 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:38,275 | INFO |   ✅ Updated fields for DRT-3943: 'KPIT_TC_DRT_WF_048.
+2025-11-14 02:17:38,276 | INFO |   🔄 Commenting on DRT-3943: 'KPIT_TC_DRT_WF_048...
+2025-11-14 02:17:38,276 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:38,277 | INFO |     Result : Fail
+2025-11-14 02:17:38,277 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:38,278 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:38,279 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:38,279 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:39,123 | INFO |   ✅ Commented on DRT-3943: 'KPIT_TC_DRT_WF_048.
+
+2025-11-14 02:17:39,399 | INFO | ⏳ Updating 'DRT-1994: KPIT_TC_DRT_IVI_1209'...
+2025-11-14 02:17:39,400 | INFO |   🔄 Updating fields for DRT-1994: 'KPIT_TC_DRT_IVI_1209...
+2025-11-14 02:17:39,400 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 02:17:39,401 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 02:17:39,401 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'ICB Issue (Always)']
+2025-11-14 02:17:39,401 | INFO |     Root Cause Details : SUW Skipped Post FDR, Hence SUW test step failed.
+2025-11-14 02:17:39,402 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:39,402 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:17:39,403 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:40,607 | INFO |   ✅ Updated fields for DRT-1994: 'KPIT_TC_DRT_IVI_1209.
+2025-11-14 02:17:40,607 | INFO |   🔄 Commenting on DRT-1994: 'KPIT_TC_DRT_IVI_1209...
+2025-11-14 02:17:40,607 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:40,607 | INFO |     Result : Fail
+2025-11-14 02:17:40,608 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 02:17:40,608 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 02:17:40,609 | INFO |     Root Cause Details : SUW Skipped Post FDR, Hence SUW test step failed.
+2025-11-14 02:17:40,609 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:41,108 | INFO |   ✅ Commented on DRT-1994: 'KPIT_TC_DRT_IVI_1209.
+
+2025-11-14 02:17:41,388 | ERROR | [ERROR] Could not process DRT-5849: 'KPIT_TC_DRT_HMI_1243 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:41,664 | INFO | ⏳ Updating 'DRT-2121: KPIT_TC_DRT_HOM_038'...
+2025-11-14 02:17:41,665 | INFO |   🔄 Updating fields for DRT-2121: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 02:17:41,665 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 02:17:41,666 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 02:17:41,666 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-11-14 02:17:41,667 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 02:17:41,667 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:41,667 | INFO |     Remarks : NA
+2025-11-14 02:17:41,668 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:42,448 | INFO |   ✅ Updated fields for DRT-2121: 'KPIT_TC_DRT_HOM_038.
+2025-11-14 02:17:42,449 | INFO |   🔄 Commenting on DRT-2121: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 02:17:42,449 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:42,450 | INFO |     Result : Fail
+2025-11-14 02:17:42,450 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 02:17:42,450 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 02:17:42,451 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 02:17:42,451 | INFO |     Fixation Performed : NA
+2025-11-14 02:17:42,891 | INFO |   ✅ Commented on DRT-2121: 'KPIT_TC_DRT_HOM_038.
+
+2025-11-14 02:17:43,165 | ERROR | [ERROR] Could not process DRT-3899: 'KPIT_TC_DRT_CLK_014 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:43,426 | ERROR | [ERROR] Could not process DRT-4692: 'KPIT_TC_DRT_CLK_016 : 'NoneType' object is not iterable.
+
+2025-11-14 02:17:44,048 | INFO | ⏳ Updating 'DRT-4527: KPIT_TC_DRT_HED_008'...
+2025-11-14 02:17:44,049 | INFO |   🔄 Updating fields for DRT-4527: 'KPIT_TC_DRT_HED_008...
+2025-11-14 02:17:44,049 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:44,050 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:44,050 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-14 02:17:44,051 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:44,051 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:44,052 | INFO |     Remarks : NA
+2025-11-14 02:17:44,053 | INFO |     Reviewer : Lumesh
+2025-11-14 02:17:45,240 | INFO |   ✅ Updated fields for DRT-4527: 'KPIT_TC_DRT_HED_008.
+2025-11-14 02:17:45,241 | INFO |   🔄 Commenting on DRT-4527: 'KPIT_TC_DRT_HED_008...
+2025-11-14 02:17:45,241 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:17:45,242 | INFO |     Result : Fail
+2025-11-14 02:17:45,242 | INFO |     Failure Category : Human Error
+2025-11-14 02:17:45,243 | INFO |     Failure Sub Category : -
+2025-11-14 02:17:45,243 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:17:45,244 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:17:46,121 | INFO |   ✅ Commented on DRT-4527: 'KPIT_TC_DRT_HED_008.
+

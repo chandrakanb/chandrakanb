@@ -1,0 +1,22 @@
+2025-12-06 22:34:50,426 | INFO | ⏳ Updating 'DRT-3831: KPIT_TC_DRT_IPD_047'...
+2025-12-06 22:34:50,427 | INFO |   🔄 Updating fields for DRT-3831: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 22:34:50,428 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:34:50,429 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:34:50,429 | INFO |     Previous Failure Category : []
+2025-12-06 22:34:50,430 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:34:50,431 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:34:50,432 | INFO |     Remarks : Root Cause is not found, We will keep this under observation.
+We will keep this under observation.
+2025-12-06 22:34:50,445 | INFO |     Reviewer : Rajashri
+2025-12-06 22:34:52,181 | INFO |   ✅ Updated fields for DRT-3831: 'KPIT_TC_DRT_IPD_047.
+2025-12-06 22:34:52,182 | INFO |   🔄 Commenting on DRT-3831: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 22:34:52,183 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:34:52,183 | INFO |     Result : Fail
+2025-12-06 22:34:52,184 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:34:52,185 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:34:52,185 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:34:52,186 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:34:53,313 | INFO |   ✅ Commented on DRT-3831: 'KPIT_TC_DRT_IPD_047.
+
+2025-12-06 22:34:53,314 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

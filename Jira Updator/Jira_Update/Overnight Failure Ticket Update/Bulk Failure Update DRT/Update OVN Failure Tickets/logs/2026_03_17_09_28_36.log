@@ -1,0 +1,6 @@
+2026-03-17 09:28:37,265 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'NoneType' object has no attribute 'value'.
+
+2026-03-17 09:28:37,605 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'NoneType' object has no attribute 'value'.
+
+2026-03-17 09:28:37,606 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

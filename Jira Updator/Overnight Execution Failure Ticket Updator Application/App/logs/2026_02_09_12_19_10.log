@@ -1,0 +1,203 @@
+2026-02-09 12:19:10 | 🚀 Jira Update Started.
+
+2026-02-09 12:19:11 | ⏳ Updating    		            : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-02-09 12:19:11 |   🔄 Updating fields          : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-02-09 12:19:11 |     Failure Category          : KITE Issue
+2026-02-09 12:19:11 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:19:11 |     Previous Failure Category : ['KITE Issue']
+2026-02-09 12:19:11 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-09 12:19:11 |     Fixation Performed        : NA
+2026-02-09 12:19:11 |   ✅ Updated fields           : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-02-09 12:19:11 |   🔄 Commenting               : DRT-6284 ('KPIT_TC_DRT_MET_098')
+2026-02-09 12:19:11 |     Date                      : 2026-02-06
+2026-02-09 12:19:11 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:11 |     Result                    : Fail
+2026-02-09 12:19:11 |     Failure Category          : KITE Issue
+2026-02-09 12:19:11 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:19:11 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-09 12:19:11 |     Fixation Performed        : NA
+2026-02-09 12:19:11 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:11 |     Reviewer                  : Rajashri
+2026-02-09 12:19:12 |   🔄 Commented                : DRT-6284 ('KPIT_TC_DRT_MET_098') | Comment ID: 156329
+
+2026-02-09 12:19:13 | ⏳ Updating    		            : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-02-09 12:19:13 |   🔄 Updating fields          : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-02-09 12:19:13 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:13 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:13 |     Previous Failure Category : ['ICB Issue (Once)', 'Human Error', 'ICB Issue (Always)']
+2026-02-09 12:19:13 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-09 12:19:13 |     Fixation Performed        : Updated Anddroid Auto Application on Phone.
+2026-02-09 12:19:14 |   ✅ Updated fields           : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-02-09 12:19:14 |   🔄 Commenting               : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-02-09 12:19:14 |     Date                      : 2026-02-06
+2026-02-09 12:19:14 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:14 |     Result                    : Fail
+2026-02-09 12:19:14 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:14 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:14 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-09 12:19:14 |     Fixation Performed        : Updated Anddroid Auto Application on Phone.
+2026-02-09 12:19:14 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:14 |     Reviewer                  : Rajashri
+2026-02-09 12:19:15 |   🔄 Commented                : DRT-2050 ('KPIT_TC_DRT_MET_103') | Comment ID: 156330
+
+2026-02-09 12:19:15 | ⏳ Updating    		            : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-09 12:19:15 |   🔄 Updating fields          : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-09 12:19:15 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:15 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:15 |     Previous Failure Category : ['ICB Issue (Once)', 'Human Error', 'ICB Issue (Always)']
+2026-02-09 12:19:15 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-09 12:19:15 |     Fixation Performed        : Updated Anddroid Auto Application on Phone.
+2026-02-09 12:19:16 |   ✅ Updated fields           : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-09 12:19:16 |   🔄 Commenting               : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-02-09 12:19:16 |     Date                      : 2026-02-06
+2026-02-09 12:19:16 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:16 |     Result                    : Fail
+2026-02-09 12:19:16 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:17 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:17 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto Phone1.
+2026-02-09 12:19:17 |     Fixation Performed        : Updated Anddroid Auto Application on Phone.
+2026-02-09 12:19:17 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:17 |     Reviewer                  : Rajashri
+2026-02-09 12:19:17 |   🔄 Commented                : DRT-4429 ('KPIT_TC_DRT_SPCAA_023') | Comment ID: 156331
+
+2026-02-09 12:19:18 | ⏳ Updating    		            : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-09 12:19:18 |   🔄 Updating fields          : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-09 12:19:18 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:18 |     Failure Sub Category      : External Application Issue
+2026-02-09 12:19:18 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-09 12:19:18 |     Root Cause Details        : Audio for VR was clear from the Speakers, still Siri not initiated.
+2026-02-09 12:19:18 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-09 12:19:19 |   ✅ Updated fields           : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-09 12:19:19 |   🔄 Commenting               : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-09 12:19:19 |     Date                      : 2026-02-06
+2026-02-09 12:19:19 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:19 |     Result                    : Fail
+2026-02-09 12:19:19 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:19 |     Failure Sub Category      : External Application Issue
+2026-02-09 12:19:19 |     Root Cause Details        : Audio for VR was clear from the Speakers, still Siri not initiated.
+2026-02-09 12:19:19 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-09 12:19:19 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:19 |     Reviewer                  : Rajashri
+2026-02-09 12:19:19 |   🔄 Commented                : DRT-4428 ('KPIT_TC_DRT_MET_060') | Comment ID: 156332
+
+2026-02-09 12:19:20 | ⏳ Updating    		            : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-09 12:19:20 |   🔄 Updating fields          : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-09 12:19:20 |     Failure Category          : ICB Issue (Once)
+2026-02-09 12:19:20 |     Failure Sub Category      : Once Seen
+2026-02-09 12:19:20 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)', 'ICB Issue (Always)']
+2026-02-09 12:19:20 |     Root Cause Details        : High brightness post ACC cycle, in previous precondition, Hence this TS failed.
+2026-02-09 12:19:20 |     Fixation Performed        : Modified CAN signals logic for FB "Set Brightness 3 and remove driver restrictions"
+2026-02-09 12:19:21 |   ✅ Updated fields           : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-09 12:19:21 |   🔄 Commenting               : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-09 12:19:21 |     Date                      : 2026-02-06
+2026-02-09 12:19:21 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:21 |     Result                    : Fail
+2026-02-09 12:19:21 |     Failure Category          : ICB Issue (Once)
+2026-02-09 12:19:21 |     Failure Sub Category      : Once Seen
+2026-02-09 12:19:21 |     Root Cause Details        : High brightness post ACC cycle, in previous precondition, Hence this TS failed.
+2026-02-09 12:19:21 |     Fixation Performed        : Modified CAN signals logic for FB "Set Brightness 3 and remove driver restrictions"
+2026-02-09 12:19:21 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:21 |     Reviewer                  : Rajashri
+2026-02-09 12:19:22 |   🔄 Commented                : DRT-2296 ('KPIT_TC_DRT_MET_078') | Comment ID: 156333
+
+2026-02-09 12:19:23 | ⏳ Updating    		            : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-09 12:19:23 |   🔄 Updating fields          : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-09 12:19:23 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:23 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 12:19:23 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:23 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:24 |   ✅ Updated fields           : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-09 12:19:24 |   🔄 Commenting               : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-09 12:19:24 |     Date                      : 2026-02-06
+2026-02-09 12:19:24 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:24 |     Result                    : Fail
+2026-02-09 12:19:24 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:24 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:24 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:24 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:24 |     Reviewer                  : Rajashri
+2026-02-09 12:19:25 |   🔄 Commented                : DRT-1815 ('KPIT_TC_DRT_HAC_043') | Comment ID: 156334
+
+2026-02-09 12:19:26 | ⏳ Updating    		            : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-09 12:19:26 |   🔄 Updating fields          : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-09 12:19:26 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:26 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:26 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 12:19:26 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:26 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:27 |   ✅ Updated fields           : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-09 12:19:27 |   🔄 Commenting               : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-09 12:19:27 |     Date                      : 2026-02-06
+2026-02-09 12:19:27 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:27 |     Result                    : Fail
+2026-02-09 12:19:27 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:27 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:27 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:27 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:27 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:27 |     Reviewer                  : Rajashri
+2026-02-09 12:19:28 |   🔄 Commented                : DRT-5112 ('KPIT_TC_DRT_SRW_003') | Comment ID: 156335
+
+2026-02-09 12:19:28 | ⏳ Updating    		            : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-09 12:19:29 |   🔄 Updating fields          : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-09 12:19:29 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:29 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:29 |     Previous Failure Category : ['Test Env Issue']
+2026-02-09 12:19:29 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:29 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:30 |   ✅ Updated fields           : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-09 12:19:30 |   🔄 Commenting               : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-09 12:19:30 |     Date                      : 2026-02-06
+2026-02-09 12:19:30 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:30 |     Result                    : Fail
+2026-02-09 12:19:30 |     Failure Category          : Test Env Issue
+2026-02-09 12:19:30 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 12:19:30 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-09 12:19:30 |     Fixation Performed        : Updated Chrome Driver Varsion.
+2026-02-09 12:19:30 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:30 |     Reviewer                  : Rajashri
+2026-02-09 12:19:31 |   🔄 Commented                : DRT-5020 ('KPIT_TC_DRT_SRW_018') | Comment ID: 156336
+
+2026-02-09 12:19:32 | ⏳ Updating    		            : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:19:32 |   🔄 Updating fields          : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:19:32 |     Failure Category          : KITE Issue
+2026-02-09 12:19:32 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:19:32 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)']
+2026-02-09 12:19:32 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-09 12:19:32 |     Fixation Performed        : NA
+2026-02-09 12:19:33 |   ✅ Updated fields           : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:19:33 |   🔄 Commenting               : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-09 12:19:33 |     Date                      : 2026-02-06
+2026-02-09 12:19:33 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:33 |     Result                    : Fail
+2026-02-09 12:19:33 |     Failure Category          : KITE Issue
+2026-02-09 12:19:33 |     Failure Sub Category      : Image Comparision
+2026-02-09 12:19:33 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-09 12:19:33 |     Fixation Performed        : NA
+2026-02-09 12:19:33 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-02-09 12:19:33 |     Reviewer                  : Rajashri
+2026-02-09 12:19:34 |   🔄 Commented                : DRT-6030 ('KPIT_TC_DRT_VEH_027') | Comment ID: 156337
+
+2026-02-09 12:19:34 | ⏳ Updating    		            : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-09 12:19:34 |   🔄 Updating fields          : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-09 12:19:34 |     Failure Category          : ICB Issue (Once)
+2026-02-09 12:19:34 |     Failure Sub Category      : Once Seen
+2026-02-09 12:19:34 |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2026-02-09 12:19:34 |     Root Cause Details        : High brightness post ACC cycle.
+2026-02-09 12:19:34 |     Fixation Performed        : Modified CAN signals logic for FB "Set Brightness 3 and remove driver restrictions"
+2026-02-09 12:19:36 |   ✅ Updated fields           : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-09 12:19:36 |   🔄 Commenting               : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-09 12:19:36 |     Date                      : 2026-02-06
+2026-02-09 12:19:36 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 12:19:36 |     Result                    : Fail
+2026-02-09 12:19:36 |     Failure Category          : ICB Issue (Once)
+2026-02-09 12:19:36 |     Failure Sub Category      : Once Seen
+2026-02-09 12:19:36 |     Root Cause Details        : High brightness post ACC cycle.
+2026-02-09 12:19:36 |     Fixation Performed        : Modified CAN signals logic for FB "Set Brightness 3 and remove driver restrictions"
+2026-02-09 12:19:36 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 12:19:36 |     Reviewer                  : Rajashri
+2026-02-09 12:19:36 |   🔄 Commented                : DRT-6000 ('KPIT_TC_DRT_PSE_002') | Comment ID: 156338
+
+2026-02-09 12:19:36 | ✅ Jira Update Completed.

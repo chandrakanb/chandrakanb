@@ -1,0 +1,41 @@
+2026-03-19 21:28:27,663 | INFO | Token loaded from Environment Variable
+2026-03-19 21:28:28,170 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-03-19 21:28:30,985 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-03-19 21:28:31,763 | INFO | Processing ticket A15-3415 with current status: In Progress
+2026-03-19 21:28:32,957 | INFO | Transitioned A15-3415 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:28:34,562 | INFO | Transitioned A15-3415 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:28:36,081 | INFO | Transitioned A15-3415 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:28:37,636 | INFO | Transitioned A15-3415 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:28:38,250 | INFO | Ticket A15-3415 is transited till status: Ready for review
+2026-03-19 21:28:38,606 | INFO | Processing ticket A15-3416 with current status: In Progress
+2026-03-19 21:28:39,780 | INFO | Transitioned A15-3416 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:28:41,401 | INFO | Transitioned A15-3416 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:28:42,869 | INFO | Transitioned A15-3416 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:28:44,304 | INFO | Transitioned A15-3416 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:28:44,876 | INFO | Ticket A15-3416 is transited till status: Ready for review
+2026-03-19 21:28:45,195 | INFO | Processing ticket A15-3419 with current status: In Progress
+2026-03-19 21:28:46,689 | INFO | Transitioned A15-3419 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:28:48,285 | INFO | Transitioned A15-3419 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:28:50,274 | INFO | Transitioned A15-3419 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:28:51,804 | INFO | Transitioned A15-3419 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:28:52,494 | INFO | Ticket A15-3419 is transited till status: Ready for review
+2026-03-19 21:28:52,924 | INFO | Processing ticket A15-3420 with current status: In Progress
+2026-03-19 21:28:54,237 | INFO | Transitioned A15-3420 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:28:56,263 | INFO | Transitioned A15-3420 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:28:58,533 | INFO | Transitioned A15-3420 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:29:00,309 | INFO | Transitioned A15-3420 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:29:00,910 | INFO | Ticket A15-3420 is transited till status: Ready for review
+2026-03-19 21:29:01,264 | INFO | Processing ticket A15-3424 with current status: In Progress
+2026-03-19 21:29:02,542 | INFO | Transitioned A15-3424 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:29:04,029 | INFO | Transitioned A15-3424 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:29:05,564 | INFO | Transitioned A15-3424 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:29:07,039 | INFO | Transitioned A15-3424 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:29:07,707 | INFO | Ticket A15-3424 is transited till status: Ready for review
+2026-03-19 21:29:08,027 | INFO | Processing ticket A15-3425 with current status: In Progress
+2026-03-19 21:29:09,157 | INFO | Transitioned A15-3425 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 21:29:10,712 | INFO | Transitioned A15-3425 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 21:29:12,119 | INFO | Transitioned A15-3425 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 21:29:13,565 | INFO | Transitioned A15-3425 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 21:29:14,165 | INFO | Ticket A15-3425 is transited till status: Ready for review
+2026-03-19 21:29:14,165 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

@@ -1,0 +1,190 @@
+2026-01-06 12:18:24 | 🚀 Jira Update Started.
+
+2026-01-06 12:18:24 | ⏳ Updating    		            : DRT-6295 ('KPIT_TC_DRT_VEH_062')
+2026-01-06 12:18:24 |   🔄 Updating fields          : DRT-6295 ('KPIT_TC_DRT_VEH_062')
+2026-01-06 12:18:24 |     Failure Category          : KITE Issue
+2026-01-06 12:18:24 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:24 |     Previous Failure Category : []
+2026-01-06 12:18:24 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:24 |     Fixation Performed        : NA
+2026-01-06 12:18:25 |   ✅ Updated fields           : DRT-6295 ('KPIT_TC_DRT_VEH_062')
+2026-01-06 12:18:25 |   🔄 Commenting               : DRT-6295 ('KPIT_TC_DRT_VEH_062')
+2026-01-06 12:18:25 |     Date                      : 2025-12-24
+2026-01-06 12:18:25 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:25 |     Result                    : Fail
+2026-01-06 12:18:25 |     Failure Category          : KITE Issue
+2026-01-06 12:18:25 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:25 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:25 |     Fixation Performed        : NA
+2026-01-06 12:18:25 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-01-06 12:18:25 |     Reviewer                  : Rajashri
+2026-01-06 12:18:26 |   🔄 Commented                : DRT-6295 ('KPIT_TC_DRT_VEH_062') | Comment ID: 136987
+
+2026-01-06 12:18:26 | ⏳ Updating    		            : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-06 12:18:26 |   🔄 Updating fields          : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-06 12:18:26 |     Failure Category          : KITE Issue
+2026-01-06 12:18:26 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:26 |     Previous Failure Category : ['KITE Issue']
+2026-01-06 12:18:26 |     Root Cause Details        : Incorrect text is detected for OCR.
+2026-01-06 12:18:26 |     Fixation Performed        : NA
+2026-01-06 12:18:27 |   ✅ Updated fields           : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-06 12:18:27 |   🔄 Commenting               : DRT-5981 ('KPIT_TC_DRT_MET_098')
+2026-01-06 12:18:27 |     Date                      : 2025-12-24
+2026-01-06 12:18:27 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:27 |     Result                    : Fail
+2026-01-06 12:18:27 |     Failure Category          : KITE Issue
+2026-01-06 12:18:27 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:27 |     Root Cause Details        : Incorrect text is detected for OCR.
+2026-01-06 12:18:27 |     Fixation Performed        : NA
+2026-01-06 12:18:27 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 12:18:27 |     Reviewer                  : Rajashri
+2026-01-06 12:18:28 |   🔄 Commented                : DRT-5981 ('KPIT_TC_DRT_MET_098') | Comment ID: 136988
+
+2026-01-06 12:18:29 | ⏳ Updating    		            : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-06 12:18:29 |   🔄 Updating fields          : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-06 12:18:29 |     Failure Category          : KITE Issue
+2026-01-06 12:18:29 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:29 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-06 12:18:29 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:29 |     Fixation Performed        : NA
+2026-01-06 12:18:30 |   ✅ Updated fields           : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-06 12:18:30 |   🔄 Commenting               : DRT-5781 ('KPIT_TC_DRT_VEH_027')
+2026-01-06 12:18:30 |     Date                      : 2025-12-24
+2026-01-06 12:18:30 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:30 |     Result                    : Fail
+2026-01-06 12:18:30 |     Failure Category          : KITE Issue
+2026-01-06 12:18:30 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:30 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:30 |     Fixation Performed        : NA
+2026-01-06 12:18:30 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-01-06 12:18:30 |     Reviewer                  : Rajashri
+2026-01-06 12:18:31 |   🔄 Commented                : DRT-5781 ('KPIT_TC_DRT_VEH_027') | Comment ID: 136989
+
+2026-01-06 12:18:31 | ⏳ Updating    		            : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-06 12:18:31 |   🔄 Updating fields          : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-06 12:18:31 |     Failure Category          : Test Env Issue
+2026-01-06 12:18:31 |     Failure Sub Category      : External Application Issue
+2026-01-06 12:18:31 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 12:18:31 |     Root Cause Details        : Siri didn't initiated.
+2026-01-06 12:18:31 |     Fixation Performed        : NA
+2026-01-06 12:18:32 |   ✅ Updated fields           : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-06 12:18:32 |   🔄 Commenting               : DRT-5013 ('KPIT_TC_DRT_SRW_018')
+2026-01-06 12:18:32 |     Date                      : 2025-12-24
+2026-01-06 12:18:32 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:32 |     Result                    : Fail
+2026-01-06 12:18:32 |     Failure Category          : Test Env Issue
+2026-01-06 12:18:32 |     Failure Sub Category      : External Application Issue
+2026-01-06 12:18:32 |     Root Cause Details        : Siri didn't initiated.
+2026-01-06 12:18:32 |     Fixation Performed        : NA
+2026-01-06 12:18:32 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 12:18:32 |     Reviewer                  : Rajashri
+2026-01-06 12:18:32 |   🔄 Commented                : DRT-5013 ('KPIT_TC_DRT_SRW_018') | Comment ID: 136990
+
+2026-01-06 12:18:33 | ⏳ Updating    		            : DRT-4706 ('KPIT_TC_DRT_MET_056')
+2026-01-06 12:18:33 |   🔄 Updating fields          : DRT-4706 ('KPIT_TC_DRT_MET_056')
+2026-01-06 12:18:33 |     Failure Category          : ICB Issue (Once)
+2026-01-06 12:18:33 |     Failure Sub Category      : Once Seen
+2026-01-06 12:18:33 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 12:18:33 |     Root Cause Details        : VR Command "Who is albert einstein" failed; Instead: "Who's Albert einstein" text displayed.
+2026-01-06 12:18:33 |     Fixation Performed        : NA
+2026-01-06 12:18:34 |   ✅ Updated fields           : DRT-4706 ('KPIT_TC_DRT_MET_056')
+2026-01-06 12:18:34 |   🔄 Commenting               : DRT-4706 ('KPIT_TC_DRT_MET_056')
+2026-01-06 12:18:34 |     Date                      : 2025-12-24
+2026-01-06 12:18:34 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:34 |     Result                    : Fail
+2026-01-06 12:18:34 |     Failure Category          : ICB Issue (Once)
+2026-01-06 12:18:34 |     Failure Sub Category      : Once Seen
+2026-01-06 12:18:34 |     Root Cause Details        : VR Command "Who is albert einstein" failed; Instead: "Who's Albert einstein" text displayed.
+2026-01-06 12:18:34 |     Fixation Performed        : NA
+2026-01-06 12:18:34 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 12:18:34 |     Reviewer                  : Rajashri
+2026-01-06 12:18:34 |   🔄 Commented                : DRT-4706 ('KPIT_TC_DRT_MET_056') | Comment ID: 136991
+
+2026-01-06 12:18:35 | ⏳ Updating    		            : DRT-2916 ('KPIT_TC_DRT_SND_008')
+2026-01-06 12:18:35 |   🔄 Updating fields          : DRT-2916 ('KPIT_TC_DRT_SND_008')
+2026-01-06 12:18:35 |     Failure Category          : ICB Issue (Once)
+2026-01-06 12:18:35 |     Failure Sub Category      : Once Seen
+2026-01-06 12:18:35 |     Previous Failure Category : ['ICB Issue (Always)']
+2026-01-06 12:18:35 |     Root Cause Details        : Beep audio validation failed for select disclaimer popup.
+2026-01-06 12:18:35 |     Fixation Performed        : NA
+2026-01-06 12:18:35 |   ✅ Updated fields           : DRT-2916 ('KPIT_TC_DRT_SND_008')
+2026-01-06 12:18:35 |   🔄 Commenting               : DRT-2916 ('KPIT_TC_DRT_SND_008')
+2026-01-06 12:18:35 |     Date                      : 2025-12-24
+2026-01-06 12:18:35 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:35 |     Result                    : Fail
+2026-01-06 12:18:35 |     Failure Category          : ICB Issue (Once)
+2026-01-06 12:18:35 |     Failure Sub Category      : Once Seen
+2026-01-06 12:18:35 |     Root Cause Details        : Beep audio validation failed for select disclaimer popup.
+2026-01-06 12:18:35 |     Fixation Performed        : NA
+2026-01-06 12:18:35 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 12:18:35 |     Reviewer                  : Rajashri
+2026-01-06 12:18:36 |   🔄 Commented                : DRT-2916 ('KPIT_TC_DRT_SND_008') | Comment ID: 136992
+
+2026-01-06 12:18:36 | ⏳ Updating    		            : DRT-2652 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 12:18:36 |   🔄 Updating fields          : DRT-2652 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 12:18:36 |     Failure Category          : Human Error
+2026-01-06 12:18:36 |     Failure Sub Category      : -
+2026-01-06 12:18:36 |     Previous Failure Category : ['ICB Issue (Always)']
+2026-01-06 12:18:36 |     Root Cause Details        : Phone was not kept properly on WLC.
+2026-01-06 12:18:36 |     Fixation Performed        : NA
+2026-01-06 12:18:38 |   ✅ Updated fields           : DRT-2652 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 12:18:38 |   🔄 Commenting               : DRT-2652 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 12:18:38 |     Date                      : 2025-12-24
+2026-01-06 12:18:38 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:38 |     Result                    : Fail
+2026-01-06 12:18:38 |     Failure Category          : Human Error
+2026-01-06 12:18:38 |     Failure Sub Category      : -
+2026-01-06 12:18:38 |     Root Cause Details        : Phone was not kept properly on WLC.
+2026-01-06 12:18:38 |     Fixation Performed        : NA
+2026-01-06 12:18:38 |     Remarks                   : Executed in daytime after keeping Phone on WLC properly, result: Pass.
+2026-01-06 12:18:38 |     Reviewer                  : Rajashri
+2026-01-06 12:18:38 |   🔄 Commented                : DRT-2652 ('KPIT_TC_DRT_SPCCP_069') | Comment ID: 136993
+
+2026-01-06 12:18:38 | ⏳ Updating    		            : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-06 12:18:38 |   🔄 Updating fields          : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-06 12:18:38 |     Failure Category          : Test Env Issue
+2026-01-06 12:18:38 |     Failure Sub Category      : External Application Issue
+2026-01-06 12:18:38 |     Previous Failure Category : ['ICB Issue (Always)']
+2026-01-06 12:18:38 |     Root Cause Details        : Alexa Server Issue.
+2026-01-06 12:18:38 |     Fixation Performed        : NA
+2026-01-06 12:18:39 |   ✅ Updated fields           : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-06 12:18:39 |   🔄 Commenting               : DRT-1735 ('KPIT_TC_DRT_HAC_043')
+2026-01-06 12:18:39 |     Date                      : 2025-12-24
+2026-01-06 12:18:39 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:39 |     Result                    : Fail
+2026-01-06 12:18:39 |     Failure Category          : Test Env Issue
+2026-01-06 12:18:39 |     Failure Sub Category      : External Application Issue
+2026-01-06 12:18:39 |     Root Cause Details        : Alexa Server Issue.
+2026-01-06 12:18:39 |     Fixation Performed        : NA
+2026-01-06 12:18:39 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 12:18:39 |     Reviewer                  : Rajashri
+2026-01-06 12:18:40 |   🔄 Commented                : DRT-1735 ('KPIT_TC_DRT_HAC_043') | Comment ID: 136994
+
+2026-01-06 12:18:40 | ⏳ Updating    		            : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-06 12:18:40 |   🔄 Updating fields          : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-06 12:18:40 |     Failure Category          : KITE Issue
+2026-01-06 12:18:40 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:40 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 12:18:40 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:40 |     Fixation Performed        : NA
+2026-01-06 12:18:41 |   ✅ Updated fields           : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-06 12:18:41 |   🔄 Commenting               : DRT-5780 ('KPIT_TC_DRT_VEH_021')
+2026-01-06 12:18:41 |     Date                      : 2025-12-24
+2026-01-06 12:18:41 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:41 |     Result                    : Fail
+2026-01-06 12:18:41 |     Failure Category          : KITE Issue
+2026-01-06 12:18:41 |     Failure Sub Category      : Image Comparision
+2026-01-06 12:18:41 |     Root Cause Details        : CLICK_BY_TEXT command failed for "Change" text.
+2026-01-06 12:18:41 |     Fixation Performed        : NA
+2026-01-06 12:18:41 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-01-06 12:18:41 |     Reviewer                  : Rajashri
+2026-01-06 12:18:42 |   🔄 Commented                : DRT-5780 ('KPIT_TC_DRT_VEH_021') | Comment ID: 136995
+
+2026-01-06 12:18:42 | ⏳ Updating    		            : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:18:42 |   🔄 Commenting               : DRT-2031 ('KPIT_TC_DRT_MET_100')
+2026-01-06 12:18:42 |     Date                      : 2025-12-24
+2026-01-06 12:18:42 |     Result                    : 
+2026-01-06 12:18:42 |     Build Number              : AEA1415D0.251224.1
+2026-01-06 12:18:43 |   🔄 Commented                : DRT-2031 ('KPIT_TC_DRT_MET_100') | Comment ID: 136996
+
+2026-01-06 12:18:43 | ✅ Jira Update Completed.

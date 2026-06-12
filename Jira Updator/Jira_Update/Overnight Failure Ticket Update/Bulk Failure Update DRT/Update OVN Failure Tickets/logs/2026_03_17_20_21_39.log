@@ -1,0 +1,6 @@
+2026-03-17 20:21:40,409 | ERROR | [ERROR] Could not process DRT-7527: '12345 : can only concatenate list (not "str") to list.
+
+2026-03-17 20:21:40,817 | ERROR | [ERROR] Could not process DRT-7527: '12345 : can only concatenate list (not "str") to list.
+
+2026-03-17 20:21:40,818 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=icon.ico --name "Redmine Time Logger" app.py

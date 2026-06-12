@@ -1,0 +1,16 @@
+2025-05-25 09:42:47,524 | INFO | ⏳ Updating 'OSV-2462: KPIT_TC_DRT_LNG_003'...
+2025-05-25 09:42:47,525 | INFO |   🔄 Updating fields for OSV-2462: 'KPIT_TC_DRT_LNG_003...
+2025-05-25 09:42:47,526 | INFO |     Failure Category : KITE issue
+2025-05-25 09:42:47,527 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-25 09:42:47,527 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-25 09:42:47,528 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-25 09:42:49,123 | INFO |   ✅ Updated fields for OSV-2462: 'KPIT_TC_DRT_LNG_003.
+2025-05-25 09:42:49,124 | INFO |   🔄 Commenting on OSV-2462: 'KPIT_TC_DRT_LNG_003...
+2025-05-25 09:42:49,135 | INFO |     Date : 20th May 2025
+2025-05-25 09:42:49,136 | INFO |     Result : Fail
+2025-05-25 09:42:49,136 | INFO |     Failure Category : KITE issue
+2025-05-25 09:42:49,136 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-05-25 09:42:49,136 | INFO |     Root Cause Details : CAN DATA is not Transmitted, VectorXL Error Code : 11.
+2025-05-25 09:42:49,137 | INFO |     Fixation Performed : Reconnected CAN in CAN LIN setting preference page and reconnected CAN H/W.
+2025-05-25 09:42:49,855 | INFO |   ✅ Commented on OSV-2462: 'KPIT_TC_DRT_LNG_003.
+

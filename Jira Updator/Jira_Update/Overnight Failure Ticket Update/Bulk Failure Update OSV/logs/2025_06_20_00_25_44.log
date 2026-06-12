@@ -1,0 +1,526 @@
+2025-06-20 00:25:46,281 | INFO | ⏳ Updating 'OSV-3009: KPIT_TC_DRT_BTA_018'...
+2025-06-20 00:25:46,282 | INFO |   🔄 Commenting on OSV-3009: 'KPIT_TC_DRT_BTA_018...
+2025-06-20 00:25:46,282 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:46,282 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:46,282 | INFO |     Result               : Pass
+2025-06-20 00:25:47,134 | INFO |   ✅ Commented on OSV-3009: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-20 00:25:47,490 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-20 00:25:47,491 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-20 00:25:47,492 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:47,503 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:47,503 | INFO |     Result               : Pass
+2025-06-20 00:25:47,938 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-20 00:25:48,651 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-20 00:25:48,652 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-20 00:25:48,653 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:48,654 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:48,655 | INFO |     Result               : Pass
+2025-06-20 00:25:49,150 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-20 00:25:49,501 | INFO | ⏳ Updating 'OSV-3225: KPIT_TC_DRT_BTA_032'...
+2025-06-20 00:25:49,502 | INFO |   🔄 Commenting on OSV-3225: 'KPIT_TC_DRT_BTA_032...
+2025-06-20 00:25:49,502 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:49,503 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:49,504 | INFO |     Result               : Pass
+2025-06-20 00:25:50,344 | INFO |   ✅ Commented on OSV-3225: 'KPIT_TC_DRT_BTA_032.
+
+2025-06-20 00:25:50,688 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-20 00:25:50,689 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-20 00:25:50,690 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:50,691 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:50,691 | INFO |     Result               : Pass
+2025-06-20 00:25:51,462 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-20 00:25:51,831 | INFO | ⏳ Updating 'OSV-3488: KPIT_TC_DRT_HFT_017'...
+2025-06-20 00:25:51,831 | INFO |   🔄 Commenting on OSV-3488: 'KPIT_TC_DRT_HFT_017...
+2025-06-20 00:25:51,832 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:51,832 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:51,833 | INFO |     Result               : Pass
+2025-06-20 00:25:52,701 | INFO |   ✅ Commented on OSV-3488: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-20 00:25:53,079 | INFO | ⏳ Updating 'OSV-3493: KPIT_TC_DRT_HFT_046'...
+2025-06-20 00:25:53,079 | INFO |   🔄 Commenting on OSV-3493: 'KPIT_TC_DRT_HFT_046...
+2025-06-20 00:25:53,080 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:53,080 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:53,080 | INFO |     Result               : Pass
+2025-06-20 00:25:53,591 | INFO |   ✅ Commented on OSV-3493: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-20 00:25:53,930 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-20 00:25:53,931 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-20 00:25:53,932 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:53,932 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:53,932 | INFO |     Result               : Pass
+2025-06-20 00:25:54,431 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-20 00:25:54,791 | INFO | ⏳ Updating 'OSV-3484: KPIT_TC_DRT_HFT_052'...
+2025-06-20 00:25:54,791 | INFO |   🔄 Commenting on OSV-3484: 'KPIT_TC_DRT_HFT_052...
+2025-06-20 00:25:54,792 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:54,792 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:54,793 | INFO |     Result               : Pass
+2025-06-20 00:25:55,649 | INFO |   ✅ Commented on OSV-3484: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-20 00:25:56,007 | INFO | ⏳ Updating 'OSV-3485: KPIT_TC_DRT_HFT_054'...
+2025-06-20 00:25:56,008 | INFO |   🔄 Commenting on OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-20 00:25:56,008 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:56,009 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:56,010 | INFO |     Result               : Pass
+2025-06-20 00:25:56,945 | INFO |   ✅ Commented on OSV-3485: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-20 00:25:57,278 | INFO | ⏳ Updating 'OSV-3487: KPIT_TC_DRT_HFT_059'...
+2025-06-20 00:25:57,278 | INFO |   🔄 Commenting on OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-20 00:25:57,279 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:57,279 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:57,279 | INFO |     Result               : Pass
+2025-06-20 00:25:58,156 | INFO |   ✅ Commented on OSV-3487: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-20 00:25:58,549 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-20 00:25:58,549 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-20 00:25:58,550 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:58,551 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:58,552 | INFO |     Result               : Pass
+2025-06-20 00:25:59,072 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-20 00:25:59,420 | INFO | ⏳ Updating 'OSV-2780: KPIT_TC_DRT_HOM_005'...
+2025-06-20 00:25:59,421 | INFO |   🔄 Commenting on OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-20 00:25:59,421 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:25:59,422 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:25:59,423 | INFO |     Result               : Pass
+2025-06-20 00:26:00,302 | INFO |   ✅ Commented on OSV-2780: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-20 00:26:00,679 | INFO | ⏳ Updating 'OSV-2781: KPIT_TC_DRT_HOM_006'...
+2025-06-20 00:26:00,680 | INFO |   🔄 Commenting on OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-20 00:26:00,681 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:00,682 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:00,682 | INFO |     Result               : Pass
+2025-06-20 00:26:01,161 | INFO |   ✅ Commented on OSV-2781: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-20 00:26:01,517 | INFO | ⏳ Updating 'OSV-2778: KPIT_TC_DRT_HOM_009'...
+2025-06-20 00:26:01,518 | INFO |   🔄 Commenting on OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-20 00:26:01,518 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:01,519 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:01,519 | INFO |     Result               : Pass
+2025-06-20 00:26:02,308 | INFO |   ✅ Commented on OSV-2778: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-20 00:26:02,709 | INFO | ⏳ Updating 'OSV-2779: KPIT_TC_DRT_HOM_012'...
+2025-06-20 00:26:02,710 | INFO |   🔄 Commenting on OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-20 00:26:02,711 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:02,711 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:02,712 | INFO |     Result               : Pass
+2025-06-20 00:26:03,203 | INFO |   ✅ Commented on OSV-2779: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-20 00:26:03,551 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-20 00:26:03,553 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-20 00:26:03,553 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:03,553 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:03,554 | INFO |     Result               : Pass
+2025-06-20 00:26:04,029 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-20 00:26:04,375 | INFO | ⏳ Updating 'OSV-2774: KPIT_TC_DRT_HOM_028'...
+2025-06-20 00:26:04,376 | INFO |   🔄 Commenting on OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-20 00:26:04,377 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:04,377 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:04,378 | INFO |     Result               : Pass
+2025-06-20 00:26:04,811 | INFO |   ✅ Commented on OSV-2774: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-20 00:26:05,163 | INFO | ⏳ Updating 'OSV-2776: KPIT_TC_DRT_HOM_031'...
+2025-06-20 00:26:05,163 | INFO |   🔄 Commenting on OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-20 00:26:05,163 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:05,164 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:05,164 | INFO |     Result               : Pass
+2025-06-20 00:26:05,657 | INFO |   ✅ Commented on OSV-2776: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-20 00:26:06,027 | INFO | ⏳ Updating 'OSV-2773: KPIT_TC_DRT_HOM_035'...
+2025-06-20 00:26:06,028 | INFO |   🔄 Commenting on OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-20 00:26:06,028 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:06,029 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:06,030 | INFO |     Result               : Pass
+2025-06-20 00:26:06,494 | INFO |   ✅ Commented on OSV-2773: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-20 00:26:06,844 | INFO | ⏳ Updating 'OSV-2771: KPIT_TC_DRT_HOM_050'...
+2025-06-20 00:26:06,845 | INFO |   🔄 Commenting on OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-20 00:26:06,845 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:06,846 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:06,846 | INFO |     Result               : Pass
+2025-06-20 00:26:07,288 | INFO |   ✅ Commented on OSV-2771: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-20 00:26:07,621 | INFO | ⏳ Updating 'OSV-3275: KPIT_TC_DRT_KBD_002'...
+2025-06-20 00:26:07,622 | INFO |   🔄 Commenting on OSV-3275: 'KPIT_TC_DRT_KBD_002...
+2025-06-20 00:26:07,623 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:07,623 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:07,624 | INFO |     Result               : Pass
+2025-06-20 00:26:08,157 | INFO |   ✅ Commented on OSV-3275: 'KPIT_TC_DRT_KBD_002.
+
+2025-06-20 00:26:08,492 | INFO | ⏳ Updating 'OSV-3490: KPIT_TC_DRT_KBD_003'...
+2025-06-20 00:26:08,492 | INFO |   🔄 Commenting on OSV-3490: 'KPIT_TC_DRT_KBD_003...
+2025-06-20 00:26:08,492 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:08,493 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:08,493 | INFO |     Result               : Pass
+2025-06-20 00:26:09,320 | INFO |   ✅ Commented on OSV-3490: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-20 00:26:09,688 | INFO | ⏳ Updating 'OSV-3286: KPIT_TC_DRT_KBD_004'...
+2025-06-20 00:26:09,689 | INFO |   🔄 Commenting on OSV-3286: 'KPIT_TC_DRT_KBD_004...
+2025-06-20 00:26:09,689 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:09,689 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:09,689 | INFO |     Result               : Pass
+2025-06-20 00:26:10,129 | INFO |   ✅ Commented on OSV-3286: 'KPIT_TC_DRT_KBD_004.
+
+2025-06-20 00:26:10,522 | INFO | ⏳ Updating 'OSV-3288: KPIT_TC_DRT_KBD_005'...
+2025-06-20 00:26:10,523 | INFO |   🔄 Commenting on OSV-3288: 'KPIT_TC_DRT_KBD_005...
+2025-06-20 00:26:10,523 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:10,523 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:10,523 | INFO |     Result               : Pass
+2025-06-20 00:26:11,358 | INFO |   ✅ Commented on OSV-3288: 'KPIT_TC_DRT_KBD_005.
+
+2025-06-20 00:26:11,717 | INFO | ⏳ Updating 'OSV-3287: KPIT_TC_DRT_KBD_011'...
+2025-06-20 00:26:11,717 | INFO |   🔄 Commenting on OSV-3287: 'KPIT_TC_DRT_KBD_011...
+2025-06-20 00:26:11,717 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:11,719 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:11,719 | INFO |     Result               : Pass
+2025-06-20 00:26:12,206 | INFO |   ✅ Commented on OSV-3287: 'KPIT_TC_DRT_KBD_011.
+
+2025-06-20 00:26:12,535 | INFO | ⏳ Updating 'OSV-3279: KPIT_TC_DRT_KBD_012'...
+2025-06-20 00:26:12,535 | INFO |   🔄 Commenting on OSV-3279: 'KPIT_TC_DRT_KBD_012...
+2025-06-20 00:26:12,535 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:12,547 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:12,547 | INFO |     Result               : Pass
+2025-06-20 00:26:12,950 | INFO |   ✅ Commented on OSV-3279: 'KPIT_TC_DRT_KBD_012.
+
+2025-06-20 00:26:13,311 | INFO | ⏳ Updating 'OSV-2777: KPIT_TC_DRT_KBD_013'...
+2025-06-20 00:26:13,311 | INFO |   🔄 Commenting on OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-20 00:26:13,312 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:13,312 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:13,313 | INFO |     Result               : Pass
+2025-06-20 00:26:13,789 | INFO |   ✅ Commented on OSV-2777: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-20 00:26:14,158 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-20 00:26:14,159 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-20 00:26:14,159 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:14,159 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:14,160 | INFO |     Result               : Pass
+2025-06-20 00:26:15,054 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-20 00:26:15,402 | INFO | ⏳ Updating 'OSV-3280: KPIT_TC_DRT_KBD_022'...
+2025-06-20 00:26:15,403 | INFO |   🔄 Commenting on OSV-3280: 'KPIT_TC_DRT_KBD_022...
+2025-06-20 00:26:15,403 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:15,404 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:15,405 | INFO |     Result               : Pass
+2025-06-20 00:26:15,803 | INFO |   ✅ Commented on OSV-3280: 'KPIT_TC_DRT_KBD_022.
+
+2025-06-20 00:26:16,152 | INFO | ⏳ Updating 'OSV-3276: KPIT_TC_DRT_KBD_023'...
+2025-06-20 00:26:16,153 | INFO |   🔄 Commenting on OSV-3276: 'KPIT_TC_DRT_KBD_023...
+2025-06-20 00:26:16,154 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:16,154 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:16,155 | INFO |     Result               : Pass
+2025-06-20 00:26:17,032 | INFO |   ✅ Commented on OSV-3276: 'KPIT_TC_DRT_KBD_023.
+
+2025-06-20 00:26:17,395 | INFO | ⏳ Updating 'OSV-3277: KPIT_TC_DRT_KBD_024'...
+2025-06-20 00:26:17,395 | INFO |   🔄 Commenting on OSV-3277: 'KPIT_TC_DRT_KBD_024...
+2025-06-20 00:26:17,395 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:17,395 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:17,396 | INFO |     Result               : Pass
+2025-06-20 00:26:17,834 | INFO |   ✅ Commented on OSV-3277: 'KPIT_TC_DRT_KBD_024.
+
+2025-06-20 00:26:18,186 | INFO | ⏳ Updating 'OSV-3281: KPIT_TC_DRT_KBD_031'...
+2025-06-20 00:26:18,186 | INFO |   🔄 Commenting on OSV-3281: 'KPIT_TC_DRT_KBD_031...
+2025-06-20 00:26:18,187 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:18,187 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:18,188 | INFO |     Result               : Pass
+2025-06-20 00:26:18,615 | INFO |   ✅ Commented on OSV-3281: 'KPIT_TC_DRT_KBD_031.
+
+2025-06-20 00:26:18,943 | INFO | ⏳ Updating 'OSV-3274: KPIT_TC_DRT_KBD_040'...
+2025-06-20 00:26:18,944 | INFO |   🔄 Commenting on OSV-3274: 'KPIT_TC_DRT_KBD_040...
+2025-06-20 00:26:18,945 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:18,945 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:18,946 | INFO |     Result               : Pass
+2025-06-20 00:26:19,401 | INFO |   ✅ Commented on OSV-3274: 'KPIT_TC_DRT_KBD_040.
+
+2025-06-20 00:26:19,758 | INFO | ⏳ Updating 'OSV-3278: KPIT_TC_DRT_KBD_041'...
+2025-06-20 00:26:19,759 | INFO |   🔄 Commenting on OSV-3278: 'KPIT_TC_DRT_KBD_041...
+2025-06-20 00:26:19,759 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:19,759 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:19,760 | INFO |     Result               : Pass
+2025-06-20 00:26:20,169 | INFO |   ✅ Commented on OSV-3278: 'KPIT_TC_DRT_KBD_041.
+
+2025-06-20 00:26:20,510 | INFO | ⏳ Updating 'OSV-3282: KPIT_TC_DRT_KBD_048'...
+2025-06-20 00:26:20,511 | INFO |   🔄 Commenting on OSV-3282: 'KPIT_TC_DRT_KBD_048...
+2025-06-20 00:26:20,511 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:20,512 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:20,512 | INFO |     Result               : Pass
+2025-06-20 00:26:20,965 | INFO |   ✅ Commented on OSV-3282: 'KPIT_TC_DRT_KBD_048.
+
+2025-06-20 00:26:21,331 | INFO | ⏳ Updating 'OSV-3272: KPIT_TC_DRT_KBD_054'...
+2025-06-20 00:26:21,331 | INFO |   🔄 Commenting on OSV-3272: 'KPIT_TC_DRT_KBD_054...
+2025-06-20 00:26:21,332 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:21,332 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:21,334 | INFO |     Result               : Pass
+2025-06-20 00:26:21,689 | INFO |   ✅ Commented on OSV-3272: 'KPIT_TC_DRT_KBD_054.
+
+2025-06-20 00:26:22,038 | INFO | ⏳ Updating 'OSV-3273: KPIT_TC_DRT_KBD_055'...
+2025-06-20 00:26:22,038 | INFO |   🔄 Commenting on OSV-3273: 'KPIT_TC_DRT_KBD_055...
+2025-06-20 00:26:22,039 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:22,040 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:22,041 | INFO |     Result               : Pass
+2025-06-20 00:26:22,482 | INFO |   ✅ Commented on OSV-3273: 'KPIT_TC_DRT_KBD_055.
+
+2025-06-20 00:26:22,833 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-20 00:26:22,834 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-20 00:26:22,835 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:22,835 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:22,836 | INFO |     Result               : Pass
+2025-06-20 00:26:23,277 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-20 00:26:23,638 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-20 00:26:23,639 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-20 00:26:23,639 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:23,640 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:23,641 | INFO |     Result               : Pass
+2025-06-20 00:26:24,043 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-20 00:26:24,385 | INFO | ⏳ Updating 'OSV-3007: KPIT_TC_DRT_SND_039'...
+2025-06-20 00:26:24,386 | INFO |   🔄 Commenting on OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-20 00:26:24,386 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:24,387 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:24,388 | INFO |     Result               : Pass
+2025-06-20 00:26:24,817 | INFO |   ✅ Commented on OSV-3007: 'KPIT_TC_DRT_SND_039.
+
+2025-06-20 00:26:25,161 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-20 00:26:25,162 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-20 00:26:25,162 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:25,162 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:25,162 | INFO |     Result               : Pass
+2025-06-20 00:26:25,570 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-20 00:26:25,903 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-20 00:26:25,904 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-20 00:26:25,904 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:25,905 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:25,905 | INFO |     Result               : Pass
+2025-06-20 00:26:26,410 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-20 00:26:26,745 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-20 00:26:26,745 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-20 00:26:26,745 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:26,746 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:26,746 | INFO |     Result               : Pass
+2025-06-20 00:26:27,588 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-20 00:26:27,927 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-20 00:26:27,928 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-20 00:26:27,928 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:27,929 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:27,929 | INFO |     Result               : Pass
+2025-06-20 00:26:28,431 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-20 00:26:28,852 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-20 00:26:28,853 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-20 00:26:28,853 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:28,854 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:28,854 | INFO |     Result               : Pass
+2025-06-20 00:26:29,666 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-20 00:26:30,018 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-20 00:26:30,019 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-20 00:26:30,019 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:30,020 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:30,020 | INFO |     Result               : Pass
+2025-06-20 00:26:30,512 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-20 00:26:30,851 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-20 00:26:30,852 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-20 00:26:30,852 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:30,852 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:30,854 | INFO |     Result               : Pass
+2025-06-20 00:26:31,337 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-20 00:26:31,662 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-20 00:26:31,663 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-20 00:26:31,663 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:31,664 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:31,664 | INFO |     Result               : Pass
+2025-06-20 00:26:32,158 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-20 00:26:32,539 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-20 00:26:32,540 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-20 00:26:32,540 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:32,541 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:32,541 | INFO |     Result               : Pass
+2025-06-20 00:26:32,998 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-20 00:26:33,331 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-20 00:26:33,331 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-20 00:26:33,332 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:33,332 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:33,332 | INFO |     Result               : Pass
+2025-06-20 00:26:34,167 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-20 00:26:34,498 | INFO | ⏳ Updating 'OSV-2775: KPIT_TC_DRT_VEH_002'...
+2025-06-20 00:26:34,499 | INFO |   🔄 Commenting on OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-20 00:26:34,500 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:34,500 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:34,501 | INFO |     Result               : Pass
+2025-06-20 00:26:34,974 | INFO |   ✅ Commented on OSV-2775: 'KPIT_TC_DRT_VEH_002.
+
+2025-06-20 00:26:35,345 | INFO | ⏳ Updating 'OSV-2782: KPIT_TC_DRT_VEH_059'...
+2025-06-20 00:26:35,346 | INFO |   🔄 Commenting on OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-20 00:26:35,346 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:35,347 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:35,347 | INFO |     Result               : Pass
+2025-06-20 00:26:35,764 | INFO |   ✅ Commented on OSV-2782: 'KPIT_TC_DRT_VEH_059.
+
+2025-06-20 00:26:35,765 | INFO | ⚠️ No OVN Failure ticket is raised for script: 'KPIT_TC_FNC_SSR_0396_0001' on 3rd June 2025.
+
+2025-06-20 00:26:36,130 | INFO | ⏳ Updating 'OSV-3008: KPIT_TC_DRT_BTA_021'...
+2025-06-20 00:26:36,131 | INFO |   🔄 Updating fields for OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 00:26:36,131 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:36,132 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:36,133 | INFO |     Root Cause Details : Play state validation failed.
+2025-06-20 00:26:36,133 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:36,812 | INFO |   ✅ Updated fields for OSV-3008: 'KPIT_TC_DRT_BTA_021.
+2025-06-20 00:26:36,813 | INFO |   🔄 Commenting on OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 00:26:36,813 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:36,813 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:36,814 | INFO |     Result               : Fail
+2025-06-20 00:26:36,814 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:36,815 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:36,815 | INFO |     Root Cause Details   : Play state validation failed.
+2025-06-20 00:26:36,816 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:37,350 | INFO |   ✅ Commented on OSV-3008: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-20 00:26:37,687 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-20 00:26:37,687 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 00:26:37,688 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:26:37,688 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:26:37,688 | INFO |     Root Cause Details : PJ04DEF00-506: BT Data Loading Issue 1. No Data is displayed for iPhone folder on iPhone Music screen.
+2025-06-20 00:26:37,689 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:38,709 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-20 00:26:38,714 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 00:26:38,715 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:38,715 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:38,715 | INFO |     Result               : Fail
+2025-06-20 00:26:38,716 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:26:38,716 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:26:38,716 | INFO |     Root Cause Details   : PJ04DEF00-506: BT Data Loading Issue 1. No Data is displayed for iPhone folder on iPhone Music screen.
+2025-06-20 00:26:38,717 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:39,128 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-20 00:26:39,439 | INFO | ⏳ Updating 'OSV-3010: KPIT_TC_DRT_IPD_1193'...
+2025-06-20 00:26:39,440 | INFO |   🔄 Updating fields for OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-20 00:26:39,440 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:39,441 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:39,441 | INFO |     Root Cause Details : iPod disconnected.
+2025-06-20 00:26:39,441 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:40,269 | INFO |   ✅ Updated fields for OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+2025-06-20 00:26:40,270 | INFO |   🔄 Commenting on OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-20 00:26:40,270 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:40,271 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:40,271 | INFO |     Result               : Fail
+2025-06-20 00:26:40,272 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:40,272 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:40,273 | INFO |     Root Cause Details   : iPod disconnected.
+2025-06-20 00:26:40,273 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:40,768 | INFO |   ✅ Commented on OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+
+2025-06-20 00:26:41,167 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-20 00:26:41,167 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 00:26:41,168 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:41,168 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:41,168 | INFO |     Root Cause Details : Do_not_show_this_again is not get selected on Profile Setup Notification in B-zone, Even if the robot click performed.
+2025-06-20 00:26:41,168 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:42,011 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-20 00:26:42,012 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 00:26:42,012 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:42,013 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:42,013 | INFO |     Result               : Fail
+2025-06-20 00:26:42,014 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:42,014 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:42,015 | INFO |     Root Cause Details   : Do_not_show_this_again is not get selected on Profile Setup Notification in B-zone, Even if the robot click performed.
+2025-06-20 00:26:42,015 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:42,543 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-20 00:26:42,870 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-20 00:26:42,870 | INFO |   🔄 Updating fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-20 00:26:42,871 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:42,871 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:42,872 | INFO |     Root Cause Details : Failed to click on AA_A1_Song.png, Unable to find reference image on actual grab image.
+2025-06-20 00:26:42,872 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:43,571 | INFO |   ✅ Updated fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+2025-06-20 00:26:43,572 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-20 00:26:43,573 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:43,573 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:43,574 | INFO |     Result               : Fail
+2025-06-20 00:26:43,574 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:43,575 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:43,575 | INFO |     Root Cause Details   : Failed to click on AA_A1_Song.png, Unable to find reference image on actual grab image.
+2025-06-20 00:26:43,576 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:44,077 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-20 00:26:44,430 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-20 00:26:44,430 | INFO |   🔄 Updating fields for OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-20 00:26:44,431 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:44,433 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:44,433 | INFO |     Root Cause Details : Audio Validation for Music1_Folder1 failed.
+2025-06-20 00:26:44,433 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:45,281 | INFO |   ✅ Updated fields for OSV-2488: 'KPIT_TC_DRT_USB_060.
+2025-06-20 00:26:45,282 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-20 00:26:45,283 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:45,283 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:45,284 | INFO |     Result               : Fail
+2025-06-20 00:26:45,284 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:45,284 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:45,285 | INFO |     Root Cause Details   : Audio Validation for Music1_Folder1 failed.
+2025-06-20 00:26:45,285 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:45,808 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-20 00:26:46,186 | INFO | ⏳ Updating 'OSV-3011: KPIT_TC_DRT_USB_1245'...
+2025-06-20 00:26:46,187 | INFO |   🔄 Updating fields for OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-20 00:26:46,188 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:46,188 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:46,189 | INFO |     Root Cause Details : iPod disconnected.
+2025-06-20 00:26:46,190 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:47,057 | INFO |   ✅ Updated fields for OSV-3011: 'KPIT_TC_DRT_USB_1245.
+2025-06-20 00:26:47,058 | INFO |   🔄 Commenting on OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-20 00:26:47,058 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:47,059 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:47,059 | INFO |     Result               : Fail
+2025-06-20 00:26:47,060 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:47,061 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:47,061 | INFO |     Root Cause Details   : iPod disconnected.
+2025-06-20 00:26:47,062 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:47,920 | INFO |   ✅ Commented on OSV-3011: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-20 00:26:48,292 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-20 00:26:48,292 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 00:26:48,293 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:48,293 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:48,294 | INFO |     Root Cause Details : Audio Validation for Music1_Folder1 failed.
+2025-06-20 00:26:48,294 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:49,102 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-20 00:26:49,102 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 00:26:49,103 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:49,103 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:49,104 | INFO |     Result               : Fail
+2025-06-20 00:26:49,104 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:49,104 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:49,106 | INFO |     Root Cause Details   : Audio Validation for Music1_Folder1 failed.
+2025-06-20 00:26:49,106 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:49,519 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-20 00:26:49,876 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-20 00:26:49,876 | INFO |   🔄 Updating fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-20 00:26:49,876 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:26:49,877 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:49,877 | INFO |     Root Cause Details : Android Auto disconnected, Post ACC cycle.
+2025-06-20 00:26:49,878 | INFO |     Fixation Performed : NA
+2025-06-20 00:26:50,677 | INFO |   ✅ Updated fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-20 00:26:50,677 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-20 00:26:50,678 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:26:50,678 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:26:50,679 | INFO |     Result               : Fail
+2025-06-20 00:26:50,679 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:26:50,680 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:26:50,680 | INFO |     Root Cause Details   : Android Auto disconnected, Post ACC cycle.
+2025-06-20 00:26:50,681 | INFO |     Fixation Performed   : NA
+2025-06-20 00:26:51,083 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+

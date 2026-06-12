@@ -1,0 +1,323 @@
+2026-01-17 15:19:22 | 🚀 Jira Update Started.
+
+2026-01-17 15:19:22 | ⏳ Updating    		            : DRT-4778 ('KPIT_TC_DRT_SND_009')
+2026-01-17 15:19:22 |   🔄 Updating fields          : DRT-4778 ('KPIT_TC_DRT_SND_009')
+2026-01-17 15:19:23 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:23 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Once)']
+2026-01-17 15:19:23 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:23 |     Fixation Performed        : NA
+2026-01-17 15:19:24 |   ✅ Updated fields           : DRT-4778 ('KPIT_TC_DRT_SND_009')
+2026-01-17 15:19:24 |   🔄 Commenting               : DRT-4778 ('KPIT_TC_DRT_SND_009')
+2026-01-17 15:19:24 |     Date                      : 2026-01-16
+2026-01-17 15:19:24 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:24 |     Result                    : Fail
+2026-01-17 15:19:24 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:24 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:24 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:24 |     Fixation Performed        : NA
+2026-01-17 15:19:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:24 |     Reviewer                  : Rajashri
+2026-01-17 15:19:25 |   🔄 Commented                : DRT-4778 ('KPIT_TC_DRT_SND_009') | Comment ID: 143938
+
+2026-01-17 15:19:25 | ⏳ Updating    		            : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-17 15:19:25 |   🔄 Updating fields          : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-17 15:19:25 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:25 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:25 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:25 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:25 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:26 |   ✅ Updated fields           : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-17 15:19:26 |   🔄 Commenting               : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-01-17 15:19:26 |     Date                      : 2026-01-16
+2026-01-17 15:19:26 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:26 |     Result                    : Fail
+2026-01-17 15:19:26 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:26 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:26 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:26 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:26 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:26 |     Reviewer                  : Rajashri
+2026-01-17 15:19:27 |   🔄 Commented                : DRT-4715 ('KPIT_TC_DRT_LMG_009') | Comment ID: 143939
+
+2026-01-17 15:19:27 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-17 15:19:27 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-17 15:19:27 |     Failure Category          : KITE Issue
+2026-01-17 15:19:27 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:27 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:27 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:28 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:28 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-17 15:19:28 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-01-17 15:19:28 |     Date                      : 2026-01-16
+2026-01-17 15:19:28 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:28 |     Result                    : Fail
+2026-01-17 15:19:28 |     Failure Category          : KITE Issue
+2026-01-17 15:19:28 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:28 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:28 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:28 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:28 |     Reviewer                  : Rajashri
+2026-01-17 15:19:29 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 143940
+
+2026-01-17 15:19:29 | ⏳ Updating    		            : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-17 15:19:29 |   🔄 Updating fields          : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-17 15:19:29 |     Failure Category          : KITE Issue
+2026-01-17 15:19:29 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:29 |     Previous Failure Category : ['Test Env Issue']
+2026-01-17 15:19:29 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:29 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:30 |   ✅ Updated fields           : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-17 15:19:30 |   🔄 Commenting               : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-01-17 15:19:30 |     Date                      : 2026-01-16
+2026-01-17 15:19:30 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:30 |     Result                    : Fail
+2026-01-17 15:19:30 |     Failure Category          : KITE Issue
+2026-01-17 15:19:30 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:30 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:30 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:30 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:30 |     Reviewer                  : Rajashri
+2026-01-17 15:19:31 |   🔄 Commented                : DRT-3932 ('KPIT_TC_DRT_VEND_006') | Comment ID: 143941
+
+2026-01-17 15:19:32 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-17 15:19:32 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-17 15:19:32 |     Failure Category          : KITE Issue
+2026-01-17 15:19:32 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:32 |     Previous Failure Category : ['Test Env Issue']
+2026-01-17 15:19:32 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:32 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:33 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-17 15:19:33 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-01-17 15:19:33 |     Date                      : 2026-01-16
+2026-01-17 15:19:33 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:33 |     Result                    : Fail
+2026-01-17 15:19:33 |     Failure Category          : KITE Issue
+2026-01-17 15:19:33 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:33 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:33 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:33 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:33 |     Reviewer                  : Rajashri
+2026-01-17 15:19:34 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 143942
+
+2026-01-17 15:19:34 | ⏳ Updating    		            : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-17 15:19:35 |   🔄 Updating fields          : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-17 15:19:35 |     Failure Category          : KITE Issue
+2026-01-17 15:19:35 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:35 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:35 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:35 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:36 |   ✅ Updated fields           : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-17 15:19:36 |   🔄 Commenting               : DRT-2615 ('KPIT_TC_DRT_LMG_012')
+2026-01-17 15:19:36 |     Date                      : 2026-01-16
+2026-01-17 15:19:36 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:36 |     Result                    : Fail
+2026-01-17 15:19:36 |     Failure Category          : KITE Issue
+2026-01-17 15:19:36 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:36 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:36 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:36 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:36 |     Reviewer                  : Rajashri
+2026-01-17 15:19:36 |   🔄 Commented                : DRT-2615 ('KPIT_TC_DRT_LMG_012') | Comment ID: 143943
+
+2026-01-17 15:19:36 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-17 15:19:36 |   🔄 Updating fields          : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-17 15:19:36 |     Failure Category          : KITE Issue
+2026-01-17 15:19:36 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:36 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:36 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:36 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:37 |   ✅ Updated fields           : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-17 15:19:37 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-01-17 15:19:37 |     Date                      : 2026-01-16
+2026-01-17 15:19:37 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:37 |     Result                    : Fail
+2026-01-17 15:19:37 |     Failure Category          : KITE Issue
+2026-01-17 15:19:37 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:37 |     Root Cause Details        : VERIFY_TEXT_BY_TEXT  command failed even of the text present on Phone.
+2026-01-17 15:19:37 |     Fixation Performed        : Replaced withCommand OCR_VERIFY_TEXT_BY_RECT.
+2026-01-17 15:19:37 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:37 |     Reviewer                  : Rajashri
+2026-01-17 15:19:38 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 143944
+
+2026-01-17 15:19:38 | ⏳ Updating    		            : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-17 15:19:39 |   🔄 Updating fields          : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-17 15:19:39 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:39 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:39 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:39 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:40 |   ✅ Updated fields           : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-17 15:19:40 |   🔄 Commenting               : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-01-17 15:19:40 |     Date                      : 2026-01-16
+2026-01-17 15:19:40 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:40 |     Result                    : Fail
+2026-01-17 15:19:40 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:40 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:40 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:40 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:40 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:40 |     Reviewer                  : Rajashri
+2026-01-17 15:19:40 |   🔄 Commented                : DRT-2308 ('KPIT_TC_DRT_BZA_005') | Comment ID: 143945
+
+2026-01-17 15:19:41 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-17 15:19:41 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-17 15:19:41 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:41 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:41 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:41 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:41 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:42 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-17 15:19:42 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-01-17 15:19:42 |     Date                      : 2026-01-16
+2026-01-17 15:19:42 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:42 |     Result                    : Fail
+2026-01-17 15:19:42 |     Failure Category          : Test Env Issue
+2026-01-17 15:19:42 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-17 15:19:42 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2026-01-17 15:19:42 |     Fixation Performed        : Added steps for unpairing devices from Phone post test steps.
+2026-01-17 15:19:42 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:42 |     Reviewer                  : Rajashri
+2026-01-17 15:19:43 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 143946
+
+2026-01-17 15:19:43 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-17 15:19:43 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-17 15:19:43 |     Failure Category          : TS Issue
+2026-01-17 15:19:43 |     Failure Sub Category      : Other TS Failed
+2026-01-17 15:19:43 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:43 |     Root Cause Details        : Failed to disconnect Wired AA in other script.
+2026-01-17 15:19:43 |     Fixation Performed        : NA
+2026-01-17 15:19:44 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-17 15:19:44 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-01-17 15:19:44 |     Date                      : 2026-01-16
+2026-01-17 15:19:44 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:44 |     Result                    : Fail
+2026-01-17 15:19:44 |     Failure Category          : TS Issue
+2026-01-17 15:19:44 |     Failure Sub Category      : Other TS Failed
+2026-01-17 15:19:44 |     Root Cause Details        : Failed to disconnect Wired AA in other script.
+2026-01-17 15:19:44 |     Fixation Performed        : NA
+2026-01-17 15:19:44 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:44 |     Reviewer                  : Rajashri
+2026-01-17 15:19:44 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 143947
+
+2026-01-17 15:19:45 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-17 15:19:45 |   🔄 Updating fields          : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-17 15:19:45 |     Failure Category          : KITE Issue
+2026-01-17 15:19:45 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:45 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-01-17 15:19:45 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:45 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:46 |   ✅ Updated fields           : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-17 15:19:46 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-17 15:19:46 |     Date                      : 2026-01-16
+2026-01-17 15:19:46 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:46 |     Result                    : Fail
+2026-01-17 15:19:46 |     Failure Category          : KITE Issue
+2026-01-17 15:19:46 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:46 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:46 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:46 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:46 |     Reviewer                  : Rajashri
+2026-01-17 15:19:47 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 143948
+
+2026-01-17 15:19:47 | ⏳ Updating    		            : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-17 15:19:47 |   🔄 Updating fields          : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-17 15:19:47 |     Failure Category          : KITE Issue
+2026-01-17 15:19:47 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:47 |     Previous Failure Category : ['Test Env Issue']
+2026-01-17 15:19:47 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:47 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:48 |   ✅ Updated fields           : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-17 15:19:48 |   🔄 Commenting               : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-01-17 15:19:48 |     Date                      : 2026-01-16
+2026-01-17 15:19:48 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:48 |     Result                    : Fail
+2026-01-17 15:19:48 |     Failure Category          : KITE Issue
+2026-01-17 15:19:48 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:48 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:48 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:48 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:48 |     Reviewer                  : Rajashri
+2026-01-17 15:19:49 |   🔄 Commented                : DRT-2139 ('KPIT_TC_DRT_BZA_013') | Comment ID: 143949
+
+2026-01-17 15:19:49 | ⏳ Updating    		            : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-17 15:19:49 |   🔄 Updating fields          : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-17 15:19:49 |     Failure Category          : KITE Issue
+2026-01-17 15:19:49 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:49 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-01-17 15:19:49 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:49 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:50 |   ✅ Updated fields           : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-17 15:19:50 |   🔄 Commenting               : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-01-17 15:19:50 |     Date                      : 2026-01-16
+2026-01-17 15:19:50 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:50 |     Result                    : Fail
+2026-01-17 15:19:50 |     Failure Category          : KITE Issue
+2026-01-17 15:19:50 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:50 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:50 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:50 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:50 |     Reviewer                  : Rajashri
+2026-01-17 15:19:51 |   🔄 Commented                : DRT-1859 ('KPIT_TC_DRT_LMG_024') | Comment ID: 143950
+
+2026-01-17 15:19:51 | ⏳ Updating    		            : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-01-17 15:19:51 |   🔄 Updating fields          : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-01-17 15:19:51 |     Failure Category          : KITE Issue
+2026-01-17 15:19:51 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:51 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-17 15:19:51 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:51 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:52 |   ✅ Updated fields           : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-01-17 15:19:52 |   🔄 Commenting               : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-01-17 15:19:52 |     Date                      : 2026-01-16
+2026-01-17 15:19:52 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:52 |     Result                    : Fail
+2026-01-17 15:19:52 |     Failure Category          : KITE Issue
+2026-01-17 15:19:52 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:52 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:52 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:52 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:52 |     Reviewer                  : Rajashri
+2026-01-17 15:19:53 |   🔄 Commented                : DRT-1811 ('KPIT_TC_DRT_BT_003') | Comment ID: 143951
+
+2026-01-17 15:19:53 | ⏳ Updating    		            : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-01-17 15:19:53 |   🔄 Updating fields          : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-01-17 15:19:53 |     Failure Category          : KITE Issue
+2026-01-17 15:19:53 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:53 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-01-17 15:19:53 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:53 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:54 |   ✅ Updated fields           : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-01-17 15:19:54 |   🔄 Commenting               : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-01-17 15:19:54 |     Date                      : 2026-01-16
+2026-01-17 15:19:54 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:54 |     Result                    : Fail
+2026-01-17 15:19:54 |     Failure Category          : KITE Issue
+2026-01-17 15:19:54 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:54 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:54 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:54 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:54 |     Reviewer                  : Rajashri
+2026-01-17 15:19:54 |   🔄 Commented                : DRT-1809 ('KPIT_TC_DRT_LMG_021') | Comment ID: 143952
+
+2026-01-17 15:19:55 | ⏳ Updating    		            : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-17 15:19:55 |   🔄 Updating fields          : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-17 15:19:55 |     Failure Category          : KITE Issue
+2026-01-17 15:19:55 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:55 |     Previous Failure Category : ['Test Env Issue']
+2026-01-17 15:19:55 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:55 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:56 |   ✅ Updated fields           : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-17 15:19:56 |   🔄 Commenting               : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-01-17 15:19:56 |     Date                      : 2026-01-16
+2026-01-17 15:19:56 |     Build Number              : AEA1415R0.260116.1
+2026-01-17 15:19:56 |     Result                    : Fail
+2026-01-17 15:19:56 |     Failure Category          : KITE Issue
+2026-01-17 15:19:56 |     Failure Sub Category      : KITE Application Issue
+2026-01-17 15:19:56 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-17 15:19:56 |     Fixation Performed        : Installed and replaced Kite apk and appium apks given by kite team for android 16.
+2026-01-17 15:19:56 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-17 15:19:56 |     Reviewer                  : Rajashri
+2026-01-17 15:19:56 |   🔄 Commented                : DRT-1800 ('KPIT_TC_DRT_BT_002') | Comment ID: 143953
+
+2026-01-17 15:19:57 | ✅ Jira Update Completed.

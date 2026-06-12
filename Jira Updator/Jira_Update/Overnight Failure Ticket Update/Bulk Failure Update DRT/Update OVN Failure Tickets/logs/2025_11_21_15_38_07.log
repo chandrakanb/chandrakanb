@@ -1,0 +1,19 @@
+2025-11-21 15:38:10,640 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-11-21 15:38:10,642 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-11-21 15:38:10,642 | INFO |     Failure Category : Test Env Issue
+2025-11-21 15:38:10,642 | INFO |     Failure Sub Category : External Application Issue
+2025-11-21 15:38:10,643 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-11-21 15:38:10,643 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-21 15:38:10,644 | INFO |     Fixation Performed : NA
+2025-11-21 15:38:10,644 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-21 15:38:10,645 | INFO |     Reviewer : Rajashri
+2025-11-21 15:38:11,488 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-11-21 15:38:11,490 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-11-21 15:38:11,490 | INFO |     Date AEA1412S1.251106.1  : 2025-11-06
+2025-11-21 15:38:11,490 | INFO |     Result : Fail
+2025-11-21 15:38:11,490 | INFO |     Failure Category : Test Env Issue
+2025-11-21 15:38:11,491 | INFO |     Failure Sub Category : External Application Issue
+2025-11-21 15:38:11,491 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-21 15:38:11,491 | INFO |     Fixation Performed : NA
+2025-11-21 15:38:12,006 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+

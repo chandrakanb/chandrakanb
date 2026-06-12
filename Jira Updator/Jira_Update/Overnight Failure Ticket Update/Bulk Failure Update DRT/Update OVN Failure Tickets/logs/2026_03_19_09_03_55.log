@@ -1,0 +1,4 @@
+2026-03-19 09:03:57,755 | ERROR | [ERROR] Could not process A15-3448: 'KPIT_TC_DRT_USB_132 : name 'current_failure_category_values' is not defined.
+
+2026-03-19 09:03:57,757 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

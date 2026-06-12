@@ -1,0 +1,359 @@
+2026-02-05 00:53:07 | 🚀 Jira Update Started.
+
+2026-02-05 00:53:08 | ⏳ Updating    		            : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-05 00:53:08 |   🔄 Updating fields          : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-05 00:53:08 |     Failure Category          : ICB Issue (Once)
+2026-02-05 00:53:08 |     Failure Sub Category      : Once Seen
+2026-02-05 00:53:08 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Always)']
+2026-02-05 00:53:08 |     Root Cause Details        : High brightness post ACC cycle.
+2026-02-05 00:53:08 |     Fixation Performed        : Reconnected CAN Hardware.
+2026-02-05 00:53:10 |   ✅ Updated fields           : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-05 00:53:10 |   🔄 Commenting               : DRT-2296 ('KPIT_TC_DRT_MET_078')
+2026-02-05 00:53:10 |     Date                      : 2026-02-04
+2026-02-05 00:53:10 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:10 |     Result                    : Fail
+2026-02-05 00:53:10 |     Failure Category          : ICB Issue (Once)
+2026-02-05 00:53:10 |     Failure Sub Category      : Once Seen
+2026-02-05 00:53:10 |     Root Cause Details        : High brightness post ACC cycle.
+2026-02-05 00:53:10 |     Fixation Performed        : Reconnected CAN Hardware.
+2026-02-05 00:53:10 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:10 |     Reviewer                  : Rajashri
+2026-02-05 00:53:11 |   🔄 Commented                : DRT-2296 ('KPIT_TC_DRT_MET_078') | Comment ID: 153927
+
+2026-02-05 00:53:12 | ⏳ Updating    		            : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-05 00:53:12 |   🔄 Updating fields          : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-05 00:53:12 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:12 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:12 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-05 00:53:12 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-05 00:53:12 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-05 00:53:13 |   ✅ Updated fields           : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-05 00:53:13 |   🔄 Commenting               : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-05 00:53:13 |     Date                      : 2026-02-04
+2026-02-05 00:53:13 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:13 |     Result                    : Fail
+2026-02-05 00:53:13 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:13 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:13 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-05 00:53:13 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-05 00:53:13 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:13 |     Reviewer                  : Rajashri
+2026-02-05 00:53:14 |   🔄 Commented                : DRT-1815 ('KPIT_TC_DRT_HAC_043') | Comment ID: 153928
+
+2026-02-05 00:53:15 | ⏳ Updating    		            : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-05 00:53:15 |   🔄 Updating fields          : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-05 00:53:15 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:15 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:15 |     Previous Failure Category : ['Test Env Issue']
+2026-02-05 00:53:15 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-05 00:53:15 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-05 00:53:17 |   ✅ Updated fields           : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-05 00:53:17 |   🔄 Commenting               : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-05 00:53:17 |     Date                      : 2026-02-04
+2026-02-05 00:53:17 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:17 |     Result                    : Fail
+2026-02-05 00:53:17 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:17 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:17 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Alexa not initiated.
+2026-02-05 00:53:17 |     Fixation Performed        : Added wait time before PLAY_VR_COMMAND_BY_TEXT command.
+2026-02-05 00:53:17 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:17 |     Reviewer                  : Rajashri
+2026-02-05 00:53:18 |   🔄 Commented                : DRT-5020 ('KPIT_TC_DRT_SRW_018') | Comment ID: 153929
+
+2026-02-05 00:53:18 | ⏳ Updating    		            : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-05 00:53:18 |   🔄 Updating fields          : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-05 00:53:18 |     Failure Category          : KITE Issue
+2026-02-05 00:53:18 |     Failure Sub Category      : KITE Application Issue
+2026-02-05 00:53:18 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-05 00:53:18 |     Root Cause Details        : "KITE Internal Error" for CAPTURE_SCREEN command for Phone8.
+2026-02-05 00:53:18 |     Fixation Performed        : Added FB "Adb Over WiFi Connection for Android Auto Phone8" after disconneting Android Auto Device.
+2026-02-05 00:53:19 |   ✅ Updated fields           : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-05 00:53:19 |   🔄 Commenting               : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-05 00:53:19 |     Date                      : 2026-02-04
+2026-02-05 00:53:19 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:19 |     Result                    : Fail
+2026-02-05 00:53:19 |     Failure Category          : KITE Issue
+2026-02-05 00:53:19 |     Failure Sub Category      : KITE Application Issue
+2026-02-05 00:53:19 |     Root Cause Details        : "KITE Internal Error" for CAPTURE_SCREEN command for Phone8.
+2026-02-05 00:53:19 |     Fixation Performed        : Added FB "Adb Over WiFi Connection for Android Auto Phone8" after disconneting Android Auto Device.
+2026-02-05 00:53:19 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:19 |     Reviewer                  : Rajashri
+2026-02-05 00:53:21 |   🔄 Commented                : DRT-4715 ('KPIT_TC_DRT_LMG_009') | Comment ID: 153930
+
+2026-02-05 00:53:21 | ⏳ Updating    		            : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-02-05 00:53:21 |   🔄 Updating fields          : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-02-05 00:53:21 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:21 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:21 |     Previous Failure Category : ['Test Env Issue']
+2026-02-05 00:53:21 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:21 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:23 |   ✅ Updated fields           : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-02-05 00:53:23 |   🔄 Commenting               : DRT-3932 ('KPIT_TC_DRT_VEND_006')
+2026-02-05 00:53:23 |     Date                      : 2026-02-04
+2026-02-05 00:53:23 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:23 |     Result                    : Fail
+2026-02-05 00:53:23 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:23 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:23 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:23 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:23 |     Reviewer                  : Rajashri
+2026-02-05 00:53:23 |   🔄 Commented                : DRT-3932 ('KPIT_TC_DRT_VEND_006') | Comment ID: 153931
+
+2026-02-05 00:53:24 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-05 00:53:24 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-05 00:53:24 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:24 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:24 |     Previous Failure Category : ['Test Env Issue']
+2026-02-05 00:53:24 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:24 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:26 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-05 00:53:26 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-05 00:53:26 |     Date                      : 2026-02-04
+2026-02-05 00:53:26 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:26 |     Result                    : Fail
+2026-02-05 00:53:26 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:26 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:26 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:26 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:26 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:26 |     Reviewer                  : Rajashri
+2026-02-05 00:53:27 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 153932
+
+2026-02-05 00:53:27 | ⏳ Updating    		            : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-02-05 00:53:27 |   🔄 Updating fields          : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-02-05 00:53:27 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:27 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:27 |     Previous Failure Category : ['Test Env Issue']
+2026-02-05 00:53:27 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:27 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:29 |   ✅ Updated fields           : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-02-05 00:53:29 |   🔄 Commenting               : DRT-2139 ('KPIT_TC_DRT_BZA_013')
+2026-02-05 00:53:29 |     Date                      : 2026-02-04
+2026-02-05 00:53:29 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:29 |     Result                    : Fail
+2026-02-05 00:53:29 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:29 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:29 |     Root Cause Details        : "Your phone is unable to connect to the wireless access point in your vehicle. Please check wireless settings." Popup displayed while connecting wireless android auto.
+2026-02-05 00:53:29 |     Fixation Performed        : Reinstalled Android Auto from Playstore.
+2026-02-05 00:53:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-05 00:53:29 |     Reviewer                  : Rajashri
+2026-02-05 00:53:30 |   🔄 Commented                : DRT-2139 ('KPIT_TC_DRT_BZA_013') | Comment ID: 153933
+
+2026-02-05 00:53:30 | ⏳ Updating    		            : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-02-05 00:53:30 |   🔄 Updating fields          : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-02-05 00:53:30 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:30 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:30 |     Previous Failure Category : ['TS Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-02-05 00:53:30 |     Root Cause Details        : Active BT Pairing for Phone5 failed, with "Connection not successful. Check the set date and time on the vehicle and try again. (E-006)" Popup came.
+2026-02-05 00:53:30 |     Fixation Performed        : NA
+2026-02-05 00:53:31 |   ✅ Updated fields           : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-02-05 00:53:31 |   🔄 Commenting               : DRT-1811 ('KPIT_TC_DRT_BT_003')
+2026-02-05 00:53:31 |     Date                      : 2026-02-04
+2026-02-05 00:53:31 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:31 |     Result                    : Fail
+2026-02-05 00:53:31 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:31 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:31 |     Root Cause Details        : Active BT Pairing for Phone5 failed, with "Connection not successful. Check the set date and time on the vehicle and try again. (E-006)" Popup came.
+2026-02-05 00:53:31 |     Fixation Performed        : NA
+2026-02-05 00:53:31 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:31 |     Reviewer                  : Rajashri
+2026-02-05 00:53:32 |   🔄 Commented                : DRT-1811 ('KPIT_TC_DRT_BT_003') | Comment ID: 153934
+
+2026-02-05 00:53:33 | ⏳ Updating    		            : DRT-2042 ('KPIT_TC_DRT_BT_034')
+2026-02-05 00:53:33 |   🔄 Updating fields          : DRT-2042 ('KPIT_TC_DRT_BT_034')
+2026-02-05 00:53:33 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:33 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:33 |     Previous Failure Category : ['Human Error', 'KITE Issue', 'Test Env Issue']
+2026-02-05 00:53:33 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence validate empty device list screen failed.
+2026-02-05 00:53:33 |     Fixation Performed        : NA
+2026-02-05 00:53:34 |   ✅ Updated fields           : DRT-2042 ('KPIT_TC_DRT_BT_034')
+2026-02-05 00:53:34 |   🔄 Commenting               : DRT-2042 ('KPIT_TC_DRT_BT_034')
+2026-02-05 00:53:34 |     Date                      : 2026-02-04
+2026-02-05 00:53:34 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:34 |     Result                    : Fail
+2026-02-05 00:53:34 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:34 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:34 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence validate empty device list screen failed.
+2026-02-05 00:53:34 |     Fixation Performed        : NA
+2026-02-05 00:53:34 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:34 |     Reviewer                  : Rajashri
+2026-02-05 00:53:35 |   🔄 Commented                : DRT-2042 ('KPIT_TC_DRT_BT_034') | Comment ID: 153935
+
+2026-02-05 00:53:36 | ⏳ Updating    		            : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-02-05 00:53:36 |   🔄 Updating fields          : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-02-05 00:53:36 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:36 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:36 |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2026-02-05 00:53:36 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence Android Auto Information Popup came in between this TS.
+2026-02-05 00:53:36 |     Fixation Performed        : NA
+2026-02-05 00:53:36 |   ✅ Updated fields           : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-02-05 00:53:36 |   🔄 Commenting               : DRT-1800 ('KPIT_TC_DRT_BT_002')
+2026-02-05 00:53:36 |     Date                      : 2026-02-04
+2026-02-05 00:53:36 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:36 |     Result                    : Fail
+2026-02-05 00:53:36 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:36 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:36 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence Android Auto Information Popup came in between this TS.
+2026-02-05 00:53:37 |     Fixation Performed        : NA
+2026-02-05 00:53:37 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:37 |     Reviewer                  : Rajashri
+2026-02-05 00:53:37 |   🔄 Commented                : DRT-1800 ('KPIT_TC_DRT_BT_002') | Comment ID: 153936
+
+2026-02-05 00:53:38 | ⏳ Updating    		            : DRT-1818 ('KPIT_TC_DRT_BT_033')
+2026-02-05 00:53:38 |   🔄 Updating fields          : DRT-1818 ('KPIT_TC_DRT_BT_033')
+2026-02-05 00:53:38 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:38 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:38 |     Previous Failure Category : ['Human Error', 'ICB Issue (Once)', 'Test Env Issue', 'ICB Issue (Always)']
+2026-02-05 00:53:38 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Auto Phone2 Device, Hence Phone2 and Phone1 BT Connection failed.
+2026-02-05 00:53:38 |     Fixation Performed        : NA
+2026-02-05 00:53:39 |   ✅ Updated fields           : DRT-1818 ('KPIT_TC_DRT_BT_033')
+2026-02-05 00:53:39 |   🔄 Commenting               : DRT-1818 ('KPIT_TC_DRT_BT_033')
+2026-02-05 00:53:39 |     Date                      : 2026-02-04
+2026-02-05 00:53:39 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:39 |     Result                    : Fail
+2026-02-05 00:53:39 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:39 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Auto Phone2 Device, Hence Phone2 and Phone1 BT Connection failed.
+2026-02-05 00:53:39 |     Fixation Performed        : NA
+2026-02-05 00:53:39 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:39 |     Reviewer                  : Rajashri
+2026-02-05 00:53:40 |   🔄 Commented                : DRT-1818 ('KPIT_TC_DRT_BT_033') | Comment ID: 153937
+
+2026-02-05 00:53:40 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-05 00:53:41 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-05 00:53:41 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:41 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:41 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-05 00:53:41 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-05 00:53:41 |     Fixation Performed        : NA
+2026-02-05 00:53:42 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-05 00:53:42 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-05 00:53:42 |     Date                      : 2026-02-04
+2026-02-05 00:53:42 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:42 |     Result                    : Fail
+2026-02-05 00:53:42 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:42 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:42 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-05 00:53:42 |     Fixation Performed        : NA
+2026-02-05 00:53:42 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-02-05 00:53:42 |     Reviewer                  : Rajashri
+2026-02-05 00:53:42 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 153938
+
+2026-02-05 00:53:43 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-05 00:53:43 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-05 00:53:43 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:43 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:43 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-05 00:53:43 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-05 00:53:43 |     Fixation Performed        : NA
+2026-02-05 00:53:44 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-05 00:53:44 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-05 00:53:44 |     Date                      : 2026-02-04
+2026-02-05 00:53:44 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:44 |     Result                    : Fail
+2026-02-05 00:53:44 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:45 |     Failure Sub Category      : External Application Issue
+2026-02-05 00:53:45 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-05 00:53:45 |     Fixation Performed        : NA
+2026-02-05 00:53:45 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-02-05 00:53:45 |     Reviewer                  : Rajashri
+2026-02-05 00:53:45 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 153939
+
+2026-02-05 00:53:46 | ⏳ Updating    		            : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-05 00:53:46 |   🔄 Updating fields          : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-05 00:53:46 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:46 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:46 |     Previous Failure Category : ['Human Error', 'KITE Issue', 'Test Env Issue', 'ICB Issue (Once)']
+2026-02-05 00:53:46 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Auto Phone2 Device, Hence Phone2 and Phone1 BT Connection failed.
+2026-02-05 00:53:46 |     Fixation Performed        : NA
+2026-02-05 00:53:47 |   ✅ Updated fields           : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-05 00:53:47 |   🔄 Commenting               : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-05 00:53:47 |     Date                      : 2026-02-04
+2026-02-05 00:53:47 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:47 |     Result                    : Fail
+2026-02-05 00:53:47 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:47 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:47 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Auto Phone2 Device, Hence Phone2 and Phone1 BT Connection failed.
+2026-02-05 00:53:47 |     Fixation Performed        : NA
+2026-02-05 00:53:47 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:47 |     Reviewer                  : Rajashri
+2026-02-05 00:53:48 |   🔄 Commented                : DRT-2140 ('KPIT_TC_DRT_BTA_052') | Comment ID: 153940
+
+2026-02-05 00:53:48 | ⏳ Updating    		            : DRT-1820 ('KPIT_TC_DRT_BT_010')
+2026-02-05 00:53:48 |   🔄 Updating fields          : DRT-1820 ('KPIT_TC_DRT_BT_010')
+2026-02-05 00:53:48 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:48 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:48 |     Previous Failure Category : ['Human Error', 'Test Env Issue']
+2026-02-05 00:53:48 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence validate empty device list screen failed.
+2026-02-05 00:53:48 |     Fixation Performed        : NA
+2026-02-05 00:53:50 |   ✅ Updated fields           : DRT-1820 ('KPIT_TC_DRT_BT_010')
+2026-02-05 00:53:50 |   🔄 Commenting               : DRT-1820 ('KPIT_TC_DRT_BT_010')
+2026-02-05 00:53:50 |     Date                      : 2026-02-04
+2026-02-05 00:53:50 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:50 |     Result                    : Fail
+2026-02-05 00:53:50 |     Failure Category          : Test Env Issue
+2026-02-05 00:53:50 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-05 00:53:50 |     Root Cause Details        : In previous testpack, Failed to disconnect Android Phone, Hence validate empty device list screen failed.
+2026-02-05 00:53:50 |     Fixation Performed        : NA
+2026-02-05 00:53:50 |     Remarks                   : In previous testpack, Failed to disconnect Android Phone, So that is Fixed and Executed in daytime, result: Pass.
+2026-02-05 00:53:50 |     Reviewer                  : Rajashri
+2026-02-05 00:53:51 |   🔄 Commented                : DRT-1820 ('KPIT_TC_DRT_BT_010') | Comment ID: 153941
+
+2026-02-05 00:53:51 | ⏳ Updating    		            : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-05 00:53:51 |   🔄 Commenting               : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-05 00:53:51 |     Date                      : 2026-02-04
+2026-02-05 00:53:51 |     Result                    : Pass
+2026-02-05 00:53:51 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:52 |   🔄 Commented                : DRT-6000 ('KPIT_TC_DRT_PSE_002') | Comment ID: 153942
+
+2026-02-05 00:53:52 | ⏳ Updating    		            : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-05 00:53:52 |   🔄 Commenting               : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-05 00:53:52 |     Date                      : 2026-02-04
+2026-02-05 00:53:52 |     Result                    : Pass
+2026-02-05 00:53:52 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:53 |   🔄 Commented                : DRT-5249 ('KPIT_TC_DRT_MET_048') | Comment ID: 153943
+
+2026-02-05 00:53:53 | ⏳ Updating    		            : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-05 00:53:53 |   🔄 Commenting               : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-05 00:53:53 |     Date                      : 2026-02-04
+2026-02-05 00:53:53 |     Result                    : Pass
+2026-02-05 00:53:53 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:54 |   🔄 Commented                : DRT-5112 ('KPIT_TC_DRT_SRW_003') | Comment ID: 153944
+
+2026-02-05 00:53:54 | ⏳ Updating    		            : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-05 00:53:54 |   🔄 Commenting               : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-05 00:53:54 |     Date                      : 2026-02-04
+2026-02-05 00:53:54 |     Result                    : Pass
+2026-02-05 00:53:54 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:55 |   🔄 Commented                : DRT-4669 ('KPIT_TC_DRT_MET_056') | Comment ID: 153945
+
+2026-02-05 00:53:56 | ⏳ Updating    		            : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-05 00:53:56 |   🔄 Commenting               : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-05 00:53:56 |     Date                      : 2026-02-04
+2026-02-05 00:53:56 |     Result                    : Pass
+2026-02-05 00:53:56 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:56 |   🔄 Commented                : DRT-4428 ('KPIT_TC_DRT_MET_060') | Comment ID: 153946
+
+2026-02-05 00:53:57 | ⏳ Updating    		            : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-05 00:53:57 |   🔄 Commenting               : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-05 00:53:57 |     Date                      : 2026-02-04
+2026-02-05 00:53:57 |     Result                    : Pass
+2026-02-05 00:53:57 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:57 |   🔄 Commented                : DRT-3841 ('KPIT_TC_DRT_IPD_047') | Comment ID: 153947
+
+2026-02-05 00:53:58 | ⏳ Updating    		            : DRT-2055 ('KPIT_TC_DRT_MET_1214')
+2026-02-05 00:53:58 |   🔄 Commenting               : DRT-2055 ('KPIT_TC_DRT_MET_1214')
+2026-02-05 00:53:58 |     Date                      : 2026-02-04
+2026-02-05 00:53:58 |     Result                    : Pass
+2026-02-05 00:53:58 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:53:59 |   🔄 Commented                : DRT-2055 ('KPIT_TC_DRT_MET_1214') | Comment ID: 153948
+
+2026-02-05 00:53:59 | ⏳ Updating    		            : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-05 00:53:59 |   🔄 Commenting               : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-05 00:53:59 |     Date                      : 2026-02-04
+2026-02-05 00:53:59 |     Result                    : Pass
+2026-02-05 00:53:59 |     Build Number              : AEA1412S0.260204.1
+2026-02-05 00:54:00 |   🔄 Commented                : DRT-1859 ('KPIT_TC_DRT_LMG_024') | Comment ID: 153949
+
+2026-02-05 00:54:00 | ✅ Jira Update Completed.

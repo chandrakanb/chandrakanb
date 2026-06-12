@@ -1,0 +1,190 @@
+[2025-12-07 15:56:38] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 15:56:38] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 15:56:38] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 15:56:38] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 15:57:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 15:57:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 15:57:02] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 15:57:02] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 15:57:25] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 15:57:25] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 15:57:25] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 15:57:25] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 15:57:46] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 15:57:46] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 15:57:46] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 15:57:46] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:19:41] REQUEST GET https://kap01.kpit.com/kap/issues/486738/time_entries/new
+[2025-12-07 16:19:41] REQUEST GET http://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew
+[2025-12-07 16:19:41] REQUEST GET https://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew
+[2025-12-07 16:19:41] RESPONSE 200 https://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew (text/html)
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/issues/486738/time_entries/new
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/issues/486738/time_entries/new (text/html)
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104593457
+[2025-12-07 16:20:01] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486738&_=1765104593458
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/get_pa_value
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_country
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_city
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104593457 (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486738&_=1765104593458 (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104593459
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104593460
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104593461
+[2025-12-07 16:20:01] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104593462
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104593460 (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104593459 (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104593462 (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104593461 (text/javascript)
+[2025-12-07 16:20:01] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:20:01] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:20:01] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:20:01] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:21:16] REQUEST GET https://kap01.kpit.com/kap/issues/486738/time_entries/new
+[2025-12-07 16:21:16] REQUEST GET http://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew
+[2025-12-07 16:21:16] REQUEST GET https://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew
+[2025-12-07 16:21:16] RESPONSE 200 https://kap01.kpit.com/kap/login?back_url=http%3A%2F%2Fkap01.kpit.com%2Fkap%2Fissues%2F486738%2Ftime_entries%2Fnew (text/html)
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/issues/486738/time_entries/new
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/issues/486738/time_entries/new (text/html)
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104688151
+[2025-12-07 16:21:50] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486738&_=1765104688152
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/get_pa_value
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_country
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_city
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104688151 (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486738&_=1765104688152 (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104688153
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104688154
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104688155
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104688156
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104688153 (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104688154 (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104688155 (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104688156 (text/javascript)
+[2025-12-07 16:21:50] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:21:50] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:21:50] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:21:50] REQUEST POST https://kap01.kpit.com/kap/time_entries
+[2025-12-07 16:21:50] REQUEST GET http://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:21:50] REQUEST GET https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:21:50] RESPONSE 200 https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries (text/html)
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/issues/486741/time_entries/new
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/issues/486741/time_entries/new (text/html)
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104711699
+[2025-12-07 16:22:11] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486741&_=1765104711700
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/get_pa_value
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_country
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_city
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104711699 (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486741&_=1765104711700 (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104711701
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104711702
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104711703
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104711704
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104711701 (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104711704 (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104711702 (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104711703 (text/javascript)
+[2025-12-07 16:22:11] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:11] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:11] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:11] REQUEST POST https://kap01.kpit.com/kap/time_entries
+[2025-12-07 16:22:11] REQUEST GET http://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:11] REQUEST GET https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:11] RESPONSE 200 https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries (text/html)
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/issues/486742/time_entries/new
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/issues/486742/time_entries/new (text/html)
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104733135
+[2025-12-07 16:22:33] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486742&_=1765104733136
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/get_pa_value
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_country
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_city
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104733135 (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486742&_=1765104733136 (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104733137
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104733138
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104733139
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104733140
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104733137 (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104733139 (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104733140 (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104733138 (text/javascript)
+[2025-12-07 16:22:33] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:33] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:33] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:33] REQUEST POST https://kap01.kpit.com/kap/time_entries
+[2025-12-07 16:22:33] REQUEST GET http://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:33] REQUEST GET https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:33] RESPONSE 200 https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries (text/html)
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/issues/486740/time_entries/new
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/issues/486740/time_entries/new (text/html)
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104754710
+[2025-12-07 16:22:52] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486740&_=1765104754711
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/get_pa_value
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_country
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/set_default_city
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-07&_=1765104754710 (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_default_work_type?item_id=486740&_=1765104754711 (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/check_or_code_selection_enabale?project_id=402 (application/json)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_city (application/json)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/set_default_country (application/json)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/get_pa_value (application/json)
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104754712
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104754713
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104754714
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104754715
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0002-12-04&_=1765104754712 (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=2025-12-04&_=1765104754715 (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0020-12-04&_=1765104754713 (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/timelog_sync/find_time_logs_for_date_requested?spent_on_date=0202-12-04&_=1765104754714 (text/javascript)
+[2025-12-07 16:22:52] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:52] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:52] REQUEST POST https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/time_entries/find_time_logs_work_type (text/javascript)
+[2025-12-07 16:22:52] REQUEST POST https://kap01.kpit.com/kap/time_entries
+[2025-12-07 16:22:52] REQUEST GET http://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:52] REQUEST GET https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries
+[2025-12-07 16:22:52] RESPONSE 200 https://kap01.kpit.com/kap/projects/drt-connectivity/time_entries (text/html)

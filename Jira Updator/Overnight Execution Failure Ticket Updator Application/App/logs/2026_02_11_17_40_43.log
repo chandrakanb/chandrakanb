@@ -1,0 +1,149 @@
+2026-02-11 17:40:43 | 🚀 Jira Update Started.
+
+2026-02-11 17:40:43 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-11 17:40:43 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-11 17:40:45 |     Failure Category          : ICB Issue (Always)
+2026-02-11 17:40:45 |     Failure Sub Category      : Valid Issue
+2026-02-11 17:40:45 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-11 17:40:45 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-11 17:40:45 |     Fixation Performed        : NA
+2026-02-11 17:40:46 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-11 17:40:46 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-02-11 17:40:46 |     Date                      : 2026-02-10
+2026-02-11 17:40:46 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:46 |     Result                    : Fail
+2026-02-11 17:40:46 |     Failure Category          : ICB Issue (Always)
+2026-02-11 17:40:46 |     Failure Sub Category      : Valid Issue
+2026-02-11 17:40:46 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-11 17:40:46 |     Fixation Performed        : NA
+2026-02-11 17:40:46 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-11 17:40:46 |     Reviewer                  : Rajashri
+2026-02-11 17:40:47 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 158372
+
+2026-02-11 17:40:47 | ⏳ Updating    		            : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-11 17:40:47 |   🔄 Updating fields          : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-11 17:40:47 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:47 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:47 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-11 17:40:47 |     Root Cause Details        : Fast DRAG operation on vendor extension application on Phone8
+2026-02-11 17:40:47 |     Fixation Performed        : NA
+2026-02-11 17:40:48 |   ✅ Updated fields           : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-11 17:40:48 |   🔄 Commenting               : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-02-11 17:40:48 |     Date                      : 2026-02-10
+2026-02-11 17:40:48 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:48 |     Result                    : Fail
+2026-02-11 17:40:48 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:48 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:48 |     Root Cause Details        : Fast DRAG operation on vendor extension application on Phone8
+2026-02-11 17:40:48 |     Fixation Performed        : NA
+2026-02-11 17:40:48 |     Remarks                   : Executed in daytime, result: Pass.
+Attached Reports for the same.
+2026-02-11 17:40:48 |     Reviewer                  : Rajashri
+2026-02-11 17:40:49 |   🔄 Commented                : DRT-2122 ('KPIT_TC_DRT_VEND_092') | Comment ID: 158374
+
+2026-02-11 17:40:49 | ⏳ Updating    		            : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-11 17:40:49 |   🔄 Updating fields          : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-11 17:40:49 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:49 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:49 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-11 17:40:49 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:50 |     Fixation Performed        : NA
+2026-02-11 17:40:51 |   ✅ Updated fields           : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-11 17:40:51 |   🔄 Commenting               : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-11 17:40:51 |     Date                      : 2026-02-10
+2026-02-11 17:40:51 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:51 |     Result                    : Fail
+2026-02-11 17:40:51 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:51 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:51 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:51 |     Fixation Performed        : NA
+2026-02-11 17:40:51 |     Remarks                   : Previous TS Passed in daytime, This TS is also Passed.
+Attached Reports for same.
+2026-02-11 17:40:51 |     Reviewer                  : Rajashri
+2026-02-11 17:40:51 |   🔄 Commented                : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 158375
+
+2026-02-11 17:40:52 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-11 17:40:52 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-11 17:40:52 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:52 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:52 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-11 17:40:52 |     Root Cause Details        : Failed to CLICK_BY_TEXT for text "sample application", Even if the Text was present on Phone8.
+2026-02-11 17:40:52 |     Fixation Performed        : NA
+2026-02-11 17:40:53 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-11 17:40:53 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-02-11 17:40:53 |     Date                      : 2026-02-10
+2026-02-11 17:40:53 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:53 |     Result                    : Fail
+2026-02-11 17:40:53 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:53 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:53 |     Root Cause Details        : Failed to CLICK_BY_TEXT for text "sample application", Even if the Text was present on Phone8.
+2026-02-11 17:40:53 |     Fixation Performed        : NA
+2026-02-11 17:40:53 |     Remarks                   : Executed in daytime, result: Fail. Due Defect: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+2026-02-11 17:40:53 |     Reviewer                  : Rajashri
+2026-02-11 17:40:53 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 158376
+
+2026-02-11 17:40:54 | ⏳ Updating    		            : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-11 17:40:54 |   🔄 Updating fields          : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-11 17:40:54 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:54 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:54 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-11 17:40:54 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:54 |     Fixation Performed        : NA
+2026-02-11 17:40:55 |   ✅ Updated fields           : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-11 17:40:55 |   🔄 Commenting               : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-02-11 17:40:55 |     Date                      : 2026-02-10
+2026-02-11 17:40:55 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:55 |     Result                    : Fail
+2026-02-11 17:40:55 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:55 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:55 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:55 |     Fixation Performed        : NA
+2026-02-11 17:40:55 |     Remarks                   : Previous TS Passed in daytime, This TS is also Passed.
+Attached Reports for same.
+2026-02-11 17:40:55 |     Reviewer                  : Rajashri
+2026-02-11 17:40:55 |   🔄 Commented                : DRT-2127 ('KPIT_TC_DRT_BZA_005') | Comment ID: 158377
+
+2026-02-11 17:40:56 | ⏳ Updating    		            : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-11 17:40:56 |   🔄 Updating fields          : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-11 17:40:56 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:56 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:56 |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)', 'Test Env Issue']
+2026-02-11 17:40:56 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:56 |     Fixation Performed        : NA
+2026-02-11 17:40:57 |   ✅ Updated fields           : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-11 17:40:57 |   🔄 Commenting               : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-02-11 17:40:57 |     Date                      : 2026-02-10
+2026-02-11 17:40:57 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:57 |     Result                    : Fail
+2026-02-11 17:40:57 |     Failure Category          : Test Env Issue
+2026-02-11 17:40:57 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-11 17:40:57 |     Root Cause Details        : In Previous TS, Fast DRAG operation on vendor extension application on Phone8, Due to which VE application was on "Display for Event Response"  Tab. Hence Further operations failed.
+2026-02-11 17:40:57 |     Fixation Performed        : NA
+2026-02-11 17:40:57 |     Remarks                   : Previous TS Passed in daytime, This TS is also Passed.
+Attached Reports for same.
+2026-02-11 17:40:57 |     Reviewer                  : Rajashri
+2026-02-11 17:40:57 |   🔄 Commented                : DRT-2132 ('KPIT_TC_DRT_BZA_015') | Comment ID: 158378
+
+2026-02-11 17:40:58 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-11 17:40:58 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-11 17:40:58 |     Failure Category          : ICB Issue (Always)
+2026-02-11 17:40:58 |     Failure Sub Category      : Valid Issue
+2026-02-11 17:40:58 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-11 17:40:58 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-11 17:40:58 |     Fixation Performed        : NA
+2026-02-11 17:40:59 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-11 17:40:59 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-02-11 17:40:59 |     Date                      : 2026-02-10
+2026-02-11 17:40:59 |     Build Number              : AFA1503D0.260210.1 
+2026-02-11 17:40:59 |     Result                    : Fail
+2026-02-11 17:40:59 |     Failure Category          : ICB Issue (Always)
+2026-02-11 17:40:59 |     Failure Sub Category      : Valid Issue
+2026-02-11 17:40:59 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-11 17:40:59 |     Fixation Performed        : NA
+2026-02-11 17:40:59 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-11 17:40:59 |     Reviewer                  : Rajashri
+2026-02-11 17:41:00 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 158379
+
+2026-02-11 17:41:00 | ✅ Jira Update Completed.

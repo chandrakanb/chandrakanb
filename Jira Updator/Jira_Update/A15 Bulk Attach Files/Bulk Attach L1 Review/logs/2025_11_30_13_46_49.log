@@ -1,0 +1,17 @@
+2025-11-30 13:46:50,635 | INFO | ⏳ Updating 'A15-1925'...
+2025-11-30 13:46:50,636 | INFO |   🔄 Updating TS Modification By: CHANDRAKANT PRADIP BHALEKAR
+2025-11-30 13:46:50,637 | INFO |   🔄 Updating TS Modifications On: 2025-11-14 00:00:00
+2025-11-30 13:46:50,638 | INFO |   🔄 Updating Executed by: CHANDRAKANT PRADIP BHALEKAR
+2025-11-30 13:46:50,638 | INFO |   🔄 Updating Executed on: 2025-11-15 00:00:00
+2025-11-30 13:46:50,638 | INFO |   🔄 Updating Automation TL Name: Rajashri Bhamare
+2025-11-30 13:46:50,639 | INFO |   🔄 Updating Assignee: CHANDRAKANT PRADIP BHALEKAR -> 712020:7ebd6444-898e-4d1e-ba7a-2710a262ffa7
+2025-11-30 13:46:50,980 | ERROR | [ERROR] Could not update issue A15-1925: JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2156684
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 30 Nov 2025 08:16:50 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '02ab0de357e559057b11214caf274e42', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '0f4b730a84d04c8ea967fcd4bf7fa9b7', 'Atl-Request-Id': '0f4b730a-84d0-4c8e-a967-fcd4bf7fa9b7', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=191,atl-edge-internal;dur=15,atl-edge-upstream;dur=177,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 8566d2303df7a45cc1d2b48730f0375e.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P7', 'X-Amz-Cf-Id': 'uU4DfEytkcRQ6MQ8Rrxy52Jh1ic9ZR5x7Zb2NEjIUUF2X3gbmZmi0g=='}
+	response text = {"errorMessages":[],"errors":{"customfield_14171":"The TS Modifications On must be of the format \"yyyy-MM-dd\"","customfield_12085":"The Executed on must be of the format \"yyyy-MM-dd\""}}
+2025-11-30 13:46:50,991 | INFO | ℹ️ Found DetailedReport_KPIT_TC_DRT_BSICTM_002.pdf (will attach)
+2025-11-30 13:46:50,992 | INFO | ℹ️ Found DRT_TS_Review_Checklist_KPIT_TC_DRT_BSICTM_002_Self.xlsx (will attach)
+2025-11-30 13:46:53,054 | INFO | ✅ Attached: DetailedReport_KPIT_TC_DRT_BSICTM_002.pdf -> A15-1925
+2025-11-30 13:46:53,054 | INFO | ✅ Attached: DRT_TS_Review_Checklist_KPIT_TC_DRT_BSICTM_002_Self.xlsx -> A15-1925
+2025-11-30 13:46:53,837 | INFO | 💬 Comment posted with file preview for A15-1925
+

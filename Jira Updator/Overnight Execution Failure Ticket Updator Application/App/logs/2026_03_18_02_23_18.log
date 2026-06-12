@@ -1,0 +1,578 @@
+2026-03-18 02:23:18 | 🚀 Jira Update Started.
+
+2026-03-18 02:23:19 | ⏳ Updating    		            : DRT-7541 ('KPIT_TC_DRT_VEH_061')
+2026-03-18 02:23:19 |   🔄 Updating fields          : DRT-7541 ('KPIT_TC_DRT_VEH_061')
+2026-03-18 02:23:20 |     Failure Category          : Test Env issue
+2026-03-18 02:23:20 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:20 |     Previous Failure Category : []
+2026-03-18 02:23:20 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:20 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:21 |   ✅ Updated fields           : DRT-7541 ('KPIT_TC_DRT_VEH_061')
+2026-03-18 02:23:21 |   🔄 Commenting               : DRT-7541 ('KPIT_TC_DRT_VEH_061')
+2026-03-18 02:23:21 |     Date                      : 2026-03-16 
+2026-03-18 02:23:21 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:21 |     Result                    : Fail
+2026-03-18 02:23:21 |     Failure Category          : Test Env issue
+2026-03-18 02:23:21 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:21 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:21 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:21 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:22 |     Reviewer                  : Rajashri
+2026-03-18 02:23:23 |   🔄 Commented                : DRT-7541 ('KPIT_TC_DRT_VEH_061') | Comment ID: 174224
+
+2026-03-18 02:23:23 | ⏳ Updating    		            : DRT-7539 ('KPIT_TC_DRT_IVI_044')
+2026-03-18 02:23:23 |   🔄 Updating fields          : DRT-7539 ('KPIT_TC_DRT_IVI_044')
+2026-03-18 02:23:23 |     Failure Category          : Test Env issue
+2026-03-18 02:23:23 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:23 |     Previous Failure Category : []
+2026-03-18 02:23:23 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:23 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:25 |   ✅ Updated fields           : DRT-7539 ('KPIT_TC_DRT_IVI_044')
+2026-03-18 02:23:25 |   🔄 Commenting               : DRT-7539 ('KPIT_TC_DRT_IVI_044')
+2026-03-18 02:23:25 |     Date                      : 2026-03-16 
+2026-03-18 02:23:25 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:25 |     Result                    : Fail
+2026-03-18 02:23:25 |     Failure Category          : Test Env issue
+2026-03-18 02:23:25 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:25 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:25 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:25 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:25 |     Reviewer                  : Rajashri
+2026-03-18 02:23:26 |   🔄 Commented                : DRT-7539 ('KPIT_TC_DRT_IVI_044') | Comment ID: 174225
+
+2026-03-18 02:23:27 | ⏳ Updating    		            : DRT-7538 ('KPIT_TC_DRT_PWF_078')
+2026-03-18 02:23:27 |   🔄 Updating fields          : DRT-7538 ('KPIT_TC_DRT_PWF_078')
+2026-03-18 02:23:27 |     Failure Category          : Test Env issue
+2026-03-18 02:23:27 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:27 |     Previous Failure Category : []
+2026-03-18 02:23:27 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:27 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:28 |   ✅ Updated fields           : DRT-7538 ('KPIT_TC_DRT_PWF_078')
+2026-03-18 02:23:28 |   🔄 Commenting               : DRT-7538 ('KPIT_TC_DRT_PWF_078')
+2026-03-18 02:23:28 |     Date                      : 2026-03-16 
+2026-03-18 02:23:28 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:28 |     Result                    : Fail
+2026-03-18 02:23:28 |     Failure Category          : Test Env issue
+2026-03-18 02:23:28 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:28 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:28 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:28 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:28 |     Reviewer                  : Rajashri
+2026-03-18 02:23:29 |   🔄 Commented                : DRT-7538 ('KPIT_TC_DRT_PWF_078') | Comment ID: 174226
+
+2026-03-18 02:23:30 | ⏳ Updating    		            : DRT-7537 ('KPIT_TC_DRT_PWF_077')
+2026-03-18 02:23:30 |   🔄 Updating fields          : DRT-7537 ('KPIT_TC_DRT_PWF_077')
+2026-03-18 02:23:30 |     Failure Category          : Test Env issue
+2026-03-18 02:23:30 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:30 |     Previous Failure Category : []
+2026-03-18 02:23:30 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:30 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:32 |   ✅ Updated fields           : DRT-7537 ('KPIT_TC_DRT_PWF_077')
+2026-03-18 02:23:32 |   🔄 Commenting               : DRT-7537 ('KPIT_TC_DRT_PWF_077')
+2026-03-18 02:23:32 |     Date                      : 2026-03-16 
+2026-03-18 02:23:32 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:32 |     Result                    : Fail
+2026-03-18 02:23:32 |     Failure Category          : Test Env issue
+2026-03-18 02:23:32 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:32 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:32 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:32 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:32 |     Reviewer                  : Rajashri
+2026-03-18 02:23:33 |   🔄 Commented                : DRT-7537 ('KPIT_TC_DRT_PWF_077') | Comment ID: 174227
+
+2026-03-18 02:23:33 | ⏳ Updating    		            : DRT-7536 ('KPIT_TC_DRT_PWF_074')
+2026-03-18 02:23:33 |   🔄 Updating fields          : DRT-7536 ('KPIT_TC_DRT_PWF_074')
+2026-03-18 02:23:33 |     Failure Category          : Test Env issue
+2026-03-18 02:23:33 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:33 |     Previous Failure Category : []
+2026-03-18 02:23:33 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:33 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:35 |   ✅ Updated fields           : DRT-7536 ('KPIT_TC_DRT_PWF_074')
+2026-03-18 02:23:35 |   🔄 Commenting               : DRT-7536 ('KPIT_TC_DRT_PWF_074')
+2026-03-18 02:23:35 |     Date                      : 2026-03-16 
+2026-03-18 02:23:35 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:35 |     Result                    : Fail
+2026-03-18 02:23:35 |     Failure Category          : Test Env issue
+2026-03-18 02:23:35 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:35 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:35 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:35 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:35 |     Reviewer                  : Rajashri
+2026-03-18 02:23:36 |   🔄 Commented                : DRT-7536 ('KPIT_TC_DRT_PWF_074') | Comment ID: 174228
+
+2026-03-18 02:23:36 | ⏳ Updating    		            : DRT-7535 ('KPIT_TC_DRT_PWF_073')
+2026-03-18 02:23:36 |   🔄 Updating fields          : DRT-7535 ('KPIT_TC_DRT_PWF_073')
+2026-03-18 02:23:36 |     Failure Category          : Test Env issue
+2026-03-18 02:23:36 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:36 |     Previous Failure Category : []
+2026-03-18 02:23:36 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:36 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:37 |   ✅ Updated fields           : DRT-7535 ('KPIT_TC_DRT_PWF_073')
+2026-03-18 02:23:37 |   🔄 Commenting               : DRT-7535 ('KPIT_TC_DRT_PWF_073')
+2026-03-18 02:23:37 |     Date                      : 2026-03-16 
+2026-03-18 02:23:37 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:37 |     Result                    : Fail
+2026-03-18 02:23:37 |     Failure Category          : Test Env issue
+2026-03-18 02:23:37 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:37 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:37 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:38 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:38 |     Reviewer                  : Rajashri
+2026-03-18 02:23:38 |   🔄 Commented                : DRT-7535 ('KPIT_TC_DRT_PWF_073') | Comment ID: 174229
+
+2026-03-18 02:23:39 | ⏳ Updating    		            : DRT-7534 ('KPIT_TC_DRT_PWF_071')
+2026-03-18 02:23:39 |   🔄 Updating fields          : DRT-7534 ('KPIT_TC_DRT_PWF_071')
+2026-03-18 02:23:39 |     Failure Category          : Test Env issue
+2026-03-18 02:23:39 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:39 |     Previous Failure Category : []
+2026-03-18 02:23:39 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:39 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:40 |   ✅ Updated fields           : DRT-7534 ('KPIT_TC_DRT_PWF_071')
+2026-03-18 02:23:40 |   🔄 Commenting               : DRT-7534 ('KPIT_TC_DRT_PWF_071')
+2026-03-18 02:23:40 |     Date                      : 2026-03-16 
+2026-03-18 02:23:40 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:40 |     Result                    : Fail
+2026-03-18 02:23:40 |     Failure Category          : Test Env issue
+2026-03-18 02:23:40 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:40 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:40 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:40 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:40 |     Reviewer                  : Rajashri
+2026-03-18 02:23:41 |   🔄 Commented                : DRT-7534 ('KPIT_TC_DRT_PWF_071') | Comment ID: 174230
+
+2026-03-18 02:23:42 | ⏳ Updating    		            : DRT-7533 ('KPIT_TC_DRT_PWF_001')
+2026-03-18 02:23:42 |   🔄 Updating fields          : DRT-7533 ('KPIT_TC_DRT_PWF_001')
+2026-03-18 02:23:42 |     Failure Category          : Test Env issue
+2026-03-18 02:23:42 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:42 |     Previous Failure Category : []
+2026-03-18 02:23:42 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:42 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:42 |   ✅ Updated fields           : DRT-7533 ('KPIT_TC_DRT_PWF_001')
+2026-03-18 02:23:42 |   🔄 Commenting               : DRT-7533 ('KPIT_TC_DRT_PWF_001')
+2026-03-18 02:23:42 |     Date                      : 2026-03-16 
+2026-03-18 02:23:42 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:42 |     Result                    : Fail
+2026-03-18 02:23:42 |     Failure Category          : Test Env issue
+2026-03-18 02:23:43 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:43 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:43 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:43 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:43 |     Reviewer                  : Rajashri
+2026-03-18 02:23:44 |   🔄 Commented                : DRT-7533 ('KPIT_TC_DRT_PWF_001') | Comment ID: 174231
+
+2026-03-18 02:23:44 | ⏳ Updating    		            : DRT-5104 ('KPIT_TC_DRT_PWF_087')
+2026-03-18 02:23:44 |   🔄 Updating fields          : DRT-5104 ('KPIT_TC_DRT_PWF_087')
+2026-03-18 02:23:44 |     Failure Category          : Test Env issue
+2026-03-18 02:23:44 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:44 |     Previous Failure Category : ['ICB Issue (Always)']
+2026-03-18 02:23:44 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:44 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:45 |   ✅ Updated fields           : DRT-5104 ('KPIT_TC_DRT_PWF_087')
+2026-03-18 02:23:45 |   🔄 Commenting               : DRT-5104 ('KPIT_TC_DRT_PWF_087')
+2026-03-18 02:23:45 |     Date                      : 2026-03-16 
+2026-03-18 02:23:45 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:45 |     Result                    : Fail
+2026-03-18 02:23:45 |     Failure Category          : Test Env issue
+2026-03-18 02:23:45 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:45 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:45 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:45 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:45 |     Reviewer                  : Rajashri
+2026-03-18 02:23:46 |   🔄 Commented                : DRT-5104 ('KPIT_TC_DRT_PWF_087') | Comment ID: 174232
+
+2026-03-18 02:23:47 | ⏳ Updating    		            : DRT-5103 ('KPIT_TC_DRT_PWF_086')
+2026-03-18 02:23:47 |   🔄 Updating fields          : DRT-5103 ('KPIT_TC_DRT_PWF_086')
+2026-03-18 02:23:47 |     Failure Category          : Test Env issue
+2026-03-18 02:23:47 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:47 |     Previous Failure Category : ['ICB Issue (Always)']
+2026-03-18 02:23:47 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:47 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:48 |   ✅ Updated fields           : DRT-5103 ('KPIT_TC_DRT_PWF_086')
+2026-03-18 02:23:48 |   🔄 Commenting               : DRT-5103 ('KPIT_TC_DRT_PWF_086')
+2026-03-18 02:23:48 |     Date                      : 2026-03-16 
+2026-03-18 02:23:48 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:48 |     Result                    : Fail
+2026-03-18 02:23:48 |     Failure Category          : Test Env issue
+2026-03-18 02:23:48 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:48 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:48 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:48 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:48 |     Reviewer                  : Rajashri
+2026-03-18 02:23:49 |   🔄 Commented                : DRT-5103 ('KPIT_TC_DRT_PWF_086') | Comment ID: 174233
+
+2026-03-18 02:23:50 | ⏳ Updating    		            : DRT-4327 ('KPIT_TC_DRT_KEY_021')
+2026-03-18 02:23:50 |   🔄 Updating fields          : DRT-4327 ('KPIT_TC_DRT_KEY_021')
+2026-03-18 02:23:50 |     Failure Category          : Test Env issue
+2026-03-18 02:23:50 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:50 |     Previous Failure Category : ['Test Env Issue']
+2026-03-18 02:23:50 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:50 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:51 |   ✅ Updated fields           : DRT-4327 ('KPIT_TC_DRT_KEY_021')
+2026-03-18 02:23:51 |   🔄 Commenting               : DRT-4327 ('KPIT_TC_DRT_KEY_021')
+2026-03-18 02:23:51 |     Date                      : 2026-03-16 
+2026-03-18 02:23:51 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:51 |     Result                    : Fail
+2026-03-18 02:23:51 |     Failure Category          : Test Env issue
+2026-03-18 02:23:51 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:51 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:51 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:51 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:51 |     Reviewer                  : Rajashri
+2026-03-18 02:23:53 |   🔄 Commented                : DRT-4327 ('KPIT_TC_DRT_KEY_021') | Comment ID: 174234
+
+2026-03-18 02:23:53 | ⏳ Updating    		            : DRT-3526 ('KPIT_TC_DRT_INL_010')
+2026-03-18 02:23:53 |   🔄 Updating fields          : DRT-3526 ('KPIT_TC_DRT_INL_010')
+2026-03-18 02:23:53 |     Failure Category          : Test Env issue
+2026-03-18 02:23:53 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:53 |     Previous Failure Category : ['Human Error', 'ICB Issue (Always)', 'Test Env Issue']
+2026-03-18 02:23:53 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:53 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:54 |   ✅ Updated fields           : DRT-3526 ('KPIT_TC_DRT_INL_010')
+2026-03-18 02:23:54 |   🔄 Commenting               : DRT-3526 ('KPIT_TC_DRT_INL_010')
+2026-03-18 02:23:54 |     Date                      : 2026-03-16 
+2026-03-18 02:23:54 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:54 |     Result                    : Fail
+2026-03-18 02:23:54 |     Failure Category          : Test Env issue
+2026-03-18 02:23:54 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:54 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:54 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:54 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:54 |     Reviewer                  : Rajashri
+2026-03-18 02:23:55 |   🔄 Commented                : DRT-3526 ('KPIT_TC_DRT_INL_010') | Comment ID: 174235
+
+2026-03-18 02:23:55 | ⏳ Updating    		            : DRT-3410 ('KPIT_TC_DRT_PKS_011')
+2026-03-18 02:23:55 |   🔄 Updating fields          : DRT-3410 ('KPIT_TC_DRT_PKS_011')
+2026-03-18 02:23:55 |     Failure Category          : Test Env issue
+2026-03-18 02:23:55 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:55 |     Previous Failure Category : ['Test Env Issue']
+2026-03-18 02:23:55 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:55 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:57 |   ✅ Updated fields           : DRT-3410 ('KPIT_TC_DRT_PKS_011')
+2026-03-18 02:23:57 |   🔄 Commenting               : DRT-3410 ('KPIT_TC_DRT_PKS_011')
+2026-03-18 02:23:57 |     Date                      : 2026-03-16 
+2026-03-18 02:23:57 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:57 |     Result                    : Fail
+2026-03-18 02:23:57 |     Failure Category          : Test Env issue
+2026-03-18 02:23:57 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:57 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:57 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:57 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:57 |     Reviewer                  : Rajashri
+2026-03-18 02:23:58 |   🔄 Commented                : DRT-3410 ('KPIT_TC_DRT_PKS_011') | Comment ID: 174236
+
+2026-03-18 02:23:58 | ⏳ Updating    		            : DRT-3409 ('KPIT_TC_DRT_LWC_003')
+2026-03-18 02:23:58 |   🔄 Updating fields          : DRT-3409 ('KPIT_TC_DRT_LWC_003')
+2026-03-18 02:23:58 |     Failure Category          : Test Env issue
+2026-03-18 02:23:58 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:58 |     Previous Failure Category : ['Test Env Issue']
+2026-03-18 02:23:58 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:58 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:59 |   ✅ Updated fields           : DRT-3409 ('KPIT_TC_DRT_LWC_003')
+2026-03-18 02:23:59 |   🔄 Commenting               : DRT-3409 ('KPIT_TC_DRT_LWC_003')
+2026-03-18 02:23:59 |     Date                      : 2026-03-16 
+2026-03-18 02:23:59 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:23:59 |     Result                    : Fail
+2026-03-18 02:23:59 |     Failure Category          : Test Env issue
+2026-03-18 02:23:59 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:23:59 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:23:59 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:23:59 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:23:59 |     Reviewer                  : Rajashri
+2026-03-18 02:24:00 |   🔄 Commented                : DRT-3409 ('KPIT_TC_DRT_LWC_003') | Comment ID: 174237
+
+2026-03-18 02:24:01 | ⏳ Updating    		            : DRT-3406 ('KPIT_TC_DRT_INL_008')
+2026-03-18 02:24:01 |   🔄 Updating fields          : DRT-3406 ('KPIT_TC_DRT_INL_008')
+2026-03-18 02:24:01 |     Failure Category          : Test Env issue
+2026-03-18 02:24:01 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:01 |     Previous Failure Category : ['Human Error', 'ICB Issue (Always)', 'Test Env Issue']
+2026-03-18 02:24:01 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:01 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:02 |   ✅ Updated fields           : DRT-3406 ('KPIT_TC_DRT_INL_008')
+2026-03-18 02:24:02 |   🔄 Commenting               : DRT-3406 ('KPIT_TC_DRT_INL_008')
+2026-03-18 02:24:02 |     Date                      : 2026-03-16 
+2026-03-18 02:24:02 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:02 |     Result                    : Fail
+2026-03-18 02:24:02 |     Failure Category          : Test Env issue
+2026-03-18 02:24:02 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:02 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:02 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:02 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:02 |     Reviewer                  : Rajashri
+2026-03-18 02:24:03 |   🔄 Commented                : DRT-3406 ('KPIT_TC_DRT_INL_008') | Comment ID: 174238
+
+2026-03-18 02:24:03 | ⏳ Updating    		            : DRT-3405 ('KPIT_TC_DRT_INL_024')
+2026-03-18 02:24:03 |   🔄 Updating fields          : DRT-3405 ('KPIT_TC_DRT_INL_024')
+2026-03-18 02:24:03 |     Failure Category          : Test Env issue
+2026-03-18 02:24:03 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:03 |     Previous Failure Category : ['KITE Issue', 'Human Error', 'ICB Issue (Always)', 'Test Env Issue']
+2026-03-18 02:24:03 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:03 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:04 |   ✅ Updated fields           : DRT-3405 ('KPIT_TC_DRT_INL_024')
+2026-03-18 02:24:04 |   🔄 Commenting               : DRT-3405 ('KPIT_TC_DRT_INL_024')
+2026-03-18 02:24:04 |     Date                      : 2026-03-16 
+2026-03-18 02:24:04 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:04 |     Result                    : Fail
+2026-03-18 02:24:04 |     Failure Category          : Test Env issue
+2026-03-18 02:24:04 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:04 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:04 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:04 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:04 |     Reviewer                  : Rajashri
+2026-03-18 02:24:05 |   🔄 Commented                : DRT-3405 ('KPIT_TC_DRT_INL_024') | Comment ID: 174239
+
+2026-03-18 02:24:06 | ⏳ Updating    		            : DRT-3403 ('KPIT_TC_DRT_LWC_002')
+2026-03-18 02:24:06 |   🔄 Updating fields          : DRT-3403 ('KPIT_TC_DRT_LWC_002')
+2026-03-18 02:24:06 |     Failure Category          : Test Env issue
+2026-03-18 02:24:06 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:06 |     Previous Failure Category : ['Test Env Issue']
+2026-03-18 02:24:06 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:06 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:07 |   ✅ Updated fields           : DRT-3403 ('KPIT_TC_DRT_LWC_002')
+2026-03-18 02:24:07 |   🔄 Commenting               : DRT-3403 ('KPIT_TC_DRT_LWC_002')
+2026-03-18 02:24:07 |     Date                      : 2026-03-16 
+2026-03-18 02:24:07 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:07 |     Result                    : Fail
+2026-03-18 02:24:07 |     Failure Category          : Test Env issue
+2026-03-18 02:24:07 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:07 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:07 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:07 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:07 |     Reviewer                  : Rajashri
+2026-03-18 02:24:08 |   🔄 Commented                : DRT-3403 ('KPIT_TC_DRT_LWC_002') | Comment ID: 174240
+
+2026-03-18 02:24:08 | ⏳ Updating    		            : DRT-2131 ('KPIT_TC_DRT_KEY_022')
+2026-03-18 02:24:08 |   🔄 Updating fields          : DRT-2131 ('KPIT_TC_DRT_KEY_022')
+2026-03-18 02:24:08 |     Failure Category          : Test Env issue
+2026-03-18 02:24:08 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:08 |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2026-03-18 02:24:08 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:08 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:09 |   ✅ Updated fields           : DRT-2131 ('KPIT_TC_DRT_KEY_022')
+2026-03-18 02:24:09 |   🔄 Commenting               : DRT-2131 ('KPIT_TC_DRT_KEY_022')
+2026-03-18 02:24:09 |     Date                      : 2026-03-16 
+2026-03-18 02:24:09 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:09 |     Result                    : Fail
+2026-03-18 02:24:09 |     Failure Category          : Test Env issue
+2026-03-18 02:24:09 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:09 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:09 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:09 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:09 |     Reviewer                  : Rajashri
+2026-03-18 02:24:10 |   🔄 Commented                : DRT-2131 ('KPIT_TC_DRT_KEY_022') | Comment ID: 174241
+
+2026-03-18 02:24:10 | ⏳ Updating    		            : DRT-2130 ('KPIT_TC_DRT_KEY_001')
+2026-03-18 02:24:11 |   🔄 Updating fields          : DRT-2130 ('KPIT_TC_DRT_KEY_001')
+2026-03-18 02:24:11 |     Failure Category          : Test Env issue
+2026-03-18 02:24:11 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:11 |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2026-03-18 02:24:11 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:11 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:11 |   ✅ Updated fields           : DRT-2130 ('KPIT_TC_DRT_KEY_001')
+2026-03-18 02:24:11 |   🔄 Commenting               : DRT-2130 ('KPIT_TC_DRT_KEY_001')
+2026-03-18 02:24:12 |     Date                      : 2026-03-16 
+2026-03-18 02:24:12 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:12 |     Result                    : Fail
+2026-03-18 02:24:12 |     Failure Category          : Test Env issue
+2026-03-18 02:24:12 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:12 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:12 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:12 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:12 |     Reviewer                  : Rajashri
+2026-03-18 02:24:13 |   🔄 Commented                : DRT-2130 ('KPIT_TC_DRT_KEY_001') | Comment ID: 174242
+
+2026-03-18 02:24:13 | ⏳ Updating    		            : DRT-2129 ('KPIT_TC_DRT_KEY_002')
+2026-03-18 02:24:13 |   🔄 Updating fields          : DRT-2129 ('KPIT_TC_DRT_KEY_002')
+2026-03-18 02:24:13 |     Failure Category          : Test Env issue
+2026-03-18 02:24:13 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:13 |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2026-03-18 02:24:13 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:13 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:14 |   ✅ Updated fields           : DRT-2129 ('KPIT_TC_DRT_KEY_002')
+2026-03-18 02:24:14 |   🔄 Commenting               : DRT-2129 ('KPIT_TC_DRT_KEY_002')
+2026-03-18 02:24:14 |     Date                      : 2026-03-16 
+2026-03-18 02:24:14 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:14 |     Result                    : Fail
+2026-03-18 02:24:14 |     Failure Category          : Test Env issue
+2026-03-18 02:24:14 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:14 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:14 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:14 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:14 |     Reviewer                  : Rajashri
+2026-03-18 02:24:15 |   🔄 Commented                : DRT-2129 ('KPIT_TC_DRT_KEY_002') | Comment ID: 174243
+
+2026-03-18 02:24:15 | ⏳ Updating    		            : DRT-2011 ('KPIT_TC_DRT_SPCCP_096')
+2026-03-18 02:24:15 |   🔄 Updating fields          : DRT-2011 ('KPIT_TC_DRT_SPCCP_096')
+2026-03-18 02:24:16 |     Failure Category          : Test Env issue
+2026-03-18 02:24:16 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:16 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-18 02:24:16 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:16 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:16 |   ✅ Updated fields           : DRT-2011 ('KPIT_TC_DRT_SPCCP_096')
+2026-03-18 02:24:17 |   🔄 Commenting               : DRT-2011 ('KPIT_TC_DRT_SPCCP_096')
+2026-03-18 02:24:17 |     Date                      : 2026-03-16 
+2026-03-18 02:24:17 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:17 |     Result                    : Fail
+2026-03-18 02:24:17 |     Failure Category          : Test Env issue
+2026-03-18 02:24:17 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:17 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:17 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:17 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:17 |     Reviewer                  : Rajashri
+2026-03-18 02:24:18 |   🔄 Commented                : DRT-2011 ('KPIT_TC_DRT_SPCCP_096') | Comment ID: 174244
+
+2026-03-18 02:24:18 | ⏳ Updating    		            : DRT-2010 ('KPIT_TC_DRT_SPCCP_097')
+2026-03-18 02:24:18 |   🔄 Updating fields          : DRT-2010 ('KPIT_TC_DRT_SPCCP_097')
+2026-03-18 02:24:18 |     Failure Category          : Test Env issue
+2026-03-18 02:24:18 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:18 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-18 02:24:18 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:18 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:19 |   ✅ Updated fields           : DRT-2010 ('KPIT_TC_DRT_SPCCP_097')
+2026-03-18 02:24:19 |   🔄 Commenting               : DRT-2010 ('KPIT_TC_DRT_SPCCP_097')
+2026-03-18 02:24:19 |     Date                      : 2026-03-16 
+2026-03-18 02:24:19 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:19 |     Result                    : Fail
+2026-03-18 02:24:19 |     Failure Category          : Test Env issue
+2026-03-18 02:24:19 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:19 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:19 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:19 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:20 |     Reviewer                  : Rajashri
+2026-03-18 02:24:20 |   🔄 Commented                : DRT-2010 ('KPIT_TC_DRT_SPCCP_097') | Comment ID: 174245
+
+2026-03-18 02:24:21 | ⏳ Updating    		            : DRT-2009 ('KPIT_TC_DRT_SPCCP_103')
+2026-03-18 02:24:21 |   🔄 Updating fields          : DRT-2009 ('KPIT_TC_DRT_SPCCP_103')
+2026-03-18 02:24:21 |     Failure Category          : Test Env issue
+2026-03-18 02:24:21 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:21 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-18 02:24:21 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:21 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:22 |   ✅ Updated fields           : DRT-2009 ('KPIT_TC_DRT_SPCCP_103')
+2026-03-18 02:24:22 |   🔄 Commenting               : DRT-2009 ('KPIT_TC_DRT_SPCCP_103')
+2026-03-18 02:24:22 |     Date                      : 2026-03-16 
+2026-03-18 02:24:22 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:22 |     Result                    : Fail
+2026-03-18 02:24:22 |     Failure Category          : Test Env issue
+2026-03-18 02:24:22 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:22 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:22 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:22 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:22 |     Reviewer                  : Rajashri
+2026-03-18 02:24:23 |   🔄 Commented                : DRT-2009 ('KPIT_TC_DRT_SPCCP_103') | Comment ID: 174246
+
+2026-03-18 02:24:23 | ⏳ Updating    		            : DRT-1998 ('KPIT_TC_DRT_SPCCP_037')
+2026-03-18 02:24:23 |   🔄 Updating fields          : DRT-1998 ('KPIT_TC_DRT_SPCCP_037')
+2026-03-18 02:24:23 |     Failure Category          : Test Env issue
+2026-03-18 02:24:23 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:23 |     Previous Failure Category : ['Test Env Issue']
+2026-03-18 02:24:23 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:23 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:24 |   ✅ Updated fields           : DRT-1998 ('KPIT_TC_DRT_SPCCP_037')
+2026-03-18 02:24:24 |   🔄 Commenting               : DRT-1998 ('KPIT_TC_DRT_SPCCP_037')
+2026-03-18 02:24:24 |     Date                      : 2026-03-16 
+2026-03-18 02:24:24 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:24 |     Result                    : Fail
+2026-03-18 02:24:24 |     Failure Category          : Test Env issue
+2026-03-18 02:24:24 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:24 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:24 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:24 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:24 |     Reviewer                  : Rajashri
+2026-03-18 02:24:25 |   🔄 Commented                : DRT-1998 ('KPIT_TC_DRT_SPCCP_037') | Comment ID: 174247
+
+2026-03-18 02:24:25 | ⏳ Updating    		            : DRT-1785 ('KPIT_TC_DRT_KEY_013')
+2026-03-18 02:24:25 |   🔄 Updating fields          : DRT-1785 ('KPIT_TC_DRT_KEY_013')
+2026-03-18 02:24:25 |     Failure Category          : Test Env issue
+2026-03-18 02:24:26 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:26 |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2026-03-18 02:24:26 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:26 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:26 |   ✅ Updated fields           : DRT-1785 ('KPIT_TC_DRT_KEY_013')
+2026-03-18 02:24:26 |   🔄 Commenting               : DRT-1785 ('KPIT_TC_DRT_KEY_013')
+2026-03-18 02:24:26 |     Date                      : 2026-03-16 
+2026-03-18 02:24:27 |     Build Number              : AEA1418D0.260316.1
+2026-03-18 02:24:27 |     Result                    : Fail
+2026-03-18 02:24:27 |     Failure Category          : Test Env issue
+2026-03-18 02:24:27 |     Failure Sub Category      : Automation Setup malfunction
+2026-03-18 02:24:27 |     Root Cause Details        : ICB display is getting turned OFF in between execution.
+2026-03-18 02:24:27 |     Fixation Performed        : 1. Replaced Multi Touch Motor, Still facing Issue in daytime.
+2. Replaced Display by HW person, Issue is not faced in daytime, and overnight as well.
+2026-03-18 02:24:27 |     Remarks                   : "Executed manually in daytime, result: Pass.
+Issue is not getting reproduced in daytime."	
+2026-03-18 02:24:27 |     Reviewer                  : Rajashri
+2026-03-18 02:24:28 |   🔄 Commented                : DRT-1785 ('KPIT_TC_DRT_KEY_013') | Comment ID: 174248
+
+2026-03-18 02:24:28 | ✅ Jira Update Completed.

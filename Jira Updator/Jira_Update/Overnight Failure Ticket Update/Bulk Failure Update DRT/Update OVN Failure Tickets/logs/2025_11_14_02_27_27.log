@@ -1,0 +1,20 @@
+2025-11-14 02:27:30,183 | ERROR | [ERROR] Could not process DRT-1746: 'KPIT_TC_DRT_BT_010 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:30,520 | ERROR | [ERROR] Could not process DRT-1789: 'KPIT_TC_DRT_BTA_052 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:31,222 | ERROR | [ERROR] Could not process DRT-4988: 'KPIT_TC_DRT_SPCAA_007 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:31,526 | ERROR | [ERROR] Could not process DRT-4876: 'KPIT_TC_DRT_SPCAA_008 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:32,192 | ERROR | [ERROR] Could not process DRT-2630: 'KPIT_TC_DRT_SPCAA_076 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:32,467 | ERROR | [ERROR] Could not process DRT-3873: 'KPIT_TC_DRT_SPCAA_011 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:33,106 | ERROR | [ERROR] Could not process DRT-5850: 'KPIT_TC_DRT_HFT_015 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:33,761 | ERROR | [ERROR] Could not process DRT-5849: 'KPIT_TC_DRT_HMI_1243 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:34,035 | ERROR | [ERROR] Could not process DRT-3899: 'KPIT_TC_DRT_CLK_014 : 'NoneType' object is not iterable.
+
+2025-11-14 02:27:34,735 | ERROR | [ERROR] Could not process DRT-4692: 'KPIT_TC_DRT_CLK_016 : 'NoneType' object is not iterable.
+

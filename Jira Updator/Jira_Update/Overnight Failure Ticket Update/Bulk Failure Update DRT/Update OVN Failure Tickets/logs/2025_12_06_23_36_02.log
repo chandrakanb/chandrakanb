@@ -1,0 +1,21 @@
+2025-12-06 23:36:04,489 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-06 23:36:04,490 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-06 23:36:04,490 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:36:04,491 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:36:04,491 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2025-12-06 23:36:04,492 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:36:04,493 | INFO |     Fixation Performed : NA
+2025-12-06 23:36:04,493 | INFO |     Remarks : NA
+2025-12-06 23:36:04,494 | INFO |     Reviewer : Rajashri
+2025-12-06 23:36:05,669 | INFO |   ✅ Updated fields for DRT-1859: 'KPIT_TC_DRT_LMG_024.
+2025-12-06 23:36:05,670 | INFO |   🔄 Commenting on DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-06 23:36:05,670 | INFO |     Date AEA1412S0.251205.1 : 2025-11-05
+2025-12-06 23:36:05,671 | INFO |     Result : Fail
+2025-12-06 23:36:05,672 | INFO |     Failure Category : Test Env Issue
+2025-12-06 23:36:05,672 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 23:36:05,673 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 23:36:05,673 | INFO |     Fixation Performed : NA
+2025-12-06 23:36:06,536 | INFO |   ✅ Commented on DRT-1859: 'KPIT_TC_DRT_LMG_024.
+
+2025-12-06 23:36:06,537 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,6 @@
+2026-03-14 18:32:46,401 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'list' object has no attribute 'value'.
+
+2026-03-14 18:32:46,693 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'list' object has no attribute 'value'.
+
+2026-03-14 18:32:46,694 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

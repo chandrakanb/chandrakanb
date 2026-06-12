@@ -1,0 +1,51 @@
+2025-07-02 15:02:34,515 | INFO | ⏳ Updating 'OSV-4360: KPIT_TC_DRT_ANT_011'...
+2025-07-02 15:02:34,516 | INFO |   🔄 Updating fields for OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-07-02 15:02:34,517 | INFO |     Failure Category : ICB issue (Once)
+2025-07-02 15:02:34,518 | INFO |     Failure Sub Category : Timing Issue
+2025-07-02 15:02:34,519 | INFO |     Root Cause Details : ICB took more time to start after ACC cycle.
+2025-07-02 15:02:34,519 | INFO |     Fixation Performed : No modifications where made, Executed in daytime, result : Pass. 
+2025-07-02 15:02:36,521 | INFO |   ✅ Updated fields for OSV-4360: 'KPIT_TC_DRT_ANT_011.
+2025-07-02 15:02:36,522 | INFO |   🔄 Commenting on OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-07-02 15:02:36,523 | INFO |     Date                 : 27th June 2025
+2025-07-02 15:02:36,523 | INFO |     Analysis Done By     : Chandrakant
+2025-07-02 15:02:36,523 | INFO |     Result               : Fail
+2025-07-02 15:02:36,524 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-02 15:02:36,524 | INFO |     Failure Sub Category : Timing Issue
+2025-07-02 15:02:36,525 | INFO |     Root Cause Details   : ICB took more time to start after ACC cycle.
+2025-07-02 15:02:36,525 | INFO |     Fixation Performed   : No modifications where made, Executed in daytime, result : Pass. 
+2025-07-02 15:02:37,423 | INFO |   ✅ Commented on OSV-4360: 'KPIT_TC_DRT_ANT_011.
+
+2025-07-02 15:02:37,920 | INFO | ⏳ Updating 'OSV-4432: KPIT_TC_DRT_KBD_013'...
+2025-07-02 15:02:37,920 | INFO |   🔄 Updating fields for OSV-4432: 'KPIT_TC_DRT_KBD_013...
+2025-07-02 15:02:37,920 | INFO |     Failure Category : ICB issue (Once)
+2025-07-02 15:02:37,921 | INFO |     Failure Sub Category : TS Modification Required
+2025-07-02 15:02:37,921 | INFO |     Root Cause Details : ICB Name displayed as Honda Passport instead of HondaAccord, ROI needs to be increased.
+2025-07-02 15:02:37,922 | INFO |     Fixation Performed : Increased ROI of Honda Passport OCR validation command.
+2025-07-02 15:02:39,003 | INFO |   ✅ Updated fields for OSV-4432: 'KPIT_TC_DRT_KBD_013.
+2025-07-02 15:02:39,004 | INFO |   🔄 Commenting on OSV-4432: 'KPIT_TC_DRT_KBD_013...
+2025-07-02 15:02:39,004 | INFO |     Date                 : 27th June 2025
+2025-07-02 15:02:39,005 | INFO |     Analysis Done By     : Chandrakant
+2025-07-02 15:02:39,005 | INFO |     Result               : Fail
+2025-07-02 15:02:39,006 | INFO |     Failure Category     : ICB issue (Once)
+2025-07-02 15:02:39,006 | INFO |     Failure Sub Category : TS Modification Required
+2025-07-02 15:02:39,007 | INFO |     Root Cause Details   : ICB Name displayed as Honda Passport instead of HondaAccord, ROI needs to be increased.
+2025-07-02 15:02:39,007 | INFO |     Fixation Performed   : Increased ROI of Honda Passport OCR validation command.
+2025-07-02 15:02:39,691 | INFO |   ✅ Commented on OSV-4432: 'KPIT_TC_DRT_KBD_013.
+
+2025-07-02 15:02:40,164 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-07-02 15:02:40,165 | INFO |   🔄 Updating fields for OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-02 15:02:40,166 | INFO |     Failure Category : KITE issue
+2025-07-02 15:02:40,166 | INFO |     Failure Sub Category : Image comparison
+2025-07-02 15:02:40,167 | INFO |     Root Cause Details : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-02 15:02:40,167 | INFO |     Fixation Performed : No modifications where made, Executed in daytime, result : Pass. 
+2025-07-02 15:02:41,189 | INFO |   ✅ Updated fields for OSV-4437: 'KPIT_TC_DRT_HOM_013.
+2025-07-02 15:02:41,190 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-07-02 15:02:41,190 | INFO |     Date                 : 27th June 2025
+2025-07-02 15:02:41,191 | INFO |     Analysis Done By     : Chandrakant
+2025-07-02 15:02:41,191 | INFO |     Result               : Fail
+2025-07-02 15:02:41,191 | INFO |     Failure Category     : KITE issue
+2025-07-02 15:02:41,192 | INFO |     Failure Sub Category : Image comparison
+2025-07-02 15:02:41,192 | INFO |     Root Cause Details   : Incorrect text deteceted for OCR, Hence further operation failed.
+2025-07-02 15:02:41,192 | INFO |     Fixation Performed   : No modifications where made, Executed in daytime, result : Pass. 
+2025-07-02 15:02:42,268 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+

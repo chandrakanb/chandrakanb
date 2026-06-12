@@ -1,0 +1,23 @@
+https://kpitc-my.sharepoint.com/:x:/g/personal/chandrakanb_kpit_com/EXdYJyoR9kZKjMPs5zMWtyQB0P7ZHvLjeebRdwHlEE5sQg?e=HLtUnN
+
+https://kpitc-my.sharepoint.com/:x:/g/personal/chandrakanb_kpit_com/ERd3xGaothlEkMckCtLdpvcBiYvVuNZStu8wrlR4ZOTlhA?e=4Tkgvk
+
+Downloads\OSV_Bench01_Overnight Issues_In Progress_.xlsx
+
+D:\chandrakanb\chandrakanb\Jira Updator\Jira_Update\Bulk Failure Update OSV
+
+python OVN_Failure_Update_OSV.py B01_20th_May_2025
+python OVN_Failure_Update_OSV2.py Dummy
+python OVN_Failure_Update_OSV.py B01_20th_May_2025
+cls
+python OVN_Failure_Update_OSV2.py Dummy
+python OVN_Failure_Update_OSV2.py B01_21th_May_2025
+python OVN_Failure_Update_OSV2.py B01_22nd_May_2025
+Open.py
+Delete_Last_Comments.py
+python OVN_Failure_Update_OSV2.py B01_22nd_May_2025
+Delete_Last_Comments.py
+python OVN_Failure_Update_OSV2.py Dummy
+cd | clip
+doskey /history | clip
+

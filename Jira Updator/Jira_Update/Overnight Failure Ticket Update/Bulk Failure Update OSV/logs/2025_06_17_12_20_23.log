@@ -1,0 +1,46 @@
+2025-06-17 12:20:26,658 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-17 12:20:26,659 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-17 12:20:26,659 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:26,660 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:26,661 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-17 12:20:26,661 | INFO |     Fixation Performed : 
+2025-06-17 12:20:28,091 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-17 12:20:28,092 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-17 12:20:28,093 | INFO |     Date : 21st May 2025
+2025-06-17 12:20:28,103 | INFO |     Result : Fail
+2025-06-17 12:20:28,104 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:28,104 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:28,105 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-17 12:20:28,105 | INFO |     Fixation Performed : 
+2025-06-17 12:20:28,896 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-17 12:20:29,437 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-17 12:20:29,438 | INFO |   🔄 Updating fields for OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-17 12:20:29,438 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:29,439 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:29,440 | INFO |     Root Cause Details : BTA Data loading Issue.
+2025-06-17 12:20:29,440 | INFO |     Fixation Performed : 
+2025-06-17 12:20:30,513 | INFO |   ✅ Updated fields for OSV-2612: 'KPIT_TC_DRT_BTA_024.
+2025-06-17 12:20:30,514 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-17 12:20:30,514 | INFO |     Date : 21st May 2025
+2025-06-17 12:20:30,515 | INFO |     Result : Fail
+2025-06-17 12:20:30,516 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:30,516 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:30,517 | INFO |     Root Cause Details : BTA Data loading Issue.
+2025-06-17 12:20:30,517 | INFO |     Fixation Performed : 
+2025-06-17 12:20:31,381 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-17 12:20:31,905 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-17 12:20:31,907 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-17 12:20:31,907 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:31,908 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:31,909 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-17 12:20:31,909 | INFO |     Fixation Performed : 
+2025-06-17 12:20:33,768 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-17 12:20:33,769 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-17 12:20:33,769 | INFO |     Date : 21st May 2025
+2025-06-17 12:20:33,769 | INFO |     Result : Fail
+2025-06-17 12:20:33,771 | INFO |     Failure Category : Test Env issue
+2025-06-17 12:20:33,771 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-17 12:20:33,771 | INFO |     Root Cause Details : In precondition, failed to click on Bluetooth.
+2025-06-17 12:20:33,771 | INFO |     Fixation Performed : 

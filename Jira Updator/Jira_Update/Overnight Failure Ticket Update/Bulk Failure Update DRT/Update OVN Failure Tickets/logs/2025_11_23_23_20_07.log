@@ -1,0 +1,32 @@
+2025-11-23 23:20:09,505 | INFO | ⏳ Updating 'DRT-3981: KPIT_TC_DRT_BT_003'...
+2025-11-23 23:20:09,505 | INFO |   🔄 Updating fields for DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:20:09,506 | INFO |     Failure Category : Test_ENV_Issue
+2025-11-23 23:20:09,506 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 23:20:09,507 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 23:20:09,507 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 23:20:09,508 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 23:20:09,508 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 23:20:09,519 | INFO |     Reviewer : Rajashri
+2025-11-23 23:20:09,883 | ERROR | [ERROR] Could not process DRT-3981: 'KPIT_TC_DRT_BT_003 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/270427
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 23 Nov 2025 17:50:09 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '1bf212318d122246e7e0821eec54e230', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '1d10d52ba11046489f51e76782d0e3a4', 'Atl-Request-Id': '1d10d52b-a110-4648-9f51-e76782d0e3a4', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=221,atl-edge-internal;dur=17,atl-edge-upstream;dur=203,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 29c4071d54ad6f88b4c9a40d8f1b2124.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'sS3cxoDiQ7j9aB8-VNQfoGtW3GVIXlHbIx9ZRsJ31zbaiC9RxTplGg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'Test_ENV_Issue' is not valid"}}.
+
+2025-11-23 23:20:10,514 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:20:10,514 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 23:20:10,515 | INFO |     Result : Pass
+2025-11-23 23:20:11,358 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:20:12,027 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:20:12,028 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 23:20:12,028 | INFO |     Result : Pass
+2025-11-23 23:20:12,851 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:20:13,138 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 23:20:13,139 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 23:20:13,139 | INFO |     Result : Pass
+2025-11-23 23:20:13,935 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 23:20:13,936 | INFO | 
+  ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,21 @@
+2026-03-21 13:13:18,972 | INFO | ⏳ Updating 'DRT-5094: KPIT_TC_DRT_USB_113'...
+2026-03-21 13:13:18,973 | INFO |   🔄 Updating fields for DRT-5094: 'KPIT_TC_DRT_USB_113...
+2026-03-21 13:13:18,974 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:13:18,975 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:13:18,976 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-21 13:13:18,976 | INFO |     Root Cause Details : USB video played in full screen after selecting a video from the USB Video folder screen. In the earlier TS, screen size was set to normal before disconnecting USB, but it seems this was not reflected.
+2026-03-21 13:13:18,977 | INFO |     Fixation Performed : NA
+2026-03-21 13:13:19,911 | INFO |   ✅ Updated fields for DRT-5094: 'KPIT_TC_DRT_USB_113.
+2026-03-21 13:13:19,911 | INFO |   🔄 Commenting on DRT-5094: 'KPIT_TC_DRT_USB_113...
+2026-03-21 13:13:19,911 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 13:13:19,911 | INFO |     Result : Fail
+2026-03-21 13:13:19,912 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:13:19,912 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:13:19,912 | INFO |     Root Cause Details : USB video played in full screen after selecting a video from the USB Video folder screen. In the earlier TS, screen size was set to normal before disconnecting USB, but it seems this was not reflected.
+2026-03-21 13:13:19,913 | INFO |     Fixation Performed : NA
+2026-03-21 13:13:19,913 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-21 13:13:19,913 | INFO |     Reviewer : Rajashri
+2026-03-21 13:13:20,830 | INFO |   ✅ Commented on DRT-5094: 'KPIT_TC_DRT_USB_113.
+
+2026-03-21 13:13:20,831 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

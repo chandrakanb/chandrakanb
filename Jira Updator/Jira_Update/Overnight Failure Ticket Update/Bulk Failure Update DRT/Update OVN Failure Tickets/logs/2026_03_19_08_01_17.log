@@ -1,0 +1,40 @@
+2026-03-19 08:01:18,510 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 08:01:18,511 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 08:01:18,512 | INFO |     Failure Category : Human error
+2026-03-19 08:01:18,512 | INFO |     Failure Sub Category : -
+2026-03-19 08:01:18,513 | INFO |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)', 'SRL/CR Changes', 'Test Env Issue', 'TS Issue']
+2026-03-19 08:01:18,513 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 08:01:18,513 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 08:01:19,864 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 08:01:19,865 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 08:01:19,877 | INFO |     Date Build : Date
+2026-03-19 08:01:19,878 | INFO |     Result : Fail
+2026-03-19 08:01:19,879 | INFO |     Failure Category : Human error
+2026-03-19 08:01:19,880 | INFO |     Failure Sub Category : -
+2026-03-19 08:01:19,881 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 08:01:19,881 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 08:01:19,882 | INFO |     Remarks : Remarks
+2026-03-19 08:01:19,883 | INFO |     Reviewer : Reviewer
+2026-03-19 08:01:20,758 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 08:01:21,175 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 08:01:21,176 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 08:01:21,176 | INFO |     Failure Category : KITE issue
+2026-03-19 08:01:21,176 | INFO |     Failure Sub Category : CAN signal issue
+2026-03-19 08:01:21,178 | INFO |     Previous Failure Category : ['KITE Issue', 'ICB Issue (Once)', 'SRL/CR Changes', 'Human Error', 'Test Env Issue', 'TS Issue']
+2026-03-19 08:01:21,178 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 08:01:21,178 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 08:01:22,518 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 08:01:22,519 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 08:01:22,521 | INFO |     Date Build : Date
+2026-03-19 08:01:22,521 | INFO |     Result : Fail
+2026-03-19 08:01:22,522 | INFO |     Failure Category : KITE issue
+2026-03-19 08:01:22,523 | INFO |     Failure Sub Category : CAN signal issue
+2026-03-19 08:01:22,524 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 08:01:22,525 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 08:01:22,526 | INFO |     Remarks : Remarks
+2026-03-19 08:01:22,526 | INFO |     Reviewer : Reviewer
+2026-03-19 08:01:23,120 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 08:01:23,121 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

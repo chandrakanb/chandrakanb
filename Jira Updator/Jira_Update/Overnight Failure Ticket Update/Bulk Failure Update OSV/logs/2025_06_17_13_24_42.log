@@ -1,0 +1,22 @@
+2025-06-17 13:24:44,715 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-17 13:24:44,717 | INFO |   🔄 Updating fields for OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-17 13:24:44,718 | INFO |     Failure Category : ICB issue (Once)
+2025-06-17 13:24:44,719 | INFO |     Failure Sub Category : Once Seen
+2025-06-17 13:24:44,721 | INFO |     Root Cause Details : Home Customisation App Sequence got changed
+2025-06-17 13:24:44,722 | INFO |     Fixation Performed : NA
+2025-06-17 13:24:46,033 | INFO |   ✅ Updated fields for OSV-2494: 'KPIT_TC_DRT_HOM_013.
+2025-06-17 13:24:46,035 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-17 13:24:46,035 | INFO |     Date : 20th May 2025
+2025-06-17 13:24:46,048 | INFO |     Result : Fail
+2025-06-17 13:24:46,048 | INFO |     Failure Category : ICB issue (Once)
+2025-06-17 13:24:46,049 | INFO |     Failure Sub Category : Once Seen
+2025-06-17 13:24:46,049 | INFO |     Root Cause Details : Home Customisation App Sequence got changed
+2025-06-17 13:24:46,049 | INFO |     Fixation Performed : NA
+2025-06-17 13:24:46,825 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-17 13:24:47,306 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-17 13:24:47,308 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-17 13:24:47,308 | INFO |     Date : 20th May 2025
+2025-06-17 13:24:47,308 | INFO |     Result : Pass
+2025-06-17 13:24:48,036 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+

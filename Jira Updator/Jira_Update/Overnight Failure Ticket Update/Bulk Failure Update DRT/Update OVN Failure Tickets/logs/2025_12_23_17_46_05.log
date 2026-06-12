@@ -1,0 +1,181 @@
+2025-12-23 17:46:08,349 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-23 17:46:08,350 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-23 17:46:08,351 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:46:08,351 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 17:46:08,351 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issues']
+2025-12-23 17:46:08,352 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2025-12-23 17:46:08,352 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:08,353 | INFO |     Remarks : NA
+2025-12-23 17:46:08,354 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:08,697 | ERROR | [ERROR] Could not process DRT-1809: 'KPIT_TC_DRT_LMG_021 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17961
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:08 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '77c5f31b977b237f88fcc0fa5b07335e', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '01ab4f8257cc401fb788cb6438ccec37', 'Atl-Request-Id': '01ab4f82-57cc-401f-b788-cb6438ccec37', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=207,atl-edge-internal;dur=15,atl-edge-upstream;dur=193,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': 'XBxE1LkH8DQNrCoKJzG8dBttVYUOX5fok6BKbLuduYlj9dHMiXsPQg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:08,970 | INFO | ⏳ Updating 'DRT-2615: KPIT_TC_DRT_LMG_012'...
+2025-12-23 17:46:08,970 | INFO |   🔄 Updating fields for DRT-2615: 'KPIT_TC_DRT_LMG_012...
+2025-12-23 17:46:08,971 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:08,972 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:08,972 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 17:46:08,973 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:08,973 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:08,974 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:08,974 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:09,913 | INFO |   ✅ Updated fields for DRT-2615: 'KPIT_TC_DRT_LMG_012.
+2025-12-23 17:46:09,914 | INFO |   🔄 Commenting on DRT-2615: 'KPIT_TC_DRT_LMG_012...
+2025-12-23 17:46:09,914 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:46:09,914 | INFO |     Result : Fail
+2025-12-23 17:46:09,915 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:09,915 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:09,916 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:09,916 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:10,412 | INFO |   ✅ Commented on DRT-2615: 'KPIT_TC_DRT_LMG_012.
+
+2025-12-23 17:46:10,717 | INFO | ⏳ Updating 'DRT-4715: KPIT_TC_DRT_LMG_009'...
+2025-12-23 17:46:10,718 | INFO |   🔄 Updating fields for DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-23 17:46:10,718 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:10,719 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:10,720 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-23 17:46:10,720 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:10,721 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:10,721 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:10,722 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:11,041 | ERROR | [ERROR] Could not process DRT-4715: 'KPIT_TC_DRT_LMG_009 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2075523
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:10 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '393ad96eca7460d8ebd0e47bfeb88b05', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f86bb6cb7b974f5a9bae2a647eb8c1f4', 'Atl-Request-Id': 'f86bb6cb-7b97-4f5a-9bae-2a647eb8c1f4', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=181,atl-edge-internal;dur=15,atl-edge-upstream;dur=166,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': 'mcvWysssF6FHdsUZv3SzKSQGkoyMK70UJZ92a_nCFMWOocBceJ9Lxg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:11,375 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-23 17:46:11,376 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-23 17:46:11,377 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:46:11,377 | INFO |     Failure Sub Category : External Application Issue
+2025-12-23 17:46:11,377 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 17:46:11,378 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-23 17:46:11,378 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:11,379 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-23 17:46:11,379 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:12,264 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-23 17:46:12,265 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-23 17:46:12,271 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:46:12,273 | INFO |     Result : Fail
+2025-12-23 17:46:12,277 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:46:12,280 | INFO |     Failure Sub Category : External Application Issue
+2025-12-23 17:46:12,281 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-23 17:46:12,282 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:13,161 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-23 17:46:13,480 | INFO | ⏳ Updating 'DRT-1800: KPIT_TC_DRT_BT_002'...
+2025-12-23 17:46:13,481 | INFO |   🔄 Updating fields for DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-23 17:46:13,482 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:46:13,483 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 17:46:13,485 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 17:46:13,486 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2025-12-23 17:46:13,496 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:13,497 | INFO |     Remarks : NA
+2025-12-23 17:46:13,499 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:14,382 | INFO |   ✅ Updated fields for DRT-1800: 'KPIT_TC_DRT_BT_002.
+2025-12-23 17:46:14,382 | INFO |   🔄 Commenting on DRT-1800: 'KPIT_TC_DRT_BT_002...
+2025-12-23 17:46:14,383 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:46:14,384 | INFO |     Result : Fail
+2025-12-23 17:46:14,384 | INFO |     Failure Category : Test Env Issue
+2025-12-23 17:46:14,385 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-12-23 17:46:14,385 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2025-12-23 17:46:14,386 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:14,940 | INFO |   ✅ Commented on DRT-1800: 'KPIT_TC_DRT_BT_002.
+
+2025-12-23 17:46:15,295 | INFO | ⏳ Updating 'DRT-2305: KPIT_TC_DRT_VEND_092'...
+2025-12-23 17:46:15,296 | INFO |   🔄 Updating fields for DRT-2305: 'KPIT_TC_DRT_VEND_092...
+2025-12-23 17:46:15,297 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:15,298 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:15,299 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-23 17:46:15,300 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:15,302 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:15,304 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:15,305 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:15,620 | ERROR | [ERROR] Could not process DRT-2305: 'KPIT_TC_DRT_VEND_092 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18732
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:15 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'bd23340d110cbc96b3b8bc9c2952ba91', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'e579ebc159b54d56ad7af54e0079eb16', 'Atl-Request-Id': 'e579ebc1-59b5-4d56-ad7a-f54e0079eb16', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=170,atl-edge-internal;dur=14,atl-edge-upstream;dur=157,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': '__uuNJW7cKvN7BbPth23rbCADqM46vfqu6Zau3EFiNMyryClRsVqww=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:15,924 | INFO | ⏳ Updating 'DRT-2304: KPIT_TC_FNC_VEND_0063_0001'...
+2025-12-23 17:46:15,925 | INFO |   🔄 Updating fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-23 17:46:15,925 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:15,926 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:15,927 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-23 17:46:15,927 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:15,928 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:15,928 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:15,929 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:16,260 | ERROR | [ERROR] Could not process DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18731
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:16 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '731dc1b306712644d783d132053d0a80', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '695a7b9163a843e59ea02b56c4da2397', 'Atl-Request-Id': '695a7b91-63a8-43e5-9ea0-2b56c4da2397', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=187,atl-edge-internal;dur=14,atl-edge-upstream;dur=173,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': 'VXwNY5YkkmXFs8M_GPE7FotPYCmGckAIel5sGDA5qTFKAjDWmbTgNQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:16,571 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-12-23 17:46:16,572 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-23 17:46:16,574 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:16,576 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:16,577 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 17:46:16,578 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:16,582 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:16,583 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:16,584 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:17,545 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-12-23 17:46:17,546 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-23 17:46:17,546 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:46:17,547 | INFO |     Result : Fail
+2025-12-23 17:46:17,547 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:17,548 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:17,549 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:17,549 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:18,109 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-23 17:46:18,758 | INFO | ⏳ Updating 'DRT-2308: KPIT_TC_DRT_BZA_005'...
+2025-12-23 17:46:18,759 | INFO |   🔄 Updating fields for DRT-2308: 'KPIT_TC_DRT_BZA_005...
+2025-12-23 17:46:18,759 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:18,760 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:18,762 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-23 17:46:18,762 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:18,763 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:18,764 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:18,766 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:19,105 | ERROR | [ERROR] Could not process DRT-2308: 'KPIT_TC_DRT_BZA_005 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18735
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:19 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '7a15bf4520e3bec22531f75553b93792', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '3a62d898cac84c978260eb84b27c4ba6', 'Atl-Request-Id': '3a62d898-cac8-4c97-8260-eb84b27c4ba6', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=179,atl-edge-internal;dur=13,atl-edge-upstream;dur=165,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': '3eliJxjwKwhMQTWsV_Une5n_WrKpKwykOQ56ycQh_70GUo3WTD1njA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:19,400 | INFO | ⏳ Updating 'DRT-2309: KPIT_TC_DRT_BZA_015'...
+2025-12-23 17:46:19,403 | INFO |   🔄 Updating fields for DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-23 17:46:19,404 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:19,406 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:19,406 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-23 17:46:19,409 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:19,411 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:19,412 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:19,414 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:19,719 | ERROR | [ERROR] Could not process DRT-2309: 'KPIT_TC_DRT_BZA_015 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18736
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 23 Dec 2025 12:16:19 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'c5cf930b203912e945d1394ba3fd5d94', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'db4cf4cd77bc444684b5168a6b077c4b', 'Atl-Request-Id': 'db4cf4cd-77bc-4446-84b5-168a6b077c4b', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=161,atl-edge-internal;dur=14,atl-edge-upstream;dur=147,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 44453371f3bd2fe9ba83cbdebd5951ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': 'JE2GTjJsrCDFDdUhgvzXu6EJeX8nzSkFUrU8B0Y_ZABnL8v_a-9oeA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-23 17:46:20,447 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-23 17:46:20,448 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-23 17:46:20,450 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:20,452 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:20,452 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-23 17:46:20,454 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:20,455 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:20,456 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-23 17:46:20,457 | INFO |     Reviewer : Rajashri
+2025-12-23 17:46:21,419 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-23 17:46:21,419 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-23 17:46:21,419 | INFO |     Date AEA1414R0.251223.1 : 2025-12-23
+2025-12-23 17:46:21,420 | INFO |     Result : Fail
+2025-12-23 17:46:21,420 | INFO |     Failure Category : KITE Issue
+2025-12-23 17:46:21,420 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-23 17:46:21,421 | INFO |     Root Cause Details : Updated Batch file with adb over wifi connect command.
+2025-12-23 17:46:21,421 | INFO |     Fixation Performed : NA
+2025-12-23 17:46:22,272 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-23 17:46:22,273 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

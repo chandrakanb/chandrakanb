@@ -1,0 +1,29 @@
+; Connect to COM9 with 115200 baud
+setbaud 115200
+connect 'COM9'
+
+if result = 2 goto error ; Check connection
+
+; Send commands
+sendln 'MCU_DEBUG00'
+sendln 'MCU_DEBUG01'
+
+; Log data
+logopen 'session_log.txt'
+sendln 'MCU_DEBUG14545942413101'
+wait 1
+sendln 'MCU_DEBUG14545942413101'
+wait 1
+sendln 'MCU_DEBUG14545942413101'
+wait 1
+sendln 'MCU_DEBUG14545942413101'
+wait 1
+logclose
+
+; Disconnect
+disconnect
+end
+
+:error
+messagebox 'Failed to connect!'
+end

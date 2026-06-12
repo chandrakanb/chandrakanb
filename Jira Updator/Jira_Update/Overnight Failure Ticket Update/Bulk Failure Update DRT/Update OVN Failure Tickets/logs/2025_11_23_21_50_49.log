@@ -1,0 +1,1454 @@
+2025-11-23 21:50:52,128 | INFO | ⏳ Updating 'DRT-4777: KPIT_TC_DRT_LMG_1232'...
+2025-11-23 21:50:52,128 | INFO |   🔄 Updating fields for DRT-4777: 'KPIT_TC_DRT_LMG_1232...
+2025-11-23 21:50:52,129 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:52,129 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:52,130 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:50:52,130 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:50:52,130 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:50:52,131 | INFO |     Remarks : NA
+2025-11-23 21:50:52,131 | INFO |     Reviewer : Rajashri
+2025-11-23 21:50:53,526 | INFO |   ✅ Updated fields for DRT-4777: 'KPIT_TC_DRT_LMG_1232.
+2025-11-23 21:50:53,528 | INFO |   🔄 Commenting on DRT-4777: 'KPIT_TC_DRT_LMG_1232...
+2025-11-23 21:50:53,528 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:50:53,529 | INFO |     Result : Fail
+2025-11-23 21:50:53,529 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:53,529 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:53,529 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:50:53,530 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:50:54,438 | INFO |   ✅ Commented on DRT-4777: 'KPIT_TC_DRT_LMG_1232.
+
+2025-11-23 21:50:55,123 | INFO | ⏳ Updating 'DRT-4118: KPIT_TC_DRT_BT_033'...
+2025-11-23 21:50:55,124 | INFO |   🔄 Updating fields for DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:50:55,125 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:55,125 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:55,126 | INFO |     Previous Failure Category : ['ICB Issue (Once)']
+2025-11-23 21:50:55,127 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:50:55,127 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:50:55,129 | INFO |     Remarks : NA
+2025-11-23 21:50:55,129 | INFO |     Reviewer : Rajashri
+2025-11-23 21:50:56,826 | INFO |   ✅ Updated fields for DRT-4118: 'KPIT_TC_DRT_BT_033.
+2025-11-23 21:50:56,827 | INFO |   🔄 Commenting on DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:50:56,828 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:50:56,829 | INFO |     Result : Fail
+2025-11-23 21:50:56,829 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:56,829 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:56,829 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:50:56,830 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:50:57,733 | INFO |   ✅ Commented on DRT-4118: 'KPIT_TC_DRT_BT_033.
+
+2025-11-23 21:50:58,552 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-11-23 21:50:58,553 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:50:58,553 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:58,555 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:58,555 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:50:58,556 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:50:58,557 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:50:58,558 | INFO |     Remarks : NA
+2025-11-23 21:50:58,558 | INFO |     Reviewer : Rajashri
+2025-11-23 21:50:59,906 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-11-23 21:50:59,906 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:50:59,907 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:50:59,907 | INFO |     Result : Fail
+2025-11-23 21:50:59,908 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:50:59,908 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:50:59,909 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:50:59,909 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:51:00,841 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:51:01,602 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:51:01,603 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:51:01,603 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:01,604 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:01,604 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:51:01,604 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:01,605 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:01,605 | INFO |     Remarks : NA
+2025-11-23 21:51:01,605 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:02,853 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:51:02,854 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:51:02,854 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:02,855 | INFO |     Result : Fail
+2025-11-23 21:51:02,855 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:02,855 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:02,856 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:02,856 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:03,781 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:51:04,169 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:51:04,170 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:51:04,170 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:04,170 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:04,171 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:51:04,171 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:51:04,172 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:51:04,172 | INFO |     Remarks : NA
+2025-11-23 21:51:04,173 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:05,773 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-11-23 21:51:05,774 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:51:05,774 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:05,775 | INFO |     Result : Fail
+2025-11-23 21:51:05,775 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:05,776 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:05,776 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:51:05,776 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:51:06,674 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-11-23 21:51:06,994 | INFO | ⏳ Updating 'DRT-2127: KPIT_TC_DRT_BZA_005'...
+2025-11-23 21:51:06,994 | INFO |   🔄 Updating fields for DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:51:06,995 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:06,995 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:06,996 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:51:06,996 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:06,996 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:06,997 | INFO |     Remarks : NA
+2025-11-23 21:51:06,997 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:08,249 | INFO |   ✅ Updated fields for DRT-2127: 'KPIT_TC_DRT_BZA_005.
+2025-11-23 21:51:08,249 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:51:08,250 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:08,250 | INFO |     Result : Fail
+2025-11-23 21:51:08,251 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:08,251 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:08,252 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:08,252 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:09,133 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:51:09,509 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:51:09,510 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:51:09,510 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:09,510 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:09,510 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:51:09,511 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:09,511 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:09,512 | INFO |     Remarks : NA
+2025-11-23 21:51:09,512 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:10,387 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:51:10,388 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:51:10,388 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:10,389 | INFO |     Result : Fail
+2025-11-23 21:51:10,389 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:10,390 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:10,391 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:51:10,391 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:51:11,265 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-11-23 21:51:11,599 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-11-23 21:51:11,600 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:51:11,600 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:11,601 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:11,601 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:11,602 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:51:11,602 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:51:11,602 | INFO |     Remarks : NA
+2025-11-23 21:51:11,603 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:12,836 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-11-23 21:51:12,837 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:51:12,838 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:12,838 | INFO |     Result : Fail
+2025-11-23 21:51:12,838 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:12,839 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:12,839 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:51:12,840 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:51:13,443 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:51:14,143 | INFO | ⏳ Updating 'DRT-1758: KPIT_TC_DRT_LMG_028'...
+2025-11-23 21:51:14,143 | INFO |   🔄 Updating fields for DRT-1758: 'KPIT_TC_DRT_LMG_028...
+2025-11-23 21:51:14,144 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:14,144 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:14,145 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:14,145 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:14,145 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:14,146 | INFO |     Remarks : NA
+2025-11-23 21:51:14,146 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:15,030 | INFO |   ✅ Updated fields for DRT-1758: 'KPIT_TC_DRT_LMG_028.
+2025-11-23 21:51:15,030 | INFO |   🔄 Commenting on DRT-1758: 'KPIT_TC_DRT_LMG_028...
+2025-11-23 21:51:15,031 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:15,031 | INFO |     Result : Fail
+2025-11-23 21:51:15,031 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:15,032 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:15,033 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:15,033 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:15,615 | INFO |   ✅ Commented on DRT-1758: 'KPIT_TC_DRT_LMG_028.
+
+2025-11-23 21:51:15,951 | INFO | ⏳ Updating 'DRT-1743: KPIT_TC_DRT_LMG_010'...
+2025-11-23 21:51:15,952 | INFO |   🔄 Updating fields for DRT-1743: 'KPIT_TC_DRT_LMG_010...
+2025-11-23 21:51:15,952 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:15,952 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:15,952 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issues']
+2025-11-23 21:51:15,952 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:15,952 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:15,952 | INFO |     Remarks : NA
+2025-11-23 21:51:15,954 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:16,825 | INFO |   ✅ Updated fields for DRT-1743: 'KPIT_TC_DRT_LMG_010.
+2025-11-23 21:51:16,825 | INFO |   🔄 Commenting on DRT-1743: 'KPIT_TC_DRT_LMG_010...
+2025-11-23 21:51:16,826 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:16,826 | INFO |     Result : Fail
+2025-11-23 21:51:16,826 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:16,827 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:16,827 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:16,828 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:17,666 | INFO |   ✅ Commented on DRT-1743: 'KPIT_TC_DRT_LMG_010.
+
+2025-11-23 21:51:18,009 | INFO | ⏳ Updating 'DRT-1742: KPIT_TC_DRT_LMG_004'...
+2025-11-23 21:51:18,009 | INFO |   🔄 Updating fields for DRT-1742: 'KPIT_TC_DRT_LMG_004...
+2025-11-23 21:51:18,011 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:18,011 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:18,012 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:18,012 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:18,013 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:18,014 | INFO |     Remarks : NA
+2025-11-23 21:51:18,015 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:18,858 | INFO |   ✅ Updated fields for DRT-1742: 'KPIT_TC_DRT_LMG_004.
+2025-11-23 21:51:18,858 | INFO |   🔄 Commenting on DRT-1742: 'KPIT_TC_DRT_LMG_004...
+2025-11-23 21:51:18,859 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:18,859 | INFO |     Result : Fail
+2025-11-23 21:51:18,859 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:18,860 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:18,860 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:18,860 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:19,759 | INFO |   ✅ Commented on DRT-1742: 'KPIT_TC_DRT_LMG_004.
+
+2025-11-23 21:51:20,084 | INFO | ⏳ Updating 'DRT-1741: KPIT_TC_DRT_LMG_011'...
+2025-11-23 21:51:20,084 | INFO |   🔄 Updating fields for DRT-1741: 'KPIT_TC_DRT_LMG_011...
+2025-11-23 21:51:20,084 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:20,084 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:20,085 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:20,085 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:20,086 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:20,086 | INFO |     Remarks : NA
+2025-11-23 21:51:20,086 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:20,884 | INFO |   ✅ Updated fields for DRT-1741: 'KPIT_TC_DRT_LMG_011.
+2025-11-23 21:51:20,885 | INFO |   🔄 Commenting on DRT-1741: 'KPIT_TC_DRT_LMG_011...
+2025-11-23 21:51:20,885 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:20,886 | INFO |     Result : Fail
+2025-11-23 21:51:20,886 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:20,886 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:20,888 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:20,888 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:21,386 | INFO |   ✅ Commented on DRT-1741: 'KPIT_TC_DRT_LMG_011.
+
+2025-11-23 21:51:21,713 | INFO | ⏳ Updating 'DRT-1740: KPIT_TC_DRT_LMG_014'...
+2025-11-23 21:51:21,713 | INFO |   🔄 Updating fields for DRT-1740: 'KPIT_TC_DRT_LMG_014...
+2025-11-23 21:51:21,713 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:21,714 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:21,715 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issues']
+2025-11-23 21:51:21,716 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:21,716 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:21,717 | INFO |     Remarks : NA
+2025-11-23 21:51:21,717 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:22,619 | INFO |   ✅ Updated fields for DRT-1740: 'KPIT_TC_DRT_LMG_014.
+2025-11-23 21:51:22,619 | INFO |   🔄 Commenting on DRT-1740: 'KPIT_TC_DRT_LMG_014...
+2025-11-23 21:51:22,620 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:22,620 | INFO |     Result : Fail
+2025-11-23 21:51:22,620 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:22,621 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:22,621 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:22,621 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:23,157 | INFO |   ✅ Commented on DRT-1740: 'KPIT_TC_DRT_LMG_014.
+
+2025-11-23 21:51:23,480 | INFO | ⏳ Updating 'DRT-1739: KPIT_TC_DRT_LMG_015'...
+2025-11-23 21:51:23,481 | INFO |   🔄 Updating fields for DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:51:23,481 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:23,481 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:23,482 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issues']
+2025-11-23 21:51:23,482 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:23,483 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:23,483 | INFO |     Remarks : NA
+2025-11-23 21:51:23,484 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:24,676 | INFO |   ✅ Updated fields for DRT-1739: 'KPIT_TC_DRT_LMG_015.
+2025-11-23 21:51:24,676 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:51:24,677 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:24,677 | INFO |     Result : Fail
+2025-11-23 21:51:24,678 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:24,678 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:24,679 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:24,679 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:25,509 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:51:26,168 | INFO | ⏳ Updating 'DRT-1738: KPIT_TC_DRT_LMG_016'...
+2025-11-23 21:51:26,169 | INFO |   🔄 Updating fields for DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:51:26,169 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:26,170 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:26,170 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:51:26,170 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:26,170 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:26,171 | INFO |     Remarks : NA
+2025-11-23 21:51:26,171 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:27,014 | INFO |   ✅ Updated fields for DRT-1738: 'KPIT_TC_DRT_LMG_016.
+2025-11-23 21:51:27,015 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:51:27,015 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:27,016 | INFO |     Result : Fail
+2025-11-23 21:51:27,016 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:27,016 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:27,017 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:27,017 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:27,879 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:51:28,171 | INFO | ⏳ Updating 'DRT-1734: KPIT_TC_DRT_LMG_013'...
+2025-11-23 21:51:28,172 | INFO |   🔄 Updating fields for DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:51:28,172 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:28,173 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:28,174 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:51:28,174 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:28,174 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:28,175 | INFO |     Remarks : NA
+2025-11-23 21:51:28,175 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:28,997 | INFO |   ✅ Updated fields for DRT-1734: 'KPIT_TC_DRT_LMG_013.
+2025-11-23 21:51:28,998 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:51:28,998 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:28,998 | INFO |     Result : Fail
+2025-11-23 21:51:28,999 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:28,999 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:29,000 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:29,000 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:29,802 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:51:30,483 | INFO | ⏳ Updating 'DRT-1733: KPIT_TC_DRT_LMG_005'...
+2025-11-23 21:51:30,483 | INFO |   🔄 Updating fields for DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-11-23 21:51:30,484 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:30,484 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:30,485 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:30,486 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:30,486 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:30,486 | INFO |     Remarks : NA
+2025-11-23 21:51:30,487 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:31,297 | INFO |   ✅ Updated fields for DRT-1733: 'KPIT_TC_DRT_LMG_005.
+2025-11-23 21:51:31,298 | INFO |   🔄 Commenting on DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-11-23 21:51:31,298 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:31,298 | INFO |     Result : Fail
+2025-11-23 21:51:31,299 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:31,299 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:31,300 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:51:31,300 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:51:31,824 | INFO |   ✅ Commented on DRT-1733: 'KPIT_TC_DRT_LMG_005.
+
+2025-11-23 21:51:32,163 | INFO | ⏳ Updating 'DRT-1732: KPIT_TC_DRT_LMG_021'...
+2025-11-23 21:51:32,164 | INFO |   🔄 Updating fields for DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:51:32,164 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:32,165 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:32,165 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-11-23 21:51:32,166 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone5.
+2025-11-23 21:51:32,166 | INFO |     Fixation Performed : Restarted Phone5.
+2025-11-23 21:51:32,166 | INFO |     Remarks : NA
+2025-11-23 21:51:32,167 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:33,081 | INFO |   ✅ Updated fields for DRT-1732: 'KPIT_TC_DRT_LMG_021.
+2025-11-23 21:51:33,082 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:51:33,083 | INFO |     Date AEA1412S0.251107.1 : 2025-11-07
+2025-11-23 21:51:33,083 | INFO |     Result : Fail
+2025-11-23 21:51:33,084 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:33,084 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:33,085 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone5.
+2025-11-23 21:51:33,085 | INFO |     Fixation Performed : Restarted Phone5.
+2025-11-23 21:51:33,996 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:51:34,280 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:51:34,280 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:34,281 | INFO |     Result : Pass
+2025-11-23 21:51:35,057 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:51:35,374 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:51:35,375 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:35,375 | INFO |     Result : Pass
+2025-11-23 21:51:36,245 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:51:36,647 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:51:36,648 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:36,648 | INFO |     Result : Pass
+2025-11-23 21:51:37,346 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:51:37,678 | INFO |   🔄 Commenting on DRT-1741: 'KPIT_TC_DRT_LMG_011...
+2025-11-23 21:51:37,678 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:37,678 | INFO |     Result : Pass
+2025-11-23 21:51:38,286 | INFO |   ✅ Commented on DRT-1741: 'KPIT_TC_DRT_LMG_011.
+
+2025-11-23 21:51:38,577 | INFO |   🔄 Commenting on DRT-4777: 'KPIT_TC_DRT_LMG_1232...
+2025-11-23 21:51:38,578 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:38,579 | INFO |     Result : Pass
+2025-11-23 21:51:39,442 | INFO |   ✅ Commented on DRT-4777: 'KPIT_TC_DRT_LMG_1232.
+
+2025-11-23 21:51:39,742 | INFO |   🔄 Commenting on DRT-1758: 'KPIT_TC_DRT_LMG_028...
+2025-11-23 21:51:39,742 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:39,742 | INFO |     Result : Pass
+2025-11-23 21:51:40,709 | INFO |   ✅ Commented on DRT-1758: 'KPIT_TC_DRT_LMG_028.
+
+2025-11-23 21:51:41,019 | INFO |   🔄 Commenting on DRT-1742: 'KPIT_TC_DRT_LMG_004...
+2025-11-23 21:51:41,020 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:41,020 | INFO |     Result : Pass
+2025-11-23 21:51:42,037 | INFO |   ✅ Commented on DRT-1742: 'KPIT_TC_DRT_LMG_004.
+
+2025-11-23 21:51:42,373 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:51:42,375 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:42,375 | INFO |     Result : Pass
+2025-11-23 21:51:43,089 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:51:43,416 | INFO |   🔄 Commenting on DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-11-23 21:51:43,417 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:43,418 | INFO |     Result : Pass
+2025-11-23 21:51:43,992 | INFO |   ✅ Commented on DRT-1733: 'KPIT_TC_DRT_LMG_005.
+
+2025-11-23 21:51:44,287 | INFO |   🔄 Commenting on DRT-1743: 'KPIT_TC_DRT_LMG_010...
+2025-11-23 21:51:44,287 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:44,287 | INFO |     Result : Pass
+2025-11-23 21:51:45,141 | INFO |   ✅ Commented on DRT-1743: 'KPIT_TC_DRT_LMG_010.
+
+2025-11-23 21:51:45,425 | INFO |   🔄 Commenting on DRT-1740: 'KPIT_TC_DRT_LMG_014...
+2025-11-23 21:51:45,426 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:45,426 | INFO |     Result : Pass
+2025-11-23 21:51:45,840 | INFO |   ✅ Commented on DRT-1740: 'KPIT_TC_DRT_LMG_014.
+
+2025-11-23 21:51:46,138 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:51:46,139 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:46,139 | INFO |     Result : Pass
+2025-11-23 21:51:46,564 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:51:46,909 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:51:46,909 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:46,910 | INFO |     Result : Pass
+2025-11-23 21:51:47,319 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:51:47,611 | INFO |   🔄 Commenting on DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:51:47,611 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:47,611 | INFO |     Result : Pass
+2025-11-23 21:51:48,068 | INFO |   ✅ Commented on DRT-4118: 'KPIT_TC_DRT_BT_033.
+
+2025-11-23 21:51:48,345 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:51:48,345 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:48,346 | INFO |     Result : Pass
+2025-11-23 21:51:49,119 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:51:49,474 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:51:49,474 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:51:49,474 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:49,475 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:51:49,475 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:51:49,475 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:51:49,476 | INFO |     Fixation Performed : NA
+2025-11-23 21:51:49,476 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-23 21:51:49,476 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:50,333 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-11-23 21:51:50,334 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:51:50,334 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:50,334 | INFO |     Result : Fail
+2025-11-23 21:51:50,335 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:50,335 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:51:50,336 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:51:50,336 | INFO |     Fixation Performed : NA
+2025-11-23 21:51:51,184 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-11-23 21:51:51,506 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:51:51,506 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:51:51,507 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:51,507 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:51,509 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:51:51,509 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:51,510 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:51,510 | INFO |     Remarks : NA
+2025-11-23 21:51:51,511 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:52,432 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:51:52,432 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:51:52,432 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:52,433 | INFO |     Result : Fail
+2025-11-23 21:51:52,433 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:52,433 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:52,433 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:52,434 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:53,289 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:51:53,629 | INFO | ⏳ Updating 'DRT-2132: KPIT_TC_DRT_BZA_015'...
+2025-11-23 21:51:53,630 | INFO |   🔄 Updating fields for DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:51:53,631 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:53,631 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:53,632 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:51:53,632 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:53,633 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:53,633 | INFO |     Remarks : NA
+2025-11-23 21:51:53,634 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:54,486 | INFO |   ✅ Updated fields for DRT-2132: 'KPIT_TC_DRT_BZA_015.
+2025-11-23 21:51:54,487 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:51:54,487 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:54,488 | INFO |     Result : Fail
+2025-11-23 21:51:54,489 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:54,489 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:54,490 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:54,490 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:55,011 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 21:51:55,325 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:51:55,325 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:51:55,326 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:55,326 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:55,326 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:51:55,327 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:55,327 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:55,328 | INFO |     Remarks : NA
+2025-11-23 21:51:55,328 | INFO |     Reviewer : Rajashri
+2025-11-23 21:51:56,507 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:51:56,508 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:51:56,508 | INFO |     Date AEA1414D0.251110.1 : 2025-11-10
+2025-11-23 21:51:56,508 | INFO |     Result : Fail
+2025-11-23 21:51:56,509 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:51:56,509 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:51:56,509 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:51:56,510 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:51:56,979 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-11-23 21:51:57,265 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:51:57,265 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:51:57,265 | INFO |     Result : Pass
+2025-11-23 21:51:57,682 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:51:57,980 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:51:57,980 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:51:57,981 | INFO |     Result : Pass
+2025-11-23 21:51:58,426 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:51:58,713 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:51:58,714 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:51:58,714 | INFO |     Result : Pass
+2025-11-23 21:51:59,153 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:51:59,451 | INFO |   🔄 Commenting on DRT-1741: 'KPIT_TC_DRT_LMG_011...
+2025-11-23 21:51:59,452 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:51:59,453 | INFO |     Result : Pass
+2025-11-23 21:51:59,877 | INFO |   ✅ Commented on DRT-1741: 'KPIT_TC_DRT_LMG_011.
+
+2025-11-23 21:52:00,166 | INFO |   🔄 Commenting on DRT-4777: 'KPIT_TC_DRT_LMG_1232...
+2025-11-23 21:52:00,166 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:00,167 | INFO |     Result : Pass
+2025-11-23 21:52:00,952 | INFO |   ✅ Commented on DRT-4777: 'KPIT_TC_DRT_LMG_1232.
+
+2025-11-23 21:52:01,253 | INFO |   🔄 Commenting on DRT-1758: 'KPIT_TC_DRT_LMG_028...
+2025-11-23 21:52:01,254 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:01,254 | INFO |     Result : Pass
+2025-11-23 21:52:01,708 | INFO |   ✅ Commented on DRT-1758: 'KPIT_TC_DRT_LMG_028.
+
+2025-11-23 21:52:01,999 | INFO |   🔄 Commenting on DRT-1742: 'KPIT_TC_DRT_LMG_004...
+2025-11-23 21:52:02,000 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:02,000 | INFO |     Result : Pass
+2025-11-23 21:52:02,468 | INFO |   ✅ Commented on DRT-1742: 'KPIT_TC_DRT_LMG_004.
+
+2025-11-23 21:52:02,768 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:52:02,768 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:02,769 | INFO |     Result : Pass
+2025-11-23 21:52:03,190 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:52:03,494 | INFO |   🔄 Commenting on DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-11-23 21:52:03,494 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:03,495 | INFO |     Result : Pass
+2025-11-23 21:52:03,941 | INFO |   ✅ Commented on DRT-1733: 'KPIT_TC_DRT_LMG_005.
+
+2025-11-23 21:52:04,240 | INFO |   🔄 Commenting on DRT-1743: 'KPIT_TC_DRT_LMG_010...
+2025-11-23 21:52:04,241 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:04,241 | INFO |     Result : Pass
+2025-11-23 21:52:04,648 | INFO |   ✅ Commented on DRT-1743: 'KPIT_TC_DRT_LMG_010.
+
+2025-11-23 21:52:04,945 | INFO |   🔄 Commenting on DRT-1740: 'KPIT_TC_DRT_LMG_014...
+2025-11-23 21:52:04,945 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:04,946 | INFO |     Result : Pass
+2025-11-23 21:52:05,379 | INFO |   ✅ Commented on DRT-1740: 'KPIT_TC_DRT_LMG_014.
+
+2025-11-23 21:52:05,776 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:05,776 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:05,777 | INFO |     Result : Pass
+2025-11-23 21:52:06,297 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:52:06,595 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:06,596 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:06,596 | INFO |     Result : Pass
+2025-11-23 21:52:07,034 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:52:07,317 | INFO |   🔄 Commenting on DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:52:07,318 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:07,318 | INFO |     Result : Pass
+2025-11-23 21:52:07,768 | INFO |   ✅ Commented on DRT-4118: 'KPIT_TC_DRT_BT_033.
+
+2025-11-23 21:52:08,058 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:52:08,059 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:08,060 | INFO |     Result : Pass
+2025-11-23 21:52:08,485 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:52:08,768 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:52:08,769 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-23 21:52:08,769 | INFO |     Result : Pass
+2025-11-23 21:52:09,210 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 21:52:09,504 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:52:09,504 | INFO |     Date AEA1412S1.251113.1 : 2025-11-13
+2025-11-23 21:52:09,505 | INFO |     Result : Pass
+2025-11-23 21:52:09,925 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 21:52:10,289 | INFO | ⏳ Updating 'DRT-1759: KPIT_TC_DRT_LMG_024'...
+2025-11-23 21:52:10,289 | INFO |   🔄 Updating fields for DRT-1759: 'KPIT_TC_DRT_LMG_024...
+2025-11-23 21:52:10,289 | INFO |     Failure Category : Test_ENV_Issue
+2025-11-23 21:52:10,290 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:52:10,290 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2025-11-23 21:52:10,290 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 21:52:10,291 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 21:52:10,291 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 21:52:10,291 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:10,616 | ERROR | [ERROR] Could not process DRT-1759: 'KPIT_TC_DRT_LMG_024 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17876
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 23 Nov 2025 16:22:10 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '55ba8e0e693f12a4ce99740e88aa267f', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '1799e685dab7465ea8d45667377e17af', 'Atl-Request-Id': '1799e685-dab7-465e-a8d4-5667377e17af', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=170,atl-edge-internal;dur=16,atl-edge-upstream;dur=152,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'AJD7mQNR-bKuMlYz_5abM31ZY6a9lpFIfSEjsrhdFwzcCog8VZoLJg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'Test_ENV_Issue' is not valid"}}.
+
+2025-11-23 21:52:10,927 | INFO | ⏳ Updating 'DRT-1732: KPIT_TC_DRT_LMG_021'...
+2025-11-23 21:52:10,927 | INFO |   🔄 Updating fields for DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:52:10,929 | INFO |     Failure Category : Test_ENV_Issue
+2025-11-23 21:52:10,929 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:52:10,929 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:10,929 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 21:52:10,931 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 21:52:10,931 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 21:52:10,931 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:11,248 | ERROR | [ERROR] Could not process DRT-1732: 'KPIT_TC_DRT_LMG_021 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17849
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 23 Nov 2025 16:22:10 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '528702e3f52977dec269eb0f4cfd37b3', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '0f929b23ef5f4a24b0c9524db14f1637', 'Atl-Request-Id': '0f929b23-ef5f-4a24-b0c9-524db14f1637', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=164,atl-edge-internal;dur=14,atl-edge-upstream;dur=150,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'LaBiOr0fgIsMN0iu9mW3B-xb0yiUE0FvhKgSyW2peCuA14tiviXmVQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'Test_ENV_Issue' is not valid"}}.
+
+2025-11-23 21:52:11,563 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-11-23 21:52:11,564 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:11,564 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:11,564 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-23 21:52:11,565 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:11,565 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:11,566 | INFO |     Fixation Performed : Restarted Phone2, and reconnected the ADB cable.
+2025-11-23 21:52:11,566 | INFO |     Remarks : NA
+2025-11-23 21:52:11,566 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:12,391 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-11-23 21:52:12,392 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:12,392 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:12,393 | INFO |     Result : Fail
+2025-11-23 21:52:12,393 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:12,393 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-23 21:52:12,394 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:12,394 | INFO |     Fixation Performed : Restarted Phone2, and reconnected the ADB cable.
+2025-11-23 21:52:12,874 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:52:13,195 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:52:13,196 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:52:13,196 | INFO |     Failure Category : Test_ENV_Issue
+2025-11-23 21:52:13,197 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:52:13,197 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:13,198 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:52:13,198 | INFO |     Fixation Performed : NA
+2025-11-23 21:52:13,198 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-23 21:52:13,198 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:13,499 | ERROR | [ERROR] Could not process DRT-3914: 'KPIT_TC_DRT_VEND_115 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/47491
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 23 Nov 2025 16:22:13 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '9ec43759b382ebea2d4f777c774b5c87', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '5c7aaf57ab1a47baa8104514dfed3a48', 'Atl-Request-Id': '5c7aaf57-ab1a-47ba-a810-4514dfed3a48', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=156,atl-edge-internal;dur=14,atl-edge-upstream;dur=142,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'pHqsaEE35dUa_vgJ7VDa9f4LnEMqETZ5rwCxIhdCwrhL96b21lIXSg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'Test_ENV_Issue' is not valid"}}.
+
+2025-11-23 21:52:14,152 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-11-23 21:52:14,153 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:14,153 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:14,154 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-23 21:52:14,154 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:14,154 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:14,155 | INFO |     Fixation Performed : Restarted Phone2, and reconnected the ADB cable.
+2025-11-23 21:52:14,155 | INFO |     Remarks : NA
+2025-11-23 21:52:14,155 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:15,005 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-11-23 21:52:15,006 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:15,007 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:15,007 | INFO |     Result : Fail
+2025-11-23 21:52:15,007 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:15,007 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-23 21:52:15,007 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:15,007 | INFO |     Fixation Performed : Restarted Phone2, and reconnected the ADB cable.
+2025-11-23 21:52:15,437 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:52:15,723 | INFO | ⏳ Updating 'DRT-3981: KPIT_TC_DRT_BT_003'...
+2025-11-23 21:52:15,724 | INFO |   🔄 Updating fields for DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 21:52:15,725 | INFO |     Failure Category : Test_ENV_Issue
+2025-11-23 21:52:15,726 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:52:15,726 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:15,726 | INFO |     Root Cause Details : Android Auto didn't connected due to Android Auto application update on Phone5.
+2025-11-23 21:52:15,727 | INFO |     Fixation Performed : Updated android auto application and restarted Phone5.
+2025-11-23 21:52:15,727 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 21:52:15,728 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:16,051 | ERROR | [ERROR] Could not process DRT-3981: 'KPIT_TC_DRT_BT_003 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/270427
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sun, 23 Nov 2025 16:22:15 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '1fdeb47b8408d4b0983a65719b0eec08', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f5ae75e2ce6446bea8c97a2618a60695', 'Atl-Request-Id': 'f5ae75e2-ce64-46be-a8c9-7a2618a60695', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=176,atl-edge-internal;dur=15,atl-edge-upstream;dur=161,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '-VOIMLaXtobFMPkuac-SMmylqtjoj4wKDDG26stPKY6HxZ6yW6kj9Q=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10851":"Option value 'Test_ENV_Issue' is not valid"}}.
+
+2025-11-23 21:52:16,328 | INFO | ⏳ Updating 'DRT-5151: KPIT_TC_DRT_BT_035'...
+2025-11-23 21:52:16,328 | INFO |   🔄 Updating fields for DRT-5151: 'KPIT_TC_DRT_BT_035...
+2025-11-23 21:52:16,329 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:16,329 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:16,330 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:16,331 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:16,331 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:16,331 | INFO |     Remarks : NA
+2025-11-23 21:52:16,332 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:17,099 | INFO |   ✅ Updated fields for DRT-5151: 'KPIT_TC_DRT_BT_035.
+2025-11-23 21:52:17,099 | INFO |   🔄 Commenting on DRT-5151: 'KPIT_TC_DRT_BT_035...
+2025-11-23 21:52:17,100 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:17,101 | INFO |     Result : Fail
+2025-11-23 21:52:17,101 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:17,102 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:17,103 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:17,103 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:17,635 | INFO |   ✅ Commented on DRT-5151: 'KPIT_TC_DRT_BT_035.
+
+2025-11-23 21:52:18,320 | INFO | ⏳ Updating 'DRT-1965: KPIT_TC_DRT_BT_002'...
+2025-11-23 21:52:18,321 | INFO |   🔄 Updating fields for DRT-1965: 'KPIT_TC_DRT_BT_002...
+2025-11-23 21:52:18,321 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:18,321 | INFO |     Failure Sub Category : Other TS Failed
+2025-11-23 21:52:18,322 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-23 21:52:18,322 | INFO |     Root Cause Details : Phone5 is in connected state due to previous testscript failed, Hence this testscript failed.
+2025-11-23 21:52:18,323 | INFO |     Fixation Performed : NA
+2025-11-23 21:52:18,324 | INFO |     Remarks : Executed in Daytime, Result: Pass.
+2025-11-23 21:52:18,324 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:19,135 | INFO |   ✅ Updated fields for DRT-1965: 'KPIT_TC_DRT_BT_002.
+2025-11-23 21:52:19,135 | INFO |   🔄 Commenting on DRT-1965: 'KPIT_TC_DRT_BT_002...
+2025-11-23 21:52:19,136 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:19,136 | INFO |     Result : Fail
+2025-11-23 21:52:19,137 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:19,137 | INFO |     Failure Sub Category : Other TS Failed
+2025-11-23 21:52:19,137 | INFO |     Root Cause Details : Phone5 is in connected state due to previous testscript failed, Hence this testscript failed.
+2025-11-23 21:52:19,137 | INFO |     Fixation Performed : NA
+2025-11-23 21:52:19,635 | INFO |   ✅ Commented on DRT-1965: 'KPIT_TC_DRT_BT_002.
+
+2025-11-23 21:52:19,962 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:52:19,962 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:52:19,963 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:19,963 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:19,963 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:19,964 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:19,964 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:19,964 | INFO |     Remarks : NA
+2025-11-23 21:52:19,964 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:20,685 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:52:20,687 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:52:20,687 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:20,688 | INFO |     Result : Fail
+2025-11-23 21:52:20,688 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:20,688 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:20,689 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:20,689 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:21,159 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:52:21,457 | INFO | ⏳ Updating 'DRT-2132: KPIT_TC_DRT_BZA_015'...
+2025-11-23 21:52:21,457 | INFO |   🔄 Updating fields for DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:52:21,457 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:21,458 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:21,458 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:21,459 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:21,460 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:21,460 | INFO |     Remarks : NA
+2025-11-23 21:52:21,461 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:22,660 | INFO |   ✅ Updated fields for DRT-2132: 'KPIT_TC_DRT_BZA_015.
+2025-11-23 21:52:22,661 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:52:22,661 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:22,662 | INFO |     Result : Fail
+2025-11-23 21:52:22,662 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:22,662 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:22,663 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:22,663 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:23,145 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 21:52:23,817 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:52:23,818 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:52:23,818 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:23,819 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:23,819 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:23,819 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:23,820 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:23,820 | INFO |     Remarks : NA
+2025-11-23 21:52:23,821 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:24,817 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:52:24,818 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:52:24,818 | INFO |     Date AEA1414D0.251114.1  : 2025-11-14
+2025-11-23 21:52:24,819 | INFO |     Result : Fail
+2025-11-23 21:52:24,819 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:24,819 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:24,820 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:24,820 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:25,266 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-11-23 21:52:25,576 | INFO |   🔄 Commenting on DRT-1759: 'KPIT_TC_DRT_LMG_024...
+2025-11-23 21:52:25,577 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:25,578 | INFO |     Result : Pass
+2025-11-23 21:52:26,097 | INFO |   ✅ Commented on DRT-1759: 'KPIT_TC_DRT_LMG_024.
+
+2025-11-23 21:52:26,394 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:52:26,394 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:26,395 | INFO |     Result : Pass
+2025-11-23 21:52:26,813 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:52:27,081 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-11-23 21:52:27,081 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:27,082 | INFO |     Result : Pass
+2025-11-23 21:52:27,931 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-11-23 21:52:28,200 | INFO |   🔄 Commenting on DRT-5151: 'KPIT_TC_DRT_BT_035...
+2025-11-23 21:52:28,201 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:28,201 | INFO |     Result : Pass
+2025-11-23 21:52:28,680 | INFO |   ✅ Commented on DRT-5151: 'KPIT_TC_DRT_BT_035.
+
+2025-11-23 21:52:28,976 | INFO |   🔄 Commenting on DRT-1965: 'KPIT_TC_DRT_BT_002...
+2025-11-23 21:52:28,976 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:28,977 | INFO |     Result : Pass
+2025-11-23 21:52:29,365 | INFO |   ✅ Commented on DRT-1965: 'KPIT_TC_DRT_BT_002.
+
+2025-11-23 21:52:29,665 | INFO | ⏳ Updating 'DRT-1734: KPIT_TC_DRT_LMG_013'...
+2025-11-23 21:52:29,665 | INFO |   🔄 Updating fields for DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:52:29,665 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:29,665 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:29,666 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:29,666 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:29,666 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:29,668 | INFO |     Remarks : NA
+2025-11-23 21:52:29,668 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:30,343 | INFO |   ✅ Updated fields for DRT-1734: 'KPIT_TC_DRT_LMG_013.
+2025-11-23 21:52:30,344 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:52:30,344 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:30,344 | INFO |     Result : Fail
+2025-11-23 21:52:30,345 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:30,345 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:30,346 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:30,346 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:30,742 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:52:31,027 | INFO | ⏳ Updating 'DRT-1739: KPIT_TC_DRT_LMG_015'...
+2025-11-23 21:52:31,028 | INFO |   🔄 Updating fields for DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:52:31,028 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:31,028 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:31,029 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issues']
+2025-11-23 21:52:31,029 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:31,029 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:31,030 | INFO |     Remarks : NA
+2025-11-23 21:52:31,030 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:31,781 | INFO |   ✅ Updated fields for DRT-1739: 'KPIT_TC_DRT_LMG_015.
+2025-11-23 21:52:31,781 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:52:31,782 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:31,782 | INFO |     Result : Fail
+2025-11-23 21:52:31,782 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:31,783 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:31,783 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:31,784 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:32,246 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:52:32,903 | INFO | ⏳ Updating 'DRT-1738: KPIT_TC_DRT_LMG_016'...
+2025-11-23 21:52:32,903 | INFO |   🔄 Updating fields for DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:52:32,904 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:32,904 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:32,905 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:32,905 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:32,906 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:32,906 | INFO |     Remarks : NA
+2025-11-23 21:52:32,907 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:33,668 | INFO |   ✅ Updated fields for DRT-1738: 'KPIT_TC_DRT_LMG_016.
+2025-11-23 21:52:33,669 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:52:33,669 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:33,670 | INFO |     Result : Fail
+2025-11-23 21:52:33,670 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:33,671 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:33,671 | INFO |     Root Cause Details : Phone1's ADB disconnected.
+2025-11-23 21:52:33,671 | INFO |     Fixation Performed : Restarted Phone1, Reconnected ADB cable.
+2025-11-23 21:52:34,141 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:52:34,467 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-11-23 21:52:34,468 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:34,468 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:34,469 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:34,469 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:34,470 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:34,470 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:34,470 | INFO |     Remarks : NA
+2025-11-23 21:52:34,471 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:35,231 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-11-23 21:52:35,231 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:35,232 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:35,232 | INFO |     Result : Fail
+2025-11-23 21:52:35,233 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:35,233 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:35,234 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:35,234 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:35,807 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:52:36,118 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:52:36,120 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:52:36,120 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:36,120 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:36,120 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:36,120 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:36,122 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:36,122 | INFO |     Remarks : NA
+2025-11-23 21:52:36,122 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:36,974 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-11-23 21:52:36,976 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:52:36,976 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:36,977 | INFO |     Result : Fail
+2025-11-23 21:52:36,977 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:36,978 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:36,978 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:36,979 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:37,425 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-11-23 21:52:37,734 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-11-23 21:52:37,734 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:37,735 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:37,735 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:37,735 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:37,736 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:37,737 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:37,737 | INFO |     Remarks : NA
+2025-11-23 21:52:37,737 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:38,561 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-11-23 21:52:38,561 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:38,562 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:38,562 | INFO |     Result : Fail
+2025-11-23 21:52:38,562 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:38,563 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:38,563 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:38,564 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:39,080 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:52:39,403 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:52:39,404 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:52:39,404 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:39,405 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:39,406 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:39,407 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:39,409 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:39,410 | INFO |     Remarks : NA
+2025-11-23 21:52:39,414 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:40,267 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:52:40,267 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:52:40,268 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:40,268 | INFO |     Result : Fail
+2025-11-23 21:52:40,268 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:40,269 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:40,269 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:40,269 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:40,773 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:52:41,069 | INFO | ⏳ Updating 'DRT-2127: KPIT_TC_DRT_BZA_005'...
+2025-11-23 21:52:41,069 | INFO |   🔄 Updating fields for DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:52:41,070 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:41,070 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:41,071 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:52:41,071 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:41,071 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:41,072 | INFO |     Remarks : NA
+2025-11-23 21:52:41,072 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:41,731 | INFO |   ✅ Updated fields for DRT-2127: 'KPIT_TC_DRT_BZA_005.
+2025-11-23 21:52:41,731 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:52:41,731 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:41,732 | INFO |     Result : Fail
+2025-11-23 21:52:41,733 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:41,733 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:41,733 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:41,733 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:42,180 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:52:42,479 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:52:42,480 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:52:42,480 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:42,481 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:42,482 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:42,482 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:42,482 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:42,483 | INFO |     Remarks : NA
+2025-11-23 21:52:42,483 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:43,303 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:52:43,303 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:52:43,303 | INFO |     Date AEA1414D0.251118.1 : 2025-11-18
+2025-11-23 21:52:43,303 | INFO |     Result : Fail
+2025-11-23 21:52:43,304 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:43,304 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:43,304 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:52:43,304 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:52:43,751 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-11-23 21:52:44,036 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:52:44,037 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:44,037 | INFO |     Result : Pass
+2025-11-23 21:52:44,480 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:52:44,786 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:52:44,786 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:44,786 | INFO |     Result : Pass
+2025-11-23 21:52:45,574 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:52:45,895 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:52:45,896 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:45,896 | INFO |     Result : Pass
+2025-11-23 21:52:46,332 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:52:46,630 | INFO | ⏳ Updating 'DRT-1732: KPIT_TC_DRT_LMG_021'...
+2025-11-23 21:52:46,630 | INFO |   🔄 Updating fields for DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:52:46,631 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:46,631 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:46,632 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:46,632 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:46,632 | INFO |     Fixation Performed : Phone5 restarted and ADB cable reconnected.
+2025-11-23 21:52:46,633 | INFO |     Remarks : NA
+2025-11-23 21:52:46,633 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:47,457 | INFO |   ✅ Updated fields for DRT-1732: 'KPIT_TC_DRT_LMG_021.
+2025-11-23 21:52:47,463 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:52:47,463 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:47,464 | INFO |     Result : Fail
+2025-11-23 21:52:47,464 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:47,465 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:47,465 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:47,465 | INFO |     Fixation Performed : Phone5 restarted and ADB cable reconnected.
+2025-11-23 21:52:47,920 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:52:48,246 | INFO | ⏳ Updating 'DRT-1731: KPIT_TC_DRT_LMG_012'...
+2025-11-23 21:52:48,247 | INFO |   🔄 Updating fields for DRT-1731: 'KPIT_TC_DRT_LMG_012...
+2025-11-23 21:52:48,248 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:48,249 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:48,249 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:52:48,250 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:48,250 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:48,251 | INFO |     Remarks : NA
+2025-11-23 21:52:48,252 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:49,038 | INFO |   ✅ Updated fields for DRT-1731: 'KPIT_TC_DRT_LMG_012.
+2025-11-23 21:52:49,039 | INFO |   🔄 Commenting on DRT-1731: 'KPIT_TC_DRT_LMG_012...
+2025-11-23 21:52:49,039 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:49,040 | INFO |     Result : Fail
+2025-11-23 21:52:49,040 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:49,040 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:49,040 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:49,040 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:49,540 | INFO |   ✅ Commented on DRT-1731: 'KPIT_TC_DRT_LMG_012.
+
+2025-11-23 21:52:49,890 | INFO | ⏳ Updating 'DRT-4639: KPIT_TC_DRT_LMG_009'...
+2025-11-23 21:52:49,890 | INFO |   🔄 Updating fields for DRT-4639: 'KPIT_TC_DRT_LMG_009...
+2025-11-23 21:52:49,891 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:49,891 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:49,892 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:52:49,892 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:49,892 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:49,893 | INFO |     Remarks : NA
+2025-11-23 21:52:49,893 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:50,656 | INFO |   ✅ Updated fields for DRT-4639: 'KPIT_TC_DRT_LMG_009.
+2025-11-23 21:52:50,656 | INFO |   🔄 Commenting on DRT-4639: 'KPIT_TC_DRT_LMG_009...
+2025-11-23 21:52:50,657 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:50,657 | INFO |     Result : Fail
+2025-11-23 21:52:50,657 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:50,657 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:50,658 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:50,658 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:51,147 | INFO |   ✅ Commented on DRT-4639: 'KPIT_TC_DRT_LMG_009.
+
+2025-11-23 21:52:51,479 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-11-23 21:52:51,480 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:51,481 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:51,481 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:51,482 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:51,482 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:51,482 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:51,483 | INFO |     Remarks : NA
+2025-11-23 21:52:51,483 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:52,269 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-11-23 21:52:52,270 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:52:52,271 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:52,271 | INFO |     Result : Fail
+2025-11-23 21:52:52,271 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:52,272 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:52,272 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:52,273 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:52,708 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:52:53,072 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:52:53,073 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:52:53,073 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:53,074 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:53,074 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:53,075 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:53,075 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:53,076 | INFO |     Remarks : NA
+2025-11-23 21:52:53,076 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:53,932 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-11-23 21:52:53,932 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:52:53,932 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:53,933 | INFO |     Result : Fail
+2025-11-23 21:52:53,933 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:53,933 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:53,934 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:53,934 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:54,395 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-11-23 21:52:54,705 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-11-23 21:52:54,706 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:54,706 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:54,707 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:54,707 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:54,708 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:54,708 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:54,708 | INFO |     Remarks : NA
+2025-11-23 21:52:54,709 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:55,542 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-11-23 21:52:55,543 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:52:55,543 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:55,543 | INFO |     Result : Fail
+2025-11-23 21:52:55,544 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:55,544 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:55,544 | INFO |     Root Cause Details : SET_HOME command Passed on Phone2, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:55,545 | INFO |     Fixation Performed : Phone2 restarted and ADB cable reconnected.
+2025-11-23 21:52:56,009 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:52:56,278 | INFO | ⏳ Updating 'DRT-4118: KPIT_TC_DRT_BT_033'...
+2025-11-23 21:52:56,278 | INFO |   🔄 Updating fields for DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:52:56,278 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:56,278 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:56,278 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:52:56,279 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:56,279 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:56,279 | INFO |     Remarks : NA
+2025-11-23 21:52:56,279 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:57,117 | INFO |   ✅ Updated fields for DRT-4118: 'KPIT_TC_DRT_BT_033.
+2025-11-23 21:52:57,118 | INFO |   🔄 Commenting on DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:52:57,119 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:57,119 | INFO |     Result : Fail
+2025-11-23 21:52:57,120 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:57,120 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:57,120 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:52:57,121 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:52:57,562 | INFO |   ✅ Commented on DRT-4118: 'KPIT_TC_DRT_BT_033.
+
+2025-11-23 21:52:57,884 | INFO | ⏳ Updating 'DRT-2122: KPIT_TC_DRT_VEND_092'...
+2025-11-23 21:52:57,885 | INFO |   🔄 Updating fields for DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 21:52:57,885 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:57,886 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:57,886 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-23 21:52:57,886 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:57,887 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:57,887 | INFO |     Remarks : NA
+2025-11-23 21:52:57,887 | INFO |     Reviewer : Rajashri
+2025-11-23 21:52:58,663 | INFO |   ✅ Updated fields for DRT-2122: 'KPIT_TC_DRT_VEND_092.
+2025-11-23 21:52:58,664 | INFO |   🔄 Commenting on DRT-2122: 'KPIT_TC_DRT_VEND_092...
+2025-11-23 21:52:58,664 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:52:58,664 | INFO |     Result : Fail
+2025-11-23 21:52:58,664 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:58,665 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:58,665 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:58,665 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:59,119 | INFO |   ✅ Commented on DRT-2122: 'KPIT_TC_DRT_VEND_092.
+
+2025-11-23 21:52:59,449 | INFO | ⏳ Updating 'DRT-2119: KPIT_TC_FNC_VEND_0063_0001'...
+2025-11-23 21:52:59,450 | INFO |   🔄 Updating fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 21:52:59,450 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:52:59,451 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:52:59,452 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:52:59,452 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:52:59,452 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:52:59,452 | INFO |     Remarks : NA
+2025-11-23 21:52:59,453 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:00,282 | INFO |   ✅ Updated fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-11-23 21:53:00,283 | INFO |   🔄 Commenting on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 21:53:00,283 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:53:00,283 | INFO |     Result : Fail
+2025-11-23 21:53:00,284 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:00,285 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:00,285 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:00,285 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:00,843 | INFO |   ✅ Commented on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-11-23 21:53:01,189 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:53:01,190 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:53:01,190 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:01,191 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:01,191 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:01,191 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:01,192 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:01,192 | INFO |     Remarks : NA
+2025-11-23 21:53:01,192 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:01,975 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:53:01,975 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:53:01,976 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:53:01,976 | INFO |     Result : Fail
+2025-11-23 21:53:01,976 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:01,977 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:01,977 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:01,978 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:02,415 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:53:02,717 | INFO | ⏳ Updating 'DRT-2127: KPIT_TC_DRT_BZA_005'...
+2025-11-23 21:53:02,718 | INFO |   🔄 Updating fields for DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:53:02,718 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:02,719 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:02,719 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:53:02,720 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:02,721 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:02,721 | INFO |     Remarks : NA
+2025-11-23 21:53:02,721 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:03,631 | INFO |   ✅ Updated fields for DRT-2127: 'KPIT_TC_DRT_BZA_005.
+2025-11-23 21:53:03,631 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:53:03,632 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:53:03,632 | INFO |     Result : Fail
+2025-11-23 21:53:03,632 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:03,632 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:03,633 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:03,633 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:04,125 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:53:04,421 | INFO | ⏳ Updating 'DRT-2132: KPIT_TC_DRT_BZA_015'...
+2025-11-23 21:53:04,421 | INFO |   🔄 Updating fields for DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:53:04,422 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:04,423 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:04,424 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:53:04,424 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:04,425 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:04,425 | INFO |     Remarks : NA
+2025-11-23 21:53:04,426 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:05,093 | INFO |   ✅ Updated fields for DRT-2132: 'KPIT_TC_DRT_BZA_015.
+2025-11-23 21:53:05,094 | INFO |   🔄 Commenting on DRT-2132: 'KPIT_TC_DRT_BZA_015...
+2025-11-23 21:53:05,094 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:53:05,094 | INFO |     Result : Fail
+2025-11-23 21:53:05,095 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:05,095 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:05,096 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:05,096 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:05,553 | INFO |   ✅ Commented on DRT-2132: 'KPIT_TC_DRT_BZA_015.
+
+2025-11-23 21:53:05,869 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:53:05,870 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:53:05,870 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:05,871 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:05,871 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:53:05,871 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:05,871 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:05,872 | INFO |     Remarks : NA
+2025-11-23 21:53:05,872 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:06,671 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:53:06,671 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:53:06,671 | INFO |     Date AEA1414D0.251119.1  : 2025-11-19
+2025-11-23 21:53:06,672 | INFO |     Result : Fail
+2025-11-23 21:53:06,672 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:06,672 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:06,672 | INFO |     Root Cause Details : SET_HOME command Passed on Phone8, but operation didn't happen. Hence further actions failed.
+2025-11-23 21:53:06,673 | INFO |     Fixation Performed : Phone8 restarted and ADB cable reconnected.
+2025-11-23 21:53:07,132 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-11-23 21:53:07,427 | INFO |   🔄 Commenting on DRT-1734: 'KPIT_TC_DRT_LMG_013...
+2025-11-23 21:53:07,428 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:07,428 | INFO |     Result : Pass
+2025-11-23 21:53:07,880 | INFO |   ✅ Commented on DRT-1734: 'KPIT_TC_DRT_LMG_013.
+
+2025-11-23 21:53:08,174 | INFO |   🔄 Commenting on DRT-1739: 'KPIT_TC_DRT_LMG_015...
+2025-11-23 21:53:08,175 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:08,175 | INFO |     Result : Pass
+2025-11-23 21:53:08,656 | INFO |   ✅ Commented on DRT-1739: 'KPIT_TC_DRT_LMG_015.
+
+2025-11-23 21:53:08,955 | INFO |   🔄 Commenting on DRT-1738: 'KPIT_TC_DRT_LMG_016...
+2025-11-23 21:53:08,955 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:08,955 | INFO |     Result : Pass
+2025-11-23 21:53:09,449 | INFO |   ✅ Commented on DRT-1738: 'KPIT_TC_DRT_LMG_016.
+
+2025-11-23 21:53:09,758 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-11-23 21:53:09,759 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:09,759 | INFO |     Result : Pass
+2025-11-23 21:53:10,220 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-11-23 21:53:10,515 | INFO | ⏳ Updating 'DRT-4868: KPIT_TC_DRT_PKS_002'...
+2025-11-23 21:53:10,516 | INFO |   🔄 Updating fields for DRT-4868: 'KPIT_TC_DRT_PKS_002...
+2025-11-23 21:53:10,517 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:10,518 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:10,518 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-23 21:53:10,519 | INFO |     Root Cause Details : OCR validation failed, Due to camera plate disturbed in RWC setup.
+2025-11-23 21:53:10,520 | INFO |     Fixation Performed : Kept camera plate properly in RWC setup.
+2025-11-23 21:53:10,520 | INFO |     Remarks : NA
+2025-11-23 21:53:10,520 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:11,416 | INFO |   ✅ Updated fields for DRT-4868: 'KPIT_TC_DRT_PKS_002.
+2025-11-23 21:53:11,417 | INFO |   🔄 Commenting on DRT-4868: 'KPIT_TC_DRT_PKS_002...
+2025-11-23 21:53:11,417 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:11,417 | INFO |     Result : Fail
+2025-11-23 21:53:11,418 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:11,418 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:11,418 | INFO |     Root Cause Details : OCR validation failed, Due to camera plate disturbed in RWC setup.
+2025-11-23 21:53:11,419 | INFO |     Fixation Performed : Kept camera plate properly in RWC setup.
+2025-11-23 21:53:11,979 | INFO |   ✅ Commented on DRT-4868: 'KPIT_TC_DRT_PKS_002.
+
+2025-11-23 21:53:12,323 | INFO | ⏳ Updating 'DRT-1759: KPIT_TC_DRT_LMG_024'...
+2025-11-23 21:53:12,324 | INFO |   🔄 Updating fields for DRT-1759: 'KPIT_TC_DRT_LMG_024...
+2025-11-23 21:53:12,324 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:12,325 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:12,325 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2025-11-23 21:53:12,325 | INFO |     Root Cause Details : KITE Internal Error for CAPTURE_SCREEN on Phone5.
+2025-11-23 21:53:12,325 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:12,326 | INFO |     Remarks : Official execution is extended till 7 PM, Hence didn't get time for fixation.
+2025-11-23 21:53:12,326 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:13,198 | INFO |   ✅ Updated fields for DRT-1759: 'KPIT_TC_DRT_LMG_024.
+2025-11-23 21:53:13,199 | INFO |   🔄 Commenting on DRT-1759: 'KPIT_TC_DRT_LMG_024...
+2025-11-23 21:53:13,199 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:13,200 | INFO |     Result : Fail
+2025-11-23 21:53:13,200 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:13,200 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:13,201 | INFO |     Root Cause Details : KITE Internal Error for CAPTURE_SCREEN on Phone5.
+2025-11-23 21:53:13,201 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:13,671 | INFO |   ✅ Commented on DRT-1759: 'KPIT_TC_DRT_LMG_024.
+
+2025-11-23 21:53:14,002 | INFO | ⏳ Updating 'DRT-1732: KPIT_TC_DRT_LMG_021'...
+2025-11-23 21:53:14,003 | INFO |   🔄 Updating fields for DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:53:14,003 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:14,004 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:14,004 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:14,004 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:53:14,005 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:53:14,005 | INFO |     Remarks : NA
+2025-11-23 21:53:14,005 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:14,951 | INFO |   ✅ Updated fields for DRT-1732: 'KPIT_TC_DRT_LMG_021.
+2025-11-23 21:53:14,952 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-11-23 21:53:14,952 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:14,953 | INFO |     Result : Fail
+2025-11-23 21:53:14,953 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:14,954 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:14,954 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone8.
+2025-11-23 21:53:14,954 | INFO |     Fixation Performed : Restarted Phone8.
+2025-11-23 21:53:15,426 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-11-23 21:53:15,728 | INFO | ⏳ Updating 'DRT-4639: KPIT_TC_DRT_LMG_009'...
+2025-11-23 21:53:15,729 | INFO |   🔄 Updating fields for DRT-4639: 'KPIT_TC_DRT_LMG_009...
+2025-11-23 21:53:15,729 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:15,730 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:15,730 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:53:15,731 | INFO |     Root Cause Details : KITE Internal Error for CAPTURE_SCREEN on Phone8.
+2025-11-23 21:53:15,731 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:15,732 | INFO |     Remarks : Official execution is extended till 7 PM, Hence didn't get time for fixation.
+2025-11-23 21:53:15,732 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:16,555 | INFO |   ✅ Updated fields for DRT-4639: 'KPIT_TC_DRT_LMG_009.
+2025-11-23 21:53:16,556 | INFO |   🔄 Commenting on DRT-4639: 'KPIT_TC_DRT_LMG_009...
+2025-11-23 21:53:16,556 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:16,557 | INFO |     Result : Fail
+2025-11-23 21:53:16,557 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:16,557 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:16,557 | INFO |     Root Cause Details : KITE Internal Error for CAPTURE_SCREEN on Phone8.
+2025-11-23 21:53:16,558 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:17,001 | INFO |   ✅ Commented on DRT-4639: 'KPIT_TC_DRT_LMG_009.
+
+2025-11-23 21:53:17,306 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-11-23 21:53:17,307 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:53:17,308 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:17,309 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:17,309 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:17,310 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:17,310 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:17,311 | INFO |     Remarks : NA
+2025-11-23 21:53:17,312 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:18,091 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-11-23 21:53:18,092 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-11-23 21:53:18,092 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:18,092 | INFO |     Result : Fail
+2025-11-23 21:53:18,093 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:18,093 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:18,093 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:18,094 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:18,531 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-11-23 21:53:18,864 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-11-23 21:53:18,864 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:53:18,865 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:18,865 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:18,866 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:18,866 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:18,867 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:18,868 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-23 21:53:18,869 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:19,712 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-11-23 21:53:19,713 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-11-23 21:53:19,714 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:19,714 | INFO |     Result : Fail
+2025-11-23 21:53:19,715 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:19,716 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:19,717 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:19,718 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:20,188 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-11-23 21:53:20,497 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-11-23 21:53:20,498 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:53:20,498 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:20,499 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:20,499 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:20,500 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:20,500 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:20,500 | INFO |     Remarks : NA
+2025-11-23 21:53:20,501 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:21,334 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-11-23 21:53:21,334 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-11-23 21:53:21,335 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:21,335 | INFO |     Result : Fail
+2025-11-23 21:53:21,336 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:21,337 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:21,337 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:21,337 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:21,805 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-11-23 21:53:22,092 | INFO | ⏳ Updating 'DRT-4118: KPIT_TC_DRT_BT_033'...
+2025-11-23 21:53:22,093 | INFO |   🔄 Updating fields for DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:53:22,093 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:22,093 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:22,094 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:22,094 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:22,094 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:22,095 | INFO |     Remarks : NA
+2025-11-23 21:53:22,095 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:22,718 | INFO |   ✅ Updated fields for DRT-4118: 'KPIT_TC_DRT_BT_033.
+2025-11-23 21:53:22,719 | INFO |   🔄 Commenting on DRT-4118: 'KPIT_TC_DRT_BT_033...
+2025-11-23 21:53:22,719 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:22,720 | INFO |     Result : Fail
+2025-11-23 21:53:22,720 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:22,720 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-11-23 21:53:22,721 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-11-23 21:53:22,721 | INFO |     Fixation Performed : Restarted Phone2.
+2025-11-23 21:53:23,120 | INFO |   ✅ Commented on DRT-4118: 'KPIT_TC_DRT_BT_033.
+
+2025-11-23 21:53:23,426 | INFO | ⏳ Updating 'DRT-2119: KPIT_TC_FNC_VEND_0063_0001'...
+2025-11-23 21:53:23,427 | INFO |   🔄 Updating fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 21:53:23,428 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:23,428 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:23,429 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-11-23 21:53:23,429 | INFO |     Root Cause Details : Failed to drag. Error: Unable to perform W3C actions on Phone8.
+2025-11-23 21:53:23,429 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:23,429 | INFO |     Remarks : Official execution is extended till 7 PM, Hence didn't get time for fixation.
+2025-11-23 21:53:23,430 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:24,354 | INFO |   ✅ Updated fields for DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-11-23 21:53:24,355 | INFO |   🔄 Commenting on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-11-23 21:53:24,356 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:24,357 | INFO |     Result : Fail
+2025-11-23 21:53:24,357 | INFO |     Failure Category : KITE Issue
+2025-11-23 21:53:24,358 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-23 21:53:24,359 | INFO |     Root Cause Details : Failed to drag. Error: Unable to perform W3C actions on Phone8.
+2025-11-23 21:53:24,359 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:24,834 | INFO |   ✅ Commented on DRT-2119: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-11-23 21:53:25,156 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-11-23 21:53:25,157 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:53:25,157 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:25,158 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:25,159 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-11-23 21:53:25,159 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:25,159 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:25,160 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-23 21:53:25,160 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:26,016 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-11-23 21:53:26,018 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-11-23 21:53:26,018 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:26,018 | INFO |     Result : Fail
+2025-11-23 21:53:26,019 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:26,019 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:26,020 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:26,020 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:26,489 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-11-23 21:53:26,824 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-11-23 21:53:26,825 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:53:26,826 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:26,827 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:26,828 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'KITE Issues']
+2025-11-23 21:53:26,828 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:26,829 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:26,830 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-11-23 21:53:26,830 | INFO |     Reviewer : Rajashri
+2025-11-23 21:53:27,709 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-11-23 21:53:27,709 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-11-23 21:53:27,710 | INFO |     Date AEA1414D0.251120.1 : 2025-11-20
+2025-11-23 21:53:27,710 | INFO |     Result : Fail
+2025-11-23 21:53:27,711 | INFO |     Failure Category : Test Env Issue
+2025-11-23 21:53:27,711 | INFO |     Failure Sub Category : External Application Issue
+2025-11-23 21:53:27,711 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-11-23 21:53:27,712 | INFO |     Fixation Performed : NA
+2025-11-23 21:53:28,195 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+

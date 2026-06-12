@@ -1,0 +1,696 @@
+2025-06-27 00:22:03,580 | INFO | ⏳ Updating 'OSV-4360: KPIT_TC_DRT_ANT_011'...
+2025-06-27 00:22:03,581 | INFO |   🔄 Updating fields for OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-06-27 00:22:03,581 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:03,582 | INFO |     Failure Sub Category : Timing Issue
+2025-06-27 00:22:03,583 | INFO |     Root Cause Details : Disclaimer Popup remained for longer duration, hence Homescreen validation FB failed.
+2025-06-27 00:22:03,583 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:04,546 | INFO |   ✅ Updated fields for OSV-4360: 'KPIT_TC_DRT_ANT_011.
+2025-06-27 00:22:04,547 | INFO |   🔄 Commenting on OSV-4360: 'KPIT_TC_DRT_ANT_011...
+2025-06-27 00:22:04,547 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:04,548 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:04,548 | INFO |     Result               : Fail
+2025-06-27 00:22:04,548 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:04,549 | INFO |     Failure Sub Category : Timing Issue
+2025-06-27 00:22:04,549 | INFO |     Root Cause Details   : Disclaimer Popup remained for longer duration, hence Homescreen validation FB failed.
+2025-06-27 00:22:04,549 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:05,009 | INFO |   ✅ Commented on OSV-4360: 'KPIT_TC_DRT_ANT_011.
+
+2025-06-27 00:22:05,356 | INFO | ⏳ Updating 'OSV-4376: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-27 00:22:05,357 | INFO |   🔄 Updating fields for OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-27 00:22:05,357 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:05,357 | INFO |     Failure Sub Category : Automation Set up malfunction
+2025-06-27 00:22:05,357 | INFO |     Root Cause Details : Android Auto disconnected, Post ACC cycle.
+2025-06-27 00:22:05,358 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:06,271 | INFO |   ✅ Updated fields for OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-27 00:22:06,271 | INFO |   🔄 Commenting on OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-27 00:22:06,272 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:06,272 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:06,273 | INFO |     Result               : Fail
+2025-06-27 00:22:06,273 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:06,273 | INFO |     Failure Sub Category : Automation Set up malfunction
+2025-06-27 00:22:06,274 | INFO |     Root Cause Details   : Android Auto disconnected, Post ACC cycle.
+2025-06-27 00:22:06,274 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:06,672 | INFO |   ✅ Commented on OSV-4376: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-27 00:22:07,037 | INFO | ⏳ Updating 'OSV-4432: KPIT_TC_DRT_KBD_013'...
+2025-06-27 00:22:07,037 | INFO |   🔄 Updating fields for OSV-4432: 'KPIT_TC_DRT_KBD_013...
+2025-06-27 00:22:07,038 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:07,038 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-27 00:22:07,038 | INFO |     Root Cause Details : ICB Name displayed as Honda Passport instead of HondaAccord
+2025-06-27 00:22:07,039 | INFO |     Fixation Performed : Handled both names in validatio block.
+2025-06-27 00:22:07,988 | INFO |   ✅ Updated fields for OSV-4432: 'KPIT_TC_DRT_KBD_013.
+2025-06-27 00:22:07,989 | INFO |   🔄 Commenting on OSV-4432: 'KPIT_TC_DRT_KBD_013...
+2025-06-27 00:22:07,990 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:07,990 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:07,991 | INFO |     Result               : Fail
+2025-06-27 00:22:07,991 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:07,991 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-27 00:22:07,992 | INFO |     Root Cause Details   : ICB Name displayed as Honda Passport instead of HondaAccord
+2025-06-27 00:22:07,992 | INFO |     Fixation Performed   : Handled both names in validatio block.
+2025-06-27 00:22:08,470 | INFO |   ✅ Commented on OSV-4432: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-27 00:22:08,802 | INFO | ⏳ Updating 'OSV-4421: KPIT_TC_DRT_PRM_003'...
+2025-06-27 00:22:08,803 | INFO |   🔄 Updating fields for OSV-4421: 'KPIT_TC_DRT_PRM_003...
+2025-06-27 00:22:08,803 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:08,803 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:08,803 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:08,803 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:09,711 | INFO |   ✅ Updated fields for OSV-4421: 'KPIT_TC_DRT_PRM_003.
+2025-06-27 00:22:09,712 | INFO |   🔄 Commenting on OSV-4421: 'KPIT_TC_DRT_PRM_003...
+2025-06-27 00:22:09,712 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:09,713 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:09,713 | INFO |     Result               : Fail
+2025-06-27 00:22:09,713 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:09,714 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:09,714 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:09,715 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:10,515 | INFO |   ✅ Commented on OSV-4421: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-27 00:22:10,866 | INFO | ⏳ Updating 'OSV-4422: KPIT_TC_DRT_PRM_007'...
+2025-06-27 00:22:10,867 | INFO |   🔄 Updating fields for OSV-4422: 'KPIT_TC_DRT_PRM_007...
+2025-06-27 00:22:10,867 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:10,867 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:10,868 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:10,868 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:11,735 | INFO |   ✅ Updated fields for OSV-4422: 'KPIT_TC_DRT_PRM_007.
+2025-06-27 00:22:11,735 | INFO |   🔄 Commenting on OSV-4422: 'KPIT_TC_DRT_PRM_007...
+2025-06-27 00:22:11,736 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:11,736 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:11,736 | INFO |     Result               : Fail
+2025-06-27 00:22:11,736 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:11,736 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:11,737 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:11,737 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:12,156 | INFO |   ✅ Commented on OSV-4422: 'KPIT_TC_DRT_PRM_007.
+
+2025-06-27 00:22:12,491 | INFO | ⏳ Updating 'OSV-4413: KPIT_TC_DRT_PRM_011'...
+2025-06-27 00:22:12,491 | INFO |   🔄 Updating fields for OSV-4413: 'KPIT_TC_DRT_PRM_011...
+2025-06-27 00:22:12,491 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:12,492 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:12,492 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:12,492 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:13,356 | INFO |   ✅ Updated fields for OSV-4413: 'KPIT_TC_DRT_PRM_011.
+2025-06-27 00:22:13,357 | INFO |   🔄 Commenting on OSV-4413: 'KPIT_TC_DRT_PRM_011...
+2025-06-27 00:22:13,357 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:13,357 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:13,358 | INFO |     Result               : Fail
+2025-06-27 00:22:13,358 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:13,358 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:13,359 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:13,359 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:13,861 | INFO |   ✅ Commented on OSV-4413: 'KPIT_TC_DRT_PRM_011.
+
+2025-06-27 00:22:14,215 | INFO | ⏳ Updating 'OSV-4415: KPIT_TC_DRT_PRM_015'...
+2025-06-27 00:22:14,216 | INFO |   🔄 Updating fields for OSV-4415: 'KPIT_TC_DRT_PRM_015...
+2025-06-27 00:22:14,216 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:14,216 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:14,217 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:14,217 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:15,064 | INFO |   ✅ Updated fields for OSV-4415: 'KPIT_TC_DRT_PRM_015.
+2025-06-27 00:22:15,065 | INFO |   🔄 Commenting on OSV-4415: 'KPIT_TC_DRT_PRM_015...
+2025-06-27 00:22:15,065 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:15,066 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:15,066 | INFO |     Result               : Fail
+2025-06-27 00:22:15,066 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:15,067 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:15,067 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:15,067 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:15,568 | INFO |   ✅ Commented on OSV-4415: 'KPIT_TC_DRT_PRM_015.
+
+2025-06-27 00:22:15,934 | INFO | ⏳ Updating 'OSV-4435: KPIT_TC_DRT_HOM_005'...
+2025-06-27 00:22:15,934 | INFO |   🔄 Updating fields for OSV-4435: 'KPIT_TC_DRT_HOM_005...
+2025-06-27 00:22:15,934 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:15,935 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:15,935 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:15,935 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:16,845 | INFO |   ✅ Updated fields for OSV-4435: 'KPIT_TC_DRT_HOM_005.
+2025-06-27 00:22:16,846 | INFO |   🔄 Commenting on OSV-4435: 'KPIT_TC_DRT_HOM_005...
+2025-06-27 00:22:16,846 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:16,847 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:16,847 | INFO |     Result               : Fail
+2025-06-27 00:22:16,847 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:16,848 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:16,848 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:16,848 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:17,403 | INFO |   ✅ Commented on OSV-4435: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-27 00:22:17,758 | INFO | ⏳ Updating 'OSV-4436: KPIT_TC_DRT_HOM_006'...
+2025-06-27 00:22:17,759 | INFO |   🔄 Updating fields for OSV-4436: 'KPIT_TC_DRT_HOM_006...
+2025-06-27 00:22:17,760 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:17,760 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:17,761 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:17,762 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:18,654 | INFO |   ✅ Updated fields for OSV-4436: 'KPIT_TC_DRT_HOM_006.
+2025-06-27 00:22:18,655 | INFO |   🔄 Commenting on OSV-4436: 'KPIT_TC_DRT_HOM_006...
+2025-06-27 00:22:18,655 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:18,655 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:18,656 | INFO |     Result               : Fail
+2025-06-27 00:22:18,656 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:18,656 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:18,657 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:18,657 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:19,476 | INFO |   ✅ Commented on OSV-4436: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-27 00:22:19,814 | INFO | ⏳ Updating 'OSV-4433: KPIT_TC_DRT_HOM_009'...
+2025-06-27 00:22:19,815 | INFO |   🔄 Updating fields for OSV-4433: 'KPIT_TC_DRT_HOM_009...
+2025-06-27 00:22:19,816 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:19,816 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:19,817 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:19,818 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:20,657 | INFO |   ✅ Updated fields for OSV-4433: 'KPIT_TC_DRT_HOM_009.
+2025-06-27 00:22:20,657 | INFO |   🔄 Commenting on OSV-4433: 'KPIT_TC_DRT_HOM_009...
+2025-06-27 00:22:20,658 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:20,658 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:20,659 | INFO |     Result               : Fail
+2025-06-27 00:22:20,659 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:20,659 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:20,660 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:20,660 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:21,156 | INFO |   ✅ Commented on OSV-4433: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-27 00:22:21,512 | INFO | ⏳ Updating 'OSV-4434: KPIT_TC_DRT_HOM_012'...
+2025-06-27 00:22:21,513 | INFO |   🔄 Updating fields for OSV-4434: 'KPIT_TC_DRT_HOM_012...
+2025-06-27 00:22:21,514 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:21,514 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:21,515 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:21,516 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:22,327 | INFO |   ✅ Updated fields for OSV-4434: 'KPIT_TC_DRT_HOM_012.
+2025-06-27 00:22:22,328 | INFO |   🔄 Commenting on OSV-4434: 'KPIT_TC_DRT_HOM_012...
+2025-06-27 00:22:22,328 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:22,328 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:22,329 | INFO |     Result               : Fail
+2025-06-27 00:22:22,329 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:22,330 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:22,330 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:22,330 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:23,173 | INFO |   ✅ Commented on OSV-4434: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-27 00:22:23,510 | INFO | ⏳ Updating 'OSV-4437: KPIT_TC_DRT_HOM_013'...
+2025-06-27 00:22:23,511 | INFO |   🔄 Updating fields for OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-06-27 00:22:23,511 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:23,511 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:23,511 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:23,512 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:24,354 | INFO |   ✅ Updated fields for OSV-4437: 'KPIT_TC_DRT_HOM_013.
+2025-06-27 00:22:24,354 | INFO |   🔄 Commenting on OSV-4437: 'KPIT_TC_DRT_HOM_013...
+2025-06-27 00:22:24,355 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:24,355 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:24,356 | INFO |     Result               : Fail
+2025-06-27 00:22:24,356 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:24,356 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:24,357 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:24,357 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:24,817 | INFO |   ✅ Commented on OSV-4437: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-27 00:22:25,172 | INFO | ⏳ Updating 'OSV-4424: KPIT_TC_DRT_HOM_028'...
+2025-06-27 00:22:25,173 | INFO |   🔄 Updating fields for OSV-4424: 'KPIT_TC_DRT_HOM_028...
+2025-06-27 00:22:25,173 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:25,174 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:25,175 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:25,175 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:26,034 | INFO |   ✅ Updated fields for OSV-4424: 'KPIT_TC_DRT_HOM_028.
+2025-06-27 00:22:26,036 | INFO |   🔄 Commenting on OSV-4424: 'KPIT_TC_DRT_HOM_028...
+2025-06-27 00:22:26,037 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:26,037 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:26,037 | INFO |     Result               : Fail
+2025-06-27 00:22:26,038 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:26,038 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:26,038 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:26,038 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:26,477 | INFO |   ✅ Commented on OSV-4424: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-27 00:22:26,824 | INFO | ⏳ Updating 'OSV-4431: KPIT_TC_DRT_HOM_031'...
+2025-06-27 00:22:26,825 | INFO |   🔄 Updating fields for OSV-4431: 'KPIT_TC_DRT_HOM_031...
+2025-06-27 00:22:26,825 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:26,826 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:26,826 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:26,827 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:27,628 | INFO |   ✅ Updated fields for OSV-4431: 'KPIT_TC_DRT_HOM_031.
+2025-06-27 00:22:27,629 | INFO |   🔄 Commenting on OSV-4431: 'KPIT_TC_DRT_HOM_031...
+2025-06-27 00:22:27,629 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:27,629 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:27,630 | INFO |     Result               : Fail
+2025-06-27 00:22:27,630 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:27,630 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:27,630 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:27,631 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:28,453 | INFO |   ✅ Commented on OSV-4431: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-27 00:22:28,807 | INFO | ⏳ Updating 'OSV-4419: KPIT_TC_DRT_HOM_035'...
+2025-06-27 00:22:28,807 | INFO |   🔄 Updating fields for OSV-4419: 'KPIT_TC_DRT_HOM_035...
+2025-06-27 00:22:28,807 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:28,808 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:28,809 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:28,809 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:29,762 | INFO |   ✅ Updated fields for OSV-4419: 'KPIT_TC_DRT_HOM_035.
+2025-06-27 00:22:29,763 | INFO |   🔄 Commenting on OSV-4419: 'KPIT_TC_DRT_HOM_035...
+2025-06-27 00:22:29,763 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:29,764 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:29,764 | INFO |     Result               : Fail
+2025-06-27 00:22:29,764 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:29,765 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:29,765 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:29,766 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:30,553 | INFO |   ✅ Commented on OSV-4419: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-27 00:22:30,895 | INFO | ⏳ Updating 'OSV-4417: KPIT_TC_DRT_HOM_049'...
+2025-06-27 00:22:30,895 | INFO |   🔄 Updating fields for OSV-4417: 'KPIT_TC_DRT_HOM_049...
+2025-06-27 00:22:30,896 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:30,896 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:30,896 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:30,897 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:31,732 | INFO |   ✅ Updated fields for OSV-4417: 'KPIT_TC_DRT_HOM_049.
+2025-06-27 00:22:31,733 | INFO |   🔄 Commenting on OSV-4417: 'KPIT_TC_DRT_HOM_049...
+2025-06-27 00:22:31,734 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:31,734 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:31,735 | INFO |     Result               : Fail
+2025-06-27 00:22:31,736 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:31,736 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:31,737 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:31,737 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:32,213 | INFO |   ✅ Commented on OSV-4417: 'KPIT_TC_DRT_HOM_049.
+
+2025-06-27 00:22:32,558 | INFO | ⏳ Updating 'OSV-4418: KPIT_TC_DRT_HOM_050'...
+2025-06-27 00:22:32,559 | INFO |   🔄 Updating fields for OSV-4418: 'KPIT_TC_DRT_HOM_050...
+2025-06-27 00:22:32,559 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:32,560 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:32,560 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:32,561 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:33,482 | INFO |   ✅ Updated fields for OSV-4418: 'KPIT_TC_DRT_HOM_050.
+2025-06-27 00:22:33,483 | INFO |   🔄 Commenting on OSV-4418: 'KPIT_TC_DRT_HOM_050...
+2025-06-27 00:22:33,483 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:33,484 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:33,485 | INFO |     Result               : Fail
+2025-06-27 00:22:33,486 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:33,486 | INFO |     Failure Sub Category : UI Changed
+2025-06-27 00:22:33,487 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-27 00:22:33,487 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:33,926 | INFO |   ✅ Commented on OSV-4418: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-27 00:22:34,274 | INFO | ⏳ Updating 'OSV-4505: KPIT_TC_DRT_SND_039'...
+2025-06-27 00:22:34,274 | INFO |   🔄 Updating fields for OSV-4505: 'KPIT_TC_DRT_SND_039...
+2025-06-27 00:22:34,275 | INFO |     Failure Category : KITE issue
+2025-06-27 00:22:34,275 | INFO |     Failure Sub Category : Image comparison
+2025-06-27 00:22:34,275 | INFO |     Root Cause Details : Due to incorrect OCR text detection, Level 1 volume is set to 52.
+2025-06-27 00:22:34,276 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:35,143 | INFO |   ✅ Updated fields for OSV-4505: 'KPIT_TC_DRT_SND_039.
+2025-06-27 00:22:35,143 | INFO |   🔄 Commenting on OSV-4505: 'KPIT_TC_DRT_SND_039...
+2025-06-27 00:22:35,144 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:35,145 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:35,145 | INFO |     Result               : Fail
+2025-06-27 00:22:35,145 | INFO |     Failure Category     : KITE issue
+2025-06-27 00:22:35,146 | INFO |     Failure Sub Category : Image comparison
+2025-06-27 00:22:35,146 | INFO |     Root Cause Details   : Due to incorrect OCR text detection, Level 1 volume is set to 52.
+2025-06-27 00:22:35,146 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:35,704 | INFO |   ✅ Commented on OSV-4505: 'KPIT_TC_DRT_SND_039.
+
+2025-06-27 00:22:36,081 | INFO | ⏳ Updating 'OSV-4506: KPIT_TC_DRT_WLC_013'...
+2025-06-27 00:22:36,082 | INFO |   🔄 Updating fields for OSV-4506: 'KPIT_TC_DRT_WLC_013...
+2025-06-27 00:22:36,082 | INFO |     Failure Category : ICB issue (Always)
+2025-06-27 00:22:36,083 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:22:36,083 | INFO |     Root Cause Details : PJ04DEF00-4067: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+
+2025-06-27 00:22:36,083 | INFO |     Fixation Performed : As this is  ICB Issue,  thus cant be fixed.
+2025-06-27 00:22:37,119 | INFO |   ✅ Updated fields for OSV-4506: 'KPIT_TC_DRT_WLC_013.
+2025-06-27 00:22:37,119 | INFO |   🔄 Commenting on OSV-4506: 'KPIT_TC_DRT_WLC_013...
+2025-06-27 00:22:37,120 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:37,121 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:37,121 | INFO |     Result               : Fail
+2025-06-27 00:22:37,122 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-27 00:22:37,122 | INFO |     Failure Sub Category : Valid Issue
+2025-06-27 00:22:37,123 | INFO |     Root Cause Details   : PJ04DEF00-4067: Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+
+2025-06-27 00:22:37,123 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus cant be fixed.
+2025-06-27 00:22:37,677 | INFO |   ✅ Commented on OSV-4506: 'KPIT_TC_DRT_WLC_013.
+
+2025-06-27 00:22:38,015 | INFO | ⏳ Updating 'OSV-4428: KPIT_TC_DRT_BTA_018'...
+2025-06-27 00:22:38,016 | INFO |   🔄 Updating fields for OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 00:22:38,016 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:38,017 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:38,017 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:38,017 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:38,861 | INFO |   ✅ Updated fields for OSV-4428: 'KPIT_TC_DRT_BTA_018.
+2025-06-27 00:22:38,862 | INFO |   🔄 Commenting on OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 00:22:38,863 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:38,864 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:38,864 | INFO |     Result               : Fail
+2025-06-27 00:22:38,865 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:38,865 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:38,866 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:38,866 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:39,720 | INFO |   ✅ Commented on OSV-4428: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-27 00:22:40,049 | INFO | ⏳ Updating 'OSV-4416: KPIT_TC_DRT_BTA_053'...
+2025-06-27 00:22:40,049 | INFO |   🔄 Updating fields for OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 00:22:40,050 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:40,050 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:40,050 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:40,050 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:40,895 | INFO |   ✅ Updated fields for OSV-4416: 'KPIT_TC_DRT_BTA_053.
+2025-06-27 00:22:40,895 | INFO |   🔄 Commenting on OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 00:22:40,895 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:40,896 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:40,896 | INFO |     Result               : Fail
+2025-06-27 00:22:40,897 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:40,897 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:40,898 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:40,898 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:41,352 | INFO |   ✅ Commented on OSV-4416: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-27 00:22:41,702 | INFO | ⏳ Updating 'OSV-4409: KPIT_TC_DRT_HMI_001'...
+2025-06-27 00:22:41,702 | INFO |   🔄 Updating fields for OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 00:22:41,703 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:41,703 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:41,703 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:41,704 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:42,565 | INFO |   ✅ Updated fields for OSV-4409: 'KPIT_TC_DRT_HMI_001.
+2025-06-27 00:22:42,566 | INFO |   🔄 Commenting on OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 00:22:42,566 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:42,566 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:42,567 | INFO |     Result               : Fail
+2025-06-27 00:22:42,567 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:42,567 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:42,568 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:42,568 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:43,025 | INFO |   ✅ Commented on OSV-4409: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-27 00:22:43,348 | INFO | ⏳ Updating 'OSV-4430: KPIT_TC_DRT_SPCCP_021'...
+2025-06-27 00:22:43,348 | INFO |   🔄 Updating fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 00:22:43,349 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:43,349 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:43,350 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:43,350 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:44,217 | INFO |   ✅ Updated fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-27 00:22:44,217 | INFO |   🔄 Commenting on OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 00:22:44,217 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:44,218 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:44,218 | INFO |     Result               : Fail
+2025-06-27 00:22:44,219 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:44,219 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:44,219 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:44,219 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:44,696 | INFO |   ✅ Commented on OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-27 00:22:45,061 | INFO | ⏳ Updating 'OSV-4420: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-27 00:22:45,062 | INFO |   🔄 Updating fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 00:22:45,063 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:45,063 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:45,064 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:45,064 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:45,957 | INFO |   ✅ Updated fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-27 00:22:45,958 | INFO |   🔄 Commenting on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 00:22:45,958 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:45,958 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:45,959 | INFO |     Result               : Fail
+2025-06-27 00:22:45,959 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:45,960 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:45,960 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:45,960 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:46,521 | INFO |   ✅ Commented on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-27 00:22:46,848 | INFO | ⏳ Updating 'OSV-4426: KPIT_TC_DRT_BTA_020'...
+2025-06-27 00:22:46,849 | INFO |   🔄 Updating fields for OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 00:22:46,850 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:46,850 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:46,851 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:46,851 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:47,663 | INFO |   ✅ Updated fields for OSV-4426: 'KPIT_TC_DRT_BTA_020.
+2025-06-27 00:22:47,664 | INFO |   🔄 Commenting on OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 00:22:47,665 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:47,665 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:47,666 | INFO |     Result               : Fail
+2025-06-27 00:22:47,667 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:47,667 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:47,668 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:47,668 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:48,180 | INFO |   ✅ Commented on OSV-4426: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-27 00:22:48,527 | INFO | ⏳ Updating 'OSV-4423: KPIT_TC_DRT_BTA_025'...
+2025-06-27 00:22:48,528 | INFO |   🔄 Updating fields for OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 00:22:48,528 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:48,528 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:48,528 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:48,529 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:49,366 | INFO |   ✅ Updated fields for OSV-4423: 'KPIT_TC_DRT_BTA_025.
+2025-06-27 00:22:49,367 | INFO |   🔄 Commenting on OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 00:22:49,367 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:49,368 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:49,369 | INFO |     Result               : Fail
+2025-06-27 00:22:49,369 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:49,370 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:49,370 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:49,371 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:49,809 | INFO |   ✅ Commented on OSV-4423: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-27 00:22:50,160 | INFO | ⏳ Updating 'OSV-4408: KPIT_TC_DRT_SPCCP_099'...
+2025-06-27 00:22:50,160 | INFO |   🔄 Updating fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 00:22:50,160 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:50,161 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:50,161 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:50,161 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:51,052 | INFO |   ✅ Updated fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-27 00:22:51,053 | INFO |   🔄 Commenting on OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 00:22:51,053 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:51,054 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:51,055 | INFO |     Result               : Fail
+2025-06-27 00:22:51,056 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:51,056 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:51,057 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:51,057 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:51,915 | INFO |   ✅ Commented on OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-27 00:22:52,256 | INFO | ⏳ Updating 'OSV-4407: KPIT_TC_DRT_HFT_048'...
+2025-06-27 00:22:52,256 | INFO |   🔄 Updating fields for OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 00:22:52,256 | INFO |     Failure Category : Test Env issue
+2025-06-27 00:22:52,257 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:52,257 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:52,257 | INFO |     Fixation Performed : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:53,087 | INFO |   ✅ Updated fields for OSV-4407: 'KPIT_TC_DRT_HFT_048.
+2025-06-27 00:22:53,088 | INFO |   🔄 Commenting on OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 00:22:53,088 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:53,088 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:53,089 | INFO |     Result               : Fail
+2025-06-27 00:22:53,089 | INFO |     Failure Category     : Test Env issue
+2025-06-27 00:22:53,089 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 00:22:53,090 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 00:22:53,091 | INFO |     Fixation Performed   : No fixation  performed, Executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 00:22:53,558 | INFO |   ✅ Commented on OSV-4407: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-27 00:22:53,895 | INFO | ⏳ Updating 'OSV-4441: KPIT_TC_DRT_SUW_003'...
+2025-06-27 00:22:53,895 | INFO |   🔄 Updating fields for OSV-4441: 'KPIT_TC_DRT_SUW_003...
+2025-06-27 00:22:53,896 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:53,896 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:53,897 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:53,897 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:54,701 | INFO |   ✅ Updated fields for OSV-4441: 'KPIT_TC_DRT_SUW_003.
+2025-06-27 00:22:54,702 | INFO |   🔄 Commenting on OSV-4441: 'KPIT_TC_DRT_SUW_003...
+2025-06-27 00:22:54,702 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:54,703 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:54,703 | INFO |     Result               : Fail
+2025-06-27 00:22:54,703 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:54,704 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:54,704 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:54,705 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:55,634 | INFO |   ✅ Commented on OSV-4441: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-27 00:22:55,993 | INFO | ⏳ Updating 'OSV-4411: KPIT_TC_DRT_SUW_005'...
+2025-06-27 00:22:55,993 | INFO |   🔄 Updating fields for OSV-4411: 'KPIT_TC_DRT_SUW_005...
+2025-06-27 00:22:55,994 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:55,995 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:55,995 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:55,996 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:56,836 | INFO |   ✅ Updated fields for OSV-4411: 'KPIT_TC_DRT_SUW_005.
+2025-06-27 00:22:56,836 | INFO |   🔄 Commenting on OSV-4411: 'KPIT_TC_DRT_SUW_005...
+2025-06-27 00:22:56,837 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:56,837 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:56,837 | INFO |     Result               : Fail
+2025-06-27 00:22:56,838 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:56,838 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:56,838 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:56,838 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:57,943 | INFO |   ✅ Commented on OSV-4411: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-27 00:22:58,544 | INFO | ⏳ Updating 'OSV-4412: KPIT_TC_DRT_SUW_006'...
+2025-06-27 00:22:58,545 | INFO |   🔄 Updating fields for OSV-4412: 'KPIT_TC_DRT_SUW_006...
+2025-06-27 00:22:58,546 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:22:58,546 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:58,547 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:58,548 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:59,340 | INFO |   ✅ Updated fields for OSV-4412: 'KPIT_TC_DRT_SUW_006.
+2025-06-27 00:22:59,340 | INFO |   🔄 Commenting on OSV-4412: 'KPIT_TC_DRT_SUW_006...
+2025-06-27 00:22:59,341 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:22:59,341 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:22:59,342 | INFO |     Result               : Fail
+2025-06-27 00:22:59,342 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:22:59,343 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:22:59,343 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:22:59,344 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:22:59,855 | INFO |   ✅ Commented on OSV-4412: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-27 00:23:00,205 | INFO | ⏳ Updating 'OSV-4440: KPIT_TC_FNC_SUW_0005_0001'...
+2025-06-27 00:23:00,205 | INFO |   🔄 Updating fields for OSV-4440: 'KPIT_TC_FNC_SUW_0005_0001...
+2025-06-27 00:23:00,206 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:23:00,206 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:23:00,206 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:23:00,207 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:23:01,090 | INFO |   ✅ Updated fields for OSV-4440: 'KPIT_TC_FNC_SUW_0005_0001.
+2025-06-27 00:23:01,091 | INFO |   🔄 Commenting on OSV-4440: 'KPIT_TC_FNC_SUW_0005_0001...
+2025-06-27 00:23:01,091 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:01,092 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:01,092 | INFO |     Result               : Fail
+2025-06-27 00:23:01,093 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:23:01,093 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:23:01,094 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:23:01,095 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:23:02,061 | INFO |   ✅ Commented on OSV-4440: 'KPIT_TC_FNC_SUW_0005_0001.
+
+2025-06-27 00:23:02,417 | INFO | ⏳ Updating 'OSV-4410: KPIT_TC_DRT_SUW_004'...
+2025-06-27 00:23:02,417 | INFO |   🔄 Updating fields for OSV-4410: 'KPIT_TC_DRT_SUW_004...
+2025-06-27 00:23:02,418 | INFO |     Failure Category : ICB issue (Once)
+2025-06-27 00:23:02,418 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:23:02,418 | INFO |     Root Cause Details : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:23:02,419 | INFO |     Fixation Performed : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:23:03,362 | INFO |   ✅ Updated fields for OSV-4410: 'KPIT_TC_DRT_SUW_004.
+2025-06-27 00:23:03,362 | INFO |   🔄 Commenting on OSV-4410: 'KPIT_TC_DRT_SUW_004...
+2025-06-27 00:23:03,363 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:03,363 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:03,363 | INFO |     Result               : Fail
+2025-06-27 00:23:03,363 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-27 00:23:03,364 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-27 00:23:03,364 | INFO |     Root Cause Details   : Failed to Enter User Selection Pin, Hence Guest Profile is logged in.
+2025-06-27 00:23:03,364 | INFO |     Fixation Performed   : Handled this issue in exception handler, Added in all TPs.
+2025-06-27 00:23:03,943 | INFO |   ✅ Commented on OSV-4410: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-27 00:23:04,316 | INFO | ⏳ Updating 'OSV-4427: KPIT_TC_DRT_BTA_021'...
+2025-06-27 00:23:04,317 | INFO |   🔄 Commenting on OSV-4427: 'KPIT_TC_DRT_BTA_021...
+2025-06-27 00:23:04,318 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:04,319 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:04,319 | INFO |     Result               : Pass
+2025-06-27 00:23:05,358 | INFO |   ✅ Commented on OSV-4427: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-27 00:23:05,818 | INFO | ⏳ Updating 'OSV-4429: KPIT_TC_DRT_MCS_036'...
+2025-06-27 00:23:05,819 | INFO |   🔄 Commenting on OSV-4429: 'KPIT_TC_DRT_MCS_036...
+2025-06-27 00:23:05,819 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:05,820 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:05,821 | INFO |     Result               : Pass
+2025-06-27 00:23:06,349 | INFO |   ✅ Commented on OSV-4429: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-27 00:23:06,715 | INFO | ⏳ Updating 'OSV-4425: KPIT_TC_DRT_PRM_006'...
+2025-06-27 00:23:06,715 | INFO |   🔄 Commenting on OSV-4425: 'KPIT_TC_DRT_PRM_006...
+2025-06-27 00:23:06,716 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:06,716 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:06,717 | INFO |     Result               : Pass
+2025-06-27 00:23:07,242 | INFO |   ✅ Commented on OSV-4425: 'KPIT_TC_DRT_PRM_006.
+
+2025-06-27 00:23:07,611 | INFO | ⏳ Updating 'OSV-4414: KPIT_TC_DRT_PRM_014'...
+2025-06-27 00:23:07,611 | INFO |   🔄 Commenting on OSV-4414: 'KPIT_TC_DRT_PRM_014...
+2025-06-27 00:23:07,612 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:07,612 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:07,612 | INFO |     Result               : Pass
+2025-06-27 00:23:08,134 | INFO |   ✅ Commented on OSV-4414: 'KPIT_TC_DRT_PRM_014.
+
+2025-06-27 00:23:08,480 | INFO | ⏳ Updating 'OSV-4438: KPIT_TC_DRT_USB_102'...
+2025-06-27 00:23:08,481 | INFO |   🔄 Commenting on OSV-4438: 'KPIT_TC_DRT_USB_102...
+2025-06-27 00:23:08,481 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:08,481 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:08,482 | INFO |     Result               : Pass
+2025-06-27 00:23:09,056 | INFO |   ✅ Commented on OSV-4438: 'KPIT_TC_DRT_USB_102.
+
+2025-06-27 00:23:09,423 | INFO | ⏳ Updating 'OSV-4439: KPIT_TC_DRT_USB_103'...
+2025-06-27 00:23:09,423 | INFO |   🔄 Commenting on OSV-4439: 'KPIT_TC_DRT_USB_103...
+2025-06-27 00:23:09,423 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:09,424 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:09,424 | INFO |     Result               : Pass
+2025-06-27 00:23:10,016 | INFO |   ✅ Commented on OSV-4439: 'KPIT_TC_DRT_USB_103.
+
+2025-06-27 00:23:10,359 | INFO | ⏳ Updating 'OSV-4366: KPIT_TC_DRT_BTA_024'...
+2025-06-27 00:23:10,359 | INFO |   🔄 Commenting on OSV-4366: 'KPIT_TC_DRT_BTA_024...
+2025-06-27 00:23:10,360 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:10,360 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:10,360 | INFO |     Result               : Pass
+2025-06-27 00:23:10,832 | INFO |   ✅ Commented on OSV-4366: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-27 00:23:11,159 | INFO | ⏳ Updating 'OSV-4358: KPIT_TC_DRT_BTA_049'...
+2025-06-27 00:23:11,160 | INFO |   🔄 Commenting on OSV-4358: 'KPIT_TC_DRT_BTA_049...
+2025-06-27 00:23:11,160 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:11,160 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:11,161 | INFO |     Result               : Pass
+2025-06-27 00:23:11,539 | INFO |   ✅ Commented on OSV-4358: 'KPIT_TC_DRT_BTA_049.
+
+2025-06-27 00:23:11,854 | INFO | ⏳ Updating 'OSV-4368: KPIT_TC_DRT_BTA_032'...
+2025-06-27 00:23:11,855 | INFO |   🔄 Commenting on OSV-4368: 'KPIT_TC_DRT_BTA_032...
+2025-06-27 00:23:11,855 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:11,855 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:11,856 | INFO |     Result               : Pass
+2025-06-27 00:23:12,344 | INFO |   ✅ Commented on OSV-4368: 'KPIT_TC_DRT_BTA_032.
+
+2025-06-27 00:23:12,699 | INFO | ⏳ Updating 'OSV-4356: KPIT_TC_DRT_HED_013'...
+2025-06-27 00:23:12,701 | INFO |   🔄 Commenting on OSV-4356: 'KPIT_TC_DRT_HED_013...
+2025-06-27 00:23:12,702 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:12,703 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:12,703 | INFO |     Result               : Pass
+2025-06-27 00:23:13,118 | INFO |   ✅ Commented on OSV-4356: 'KPIT_TC_DRT_HED_013.
+
+2025-06-27 00:23:13,476 | INFO | ⏳ Updating 'OSV-4373: KPIT_TC_DRT_KBD_003'...
+2025-06-27 00:23:13,477 | INFO |   🔄 Commenting on OSV-4373: 'KPIT_TC_DRT_KBD_003...
+2025-06-27 00:23:13,478 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:13,478 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:13,478 | INFO |     Result               : Pass
+2025-06-27 00:23:13,947 | INFO |   ✅ Commented on OSV-4373: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-27 00:23:14,317 | INFO | ⏳ Updating 'OSV-4364: KPIT_TC_DRT_KBD_017'...
+2025-06-27 00:23:14,317 | INFO |   🔄 Commenting on OSV-4364: 'KPIT_TC_DRT_KBD_017...
+2025-06-27 00:23:14,318 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:14,318 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:14,319 | INFO |     Result               : Pass
+2025-06-27 00:23:14,835 | INFO |   ✅ Commented on OSV-4364: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-27 00:23:15,158 | INFO | ⏳ Updating 'OSV-4363: KPIT_TC_DRT_HFT_017'...
+2025-06-27 00:23:15,158 | INFO |   🔄 Commenting on OSV-4363: 'KPIT_TC_DRT_HFT_017...
+2025-06-27 00:23:15,159 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:15,159 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:15,159 | INFO |     Result               : Pass
+2025-06-27 00:23:15,639 | INFO |   ✅ Commented on OSV-4363: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-27 00:23:16,014 | INFO | ⏳ Updating 'OSV-4377: KPIT_TC_DRT_HFT_046'...
+2025-06-27 00:23:16,015 | INFO |   🔄 Commenting on OSV-4377: 'KPIT_TC_DRT_HFT_046...
+2025-06-27 00:23:16,015 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:16,016 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:16,016 | INFO |     Result               : Pass
+2025-06-27 00:23:16,860 | INFO |   ✅ Commented on OSV-4377: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-27 00:23:17,191 | INFO | ⏳ Updating 'OSV-4353: KPIT_TC_DRT_HFT_052'...
+2025-06-27 00:23:17,192 | INFO |   🔄 Commenting on OSV-4353: 'KPIT_TC_DRT_HFT_052...
+2025-06-27 00:23:17,192 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:17,192 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:17,193 | INFO |     Result               : Pass
+2025-06-27 00:23:17,613 | INFO |   ✅ Commented on OSV-4353: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-27 00:23:17,953 | INFO | ⏳ Updating 'OSV-4361: KPIT_TC_DRT_HFT_059'...
+2025-06-27 00:23:17,954 | INFO |   🔄 Commenting on OSV-4361: 'KPIT_TC_DRT_HFT_059...
+2025-06-27 00:23:17,954 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:17,954 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:17,955 | INFO |     Result               : Pass
+2025-06-27 00:23:18,565 | INFO |   ✅ Commented on OSV-4361: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-27 00:23:18,906 | INFO | ⏳ Updating 'OSV-4351: KPIT_TC_DRT_HFT_047'...
+2025-06-27 00:23:18,906 | INFO |   🔄 Commenting on OSV-4351: 'KPIT_TC_DRT_HFT_047...
+2025-06-27 00:23:18,907 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:18,907 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:18,907 | INFO |     Result               : Pass
+2025-06-27 00:23:19,907 | INFO |   ✅ Commented on OSV-4351: 'KPIT_TC_DRT_HFT_047.
+
+2025-06-27 00:23:20,248 | INFO | ⏳ Updating 'OSV-4354: KPIT_TC_DRT_HFT_054'...
+2025-06-27 00:23:20,248 | INFO |   🔄 Commenting on OSV-4354: 'KPIT_TC_DRT_HFT_054...
+2025-06-27 00:23:20,249 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:20,249 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:20,250 | INFO |     Result               : Pass
+2025-06-27 00:23:20,679 | INFO |   ✅ Commented on OSV-4354: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-27 00:23:21,036 | INFO | ⏳ Updating 'OSV-4378: KPIT_TC_DRT_USB_1245'...
+2025-06-27 00:23:21,036 | INFO |   🔄 Commenting on OSV-4378: 'KPIT_TC_DRT_USB_1245...
+2025-06-27 00:23:21,037 | INFO |     Date                 : 25th June 2025
+2025-06-27 00:23:21,037 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 00:23:21,038 | INFO |     Result               : Pass
+2025-06-27 00:23:21,893 | INFO |   ✅ Commented on OSV-4378: 'KPIT_TC_DRT_USB_1245.
+

@@ -1,0 +1,248 @@
+2026-03-19 20:22:36,030 | INFO | ⏳ Updating 'A15-3419: KPIT_TC_DRT_IVI_038'...
+2026-03-19 20:22:36,031 | ERROR | [ERROR] Could not process A15-3419: 'KPIT_TC_DRT_IVI_038 : 'ICB Issue (Always)'.
+
+2026-03-19 20:22:36,349 | INFO | ⏳ Updating 'A15-3420: KPIT_TC_DRT_IVI_039'...
+2026-03-19 20:22:36,350 | ERROR | [ERROR] Could not process A15-3420: 'KPIT_TC_DRT_IVI_039 : 'ICB Issue (Always)'.
+
+2026-03-19 20:22:37,037 | INFO | ⏳ Updating 'A15-3422: KPIT_TC_DRT_LMG_004'...
+2026-03-19 20:22:37,038 | INFO |   🔄 Updating fields for A15-3422: 'KPIT_TC_DRT_LMG_004...
+2026-03-19 20:22:37,038 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:37,039 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:37,040 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:37,040 | INFO |     Root Cause Details : Pairing Request received on Phone1 from ICB, due to which other FB's impacted. Which sent during previous TS execution.
+2026-03-19 20:22:37,041 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:38,085 | INFO |   ✅ Updated fields for A15-3422: 'KPIT_TC_DRT_LMG_004.
+2026-03-19 20:22:38,086 | INFO |   🔄 Commenting on A15-3422: 'KPIT_TC_DRT_LMG_004...
+2026-03-19 20:22:38,086 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:38,087 | INFO |     Result : Fail
+2026-03-19 20:22:38,088 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:38,088 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:38,089 | INFO |     Root Cause Details : Pairing Request received on Phone1 from ICB, due to which other FB's impacted. Which sent during previous TS execution.
+2026-03-19 20:22:38,089 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:38,090 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:38,090 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:39,142 | INFO |   ✅ Commented on A15-3422: 'KPIT_TC_DRT_LMG_004.
+
+2026-03-19 20:22:39,446 | INFO | ⏳ Updating 'A15-3421: KPIT_TC_DRT_LMG_005'...
+2026-03-19 20:22:39,447 | INFO |   🔄 Updating fields for A15-3421: 'KPIT_TC_DRT_LMG_005...
+2026-03-19 20:22:39,447 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:39,448 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:39,449 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:39,449 | INFO |     Root Cause Details : Pairing Request not received on Phone1 from ICB, due to which other Fb's impacted. Which Received during next TS execution.
+2026-03-19 20:22:39,450 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:40,587 | INFO |   ✅ Updated fields for A15-3421: 'KPIT_TC_DRT_LMG_005.
+2026-03-19 20:22:40,588 | INFO |   🔄 Commenting on A15-3421: 'KPIT_TC_DRT_LMG_005...
+2026-03-19 20:22:40,588 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:40,589 | INFO |     Result : Fail
+2026-03-19 20:22:40,589 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:40,589 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:40,590 | INFO |     Root Cause Details : Pairing Request not received on Phone1 from ICB, due to which other Fb's impacted. Which Received during next TS execution.
+2026-03-19 20:22:40,590 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:40,591 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:40,591 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:41,855 | INFO |   ✅ Commented on A15-3421: 'KPIT_TC_DRT_LMG_005.
+
+2026-03-19 20:22:42,229 | INFO | ⏳ Updating 'A15-3428: KPIT_TC_DRT_LMG_010'...
+2026-03-19 20:22:42,230 | INFO |   🔄 Updating fields for A15-3428: 'KPIT_TC_DRT_LMG_010...
+2026-03-19 20:22:42,230 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:42,231 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:42,231 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:42,232 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:22:42,232 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:43,700 | INFO |   ✅ Updated fields for A15-3428: 'KPIT_TC_DRT_LMG_010.
+2026-03-19 20:22:43,700 | INFO |   🔄 Commenting on A15-3428: 'KPIT_TC_DRT_LMG_010...
+2026-03-19 20:22:43,701 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:43,701 | INFO |     Result : Fail
+2026-03-19 20:22:43,701 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:43,702 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:43,702 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:22:43,703 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:43,703 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:43,703 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:44,657 | INFO |   ✅ Commented on A15-3428: 'KPIT_TC_DRT_LMG_010.
+
+2026-03-19 20:22:45,320 | INFO | ⏳ Updating 'A15-3426: KPIT_TC_DRT_LMG_014'...
+2026-03-19 20:22:45,321 | INFO |   🔄 Updating fields for A15-3426: 'KPIT_TC_DRT_LMG_014...
+2026-03-19 20:22:45,321 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:45,322 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:45,322 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:45,323 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:22:45,324 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:46,221 | INFO |   ✅ Updated fields for A15-3426: 'KPIT_TC_DRT_LMG_014.
+2026-03-19 20:22:46,222 | INFO |   🔄 Commenting on A15-3426: 'KPIT_TC_DRT_LMG_014...
+2026-03-19 20:22:46,223 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:46,223 | INFO |     Result : Fail
+2026-03-19 20:22:46,224 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:46,225 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:46,226 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:22:46,226 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:22:46,227 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:46,228 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:47,226 | INFO |   ✅ Commented on A15-3426: 'KPIT_TC_DRT_LMG_014.
+
+2026-03-19 20:22:47,915 | INFO | ⏳ Updating 'A15-3423: KPIT_TC_DRT_VEND_006'...
+2026-03-19 20:22:47,916 | INFO |   🔄 Updating fields for A15-3423: 'KPIT_TC_DRT_VEND_006...
+2026-03-19 20:22:47,917 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:47,918 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:47,919 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:47,919 | INFO |     Root Cause Details : During BT Pairing, BT device list is not loaded on Phone2.
+2026-03-19 20:22:47,920 | INFO |     Fixation Performed : Restarted Phone2.
+2026-03-19 20:22:49,270 | INFO |   ✅ Updated fields for A15-3423: 'KPIT_TC_DRT_VEND_006.
+2026-03-19 20:22:49,271 | INFO |   🔄 Commenting on A15-3423: 'KPIT_TC_DRT_VEND_006...
+2026-03-19 20:22:49,271 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:49,272 | INFO |     Result : Fail
+2026-03-19 20:22:49,273 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:49,273 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:49,274 | INFO |     Root Cause Details : During BT Pairing, BT device list is not loaded on Phone2.
+2026-03-19 20:22:49,275 | INFO |     Fixation Performed : Restarted Phone2.
+2026-03-19 20:22:49,275 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:49,276 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:50,302 | INFO |   ✅ Commented on A15-3423: 'KPIT_TC_DRT_VEND_006.
+
+2026-03-19 20:22:50,608 | INFO | ⏳ Updating 'A15-3427: KPIT_TC_DRT_BZA_013'...
+2026-03-19 20:22:50,609 | INFO |   🔄 Updating fields for A15-3427: 'KPIT_TC_DRT_BZA_013...
+2026-03-19 20:22:50,609 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:50,610 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:50,610 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:50,611 | INFO |     Root Cause Details : During BT Pairing, BT device list is not loaded on Phone2.
+2026-03-19 20:22:50,611 | INFO |     Fixation Performed : Restarted Phone2.
+2026-03-19 20:22:51,624 | INFO |   ✅ Updated fields for A15-3427: 'KPIT_TC_DRT_BZA_013.
+2026-03-19 20:22:51,625 | INFO |   🔄 Commenting on A15-3427: 'KPIT_TC_DRT_BZA_013...
+2026-03-19 20:22:51,626 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:51,626 | INFO |     Result : Fail
+2026-03-19 20:22:51,627 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:51,627 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:51,628 | INFO |     Root Cause Details : During BT Pairing, BT device list is not loaded on Phone2.
+2026-03-19 20:22:51,628 | INFO |     Fixation Performed : Restarted Phone2.
+2026-03-19 20:22:51,628 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:51,629 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:52,276 | INFO |   ✅ Commented on A15-3427: 'KPIT_TC_DRT_BZA_013.
+
+2026-03-19 20:22:52,574 | INFO | ⏳ Updating 'A15-3417: KPIT_TC_DRT_BT_003'...
+2026-03-19 20:22:52,575 | INFO |   🔄 Updating fields for A15-3417: 'KPIT_TC_DRT_BT_003...
+2026-03-19 20:22:52,575 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:52,576 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:52,577 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:52,577 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-19 20:22:52,578 | INFO |     Fixation Performed : NA
+2026-03-19 20:22:53,974 | INFO |   ✅ Updated fields for A15-3417: 'KPIT_TC_DRT_BT_003.
+2026-03-19 20:22:53,974 | INFO |   🔄 Commenting on A15-3417: 'KPIT_TC_DRT_BT_003...
+2026-03-19 20:22:53,975 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:53,975 | INFO |     Result : Fail
+2026-03-19 20:22:53,976 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:53,977 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:53,978 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-03-19 20:22:53,978 | INFO |     Fixation Performed : NA
+2026-03-19 20:22:53,979 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:22:53,980 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:54,565 | INFO |   ✅ Commented on A15-3417: 'KPIT_TC_DRT_BT_003.
+
+2026-03-19 20:22:54,859 | INFO | ⏳ Updating 'A15-3424: KPIT_TC_DRT_BT_033'...
+2026-03-19 20:22:54,859 | ERROR | [ERROR] Could not process A15-3424: 'KPIT_TC_DRT_BT_033 : 'ICB Issue (Always)'.
+
+2026-03-19 20:22:55,176 | INFO | ⏳ Updating 'A15-3414: KPIT_TC_DRT_VEND_114'...
+2026-03-19 20:22:55,177 | INFO |   🔄 Updating fields for A15-3414: 'KPIT_TC_DRT_VEND_114...
+2026-03-19 20:22:55,178 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:55,179 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:55,179 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:55,180 | INFO |     Root Cause Details : During DRAG operation, missed POSITIONINFO.
+2026-03-19 20:22:55,181 | INFO |     Fixation Performed : Changed the DRAG coordinates.
+2026-03-19 20:22:56,533 | INFO |   ✅ Updated fields for A15-3414: 'KPIT_TC_DRT_VEND_114.
+2026-03-19 20:22:56,534 | INFO |   🔄 Commenting on A15-3414: 'KPIT_TC_DRT_VEND_114...
+2026-03-19 20:22:56,534 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:56,535 | INFO |     Result : Fail
+2026-03-19 20:22:56,535 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:56,536 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:56,537 | INFO |     Root Cause Details : During DRAG operation, missed POSITIONINFO.
+2026-03-19 20:22:56,537 | INFO |     Fixation Performed : Changed the DRAG coordinates.
+2026-03-19 20:22:56,538 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 20:22:56,539 | INFO |     Reviewer : Rajashri
+2026-03-19 20:22:57,549 | INFO |   ✅ Commented on A15-3414: 'KPIT_TC_DRT_VEND_114.
+
+2026-03-19 20:22:57,867 | INFO | ⏳ Updating 'A15-3425: KPIT_TC_DRT_INL_006'...
+2026-03-19 20:22:57,867 | ERROR | [ERROR] Could not process A15-3425: 'KPIT_TC_DRT_INL_006 : 'ICB Issue (Always)'.
+
+2026-03-19 20:22:58,191 | INFO | ⏳ Updating 'A15-3429: KPIT_TC_DRT_SPCAA_074'...
+2026-03-19 20:22:58,191 | INFO |   🔄 Updating fields for A15-3429: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-19 20:22:58,193 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:58,195 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:58,196 | INFO |     Previous Failure Category : []
+2026-03-19 20:22:58,196 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+2026-03-19 20:22:58,198 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-19 20:22:59,288 | INFO |   ✅ Updated fields for A15-3429: 'KPIT_TC_DRT_SPCAA_074.
+2026-03-19 20:22:59,289 | INFO |   🔄 Commenting on A15-3429: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-19 20:22:59,290 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:22:59,290 | INFO |     Result : Fail
+2026-03-19 20:22:59,290 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:22:59,291 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:22:59,291 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+2026-03-19 20:22:59,291 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-19 20:22:59,292 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 20:22:59,292 | INFO |     Reviewer : Rajashri
+2026-03-19 20:23:00,232 | INFO |   ✅ Commented on A15-3429: 'KPIT_TC_DRT_SPCAA_074.
+
+2026-03-19 20:23:00,880 | INFO | ⏳ Updating 'A15-3430: KPIT_TC_DRT_SPCAA_075'...
+2026-03-19 20:23:00,881 | INFO |   🔄 Updating fields for A15-3430: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-19 20:23:00,881 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:00,882 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:00,883 | INFO |     Previous Failure Category : []
+2026-03-19 20:23:00,884 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+2026-03-19 20:23:00,885 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-19 20:23:02,379 | INFO |   ✅ Updated fields for A15-3430: 'KPIT_TC_DRT_SPCAA_075.
+2026-03-19 20:23:02,380 | INFO |   🔄 Commenting on A15-3430: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-19 20:23:02,381 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:23:02,381 | INFO |     Result : Fail
+2026-03-19 20:23:02,382 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:02,383 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:02,383 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+2026-03-19 20:23:02,384 | INFO |     Fixation Performed : Handled the different Beep Audio length files in IF ELSE_IF condition.
+2026-03-19 20:23:02,384 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-19 20:23:02,385 | INFO |     Reviewer : Rajashri
+2026-03-19 20:23:02,979 | INFO |   ✅ Commented on A15-3430: 'KPIT_TC_DRT_SPCAA_075.
+
+2026-03-19 20:23:03,263 | INFO | ⏳ Updating 'A15-3431: KPIT_TC_DRT_HFT_020'...
+2026-03-19 20:23:03,264 | INFO |   🔄 Updating fields for A15-3431: 'KPIT_TC_DRT_HFT_020...
+2026-03-19 20:23:03,264 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:03,265 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:03,265 | INFO |     Previous Failure Category : []
+2026-03-19 20:23:03,265 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:23:03,265 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:23:04,256 | INFO |   ✅ Updated fields for A15-3431: 'KPIT_TC_DRT_HFT_020.
+2026-03-19 20:23:04,257 | INFO |   🔄 Commenting on A15-3431: 'KPIT_TC_DRT_HFT_020...
+2026-03-19 20:23:04,258 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:23:04,258 | INFO |     Result : Fail
+2026-03-19 20:23:04,259 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:04,261 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:04,261 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:23:04,263 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:23:04,265 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:23:04,266 | INFO |     Reviewer : Rajashri
+2026-03-19 20:23:04,999 | INFO |   ✅ Commented on A15-3431: 'KPIT_TC_DRT_HFT_020.
+
+2026-03-19 20:23:05,327 | INFO | ⏳ Updating 'A15-3415: KPIT_TC_DRT_BTA_052'...
+2026-03-19 20:23:05,328 | ERROR | [ERROR] Could not process A15-3415: 'KPIT_TC_DRT_BTA_052 : 'ICB Issue (Always)'.
+
+2026-03-19 20:23:05,671 | INFO | ⏳ Updating 'A15-3416: KPIT_TC_DRT_BT_010'...
+2026-03-19 20:23:05,672 | ERROR | [ERROR] Could not process A15-3416: 'KPIT_TC_DRT_BT_010 : 'ICB Issue (Once)'.
+
+2026-03-19 20:23:06,360 | INFO | ⏳ Updating 'A15-3418: KPIT_TC_DRT_HFT_015'...
+2026-03-19 20:23:06,361 | INFO |   🔄 Updating fields for A15-3418: 'KPIT_TC_DRT_HFT_015...
+2026-03-19 20:23:06,362 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:06,362 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:06,364 | INFO |     Previous Failure Category : []
+2026-03-19 20:23:06,365 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:23:06,365 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:23:07,319 | INFO |   ✅ Updated fields for A15-3418: 'KPIT_TC_DRT_HFT_015.
+2026-03-19 20:23:07,319 | INFO |   🔄 Commenting on A15-3418: 'KPIT_TC_DRT_HFT_015...
+2026-03-19 20:23:07,320 | INFO |     Date AFA1504D0.260317.1 : 2026-03-17
+2026-03-19 20:23:07,320 | INFO |     Result : Fail
+2026-03-19 20:23:07,321 | INFO |     Failure Category : Test Env issue
+2026-03-19 20:23:07,321 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 20:23:07,322 | INFO |     Root Cause Details : During BT Pairing, ICB BT MAC ID not displayed on Phone1, In Precondition.
+2026-03-19 20:23:07,322 | INFO |     Fixation Performed : Restarted Phone1.
+2026-03-19 20:23:07,323 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 20:23:07,323 | INFO |     Reviewer : Rajashri
+2026-03-19 20:23:08,471 | INFO |   ✅ Commented on A15-3418: 'KPIT_TC_DRT_HFT_015.
+
+2026-03-19 20:23:08,471 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

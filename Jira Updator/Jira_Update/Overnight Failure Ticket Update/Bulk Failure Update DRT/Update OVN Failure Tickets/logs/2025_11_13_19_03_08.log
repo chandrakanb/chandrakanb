@@ -1,0 +1,13 @@
+2025-11-13 19:03:10,430 | INFO | ⏳ Updating 'DRT-1792: KPIT_TC_DRT_SPCAA_005'...
+2025-11-13 19:03:10,431 | INFO |   🔄 Updating fields for DRT-1792: 'KPIT_TC_DRT_SPCAA_005...
+2025-11-13 19:03:10,431 | INFO |     Failure Category : KITE Issue
+2025-11-13 19:03:10,432 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-13 19:03:10,432 | INFO |     Root Cause Details : Kite Internal Error for Capture Screen for Phone8, Hence Wireless AA Connection.
+2025-11-13 19:03:10,432 | INFO |     Fixation Performed : NA
+2025-11-13 19:03:10,433 | INFO |     Remarks : Keeping this issue under observation.
+2025-11-13 19:03:10,433 | INFO |     Reviewer : Lumesh
+2025-11-13 19:03:10,802 | ERROR | [ERROR] Could not process DRT-1792: 'KPIT_TC_DRT_SPCAA_005 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17944
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 13:33:10 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '583826a696cc7f7c012426451a728756', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '91b76370d72b4e8aa993042788522d2d', 'Atl-Request-Id': '91b76370-d72b-4e8a-a993-042788522d2d', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=185,atl-edge-internal;dur=15,atl-edge-upstream;dur=169,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 1caa5149e68cfec3d959d5e48b583ea2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P1', 'X-Amz-Cf-Id': '9wsnP8MBfsxCOx6LJD0_zYAjnPgVD4HYZ7H2peBBm4PHPbTj62jdyA=='}
+	response text = {"errorMessages":[],"errors":{"Current Failure Category":"Specify the value for Current Failure Category in an array"}}.
+

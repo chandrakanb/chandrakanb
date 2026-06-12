@@ -1,0 +1,736 @@
+2025-06-20 00:06:58,761 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-20 00:06:58,762 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-20 00:06:58,763 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:06:58,763 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:06:58,764 | INFO |     Result               : Pass
+2025-06-20 00:06:59,226 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-20 00:06:59,567 | INFO | ⏳ Updating 'OSV-3225: KPIT_TC_DRT_BTA_032'...
+2025-06-20 00:06:59,568 | INFO |   🔄 Commenting on OSV-3225: 'KPIT_TC_DRT_BTA_032...
+2025-06-20 00:06:59,569 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:06:59,581 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:06:59,581 | INFO |     Result               : Pass
+2025-06-20 00:07:00,545 | INFO |   ✅ Commented on OSV-3225: 'KPIT_TC_DRT_BTA_032.
+
+2025-06-20 00:07:01,334 | INFO | ⏳ Updating 'OSV-3488: KPIT_TC_DRT_HFT_017'...
+2025-06-20 00:07:01,334 | INFO |   🔄 Commenting on OSV-3488: 'KPIT_TC_DRT_HFT_017...
+2025-06-20 00:07:01,335 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:01,335 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:01,336 | INFO |     Result               : Pass
+2025-06-20 00:07:02,274 | INFO |   ✅ Commented on OSV-3488: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-20 00:07:02,624 | INFO | ⏳ Updating 'OSV-3493: KPIT_TC_DRT_HFT_046'...
+2025-06-20 00:07:02,625 | INFO |   🔄 Commenting on OSV-3493: 'KPIT_TC_DRT_HFT_046...
+2025-06-20 00:07:02,625 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:02,626 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:02,627 | INFO |     Result               : Pass
+2025-06-20 00:07:03,065 | INFO |   ✅ Commented on OSV-3493: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-20 00:07:03,833 | INFO | ⏳ Updating 'OSV-3484: KPIT_TC_DRT_HFT_052'...
+2025-06-20 00:07:03,834 | INFO |   🔄 Commenting on OSV-3484: 'KPIT_TC_DRT_HFT_052...
+2025-06-20 00:07:03,834 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:03,835 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:03,836 | INFO |     Result               : Pass
+2025-06-20 00:07:04,436 | INFO |   ✅ Commented on OSV-3484: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-20 00:07:04,792 | INFO | ⏳ Updating 'OSV-3485: KPIT_TC_DRT_HFT_054'...
+2025-06-20 00:07:04,793 | INFO |   🔄 Commenting on OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-20 00:07:04,793 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:04,794 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:04,796 | INFO |     Result               : Pass
+2025-06-20 00:07:05,321 | INFO |   ✅ Commented on OSV-3485: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-20 00:07:05,702 | INFO | ⏳ Updating 'OSV-3487: KPIT_TC_DRT_HFT_059'...
+2025-06-20 00:07:05,703 | INFO |   🔄 Commenting on OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-20 00:07:05,704 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:05,705 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:05,705 | INFO |     Result               : Pass
+2025-06-20 00:07:06,193 | INFO |   ✅ Commented on OSV-3487: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-20 00:07:06,559 | INFO | ⏳ Updating 'OSV-2780: KPIT_TC_DRT_HOM_005'...
+2025-06-20 00:07:06,560 | INFO |   🔄 Commenting on OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-20 00:07:06,561 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:06,562 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:06,562 | INFO |     Result               : Pass
+2025-06-20 00:07:07,392 | INFO |   ✅ Commented on OSV-2780: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-20 00:07:07,743 | INFO | ⏳ Updating 'OSV-2781: KPIT_TC_DRT_HOM_006'...
+2025-06-20 00:07:07,744 | INFO |   🔄 Commenting on OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-20 00:07:07,744 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:07,745 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:07,746 | INFO |     Result               : Pass
+2025-06-20 00:07:08,245 | INFO |   ✅ Commented on OSV-2781: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-20 00:07:08,595 | INFO | ⏳ Updating 'OSV-2778: KPIT_TC_DRT_HOM_009'...
+2025-06-20 00:07:08,596 | INFO |   🔄 Commenting on OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-20 00:07:08,597 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:08,597 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:08,598 | INFO |     Result               : Pass
+2025-06-20 00:07:09,027 | INFO |   ✅ Commented on OSV-2778: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-20 00:07:09,412 | INFO | ⏳ Updating 'OSV-2779: KPIT_TC_DRT_HOM_012'...
+2025-06-20 00:07:09,413 | INFO |   🔄 Commenting on OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-20 00:07:09,413 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:09,414 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:09,415 | INFO |     Result               : Pass
+2025-06-20 00:07:09,868 | INFO |   ✅ Commented on OSV-2779: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-20 00:07:10,275 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-20 00:07:10,275 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-20 00:07:10,276 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:10,276 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:10,277 | INFO |     Result               : Pass
+2025-06-20 00:07:10,768 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-20 00:07:11,135 | INFO | ⏳ Updating 'OSV-2774: KPIT_TC_DRT_HOM_028'...
+2025-06-20 00:07:11,135 | INFO |   🔄 Commenting on OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-20 00:07:11,135 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:11,136 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:11,136 | INFO |     Result               : Pass
+2025-06-20 00:07:11,626 | INFO |   ✅ Commented on OSV-2774: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-20 00:07:11,994 | INFO | ⏳ Updating 'OSV-2776: KPIT_TC_DRT_HOM_031'...
+2025-06-20 00:07:11,994 | INFO |   🔄 Commenting on OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-20 00:07:11,995 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:11,995 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:11,995 | INFO |     Result               : Pass
+2025-06-20 00:07:12,470 | INFO |   ✅ Commented on OSV-2776: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-20 00:07:12,837 | INFO | ⏳ Updating 'OSV-2773: KPIT_TC_DRT_HOM_035'...
+2025-06-20 00:07:12,837 | INFO |   🔄 Commenting on OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-20 00:07:12,838 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:12,838 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:12,838 | INFO |     Result               : Pass
+2025-06-20 00:07:13,726 | INFO |   ✅ Commented on OSV-2773: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-20 00:07:14,092 | INFO | ⏳ Updating 'OSV-2771: KPIT_TC_DRT_HOM_050'...
+2025-06-20 00:07:14,093 | INFO |   🔄 Commenting on OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-20 00:07:14,094 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:14,095 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:14,095 | INFO |     Result               : Pass
+2025-06-20 00:07:14,632 | INFO |   ✅ Commented on OSV-2771: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-20 00:07:15,046 | INFO | ⏳ Updating 'OSV-3010: KPIT_TC_DRT_IPD_1193'...
+2025-06-20 00:07:15,046 | INFO |   🔄 Commenting on OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-20 00:07:15,047 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:15,048 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:15,048 | INFO |     Result               : Pass
+2025-06-20 00:07:15,495 | INFO |   ✅ Commented on OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+
+2025-06-20 00:07:15,879 | INFO | ⏳ Updating 'OSV-3490: KPIT_TC_DRT_KBD_003'...
+2025-06-20 00:07:15,880 | INFO |   🔄 Commenting on OSV-3490: 'KPIT_TC_DRT_KBD_003...
+2025-06-20 00:07:15,881 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:15,882 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:15,883 | INFO |     Result               : Pass
+2025-06-20 00:07:16,382 | INFO |   ✅ Commented on OSV-3490: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-20 00:07:16,750 | INFO | ⏳ Updating 'OSV-2777: KPIT_TC_DRT_KBD_013'...
+2025-06-20 00:07:16,750 | INFO |   🔄 Commenting on OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-20 00:07:16,751 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:16,751 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:16,752 | INFO |     Result               : Pass
+2025-06-20 00:07:17,659 | INFO |   ✅ Commented on OSV-2777: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-20 00:07:18,046 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-20 00:07:18,046 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-20 00:07:18,046 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:18,046 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:18,046 | INFO |     Result               : Pass
+2025-06-20 00:07:18,955 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-20 00:07:19,319 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-20 00:07:19,320 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-20 00:07:19,320 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:19,320 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:19,320 | INFO |     Result               : Pass
+2025-06-20 00:07:19,837 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-20 00:07:20,196 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-20 00:07:20,197 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-20 00:07:20,197 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:20,197 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:20,198 | INFO |     Result               : Pass
+2025-06-20 00:07:20,663 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-20 00:07:21,018 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-20 00:07:21,019 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-20 00:07:21,019 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:21,020 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:21,020 | INFO |     Result               : Pass
+2025-06-20 00:07:21,457 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-20 00:07:21,822 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-20 00:07:21,823 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-20 00:07:21,823 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:21,824 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:21,824 | INFO |     Result               : Pass
+2025-06-20 00:07:22,254 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-20 00:07:22,616 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-20 00:07:22,617 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-20 00:07:22,617 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:22,617 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:22,617 | INFO |     Result               : Pass
+2025-06-20 00:07:23,122 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-20 00:07:23,507 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-20 00:07:23,507 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-20 00:07:23,508 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:23,509 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:23,509 | INFO |     Result               : Pass
+2025-06-20 00:07:23,951 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-20 00:07:24,316 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-20 00:07:24,316 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-20 00:07:24,316 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:24,317 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:24,327 | INFO |     Result               : Pass
+2025-06-20 00:07:25,165 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-20 00:07:25,536 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-20 00:07:25,537 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-20 00:07:25,537 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:25,538 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:25,538 | INFO |     Result               : Pass
+2025-06-20 00:07:26,063 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-20 00:07:26,475 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-20 00:07:26,475 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-20 00:07:26,476 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:26,476 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:26,476 | INFO |     Result               : Pass
+2025-06-20 00:07:26,927 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-20 00:07:27,260 | INFO | ⏳ Updating 'OSV-2775: KPIT_TC_DRT_VEH_002'...
+2025-06-20 00:07:27,261 | INFO |   🔄 Commenting on OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-20 00:07:27,261 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:27,262 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:27,262 | INFO |     Result               : Pass
+2025-06-20 00:07:28,133 | INFO |   ✅ Commented on OSV-2775: 'KPIT_TC_DRT_VEH_002.
+
+2025-06-20 00:07:28,507 | INFO | ⏳ Updating 'OSV-2782: KPIT_TC_DRT_VEH_059'...
+2025-06-20 00:07:28,507 | INFO |   🔄 Commenting on OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-20 00:07:28,508 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:28,508 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:28,509 | INFO |     Result               : Pass
+2025-06-20 00:07:29,040 | INFO |   ✅ Commented on OSV-2782: 'KPIT_TC_DRT_VEH_059.
+
+2025-06-20 00:07:29,405 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-20 00:07:29,406 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-20 00:07:29,407 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:29,408 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:29,408 | INFO |     Result               : Pass
+2025-06-20 00:07:29,869 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-20 00:07:29,870 | INFO | ⚠️ No OVN Failure ticket is raised for script: 'KPIT_TC_FNC_SSR_0396_0001' on 3rd June 2025.
+
+2025-06-20 00:07:30,257 | INFO | ⏳ Updating 'OSV-3009: KPIT_TC_DRT_BTA_018'...
+2025-06-20 00:07:30,257 | INFO |   🔄 Updating fields for OSV-3009: 'KPIT_TC_DRT_BTA_018...
+2025-06-20 00:07:30,257 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:30,257 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:30,257 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:30,257 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:30,912 | INFO |   ✅ Updated fields for OSV-3009: 'KPIT_TC_DRT_BTA_018.
+2025-06-20 00:07:30,912 | INFO |   🔄 Commenting on OSV-3009: 'KPIT_TC_DRT_BTA_018...
+2025-06-20 00:07:30,913 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:30,914 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:30,915 | INFO |     Result               : Fail
+2025-06-20 00:07:30,915 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:30,915 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:30,916 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:30,916 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:31,333 | INFO |   ✅ Commented on OSV-3009: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-20 00:07:31,690 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-20 00:07:31,690 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-20 00:07:31,690 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:31,691 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:31,691 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:31,691 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:32,398 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-20 00:07:32,398 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-20 00:07:32,399 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:32,399 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:32,399 | INFO |     Result               : Fail
+2025-06-20 00:07:32,399 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:32,399 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:32,400 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:32,400 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:33,277 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-20 00:07:33,628 | INFO | ⏳ Updating 'OSV-3008: KPIT_TC_DRT_BTA_021'...
+2025-06-20 00:07:33,629 | INFO |   🔄 Updating fields for OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 00:07:33,629 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:33,630 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:33,630 | INFO |     Root Cause Details : Unable to validate play state.
+2025-06-20 00:07:33,631 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:34,290 | INFO |   ✅ Updated fields for OSV-3008: 'KPIT_TC_DRT_BTA_021.
+2025-06-20 00:07:34,291 | INFO |   🔄 Commenting on OSV-3008: 'KPIT_TC_DRT_BTA_021...
+2025-06-20 00:07:34,291 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:34,291 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:34,292 | INFO |     Result               : Fail
+2025-06-20 00:07:34,292 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:34,293 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:34,293 | INFO |     Root Cause Details   : Unable to validate play state.
+2025-06-20 00:07:34,293 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:34,783 | INFO |   ✅ Commented on OSV-3008: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-20 00:07:35,114 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-20 00:07:35,115 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 00:07:35,116 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:35,117 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:35,117 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:35,118 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:35,784 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-20 00:07:35,784 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-20 00:07:35,784 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:35,784 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:35,785 | INFO |     Result               : Fail
+2025-06-20 00:07:35,785 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:35,786 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:35,786 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:35,787 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:36,322 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-20 00:07:36,685 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-20 00:07:36,686 | INFO |   🔄 Updating fields for OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-20 00:07:36,687 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:36,687 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:36,688 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:36,688 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:37,361 | INFO |   ✅ Updated fields for OSV-2610: 'KPIT_TC_DRT_BTA_053.
+2025-06-20 00:07:37,362 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-20 00:07:37,362 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:37,362 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:37,362 | INFO |     Result               : Fail
+2025-06-20 00:07:37,363 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:37,363 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:37,363 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:37,363 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:37,841 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-20 00:07:38,209 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-20 00:07:38,210 | INFO |   🔄 Updating fields for OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-20 00:07:38,210 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:38,211 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:38,211 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:38,212 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:38,857 | INFO |   ✅ Updated fields for OSV-2607: 'KPIT_TC_DRT_HFT_048.
+2025-06-20 00:07:38,858 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-20 00:07:38,859 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:38,859 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:38,860 | INFO |     Result               : Fail
+2025-06-20 00:07:38,860 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:38,861 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:38,861 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:38,862 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:39,369 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-20 00:07:39,750 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-20 00:07:39,752 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-20 00:07:39,752 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:07:39,753 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:39,754 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:07:39,754 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:40,435 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-20 00:07:40,436 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-20 00:07:40,436 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:40,436 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:40,436 | INFO |     Result               : Fail
+2025-06-20 00:07:40,437 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:07:40,437 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:07:40,437 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:07:40,438 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:40,917 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-20 00:07:41,306 | INFO | ⏳ Updating 'OSV-3275: KPIT_TC_DRT_KBD_002'...
+2025-06-20 00:07:41,307 | INFO |   🔄 Updating fields for OSV-3275: 'KPIT_TC_DRT_KBD_002...
+2025-06-20 00:07:41,307 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:41,308 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:41,308 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:41,309 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:42,171 | INFO |   ✅ Updated fields for OSV-3275: 'KPIT_TC_DRT_KBD_002.
+2025-06-20 00:07:42,172 | INFO |   🔄 Commenting on OSV-3275: 'KPIT_TC_DRT_KBD_002...
+2025-06-20 00:07:42,172 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:42,173 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:42,173 | INFO |     Result               : Fail
+2025-06-20 00:07:42,174 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:42,174 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:42,175 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:42,175 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:42,734 | INFO |   ✅ Commented on OSV-3275: 'KPIT_TC_DRT_KBD_002.
+
+2025-06-20 00:07:43,085 | INFO | ⏳ Updating 'OSV-3286: KPIT_TC_DRT_KBD_004'...
+2025-06-20 00:07:43,085 | INFO |   🔄 Updating fields for OSV-3286: 'KPIT_TC_DRT_KBD_004...
+2025-06-20 00:07:43,086 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:43,086 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:43,087 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:43,087 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:43,984 | INFO |   ✅ Updated fields for OSV-3286: 'KPIT_TC_DRT_KBD_004.
+2025-06-20 00:07:43,985 | INFO |   🔄 Commenting on OSV-3286: 'KPIT_TC_DRT_KBD_004...
+2025-06-20 00:07:43,986 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:43,986 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:43,987 | INFO |     Result               : Fail
+2025-06-20 00:07:43,988 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:43,989 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:43,989 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:43,990 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:44,488 | INFO |   ✅ Commented on OSV-3286: 'KPIT_TC_DRT_KBD_004.
+
+2025-06-20 00:07:44,822 | INFO | ⏳ Updating 'OSV-3288: KPIT_TC_DRT_KBD_005'...
+2025-06-20 00:07:44,823 | INFO |   🔄 Updating fields for OSV-3288: 'KPIT_TC_DRT_KBD_005...
+2025-06-20 00:07:44,824 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:44,825 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:44,826 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:44,826 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:45,698 | INFO |   ✅ Updated fields for OSV-3288: 'KPIT_TC_DRT_KBD_005.
+2025-06-20 00:07:45,698 | INFO |   🔄 Commenting on OSV-3288: 'KPIT_TC_DRT_KBD_005...
+2025-06-20 00:07:45,698 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:45,698 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:45,699 | INFO |     Result               : Fail
+2025-06-20 00:07:45,699 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:45,699 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:45,700 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:45,700 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:46,175 | INFO |   ✅ Commented on OSV-3288: 'KPIT_TC_DRT_KBD_005.
+
+2025-06-20 00:07:46,508 | INFO | ⏳ Updating 'OSV-3287: KPIT_TC_DRT_KBD_011'...
+2025-06-20 00:07:46,509 | INFO |   🔄 Updating fields for OSV-3287: 'KPIT_TC_DRT_KBD_011...
+2025-06-20 00:07:46,510 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:46,511 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:46,512 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:46,513 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:47,418 | INFO |   ✅ Updated fields for OSV-3287: 'KPIT_TC_DRT_KBD_011.
+2025-06-20 00:07:47,419 | INFO |   🔄 Commenting on OSV-3287: 'KPIT_TC_DRT_KBD_011...
+2025-06-20 00:07:47,419 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:47,420 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:47,420 | INFO |     Result               : Fail
+2025-06-20 00:07:47,421 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:47,421 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:47,422 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:47,422 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:47,974 | INFO |   ✅ Commented on OSV-3287: 'KPIT_TC_DRT_KBD_011.
+
+2025-06-20 00:07:48,329 | INFO | ⏳ Updating 'OSV-3279: KPIT_TC_DRT_KBD_012'...
+2025-06-20 00:07:48,330 | INFO |   🔄 Updating fields for OSV-3279: 'KPIT_TC_DRT_KBD_012...
+2025-06-20 00:07:48,330 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:48,331 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:48,331 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:48,331 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:49,221 | INFO |   ✅ Updated fields for OSV-3279: 'KPIT_TC_DRT_KBD_012.
+2025-06-20 00:07:49,222 | INFO |   🔄 Commenting on OSV-3279: 'KPIT_TC_DRT_KBD_012...
+2025-06-20 00:07:49,222 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:49,223 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:49,223 | INFO |     Result               : Fail
+2025-06-20 00:07:49,224 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:49,224 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:49,225 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:49,225 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:49,723 | INFO |   ✅ Commented on OSV-3279: 'KPIT_TC_DRT_KBD_012.
+
+2025-06-20 00:07:50,091 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-20 00:07:50,092 | INFO |   🔄 Updating fields for OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-20 00:07:50,092 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:50,093 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:50,093 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:50,094 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:51,017 | INFO |   ✅ Updated fields for OSV-2611: 'KPIT_TC_DRT_KBD_017.
+2025-06-20 00:07:51,017 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-20 00:07:51,017 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:51,018 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:51,018 | INFO |     Result               : Fail
+2025-06-20 00:07:51,018 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:51,018 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:51,018 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:51,018 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:51,508 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-20 00:07:51,883 | INFO | ⏳ Updating 'OSV-3280: KPIT_TC_DRT_KBD_022'...
+2025-06-20 00:07:51,883 | INFO |   🔄 Updating fields for OSV-3280: 'KPIT_TC_DRT_KBD_022...
+2025-06-20 00:07:51,884 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:51,884 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:51,885 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:51,885 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:52,852 | INFO |   ✅ Updated fields for OSV-3280: 'KPIT_TC_DRT_KBD_022.
+2025-06-20 00:07:52,852 | INFO |   🔄 Commenting on OSV-3280: 'KPIT_TC_DRT_KBD_022...
+2025-06-20 00:07:52,852 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:52,853 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:52,853 | INFO |     Result               : Fail
+2025-06-20 00:07:52,854 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:52,854 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:52,854 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:52,855 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:53,393 | INFO |   ✅ Commented on OSV-3280: 'KPIT_TC_DRT_KBD_022.
+
+2025-06-20 00:07:53,740 | INFO | ⏳ Updating 'OSV-3276: KPIT_TC_DRT_KBD_023'...
+2025-06-20 00:07:53,740 | INFO |   🔄 Updating fields for OSV-3276: 'KPIT_TC_DRT_KBD_023...
+2025-06-20 00:07:53,741 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:53,741 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:53,742 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:53,743 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:54,592 | INFO |   ✅ Updated fields for OSV-3276: 'KPIT_TC_DRT_KBD_023.
+2025-06-20 00:07:54,593 | INFO |   🔄 Commenting on OSV-3276: 'KPIT_TC_DRT_KBD_023...
+2025-06-20 00:07:54,593 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:54,594 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:54,595 | INFO |     Result               : Fail
+2025-06-20 00:07:54,595 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:54,596 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:54,597 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:54,597 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:55,109 | INFO |   ✅ Commented on OSV-3276: 'KPIT_TC_DRT_KBD_023.
+
+2025-06-20 00:07:55,476 | INFO | ⏳ Updating 'OSV-3277: KPIT_TC_DRT_KBD_024'...
+2025-06-20 00:07:55,477 | INFO |   🔄 Updating fields for OSV-3277: 'KPIT_TC_DRT_KBD_024...
+2025-06-20 00:07:55,478 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:55,478 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:55,479 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:55,479 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:56,437 | INFO |   ✅ Updated fields for OSV-3277: 'KPIT_TC_DRT_KBD_024.
+2025-06-20 00:07:56,437 | INFO |   🔄 Commenting on OSV-3277: 'KPIT_TC_DRT_KBD_024...
+2025-06-20 00:07:56,438 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:56,438 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:56,439 | INFO |     Result               : Fail
+2025-06-20 00:07:56,439 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:56,440 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:56,440 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:56,441 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:56,938 | INFO |   ✅ Commented on OSV-3277: 'KPIT_TC_DRT_KBD_024.
+
+2025-06-20 00:07:57,269 | INFO | ⏳ Updating 'OSV-3281: KPIT_TC_DRT_KBD_031'...
+2025-06-20 00:07:57,269 | INFO |   🔄 Updating fields for OSV-3281: 'KPIT_TC_DRT_KBD_031...
+2025-06-20 00:07:57,269 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:57,270 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:57,270 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:57,270 | INFO |     Fixation Performed : NA
+2025-06-20 00:07:58,126 | INFO |   ✅ Updated fields for OSV-3281: 'KPIT_TC_DRT_KBD_031.
+2025-06-20 00:07:58,127 | INFO |   🔄 Commenting on OSV-3281: 'KPIT_TC_DRT_KBD_031...
+2025-06-20 00:07:58,128 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:07:58,128 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:07:58,129 | INFO |     Result               : Fail
+2025-06-20 00:07:58,130 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:07:58,130 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:58,141 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:58,142 | INFO |     Fixation Performed   : NA
+2025-06-20 00:07:58,747 | INFO |   ✅ Commented on OSV-3281: 'KPIT_TC_DRT_KBD_031.
+
+2025-06-20 00:07:59,128 | INFO | ⏳ Updating 'OSV-3274: KPIT_TC_DRT_KBD_040'...
+2025-06-20 00:07:59,129 | INFO |   🔄 Updating fields for OSV-3274: 'KPIT_TC_DRT_KBD_040...
+2025-06-20 00:07:59,130 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:07:59,130 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:07:59,131 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:07:59,132 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:00,041 | INFO |   ✅ Updated fields for OSV-3274: 'KPIT_TC_DRT_KBD_040.
+2025-06-20 00:08:00,042 | INFO |   🔄 Commenting on OSV-3274: 'KPIT_TC_DRT_KBD_040...
+2025-06-20 00:08:00,043 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:00,043 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:00,044 | INFO |     Result               : Fail
+2025-06-20 00:08:00,044 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:00,045 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:00,045 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:00,046 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:00,595 | INFO |   ✅ Commented on OSV-3274: 'KPIT_TC_DRT_KBD_040.
+
+2025-06-20 00:08:00,957 | INFO | ⏳ Updating 'OSV-3278: KPIT_TC_DRT_KBD_041'...
+2025-06-20 00:08:00,958 | INFO |   🔄 Updating fields for OSV-3278: 'KPIT_TC_DRT_KBD_041...
+2025-06-20 00:08:00,958 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:00,959 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:00,959 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:00,960 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:02,021 | INFO |   ✅ Updated fields for OSV-3278: 'KPIT_TC_DRT_KBD_041.
+2025-06-20 00:08:02,022 | INFO |   🔄 Commenting on OSV-3278: 'KPIT_TC_DRT_KBD_041...
+2025-06-20 00:08:02,022 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:02,023 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:02,023 | INFO |     Result               : Fail
+2025-06-20 00:08:02,023 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:02,023 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:02,024 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:02,024 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:02,545 | INFO |   ✅ Commented on OSV-3278: 'KPIT_TC_DRT_KBD_041.
+
+2025-06-20 00:08:02,930 | INFO | ⏳ Updating 'OSV-3282: KPIT_TC_DRT_KBD_048'...
+2025-06-20 00:08:02,931 | INFO |   🔄 Updating fields for OSV-3282: 'KPIT_TC_DRT_KBD_048...
+2025-06-20 00:08:02,931 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:02,931 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:02,932 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:02,932 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:03,828 | INFO |   ✅ Updated fields for OSV-3282: 'KPIT_TC_DRT_KBD_048.
+2025-06-20 00:08:03,830 | INFO |   🔄 Commenting on OSV-3282: 'KPIT_TC_DRT_KBD_048...
+2025-06-20 00:08:03,830 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:03,831 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:03,833 | INFO |     Result               : Fail
+2025-06-20 00:08:03,833 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:03,834 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:03,834 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:03,835 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:04,713 | INFO |   ✅ Commented on OSV-3282: 'KPIT_TC_DRT_KBD_048.
+
+2025-06-20 00:08:05,059 | INFO | ⏳ Updating 'OSV-3272: KPIT_TC_DRT_KBD_054'...
+2025-06-20 00:08:05,060 | INFO |   🔄 Updating fields for OSV-3272: 'KPIT_TC_DRT_KBD_054...
+2025-06-20 00:08:05,060 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:05,061 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:05,062 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:05,062 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:05,957 | INFO |   ✅ Updated fields for OSV-3272: 'KPIT_TC_DRT_KBD_054.
+2025-06-20 00:08:05,958 | INFO |   🔄 Commenting on OSV-3272: 'KPIT_TC_DRT_KBD_054...
+2025-06-20 00:08:05,958 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:05,959 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:05,959 | INFO |     Result               : Fail
+2025-06-20 00:08:05,960 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:05,961 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:05,961 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:05,962 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:06,437 | INFO |   ✅ Commented on OSV-3272: 'KPIT_TC_DRT_KBD_054.
+
+2025-06-20 00:08:06,813 | INFO | ⏳ Updating 'OSV-3273: KPIT_TC_DRT_KBD_055'...
+2025-06-20 00:08:06,814 | INFO |   🔄 Updating fields for OSV-3273: 'KPIT_TC_DRT_KBD_055...
+2025-06-20 00:08:06,815 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:06,816 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:06,816 | INFO |     Root Cause Details : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:06,817 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:07,771 | INFO |   ✅ Updated fields for OSV-3273: 'KPIT_TC_DRT_KBD_055.
+2025-06-20 00:08:07,772 | INFO |   🔄 Commenting on OSV-3273: 'KPIT_TC_DRT_KBD_055...
+2025-06-20 00:08:07,772 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:07,773 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:07,774 | INFO |     Result               : Fail
+2025-06-20 00:08:07,775 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:07,775 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:07,776 | INFO |     Root Cause Details   : Google keyboard displayed instead of default keyboard.
+2025-06-20 00:08:07,777 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:08,288 | INFO |   ✅ Commented on OSV-3273: 'KPIT_TC_DRT_KBD_055.
+
+2025-06-20 00:08:08,632 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-20 00:08:08,633 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 00:08:08,633 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:08,634 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:08,634 | INFO |     Root Cause Details : After Selecting "Do not show this again", goolge assistant popup was displayed.
+2025-06-20 00:08:08,635 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:09,469 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-20 00:08:09,471 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-20 00:08:09,471 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:09,472 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:09,472 | INFO |     Result               : Fail
+2025-06-20 00:08:09,473 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:09,473 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:09,474 | INFO |     Root Cause Details   : After Selecting "Do not show this again", goolge assistant popup was displayed.
+2025-06-20 00:08:09,474 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:09,941 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-20 00:08:10,318 | INFO | ⏳ Updating 'OSV-3007: KPIT_TC_DRT_SND_039'...
+2025-06-20 00:08:10,319 | INFO |   🔄 Updating fields for OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-20 00:08:10,319 | INFO |     Failure Category : KITE issue
+2025-06-20 00:08:10,319 | INFO |     Failure Sub Category : Image Comparision
+2025-06-20 00:08:10,320 | INFO |     Root Cause Details : Image with different values got match due to kite issue.
+2025-06-20 00:08:10,320 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:11,051 | INFO |   ✅ Updated fields for OSV-3007: 'KPIT_TC_DRT_SND_039.
+2025-06-20 00:08:11,052 | INFO |   🔄 Commenting on OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-20 00:08:11,052 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:11,052 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:11,052 | INFO |     Result               : Fail
+2025-06-20 00:08:11,052 | INFO |     Failure Category     : KITE issue
+2025-06-20 00:08:11,053 | INFO |     Failure Sub Category : Image Comparision
+2025-06-20 00:08:11,053 | INFO |     Root Cause Details   : Image with different values got match due to kite issue.
+2025-06-20 00:08:11,053 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:11,522 | INFO |   ✅ Commented on OSV-3007: 'KPIT_TC_DRT_SND_039.
+
+2025-06-20 00:08:11,902 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-20 00:08:11,903 | INFO |   🔄 Updating fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-20 00:08:11,903 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:08:11,904 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:11,904 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:08:11,904 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:12,589 | INFO |   ✅ Updated fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-20 00:08:12,590 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-20 00:08:12,590 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:12,590 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:12,591 | INFO |     Result               : Fail
+2025-06-20 00:08:12,591 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:08:12,591 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:12,592 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:08:12,592 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:13,023 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-20 00:08:13,368 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-20 00:08:13,369 | INFO |   🔄 Updating fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-20 00:08:13,369 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:08:13,369 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:13,370 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:08:13,370 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:14,049 | INFO |   ✅ Updated fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-20 00:08:14,050 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-20 00:08:14,051 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:14,052 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:14,052 | INFO |     Result               : Fail
+2025-06-20 00:08:14,053 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:08:14,053 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:14,054 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:08:14,055 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:14,500 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-20 00:08:14,859 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-20 00:08:14,860 | INFO |   🔄 Updating fields for OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-20 00:08:14,860 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:14,860 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:14,861 | INFO |     Root Cause Details : Disclaimer popup displayed in between of overnight execution.
+2025-06-20 00:08:14,861 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:15,713 | INFO |   ✅ Updated fields for OSV-2480: 'KPIT_TC_DRT_SUW_005.
+2025-06-20 00:08:15,714 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-20 00:08:15,714 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:15,715 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:15,715 | INFO |     Result               : Fail
+2025-06-20 00:08:15,716 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:15,717 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:15,717 | INFO |     Root Cause Details   : Disclaimer popup displayed in between of overnight execution.
+2025-06-20 00:08:15,718 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:16,145 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-20 00:08:16,512 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-20 00:08:16,513 | INFO |   🔄 Updating fields for OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-20 00:08:16,513 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:16,513 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 00:08:16,513 | INFO |     Root Cause Details :  Failed due to DRT_SUW_005.
+2025-06-20 00:08:16,513 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:17,376 | INFO |   ✅ Updated fields for OSV-2481: 'KPIT_TC_DRT_SUW_006.
+2025-06-20 00:08:17,377 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-20 00:08:17,378 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:17,378 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:17,378 | INFO |     Result               : Fail
+2025-06-20 00:08:17,379 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:17,379 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-20 00:08:17,379 | INFO |     Root Cause Details   :  Failed due to DRT_SUW_005.
+2025-06-20 00:08:17,379 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:17,853 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-20 00:08:18,207 | INFO | ⏳ Updating 'OSV-3011: KPIT_TC_DRT_USB_1245'...
+2025-06-20 00:08:18,207 | INFO |   🔄 Updating fields for OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-20 00:08:18,207 | INFO |     Failure Category : ICB issue (Once)
+2025-06-20 00:08:18,207 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:18,207 | INFO |     Root Cause Details : iPod loading screen displayed in between of overnight execution.
+2025-06-20 00:08:18,207 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:19,172 | INFO |   ✅ Updated fields for OSV-3011: 'KPIT_TC_DRT_USB_1245.
+2025-06-20 00:08:19,173 | INFO |   🔄 Commenting on OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-20 00:08:19,174 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:19,174 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:19,175 | INFO |     Result               : Fail
+2025-06-20 00:08:19,176 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-20 00:08:19,176 | INFO |     Failure Sub Category : Once Seen
+2025-06-20 00:08:19,177 | INFO |     Root Cause Details   : iPod loading screen displayed in between of overnight execution.
+2025-06-20 00:08:19,177 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:19,638 | INFO |   ✅ Commented on OSV-3011: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-20 00:08:20,016 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-20 00:08:20,017 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 00:08:20,017 | INFO |     Failure Category : Test Env issue
+2025-06-20 00:08:20,017 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:20,017 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-20 00:08:20,017 | INFO |     Fixation Performed : NA
+2025-06-20 00:08:20,693 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-20 00:08:20,694 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-20 00:08:20,694 | INFO |     Date                 : 3rd June 2025
+2025-06-20 00:08:20,695 | INFO |     Analysis Done By     : Sahil
+2025-06-20 00:08:20,695 | INFO |     Result               : Fail
+2025-06-20 00:08:20,695 | INFO |     Failure Category     : Test Env issue
+2025-06-20 00:08:20,695 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-20 00:08:20,696 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-20 00:08:20,696 | INFO |     Fixation Performed   : NA
+2025-06-20 00:08:21,126 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+

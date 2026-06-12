@@ -1,0 +1,11 @@
+2025-11-13 18:47:26,375 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-13 18:47:26,376 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-13 18:47:26,377 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-13 18:47:26,377 | INFO |     Failure Sub Category : Timing Issue
+2025-11-13 18:47:26,378 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-13 18:47:26,378 | INFO |     Fixation Performed : NA
+2025-11-13 18:47:26,696 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18530
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 13:17:26 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'a1631103a16baea888de3f814bd45be1', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'af598d2641d94ba89fe25e34b84eeff8', 'Atl-Request-Id': 'af598d26-41d9-4ba8-9fe2-5e34b84eeff8', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=165,atl-edge-internal;dur=16,atl-edge-upstream;dur=148,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 64969ea0eb4e790e92a77dba357e9b06.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P2', 'X-Amz-Cf-Id': 'pT2MKWdGf-QuQ5nx8RrpnfPq9eKhB2esr6D1fLT5ZeZWYaqMjS0yTA=='}
+	response text = {"errorMessages":[],"errors":{"Current Failure Category":"Specify the value for Current Failure Category in an array"}}.
+

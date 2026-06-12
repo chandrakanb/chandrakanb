@@ -1,0 +1,27 @@
+2025-06-26 15:12:50,210 | INFO | ⏳ Updating Failure Category for OSV-4044 - KPIT_TC_DRT_BTA_021: Test Env Issue
+2025-06-26 15:12:51,281 | INFO | ✅ Updated Failure Category for OSV-4044 - KPIT_TC_DRT_BTA_021
+
+2025-06-26 15:12:51,704 | INFO | ⏳ Updating Failure Category for OSV-4071 - KPIT_TC_DRT_MCS_036: ICB Issue (Once)
+2025-06-26 15:12:52,568 | INFO | ✅ Updated Failure Category for OSV-4071 - KPIT_TC_DRT_MCS_036
+
+2025-06-26 15:12:52,966 | INFO | ⏳ Updating Failure Category for OSV-4004 - KPIT_TC_DRT_PRM_003: ICB Issue (Once)
+2025-06-26 15:12:54,214 | INFO | ✅ Updated Failure Category for OSV-4004 - KPIT_TC_DRT_PRM_003
+
+2025-06-26 15:12:54,642 | INFO | ⏳ Updating Failure Category for OSV-4007 - KPIT_TC_DRT_PRM_007: ICB Issue (Once)
+2025-06-26 15:12:55,686 | INFO | ✅ Updated Failure Category for OSV-4007 - KPIT_TC_DRT_PRM_007
+
+2025-06-26 15:12:56,151 | INFO | ⏳ Updating Failure Category for OSV-3962 - KPIT_TC_DRT_PRM_015: ICB Issue (Once)
+2025-06-26 15:12:57,697 | INFO | ✅ Updated Failure Category for OSV-3962 - KPIT_TC_DRT_PRM_015
+
+2025-06-26 15:12:58,159 | INFO | ⏳ Updating Failure Category for OSV-4034 - KPIT_TC_DRT_HOM_028: ICB Issue (Once)
+2025-06-26 15:12:59,386 | INFO | ✅ Updated Failure Category for OSV-4034 - KPIT_TC_DRT_HOM_028
+
+2025-06-26 15:12:59,845 | INFO | ⏳ Updating Failure Category for OSV-3955 - KPIT_TC_DRT_HMI_001: Test Env Issue
+2025-06-26 15:13:00,986 | INFO | ✅ Updated Failure Category for OSV-3955 - KPIT_TC_DRT_HMI_001
+
+2025-06-26 15:13:01,832 | INFO | ⏳ Updating Failure Category for OSV-4073 - KPIT_TC_DRT_SPCCP_021: Test Env Issue
+2025-06-26 15:13:03,857 | INFO | ✅ Updated Failure Category for OSV-4073 - KPIT_TC_DRT_SPCCP_021
+
+2025-06-26 15:13:04,379 | INFO | ⏳ Updating Failure Category for OSV-3956 - KPIT_TC_DRT_SUW_005: ICB Issue (Once)
+2025-06-26 15:13:05,487 | INFO | ✅ Updated Failure Category for OSV-3956 - KPIT_TC_DRT_SUW_005
+

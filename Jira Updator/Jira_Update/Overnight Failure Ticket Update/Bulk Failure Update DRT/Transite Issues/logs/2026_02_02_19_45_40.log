@@ -1,0 +1,101 @@
+2026-02-02 19:45:40,113 | INFO | Token loaded from Environment Variable
+2026-02-02 19:45:40,502 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-02-02 19:45:40,878 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-02-02 19:45:41,207 | INFO | Processing ticket DRT-6166 with current status: In_Progress
+2026-02-02 19:45:42,263 | INFO | Transitioned DRT-6166 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:45:43,974 | INFO | Transitioned DRT-6166 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:45:45,812 | INFO | Transitioned DRT-6166 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:45:47,499 | INFO | Transitioned DRT-6166 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:45:48,409 | INFO | Ticket DRT-6166 is transited till status: Ready for review
+2026-02-02 19:45:48,730 | INFO | Processing ticket DRT-4639 with current status: In_Progress
+2026-02-02 19:45:50,205 | INFO | Transitioned DRT-4639 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:45:52,305 | INFO | Transitioned DRT-4639 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:45:54,463 | INFO | Transitioned DRT-4639 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:45:55,830 | INFO | Transitioned DRT-4639 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:45:56,479 | INFO | Ticket DRT-4639 is transited till status: Ready for review
+2026-02-02 19:45:57,184 | INFO | Processing ticket DRT-3915 with current status: In_Progress
+2026-02-02 19:45:58,369 | INFO | Transitioned DRT-3915 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:00,159 | INFO | Transitioned DRT-3915 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:01,877 | INFO | Transitioned DRT-3915 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:03,760 | INFO | Transitioned DRT-3915 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:04,394 | INFO | Ticket DRT-3915 is transited till status: Ready for review
+2026-02-02 19:46:04,718 | INFO | Processing ticket DRT-3914 with current status: In_Progress
+2026-02-02 19:46:06,596 | INFO | Transitioned DRT-3914 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:08,102 | INFO | Transitioned DRT-3914 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:09,597 | INFO | Transitioned DRT-3914 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:11,037 | INFO | Transitioned DRT-3914 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:11,714 | INFO | Ticket DRT-3914 is transited till status: Ready for review
+2026-02-02 19:46:12,007 | INFO | Processing ticket DRT-1880 with current status: In_Progress
+2026-02-02 19:46:13,525 | INFO | Transitioned DRT-1880 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:15,274 | INFO | Transitioned DRT-1880 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:17,040 | INFO | Transitioned DRT-1880 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:18,771 | INFO | Transitioned DRT-1880 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:19,788 | INFO | Ticket DRT-1880 is transited till status: Ready for review
+2026-02-02 19:46:20,104 | INFO | Processing ticket DRT-3981 with current status: In_Progress
+2026-02-02 19:46:21,526 | INFO | Transitioned DRT-3981 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:23,328 | INFO | Transitioned DRT-3981 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:25,068 | INFO | Transitioned DRT-3981 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:26,432 | INFO | Transitioned DRT-3981 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:27,019 | INFO | Ticket DRT-3981 is transited till status: Ready for review
+2026-02-02 19:46:27,334 | INFO | Processing ticket DRT-3980 with current status: In_Progress
+2026-02-02 19:46:28,487 | INFO | Transitioned DRT-3980 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:29,925 | INFO | Transitioned DRT-3980 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:31,649 | INFO | Transitioned DRT-3980 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:33,101 | INFO | Transitioned DRT-3980 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:33,805 | INFO | Ticket DRT-3980 is transited till status: Ready for review
+2026-02-02 19:46:34,202 | INFO | Processing ticket DRT-2125 with current status: In_Progress
+2026-02-02 19:46:35,428 | INFO | Transitioned DRT-2125 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:36,862 | INFO | Transitioned DRT-2125 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:38,293 | INFO | Transitioned DRT-2125 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:39,767 | INFO | Transitioned DRT-2125 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:40,446 | INFO | Ticket DRT-2125 is transited till status: Ready for review
+2026-02-02 19:46:40,724 | INFO | Processing ticket DRT-4715 with current status: In_Progress
+2026-02-02 19:46:41,901 | INFO | Transitioned DRT-4715 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:43,394 | INFO | Transitioned DRT-4715 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:44,829 | INFO | Transitioned DRT-4715 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:46:46,218 | INFO | Transitioned DRT-4715 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:46:46,805 | INFO | Ticket DRT-4715 is transited till status: Ready for review
+2026-02-02 19:46:47,146 | INFO | Processing ticket DRT-3931 with current status: In_Progress
+2026-02-02 19:46:48,381 | INFO | Transitioned DRT-3931 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:49,729 | INFO | Transitioned DRT-3931 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:51,186 | INFO | Transitioned DRT-3931 from 'Issue Analysis Completed' to 'No Fixation Required'
+2026-02-02 19:46:52,583 | INFO | Transitioned DRT-3931 from 'No Fixation Required' to 'Ready for review'
+2026-02-02 19:46:53,303 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2026-02-02 19:46:53,594 | INFO | Processing ticket DRT-2305 with current status: In_Progress
+2026-02-02 19:46:54,727 | INFO | Transitioned DRT-2305 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:46:56,127 | INFO | Transitioned DRT-2305 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:46:57,531 | INFO | Transitioned DRT-2305 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:46:59,032 | INFO | Transitioned DRT-2305 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:46:59,753 | INFO | Ticket DRT-2305 is transited till status: Ready for review
+2026-02-02 19:47:00,062 | INFO | Processing ticket DRT-2304 with current status: In_Progress
+2026-02-02 19:47:01,253 | INFO | Transitioned DRT-2304 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:47:02,659 | INFO | Transitioned DRT-2304 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:47:04,027 | INFO | Transitioned DRT-2304 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:47:05,522 | INFO | Transitioned DRT-2304 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:47:06,288 | INFO | Ticket DRT-2304 is transited till status: Ready for review
+2026-02-02 19:47:06,604 | INFO | Processing ticket DRT-3933 with current status: In_Progress
+2026-02-02 19:47:07,783 | INFO | Transitioned DRT-3933 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:47:09,161 | INFO | Transitioned DRT-3933 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:47:10,622 | INFO | Transitioned DRT-3933 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:47:11,992 | INFO | Transitioned DRT-3933 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:47:12,642 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2026-02-02 19:47:12,934 | INFO | Processing ticket DRT-2308 with current status: In_Progress
+2026-02-02 19:47:14,125 | INFO | Transitioned DRT-2308 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:47:15,460 | INFO | Transitioned DRT-2308 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:47:16,816 | INFO | Transitioned DRT-2308 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:47:18,568 | INFO | Transitioned DRT-2308 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:47:19,158 | INFO | Ticket DRT-2308 is transited till status: Ready for review
+2026-02-02 19:47:19,441 | INFO | Processing ticket DRT-2309 with current status: In_Progress
+2026-02-02 19:47:20,878 | INFO | Transitioned DRT-2309 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:47:22,208 | INFO | Transitioned DRT-2309 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:47:23,577 | INFO | Transitioned DRT-2309 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:47:25,030 | INFO | Transitioned DRT-2309 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:47:25,587 | INFO | Ticket DRT-2309 is transited till status: Ready for review
+2026-02-02 19:47:25,887 | INFO | Processing ticket DRT-2306 with current status: In_Progress
+2026-02-02 19:47:27,437 | INFO | Transitioned DRT-2306 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-02-02 19:47:28,933 | INFO | Transitioned DRT-2306 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-02-02 19:47:30,351 | INFO | Transitioned DRT-2306 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-02-02 19:47:31,841 | INFO | Transitioned DRT-2306 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-02-02 19:47:32,526 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2026-02-02 19:47:32,527 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

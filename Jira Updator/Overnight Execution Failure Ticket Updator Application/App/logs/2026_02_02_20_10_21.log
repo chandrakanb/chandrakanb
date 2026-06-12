@@ -1,0 +1,304 @@
+2026-02-02 20:10:21 | 🚀 Jira Update Started.
+
+2026-02-02 20:10:22 | ⏳ Updating    		            : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-02 20:10:22 |   🔄 Updating fields          : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-02 20:10:22 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:22 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:22 |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issue']
+2026-02-02 20:10:22 |     Root Cause Details        : Instead of "who is Elbert Einstein", ICB Took "Barbie doll" as VR Prompt.
+2026-02-02 20:10:22 |     Fixation Performed        : NA
+2026-02-02 20:10:23 |   ✅ Updated fields           : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-02 20:10:23 |   🔄 Commenting               : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-02-02 20:10:23 |     Date                      : 2026-02-02
+2026-02-02 20:10:23 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:23 |     Result                    : Fail
+2026-02-02 20:10:23 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:23 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:23 |     Root Cause Details        : Instead of "who is Elbert Einstein", ICB Took "Barbie doll" as VR Prompt.
+2026-02-02 20:10:23 |     Fixation Performed        : NA
+2026-02-02 20:10:23 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:23 |     Reviewer                  : Rajashri
+2026-02-02 20:10:24 |   🔄 Commented                : DRT-4669 ('KPIT_TC_DRT_MET_056') | Comment ID: 151256
+
+2026-02-02 20:10:25 | ⏳ Updating    		            : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-02 20:10:25 |   🔄 Updating fields          : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-02 20:10:25 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:25 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:25 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-02 20:10:25 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal validation failed. Received different CAN Signals than excpected.
+2026-02-02 20:10:25 |     Fixation Performed        : NA
+2026-02-02 20:10:27 |   ✅ Updated fields           : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-02 20:10:27 |   🔄 Commenting               : DRT-5249 ('KPIT_TC_DRT_MET_048')
+2026-02-02 20:10:27 |     Date                      : 2026-02-02
+2026-02-02 20:10:27 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:27 |     Result                    : Fail
+2026-02-02 20:10:27 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:27 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:27 |     Root Cause Details        : On bench11 GPS Simulator is connected; Due to this CAN Signal validation failed. Received different CAN Signals than excpected.
+2026-02-02 20:10:27 |     Fixation Performed        : NA
+2026-02-02 20:10:27 |     Remarks                   : For GPS Simualtor POC, We have connected the GPS.
+This is communicated with Saurabh San.
+2026-02-02 20:10:27 |     Reviewer                  : Rajashri
+2026-02-02 20:10:28 |   🔄 Commented                : DRT-5249 ('KPIT_TC_DRT_MET_048') | Comment ID: 151257
+
+2026-02-02 20:10:28 | ⏳ Updating    		            : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-02-02 20:10:28 |   🔄 Updating fields          : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-02-02 20:10:28 |     Failure Category          : KITE Issue
+2026-02-02 20:10:28 |     Failure Sub Category      : Image Comparision
+2026-02-02 20:10:28 |     Previous Failure Category : ['ICB Issue (Always)', 'KITE Issue']
+2026-02-02 20:10:28 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-02 20:10:28 |     Fixation Performed        : NA
+2026-02-02 20:10:30 |   ✅ Updated fields           : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-02-02 20:10:30 |   🔄 Commenting               : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-02-02 20:10:30 |     Date                      : 2026-02-02
+2026-02-02 20:10:30 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:30 |     Result                    : Fail
+2026-02-02 20:10:30 |     Failure Category          : KITE Issue
+2026-02-02 20:10:30 |     Failure Sub Category      : Image Comparision
+2026-02-02 20:10:30 |     Root Cause Details        : Due to incorrect OCR detection, Set current time setting steps pass incorrectly, Hence validation failed.
+2026-02-02 20:10:30 |     Fixation Performed        : NA
+2026-02-02 20:10:30 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:30 |     Reviewer                  : Rajashri
+2026-02-02 20:10:31 |   🔄 Commented                : DRT-3310 ('KPIT_TC_DRT_MET_014') | Comment ID: 151258
+
+2026-02-02 20:10:31 | ⏳ Updating    		            : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-02-02 20:10:31 |   🔄 Updating fields          : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-02-02 20:10:31 |     Failure Category          : Human Error
+2026-02-02 20:10:31 |     Failure Sub Category      : -
+2026-02-02 20:10:31 |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2026-02-02 20:10:31 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:31 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:32 |   ✅ Updated fields           : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-02-02 20:10:32 |   🔄 Commenting               : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-02-02 20:10:32 |     Date                      : 2026-02-02
+2026-02-02 20:10:32 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:32 |     Result                    : Fail
+2026-02-02 20:10:32 |     Failure Category          : Human Error
+2026-02-02 20:10:32 |     Failure Sub Category      : -
+2026-02-02 20:10:32 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:32 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:32 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:32 |     Reviewer                  : Rajashri
+2026-02-02 20:10:33 |   🔄 Commented                : DRT-2053 ('KPIT_TC_DRT_SPCAA_026') | Comment ID: 151259
+
+2026-02-02 20:10:34 | ⏳ Updating    		            : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-02-02 20:10:34 |   🔄 Updating fields          : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-02-02 20:10:34 |     Failure Category          : Human Error
+2026-02-02 20:10:34 |     Failure Sub Category      : -
+2026-02-02 20:10:34 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)', 'Human Error']
+2026-02-02 20:10:34 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:34 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:35 |   ✅ Updated fields           : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-02-02 20:10:35 |   🔄 Commenting               : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-02-02 20:10:35 |     Date                      : 2026-02-02
+2026-02-02 20:10:35 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:35 |     Result                    : Fail
+2026-02-02 20:10:35 |     Failure Category          : Human Error
+2026-02-02 20:10:35 |     Failure Sub Category      : -
+2026-02-02 20:10:35 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:35 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:35 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:35 |     Reviewer                  : Rajashri
+2026-02-02 20:10:36 |   🔄 Commented                : DRT-4430 ('KPIT_TC_DRT_SPCAA_022') | Comment ID: 151260
+
+2026-02-02 20:10:36 | ⏳ Updating    		            : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-02-02 20:10:36 |   🔄 Updating fields          : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-02-02 20:10:36 |     Failure Category          : Human Error
+2026-02-02 20:10:36 |     Failure Sub Category      : -
+2026-02-02 20:10:36 |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2026-02-02 20:10:36 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:36 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:37 |   ✅ Updated fields           : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-02-02 20:10:37 |   🔄 Commenting               : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-02-02 20:10:37 |     Date                      : 2026-02-02
+2026-02-02 20:10:37 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:37 |     Result                    : Fail
+2026-02-02 20:10:37 |     Failure Category          : Human Error
+2026-02-02 20:10:37 |     Failure Sub Category      : -
+2026-02-02 20:10:37 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:37 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:37 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:37 |     Reviewer                  : Rajashri
+2026-02-02 20:10:38 |   🔄 Commented                : DRT-6153 ('KPIT_TC_DRT_MET_046') | Comment ID: 151261
+
+2026-02-02 20:10:39 | ⏳ Updating    		            : DRT-2578 ('KPIT_TC_FNC_SSR_0396_0001')
+2026-02-02 20:10:39 |   🔄 Updating fields          : DRT-2578 ('KPIT_TC_FNC_SSR_0396_0001')
+2026-02-02 20:10:39 |     Failure Category          : Human Error
+2026-02-02 20:10:39 |     Failure Sub Category      : -
+2026-02-02 20:10:39 |     Previous Failure Category : ['ICB Issue (Once)']
+2026-02-02 20:10:39 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:39 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:40 |   ✅ Updated fields           : DRT-2578 ('KPIT_TC_FNC_SSR_0396_0001')
+2026-02-02 20:10:40 |   🔄 Commenting               : DRT-2578 ('KPIT_TC_FNC_SSR_0396_0001')
+2026-02-02 20:10:40 |     Date                      : 2026-02-02
+2026-02-02 20:10:40 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:40 |     Result                    : Fail
+2026-02-02 20:10:40 |     Failure Category          : Human Error
+2026-02-02 20:10:40 |     Failure Sub Category      : -
+2026-02-02 20:10:40 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:40 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:40 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:40 |     Reviewer                  : Rajashri
+2026-02-02 20:10:41 |   🔄 Commented                : DRT-2578 ('KPIT_TC_FNC_SSR_0396_0001') | Comment ID: 151262
+
+2026-02-02 20:10:42 | ⏳ Updating    		            : DRT-2048 ('KPIT_TC_FNC_MET_0100_0002')
+2026-02-02 20:10:42 |   🔄 Updating fields          : DRT-2048 ('KPIT_TC_FNC_MET_0100_0002')
+2026-02-02 20:10:42 |     Failure Category          : Human Error
+2026-02-02 20:10:42 |     Failure Sub Category      : -
+2026-02-02 20:10:42 |     Previous Failure Category : ['ICB Issue (Always)', 'Human Error']
+2026-02-02 20:10:42 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:42 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:43 |   ✅ Updated fields           : DRT-2048 ('KPIT_TC_FNC_MET_0100_0002')
+2026-02-02 20:10:43 |   🔄 Commenting               : DRT-2048 ('KPIT_TC_FNC_MET_0100_0002')
+2026-02-02 20:10:43 |     Date                      : 2026-02-02
+2026-02-02 20:10:43 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:43 |     Result                    : Fail
+2026-02-02 20:10:43 |     Failure Category          : Human Error
+2026-02-02 20:10:43 |     Failure Sub Category      : -
+2026-02-02 20:10:43 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:43 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:43 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:43 |     Reviewer                  : Rajashri
+2026-02-02 20:10:44 |   🔄 Commented                : DRT-2048 ('KPIT_TC_FNC_MET_0100_0002') | Comment ID: 151263
+
+2026-02-02 20:10:44 | ⏳ Updating    		            : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-02 20:10:44 |   🔄 Updating fields          : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-02 20:10:44 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:44 |     Failure Sub Category      : External Application Issue
+2026-02-02 20:10:44 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-02 20:10:44 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-02 20:10:44 |     Fixation Performed        : Rearranged the audio setup.
+2026-02-02 20:10:45 |   ✅ Updated fields           : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-02 20:10:45 |   🔄 Commenting               : DRT-4428 ('KPIT_TC_DRT_MET_060')
+2026-02-02 20:10:45 |     Date                      : 2026-02-02
+2026-02-02 20:10:45 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:45 |     Result                    : Fail
+2026-02-02 20:10:45 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:45 |     Failure Sub Category      : External Application Issue
+2026-02-02 20:10:45 |     Root Cause Details        : Audio for VR was not clear from the Speakers, Hence Siri not initiated.
+2026-02-02 20:10:45 |     Fixation Performed        : Rearranged the audio setup.
+2026-02-02 20:10:45 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:45 |     Reviewer                  : Rajashri
+2026-02-02 20:10:46 |   🔄 Commented                : DRT-4428 ('KPIT_TC_DRT_MET_060') | Comment ID: 151264
+
+2026-02-02 20:10:47 | ⏳ Updating    		            : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-02 20:10:47 |   🔄 Updating fields          : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-02 20:10:47 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:47 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:47 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-02 20:10:47 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:47 |     Fixation Performed        : NA
+2026-02-02 20:10:48 |   ✅ Updated fields           : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-02 20:10:48 |   🔄 Commenting               : DRT-1815 ('KPIT_TC_DRT_HAC_043')
+2026-02-02 20:10:48 |     Date                      : 2026-02-02
+2026-02-02 20:10:48 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:48 |     Result                    : Fail
+2026-02-02 20:10:48 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:48 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:48 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:48 |     Fixation Performed        : NA
+2026-02-02 20:10:48 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:48 |     Reviewer                  : Rajashri
+2026-02-02 20:10:49 |   🔄 Commented                : DRT-1815 ('KPIT_TC_DRT_HAC_043') | Comment ID: 151265
+
+2026-02-02 20:10:49 | ⏳ Updating    		            : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-02 20:10:49 |   🔄 Updating fields          : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-02 20:10:49 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:49 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:49 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-02 20:10:49 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:49 |     Fixation Performed        : NA
+2026-02-02 20:10:51 |   ✅ Updated fields           : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-02 20:10:51 |   🔄 Commenting               : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-02-02 20:10:51 |     Date                      : 2026-02-02
+2026-02-02 20:10:51 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:51 |     Result                    : Fail
+2026-02-02 20:10:51 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:51 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:51 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:51 |     Fixation Performed        : NA
+2026-02-02 20:10:51 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:51 |     Reviewer                  : Rajashri
+2026-02-02 20:10:52 |   🔄 Commented                : DRT-5112 ('KPIT_TC_DRT_SRW_003') | Comment ID: 151266
+
+2026-02-02 20:10:52 | ⏳ Updating    		            : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-02 20:10:52 |   🔄 Updating fields          : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-02 20:10:52 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:52 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:52 |     Previous Failure Category : ['Test Env Issue']
+2026-02-02 20:10:52 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:52 |     Fixation Performed        : NA
+2026-02-02 20:10:53 |   ✅ Updated fields           : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-02 20:10:53 |   🔄 Commenting               : DRT-5020 ('KPIT_TC_DRT_SRW_018')
+2026-02-02 20:10:53 |     Date                      : 2026-02-02
+2026-02-02 20:10:53 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:53 |     Result                    : Fail
+2026-02-02 20:10:53 |     Failure Category          : Test Env Issue
+2026-02-02 20:10:53 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-02 20:10:53 |     Root Cause Details        : Alexa Sign-In failed.
+2026-02-02 20:10:53 |     Fixation Performed        : NA
+2026-02-02 20:10:53 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:53 |     Reviewer                  : Rajashri
+2026-02-02 20:10:54 |   🔄 Commented                : DRT-5020 ('KPIT_TC_DRT_SRW_018') | Comment ID: 151267
+
+2026-02-02 20:10:55 | ⏳ Updating    		            : DRT-5017 ('KPIT_TC_DRT_MET_009')
+2026-02-02 20:10:55 |   🔄 Updating fields          : DRT-5017 ('KPIT_TC_DRT_MET_009')
+2026-02-02 20:10:55 |     Failure Category          : Human Error
+2026-02-02 20:10:55 |     Failure Sub Category      : -
+2026-02-02 20:10:55 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue']
+2026-02-02 20:10:55 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:55 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:56 |   ✅ Updated fields           : DRT-5017 ('KPIT_TC_DRT_MET_009')
+2026-02-02 20:10:56 |   🔄 Commenting               : DRT-5017 ('KPIT_TC_DRT_MET_009')
+2026-02-02 20:10:56 |     Date                      : 2026-02-02
+2026-02-02 20:10:56 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:56 |     Result                    : Fail
+2026-02-02 20:10:56 |     Failure Category          : Human Error
+2026-02-02 20:10:56 |     Failure Sub Category      : -
+2026-02-02 20:10:56 |     Root Cause Details        : Wired Android Auto is connection failed, As Phone device is completely discharged.
+2026-02-02 20:10:56 |     Fixation Performed        : Charged the wired android auto phone device and connected back the automation setup.
+2026-02-02 20:10:56 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-02 20:10:56 |     Reviewer                  : Rajashri
+2026-02-02 20:10:57 |   🔄 Commented                : DRT-5017 ('KPIT_TC_DRT_MET_009') | Comment ID: 151268
+
+2026-02-02 20:10:57 | ⏳ Updating    		            : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-02 20:10:57 |   🔄 Updating fields          : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-02 20:10:57 |     Failure Category          : KITE Issue
+2026-02-02 20:10:57 |     Failure Sub Category      : Image Comparision
+2026-02-02 20:10:57 |     Previous Failure Category : ['ICB Issue (Once)', 'KITE Issue']
+2026-02-02 20:10:57 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-02 20:10:57 |     Fixation Performed        : NA
+2026-02-02 20:10:58 |   ✅ Updated fields           : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-02 20:10:58 |   🔄 Commenting               : DRT-6030 ('KPIT_TC_DRT_VEH_027')
+2026-02-02 20:10:58 |     Date                      : 2026-02-02
+2026-02-02 20:10:58 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:10:58 |     Result                    : Fail
+2026-02-02 20:10:58 |     Failure Category          : KITE Issue
+2026-02-02 20:10:58 |     Failure Sub Category      : Image Comparision
+2026-02-02 20:10:58 |     Root Cause Details        : CLICK_BY_TEXT command failed even if "-2°C" text was present on screen.
+2026-02-02 20:10:58 |     Fixation Performed        : NA
+2026-02-02 20:10:58 |     Remarks                   : Bug is already raised. https://kap.kpit.com/redmine/issues/3017360
+2026-02-02 20:10:58 |     Reviewer                  : Rajashri
+2026-02-02 20:10:59 |   🔄 Commented                : DRT-6030 ('KPIT_TC_DRT_VEH_027') | Comment ID: 151269
+
+2026-02-02 20:11:00 | ⏳ Updating    		            : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-02 20:11:00 |   🔄 Updating fields          : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-02 20:11:00 |     Failure Category          : Test Env Issue
+2026-02-02 20:11:00 |     Failure Sub Category      : External Application Issue
+2026-02-02 20:11:00 |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2026-02-02 20:11:00 |     Root Cause Details        : Seat Transmission Stop Signals not Reflected on ICB.
+2026-02-02 20:11:00 |     Fixation Performed        : NA
+2026-02-02 20:11:01 |   ✅ Updated fields           : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-02 20:11:01 |   🔄 Commenting               : DRT-6000 ('KPIT_TC_DRT_PSE_002')
+2026-02-02 20:11:01 |     Date                      : 2026-02-02
+2026-02-02 20:11:01 |     Build Number              : AEA1414R0.260202.1
+2026-02-02 20:11:01 |     Result                    : Fail
+2026-02-02 20:11:01 |     Failure Category          : Test Env Issue
+2026-02-02 20:11:01 |     Failure Sub Category      : External Application Issue
+2026-02-02 20:11:01 |     Root Cause Details        : Seat Transmission Stop Signals not Reflected on ICB.
+2026-02-02 20:11:01 |     Fixation Performed        : NA
+2026-02-02 20:11:01 |     Remarks                   : Executed in daytime, result: Pass. Issue not reproduced in daytime.
+2026-02-02 20:11:01 |     Reviewer                  : Rajashri
+2026-02-02 20:11:01 |   🔄 Commented                : DRT-6000 ('KPIT_TC_DRT_PSE_002') | Comment ID: 151270
+
+2026-02-02 20:11:01 | ✅ Jira Update Completed.

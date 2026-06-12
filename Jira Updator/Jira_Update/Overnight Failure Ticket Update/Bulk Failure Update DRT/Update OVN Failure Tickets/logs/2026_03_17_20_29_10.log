@@ -1,0 +1,40 @@
+2026-03-17 20:29:11,818 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-17 20:29:11,819 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-17 20:29:11,820 | INFO |     Failure Category : Human error
+2026-03-17 20:29:11,821 | INFO |     Failure Sub Category : -
+2026-03-17 20:29:11,821 | INFO |     Previous Failure Category : []
+2026-03-17 20:29:11,822 | INFO |     Root Cause Details : Root Cause Details
+2026-03-17 20:29:11,822 | INFO |     Fixation Performed : Fixation Performed
+2026-03-17 20:29:13,486 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-17 20:29:13,487 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-17 20:29:13,487 | INFO |     Date Build : Date
+2026-03-17 20:29:13,497 | INFO |     Result : Fail
+2026-03-17 20:29:13,497 | INFO |     Failure Category : Human error
+2026-03-17 20:29:13,498 | INFO |     Failure Sub Category : -
+2026-03-17 20:29:13,498 | INFO |     Root Cause Details : Root Cause Details
+2026-03-17 20:29:13,498 | INFO |     Fixation Performed : Fixation Performed
+2026-03-17 20:29:13,498 | INFO |     Remarks : Remarks
+2026-03-17 20:29:13,498 | INFO |     Reviewer : Reviewer
+2026-03-17 20:29:14,469 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-17 20:29:14,875 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-17 20:29:14,877 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-17 20:29:14,877 | INFO |     Failure Category : KITE issue
+2026-03-17 20:29:14,877 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-17 20:29:14,878 | INFO |     Previous Failure Category : []
+2026-03-17 20:29:14,878 | INFO |     Root Cause Details : Root Cause Details
+2026-03-17 20:29:14,879 | INFO |     Fixation Performed : Fixation Performed
+2026-03-17 20:29:16,225 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-17 20:29:16,226 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-17 20:29:16,227 | INFO |     Date Build : Date
+2026-03-17 20:29:16,227 | INFO |     Result : Fail
+2026-03-17 20:29:16,228 | INFO |     Failure Category : KITE issue
+2026-03-17 20:29:16,229 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-17 20:29:16,229 | INFO |     Root Cause Details : Root Cause Details
+2026-03-17 20:29:16,230 | INFO |     Fixation Performed : Fixation Performed
+2026-03-17 20:29:16,230 | INFO |     Remarks : Remarks
+2026-03-17 20:29:16,231 | INFO |     Reviewer : Reviewer
+2026-03-17 20:29:17,105 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-17 20:29:17,107 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

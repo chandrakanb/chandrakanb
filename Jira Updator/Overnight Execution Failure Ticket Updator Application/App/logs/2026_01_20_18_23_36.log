@@ -1,0 +1,371 @@
+2026-01-20 18:23:36 | 🚀 Jira Update Started.
+
+2026-01-20 18:23:37 | ⏳ Updating    		            : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-20 18:23:37 |   🔄 Updating fields          : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-20 18:23:39 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:39 |     Previous Failure Category : ['Test Env Issue']
+2026-01-20 18:23:39 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-20 18:23:39 |     Fixation Performed        : Changed the Test Pack sequence.
+2026-01-20 18:23:39 |   ✅ Updated fields           : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-20 18:23:39 |   🔄 Commenting               : DRT-3831 ('KPIT_TC_DRT_IPD_047')
+2026-01-20 18:23:39 |     Date                      : 2026-01-19
+2026-01-20 18:23:39 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:39 |     Result                    : Fail
+2026-01-20 18:23:39 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:39 |     Root Cause Details        : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen.
+2026-01-20 18:23:40 |     Fixation Performed        : Changed the Test Pack sequence.
+2026-01-20 18:23:40 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:23:40 |     Reviewer                  : Rajashri
+2026-01-20 18:23:40 |   🔄 Commented                : DRT-3831 ('KPIT_TC_DRT_IPD_047') | Comment ID: 145423
+
+2026-01-20 18:23:40 | ⏳ Updating    		            : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-20 18:23:40 |   🔄 Updating fields          : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-20 18:23:40 |     Failure Category          : ICB Issue (Once)
+2026-01-20 18:23:40 |     Failure Sub Category      : Timing Issue
+2026-01-20 18:23:40 |     Previous Failure Category : ['Test Env Issue']
+2026-01-20 18:23:40 |     Root Cause Details        : While Validating iPod Playback is in Paused State with Elapsed Time as 3 sec, its paused at 0:00 sec.
+2026-01-20 18:23:40 |     Fixation Performed        : Modified the Function block for Validating iPod Playback is in Paused State with Elapsed Time a 1 Second.
+2026-01-20 18:23:42 |   ✅ Updated fields           : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-20 18:23:42 |   🔄 Commenting               : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001')
+2026-01-20 18:23:42 |     Date                      : 2026-01-19
+2026-01-20 18:23:42 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:42 |     Result                    : Fail
+2026-01-20 18:23:42 |     Failure Category          : ICB Issue (Once)
+2026-01-20 18:23:42 |     Failure Sub Category      : Timing Issue
+2026-01-20 18:23:42 |     Root Cause Details        : While Validating iPod Playback is in Paused State with Elapsed Time as 3 sec, its paused at 0:00 sec.
+2026-01-20 18:23:42 |     Fixation Performed        : Modified the Function block for Validating iPod Playback is in Paused State with Elapsed Time a 1 Second.
+2026-01-20 18:23:42 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:23:42 |     Reviewer                  : Rajashri
+2026-01-20 18:23:42 |   🔄 Commented                : DRT-6166 ('KPIT_TC_FNC_IPD_0534_0001') | Comment ID: 145424
+
+2026-01-20 18:23:43 | ⏳ Updating    		            : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-20 18:23:43 |   🔄 Updating fields          : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-20 18:23:43 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:43 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:43 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-20 18:23:43 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:23:43 |     Fixation Performed        : NA
+2026-01-20 18:23:44 |   ✅ Updated fields           : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-20 18:23:44 |   🔄 Commenting               : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-20 18:23:44 |     Date                      : 2026-01-19
+2026-01-20 18:23:44 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:44 |     Result                    : Fail
+2026-01-20 18:23:44 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:44 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:44 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:23:44 |     Fixation Performed        : NA
+2026-01-20 18:23:44 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:23:44 |     Reviewer                  : Rajashri
+2026-01-20 18:23:45 |   🔄 Commented                : DRT-1759 ('KPIT_TC_DRT_LMG_024') | Comment ID: 145425
+
+2026-01-20 18:23:45 | ⏳ Updating    		            : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-20 18:23:45 |   🔄 Updating fields          : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-20 18:23:46 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:46 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:46 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-20 18:23:46 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:23:46 |     Fixation Performed        : NA
+2026-01-20 18:23:47 |   ✅ Updated fields           : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-20 18:23:47 |   🔄 Commenting               : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-20 18:23:47 |     Date                      : 2026-01-19
+2026-01-20 18:23:47 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:47 |     Result                    : Fail
+2026-01-20 18:23:47 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:47 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:47 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:23:47 |     Fixation Performed        : NA
+2026-01-20 18:23:47 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:23:47 |     Reviewer                  : Rajashri
+2026-01-20 18:23:48 |   🔄 Commented                : DRT-1732 ('KPIT_TC_DRT_LMG_021') | Comment ID: 145426
+
+2026-01-20 18:23:48 | ⏳ Updating    		            : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-20 18:23:48 |   🔄 Updating fields          : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-20 18:23:48 |     Failure Category          : KITE Issue
+2026-01-20 18:23:48 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:23:48 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Once)']
+2026-01-20 18:23:48 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:23:48 |     Fixation Performed        : NA
+2026-01-20 18:23:49 |   ✅ Updated fields           : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-20 18:23:49 |   🔄 Commenting               : DRT-1731 ('KPIT_TC_DRT_LMG_012')
+2026-01-20 18:23:50 |     Date                      : 2026-01-19
+2026-01-20 18:23:50 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:50 |     Result                    : Fail
+2026-01-20 18:23:50 |     Failure Category          : KITE Issue
+2026-01-20 18:23:50 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:23:50 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:23:50 |     Fixation Performed        : NA
+2026-01-20 18:23:50 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:23:50 |     Reviewer                  : Rajashri
+2026-01-20 18:23:51 |   🔄 Commented                : DRT-1731 ('KPIT_TC_DRT_LMG_012') | Comment ID: 145427
+
+2026-01-20 18:23:51 | ⏳ Updating    		            : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-20 18:23:51 |   🔄 Updating fields          : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-20 18:23:51 |     Failure Category          : KITE Issue
+2026-01-20 18:23:51 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:23:51 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:23:51 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:23:51 |     Fixation Performed        : NA
+2026-01-20 18:23:52 |   ✅ Updated fields           : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-20 18:23:52 |   🔄 Commenting               : DRT-4639 ('KPIT_TC_DRT_LMG_009')
+2026-01-20 18:23:52 |     Date                      : 2026-01-19
+2026-01-20 18:23:52 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:52 |     Result                    : Fail
+2026-01-20 18:23:52 |     Failure Category          : KITE Issue
+2026-01-20 18:23:52 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:23:52 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:23:52 |     Fixation Performed        : NA
+2026-01-20 18:23:52 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:23:52 |     Reviewer                  : Rajashri
+2026-01-20 18:23:53 |   🔄 Commented                : DRT-4639 ('KPIT_TC_DRT_LMG_009') | Comment ID: 145428
+
+2026-01-20 18:23:53 | ⏳ Updating    		            : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-20 18:23:53 |   🔄 Updating fields          : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-20 18:23:53 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:53 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:53 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-20 18:23:53 |     Root Cause Details        : Image Comparision failed, as camera calibration disturbance observed in images.
+2026-01-20 18:23:53 |     Fixation Performed        : Re-calibrated the camera.
+2026-01-20 18:23:54 |   ✅ Updated fields           : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-20 18:23:54 |   🔄 Commenting               : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-20 18:23:54 |     Date                      : 2026-01-19
+2026-01-20 18:23:54 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:54 |     Result                    : Fail
+2026-01-20 18:23:54 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:54 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:54 |     Root Cause Details        : Image Comparision failed, as camera calibration disturbance observed in images.
+2026-01-20 18:23:54 |     Fixation Performed        : Re-calibrated the camera.
+2026-01-20 18:23:54 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:23:55 |     Reviewer                  : Rajashri
+2026-01-20 18:23:55 |   🔄 Commented                : DRT-3915 ('KPIT_TC_DRT_VEND_006') | Comment ID: 145429
+
+2026-01-20 18:23:55 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-20 18:23:56 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-20 18:23:56 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:56 |     Failure Sub Category      : External Application Issue
+2026-01-20 18:23:56 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-20 18:23:56 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-20 18:23:56 |     Fixation Performed        : NA
+2026-01-20 18:23:57 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-20 18:23:57 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-20 18:23:57 |     Date                      : 2026-01-19
+2026-01-20 18:23:57 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:23:57 |     Result                    : Fail
+2026-01-20 18:23:57 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:57 |     Failure Sub Category      : External Application Issue
+2026-01-20 18:23:57 |     Root Cause Details        : Vendor Extension Application Issue.
+2026-01-20 18:23:57 |     Fixation Performed        : NA
+2026-01-20 18:23:57 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2026-01-20 18:23:57 |     Reviewer                  : Rajashri
+2026-01-20 18:23:57 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 145430
+
+2026-01-20 18:23:58 | ⏳ Updating    		            : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-20 18:23:58 |   🔄 Updating fields          : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-20 18:23:58 |     Failure Category          : Test Env Issue
+2026-01-20 18:23:58 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:23:58 |     Previous Failure Category : ['Test Env Issue']
+2026-01-20 18:23:58 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:23:58 |     Fixation Performed        : NA
+2026-01-20 18:23:59 |   ✅ Updated fields           : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-20 18:23:59 |   🔄 Commenting               : DRT-3981 ('KPIT_TC_DRT_BT_003')
+2026-01-20 18:23:59 |     Date                      : 2026-01-19
+2026-01-20 18:24:00 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:00 |     Result                    : Fail
+2026-01-20 18:24:00 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:00 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:00 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:24:00 |     Fixation Performed        : NA
+2026-01-20 18:24:00 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:24:00 |     Reviewer                  : Rajashri
+2026-01-20 18:24:00 |   🔄 Commented                : DRT-3981 ('KPIT_TC_DRT_BT_003') | Comment ID: 145431
+
+2026-01-20 18:24:01 | ⏳ Updating    		            : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-20 18:24:01 |   🔄 Updating fields          : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-20 18:24:01 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:01 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:01 |     Previous Failure Category : ['Test Env Issue']
+2026-01-20 18:24:01 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:24:01 |     Fixation Performed        : NA
+2026-01-20 18:24:03 |   ✅ Updated fields           : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-20 18:24:03 |   🔄 Commenting               : DRT-1965 ('KPIT_TC_DRT_BT_002')
+2026-01-20 18:24:03 |     Date                      : 2026-01-19
+2026-01-20 18:24:03 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:03 |     Result                    : Fail
+2026-01-20 18:24:03 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:03 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:03 |     Root Cause Details        : "Pairing code could not be verified" popup displayed while doing active pairing to phone5.
+2026-01-20 18:24:03 |     Fixation Performed        : NA
+2026-01-20 18:24:03 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:24:03 |     Reviewer                  : Rajashri
+2026-01-20 18:24:03 |   🔄 Commented                : DRT-1965 ('KPIT_TC_DRT_BT_002') | Comment ID: 145432
+
+2026-01-20 18:24:04 | ⏳ Updating    		            : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-20 18:24:04 |   🔄 Updating fields          : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-20 18:24:04 |     Failure Category          : KITE Issue
+2026-01-20 18:24:04 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:04 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:24:04 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:04 |     Fixation Performed        : NA
+2026-01-20 18:24:05 |   ✅ Updated fields           : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-20 18:24:05 |   🔄 Commenting               : DRT-2122 ('KPIT_TC_DRT_VEND_092')
+2026-01-20 18:24:05 |     Date                      : 2026-01-19
+2026-01-20 18:24:05 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:05 |     Result                    : Fail
+2026-01-20 18:24:05 |     Failure Category          : KITE Issue
+2026-01-20 18:24:05 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:05 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:05 |     Fixation Performed        : NA
+2026-01-20 18:24:05 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:05 |     Reviewer                  : Rajashri
+2026-01-20 18:24:06 |   🔄 Commented                : DRT-2122 ('KPIT_TC_DRT_VEND_092') | Comment ID: 145433
+
+2026-01-20 18:24:06 | ⏳ Updating    		            : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-20 18:24:06 |   🔄 Updating fields          : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-20 18:24:06 |     Failure Category          : KITE Issue
+2026-01-20 18:24:06 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:06 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:24:06 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:06 |     Fixation Performed        : NA
+2026-01-20 18:24:07 |   ✅ Updated fields           : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-20 18:24:07 |   🔄 Commenting               : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-01-20 18:24:07 |     Date                      : 2026-01-19
+2026-01-20 18:24:07 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:07 |     Result                    : Fail
+2026-01-20 18:24:07 |     Failure Category          : KITE Issue
+2026-01-20 18:24:07 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:07 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:07 |     Fixation Performed        : NA
+2026-01-20 18:24:07 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:07 |     Reviewer                  : Rajashri
+2026-01-20 18:24:08 |   🔄 Commented                : DRT-2119 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 145434
+
+2026-01-20 18:24:08 | ⏳ Updating    		            : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-20 18:24:08 |   🔄 Updating fields          : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-20 18:24:08 |     Failure Category          : KITE Issue
+2026-01-20 18:24:08 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:08 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:24:08 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:08 |     Fixation Performed        : NA
+2026-01-20 18:24:09 |   ✅ Updated fields           : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-20 18:24:09 |   🔄 Commenting               : DRT-3980 ('KPIT_TC_DRT_VEND_114')
+2026-01-20 18:24:09 |     Date                      : 2026-01-19
+2026-01-20 18:24:09 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:10 |     Result                    : Fail
+2026-01-20 18:24:10 |     Failure Category          : KITE Issue
+2026-01-20 18:24:10 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:10 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:10 |     Fixation Performed        : NA
+2026-01-20 18:24:10 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:10 |     Reviewer                  : Rajashri
+2026-01-20 18:24:10 |   🔄 Commented                : DRT-3980 ('KPIT_TC_DRT_VEND_114') | Comment ID: 145435
+
+2026-01-20 18:24:11 | ⏳ Updating    		            : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-20 18:24:11 |   🔄 Updating fields          : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-20 18:24:11 |     Failure Category          : KITE Issue
+2026-01-20 18:24:11 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:11 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:24:11 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:11 |     Fixation Performed        : NA
+2026-01-20 18:24:12 |   ✅ Updated fields           : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-20 18:24:12 |   🔄 Commenting               : DRT-2127 ('KPIT_TC_DRT_BZA_005')
+2026-01-20 18:24:12 |     Date                      : 2026-01-19
+2026-01-20 18:24:12 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:12 |     Result                    : Fail
+2026-01-20 18:24:12 |     Failure Category          : KITE Issue
+2026-01-20 18:24:12 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:12 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:12 |     Fixation Performed        : NA
+2026-01-20 18:24:12 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:12 |     Reviewer                  : Rajashri
+2026-01-20 18:24:12 |   🔄 Commented                : DRT-2127 ('KPIT_TC_DRT_BZA_005') | Comment ID: 145436
+
+2026-01-20 18:24:13 | ⏳ Updating    		            : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-20 18:24:13 |   🔄 Updating fields          : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-20 18:24:13 |     Failure Category          : KITE Issue
+2026-01-20 18:24:13 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:13 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Once)']
+2026-01-20 18:24:13 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:13 |     Fixation Performed        : NA
+2026-01-20 18:24:14 |   ✅ Updated fields           : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-20 18:24:14 |   🔄 Commenting               : DRT-2132 ('KPIT_TC_DRT_BZA_015')
+2026-01-20 18:24:14 |     Date                      : 2026-01-19
+2026-01-20 18:24:14 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:14 |     Result                    : Fail
+2026-01-20 18:24:14 |     Failure Category          : KITE Issue
+2026-01-20 18:24:14 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:14 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:14 |     Fixation Performed        : NA
+2026-01-20 18:24:14 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:14 |     Reviewer                  : Rajashri
+2026-01-20 18:24:14 |   🔄 Commented                : DRT-2132 ('KPIT_TC_DRT_BZA_015') | Comment ID: 145437
+
+2026-01-20 18:24:15 | ⏳ Updating    		            : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-20 18:24:15 |   🔄 Updating fields          : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-20 18:24:15 |     Failure Category          : KITE Issue
+2026-01-20 18:24:15 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:15 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-20 18:24:15 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:15 |     Fixation Performed        : NA
+2026-01-20 18:24:16 |   ✅ Updated fields           : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-20 18:24:16 |   🔄 Commenting               : DRT-2125 ('KPIT_TC_DRT_VEND_113')
+2026-01-20 18:24:16 |     Date                      : 2026-01-19
+2026-01-20 18:24:16 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:16 |     Result                    : Fail
+2026-01-20 18:24:16 |     Failure Category          : KITE Issue
+2026-01-20 18:24:16 |     Failure Sub Category      : KITE Application Issue
+2026-01-20 18:24:16 |     Root Cause Details        : KITE Application Stuck Issue.
+2026-01-20 18:24:16 |     Fixation Performed        : NA
+2026-01-20 18:24:16 |     Remarks                   : Executed in daytime, result: Pass.
+Required other device with Android version 15 or below.
+2026-01-20 18:24:16 |     Reviewer                  : Rajashri
+2026-01-20 18:24:16 |   🔄 Commented                : DRT-2125 ('KPIT_TC_DRT_VEND_113') | Comment ID: 145438
+
+2026-01-20 18:24:17 | ⏳ Updating    		            : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-20 18:24:17 |   🔄 Updating fields          : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-20 18:24:17 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:17 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:17 |     Previous Failure Category : []
+2026-01-20 18:24:17 |     Root Cause Details        : Image Comparision failed, as camera calibration disturbance observed in images.
+2026-01-20 18:24:17 |     Fixation Performed        : Re-calibrated the camera.
+2026-01-20 18:24:18 |   ✅ Updated fields           : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-20 18:24:18 |   🔄 Commenting               : DRT-6404 ('KPIT_TC_DRT_ILL_130')
+2026-01-20 18:24:18 |     Date                      : 2026-01-19
+2026-01-20 18:24:18 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:18 |     Result                    : Fail
+2026-01-20 18:24:18 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:18 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:18 |     Root Cause Details        : Image Comparision failed, as camera calibration disturbance observed in images.
+2026-01-20 18:24:18 |     Fixation Performed        : Re-calibrated the camera.
+2026-01-20 18:24:18 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:24:18 |     Reviewer                  : Rajashri
+2026-01-20 18:24:19 |   🔄 Commented                : DRT-6404 ('KPIT_TC_DRT_ILL_130') | Comment ID: 145439
+
+2026-01-20 18:24:19 | ⏳ Updating    		            : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-20 18:24:19 |   🔄 Updating fields          : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-20 18:24:19 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:19 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:19 |     Previous Failure Category : ['Human Error', 'ICB Issue (Once)', 'Test Env Issue']
+2026-01-20 18:24:19 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-01-20 18:24:19 |     Fixation Performed        : NA
+2026-01-20 18:24:20 |   ✅ Updated fields           : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-20 18:24:20 |   🔄 Commenting               : DRT-1789 ('KPIT_TC_DRT_BTA_052')
+2026-01-20 18:24:20 |     Date                      : 2026-01-19
+2026-01-20 18:24:20 |     Build Number              : AEA1416D0.260119.1
+2026-01-20 18:24:20 |     Result                    : Fail
+2026-01-20 18:24:20 |     Failure Category          : Test Env Issue
+2026-01-20 18:24:20 |     Failure Sub Category      : Automation Setup Malfunction
+2026-01-20 18:24:20 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-01-20 18:24:20 |     Fixation Performed        : NA
+2026-01-20 18:24:20 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-20 18:24:20 |     Reviewer                  : Rajashri
+2026-01-20 18:24:21 |   🔄 Commented                : DRT-1789 ('KPIT_TC_DRT_BTA_052') | Comment ID: 145440
+
+2026-01-20 18:24:21 | ✅ Jira Update Completed.

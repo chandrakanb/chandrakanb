@@ -1,0 +1,183 @@
+2026-01-15 23:04:16 | 🚀 Jira Update Started.
+
+2026-01-15 23:04:17 | ⏳ Updating    		            : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-15 23:04:17 |   🔄 Updating fields          : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-15 23:04:17 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:17 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:17 |     Previous Failure Category : ['Test Env Issue']
+2026-01-15 23:04:17 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:17 |     Fixation Performed        : NA
+2026-01-15 23:04:18 |   ✅ Updated fields           : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-15 23:04:18 |   🔄 Commenting               : DRT-3915 ('KPIT_TC_DRT_VEND_006')
+2026-01-15 23:04:18 |     Date                      : 2026-01-13
+2026-01-15 23:04:18 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:18 |     Result                    : Fail
+2026-01-15 23:04:18 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:18 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:18 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:18 |     Fixation Performed        : NA
+2026-01-15 23:04:18 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:18 |     Reviewer                  : Rajashri
+2026-01-15 23:04:19 |   🔄 Commented                : DRT-3915 ('KPIT_TC_DRT_VEND_006') | Comment ID: 142219
+
+2026-01-15 23:04:19 | ⏳ Updating    		            : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-15 23:04:19 |   🔄 Updating fields          : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-15 23:04:19 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:19 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:19 |     Previous Failure Category : ['Test Env Issue']
+2026-01-15 23:04:19 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:19 |     Fixation Performed        : NA
+2026-01-15 23:04:20 |   ✅ Updated fields           : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-15 23:04:20 |   🔄 Commenting               : DRT-3914 ('KPIT_TC_DRT_VEND_115')
+2026-01-15 23:04:20 |     Date                      : 2026-01-13
+2026-01-15 23:04:20 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:20 |     Result                    : Fail
+2026-01-15 23:04:20 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:20 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:20 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:20 |     Fixation Performed        : NA
+2026-01-15 23:04:20 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:21 |     Reviewer                  : Rajashri
+2026-01-15 23:04:21 |   🔄 Commented                : DRT-3914 ('KPIT_TC_DRT_VEND_115') | Comment ID: 142220
+
+2026-01-15 23:04:22 | ⏳ Updating    		            : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-15 23:04:22 |   🔄 Updating fields          : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-15 23:04:22 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:22 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:22 |     Previous Failure Category : ['Test Env Issue']
+2026-01-15 23:04:22 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:22 |     Fixation Performed        : NA
+2026-01-15 23:04:23 |   ✅ Updated fields           : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-15 23:04:23 |   🔄 Commenting               : DRT-1880 ('KPIT_TC_DRT_BZA_013')
+2026-01-15 23:04:23 |     Date                      : 2026-01-13
+2026-01-15 23:04:23 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:23 |     Result                    : Fail
+2026-01-15 23:04:23 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:23 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:23 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:23 |     Fixation Performed        : NA
+2026-01-15 23:04:23 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:23 |     Reviewer                  : Rajashri
+2026-01-15 23:04:24 |   🔄 Commented                : DRT-1880 ('KPIT_TC_DRT_BZA_013') | Comment ID: 142221
+
+2026-01-15 23:04:25 | ⏳ Updating    		            : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-15 23:04:25 |   🔄 Updating fields          : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-15 23:04:25 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:25 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:25 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-01-15 23:04:25 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:25 |     Fixation Performed        : NA
+2026-01-15 23:04:26 |   ✅ Updated fields           : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-15 23:04:26 |   🔄 Commenting               : DRT-1759 ('KPIT_TC_DRT_LMG_024')
+2026-01-15 23:04:26 |     Date                      : 2026-01-13
+2026-01-15 23:04:26 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:26 |     Result                    : Fail
+2026-01-15 23:04:26 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:26 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:26 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:26 |     Fixation Performed        : NA
+2026-01-15 23:04:26 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:26 |     Reviewer                  : Rajashri
+2026-01-15 23:04:26 |   🔄 Commented                : DRT-1759 ('KPIT_TC_DRT_LMG_024') | Comment ID: 142222
+
+2026-01-15 23:04:27 | ⏳ Updating    		            : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-15 23:04:27 |   🔄 Updating fields          : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-15 23:04:27 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:27 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:27 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-01-15 23:04:27 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:27 |     Fixation Performed        : NA
+2026-01-15 23:04:28 |   ✅ Updated fields           : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-15 23:04:28 |   🔄 Commenting               : DRT-1758 ('KPIT_TC_DRT_LMG_028')
+2026-01-15 23:04:28 |     Date                      : 2026-01-13
+2026-01-15 23:04:28 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:28 |     Result                    : Fail
+2026-01-15 23:04:28 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:28 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:28 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:28 |     Fixation Performed        : NA
+2026-01-15 23:04:28 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:28 |     Reviewer                  : Rajashri
+2026-01-15 23:04:28 |   🔄 Commented                : DRT-1758 ('KPIT_TC_DRT_LMG_028') | Comment ID: 142223
+
+2026-01-15 23:04:29 | ⏳ Updating    		            : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-15 23:04:29 |   🔄 Updating fields          : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-15 23:04:29 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:29 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:29 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-01-15 23:04:29 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:29 |     Fixation Performed        : NA
+2026-01-15 23:04:30 |   ✅ Updated fields           : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-15 23:04:30 |   🔄 Commenting               : DRT-1743 ('KPIT_TC_DRT_LMG_010')
+2026-01-15 23:04:30 |     Date                      : 2026-01-13
+2026-01-15 23:04:30 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:30 |     Result                    : Fail
+2026-01-15 23:04:30 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:30 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:30 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:30 |     Fixation Performed        : NA
+2026-01-15 23:04:30 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:30 |     Reviewer                  : Rajashri
+2026-01-15 23:04:31 |   🔄 Commented                : DRT-1743 ('KPIT_TC_DRT_LMG_010') | Comment ID: 142224
+
+2026-01-15 23:04:31 | ⏳ Updating    		            : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-15 23:04:31 |   🔄 Updating fields          : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-15 23:04:31 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:31 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:31 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'ICB Issue (Always)']
+2026-01-15 23:04:31 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:31 |     Fixation Performed        : NA
+2026-01-15 23:04:32 |   ✅ Updated fields           : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-15 23:04:32 |   🔄 Commenting               : DRT-1742 ('KPIT_TC_DRT_LMG_004')
+2026-01-15 23:04:32 |     Date                      : 2026-01-13
+2026-01-15 23:04:32 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:32 |     Result                    : Fail
+2026-01-15 23:04:32 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:32 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:32 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:32 |     Fixation Performed        : NA
+2026-01-15 23:04:32 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:32 |     Reviewer                  : Rajashri
+2026-01-15 23:04:33 |   🔄 Commented                : DRT-1742 ('KPIT_TC_DRT_LMG_004') | Comment ID: 142225
+
+2026-01-15 23:04:33 | ⏳ Updating    		            : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-15 23:04:33 |   🔄 Updating fields          : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-15 23:04:33 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:33 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:33 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Always)']
+2026-01-15 23:04:33 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:33 |     Fixation Performed        : NA
+2026-01-15 23:04:35 |   ✅ Updated fields           : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-15 23:04:35 |   🔄 Commenting               : DRT-1740 ('KPIT_TC_DRT_LMG_014')
+2026-01-15 23:04:35 |     Date                      : 2026-01-13
+2026-01-15 23:04:35 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:35 |     Result                    : Fail
+2026-01-15 23:04:35 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:35 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:35 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:35 |     Fixation Performed        : NA
+2026-01-15 23:04:35 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:35 |     Reviewer                  : Rajashri
+2026-01-15 23:04:35 |   🔄 Commented                : DRT-1740 ('KPIT_TC_DRT_LMG_014') | Comment ID: 142226
+
+2026-01-15 23:04:36 | ⏳ Updating    		            : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-15 23:04:36 |   🔄 Updating fields          : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-15 23:04:36 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:36 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:36 |     Previous Failure Category : ['Test Env Issue']
+2026-01-15 23:04:36 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:36 |     Fixation Performed        : NA
+2026-01-15 23:04:37 |   ✅ Updated fields           : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-15 23:04:37 |   🔄 Commenting               : DRT-1732 ('KPIT_TC_DRT_LMG_021')
+2026-01-15 23:04:37 |     Date                      : 2026-01-13
+2026-01-15 23:04:37 |     Build Number              : AEA1416D0.260113.1
+2026-01-15 23:04:37 |     Result                    : Fail
+2026-01-15 23:04:37 |     Failure Category          : ICB Issue (Always)
+2026-01-15 23:04:37 |     Failure Sub Category      : Valid Issue
+2026-01-15 23:04:37 |     Root Cause Details        : PJ04DEF00-7782: [Wi-Fi(Station)] Unable to switch Wi-Fi ON when Wi-Fi toggle is turned ON from Wi-Fi connection setting screen.
+2026-01-15 23:04:37 |     Fixation Performed        : NA
+2026-01-15 23:04:37 |     Remarks                   : Defect is raised: PJ04DEF00-7782.
+2026-01-15 23:04:37 |     Reviewer                  : Rajashri
+2026-01-15 23:04:37 |   🔄 Commented                : DRT-1732 ('KPIT_TC_DRT_LMG_021') | Comment ID: 142227
+
+2026-01-15 23:04:37 | ✅ Jira Update Completed.

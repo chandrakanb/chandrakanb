@@ -1,0 +1,153 @@
+2025-06-27 01:13:53,031 | INFO | ⏳ Updating 'OSV-4428: KPIT_TC_DRT_BTA_018'...
+2025-06-27 01:13:53,032 | INFO |   🔄 Updating fields for OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 01:13:53,033 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:13:53,034 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:13:53,035 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:13:53,035 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:13:53,931 | INFO |   ✅ Updated fields for OSV-4428: 'KPIT_TC_DRT_BTA_018.
+2025-06-27 01:13:53,932 | INFO |   🔄 Commenting on OSV-4428: 'KPIT_TC_DRT_BTA_018...
+2025-06-27 01:13:53,932 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:13:53,932 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:13:53,933 | INFO |     Result               : Fail
+2025-06-27 01:13:53,933 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:13:53,933 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:13:53,933 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:13:53,934 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:13:57,834 | INFO |   ✅ Commented on OSV-4428: 'KPIT_TC_DRT_BTA_018.
+
+2025-06-27 01:13:58,150 | INFO | ⏳ Updating 'OSV-4416: KPIT_TC_DRT_BTA_053'...
+2025-06-27 01:13:58,151 | INFO |   🔄 Updating fields for OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 01:13:58,151 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:13:58,151 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:13:58,152 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:13:58,152 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:13:59,057 | INFO |   ✅ Updated fields for OSV-4416: 'KPIT_TC_DRT_BTA_053.
+2025-06-27 01:13:59,058 | INFO |   🔄 Commenting on OSV-4416: 'KPIT_TC_DRT_BTA_053...
+2025-06-27 01:13:59,058 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:13:59,059 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:13:59,059 | INFO |     Result               : Fail
+2025-06-27 01:13:59,059 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:13:59,060 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:13:59,060 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:13:59,061 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:13:59,535 | INFO |   ✅ Commented on OSV-4416: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-27 01:13:59,884 | INFO | ⏳ Updating 'OSV-4409: KPIT_TC_DRT_HMI_001'...
+2025-06-27 01:13:59,884 | INFO |   🔄 Updating fields for OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 01:13:59,885 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:13:59,885 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:13:59,885 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:13:59,885 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:00,767 | INFO |   ✅ Updated fields for OSV-4409: 'KPIT_TC_DRT_HMI_001.
+2025-06-27 01:14:00,768 | INFO |   🔄 Commenting on OSV-4409: 'KPIT_TC_DRT_HMI_001...
+2025-06-27 01:14:00,769 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:00,769 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:00,770 | INFO |     Result               : Fail
+2025-06-27 01:14:00,771 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:00,771 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:00,772 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:00,773 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:01,649 | INFO |   ✅ Commented on OSV-4409: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-27 01:14:02,019 | INFO | ⏳ Updating 'OSV-4430: KPIT_TC_DRT_SPCCP_021'...
+2025-06-27 01:14:02,020 | INFO |   🔄 Updating fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 01:14:02,021 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:02,022 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:02,022 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:02,023 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:02,898 | INFO |   ✅ Updated fields for OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-27 01:14:02,898 | INFO |   🔄 Commenting on OSV-4430: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-27 01:14:02,899 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:02,899 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:02,900 | INFO |     Result               : Fail
+2025-06-27 01:14:02,900 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:02,900 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:02,901 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:02,901 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:03,779 | INFO |   ✅ Commented on OSV-4430: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-27 01:14:04,151 | INFO | ⏳ Updating 'OSV-4420: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-27 01:14:04,152 | INFO |   🔄 Updating fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 01:14:04,152 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:04,153 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:04,153 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:04,155 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:05,015 | INFO |   ✅ Updated fields for OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-27 01:14:05,016 | INFO |   🔄 Commenting on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-27 01:14:05,017 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:05,018 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:05,018 | INFO |     Result               : Fail
+2025-06-27 01:14:05,018 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:05,019 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:05,019 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:05,020 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:05,872 | INFO |   ✅ Commented on OSV-4420: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-27 01:14:06,215 | INFO | ⏳ Updating 'OSV-4426: KPIT_TC_DRT_BTA_020'...
+2025-06-27 01:14:06,216 | INFO |   🔄 Updating fields for OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 01:14:06,217 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:06,219 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:06,220 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:06,220 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:07,097 | INFO |   ✅ Updated fields for OSV-4426: 'KPIT_TC_DRT_BTA_020.
+2025-06-27 01:14:07,098 | INFO |   🔄 Commenting on OSV-4426: 'KPIT_TC_DRT_BTA_020...
+2025-06-27 01:14:07,098 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:07,099 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:07,099 | INFO |     Result               : Fail
+2025-06-27 01:14:07,099 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:07,099 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:07,100 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:07,100 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:07,607 | INFO |   ✅ Commented on OSV-4426: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-27 01:14:07,929 | INFO | ⏳ Updating 'OSV-4423: KPIT_TC_DRT_BTA_025'...
+2025-06-27 01:14:07,929 | INFO |   🔄 Updating fields for OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 01:14:07,930 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:07,931 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:07,932 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:07,932 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:08,866 | INFO |   ✅ Updated fields for OSV-4423: 'KPIT_TC_DRT_BTA_025.
+2025-06-27 01:14:08,867 | INFO |   🔄 Commenting on OSV-4423: 'KPIT_TC_DRT_BTA_025...
+2025-06-27 01:14:08,867 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:08,867 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:08,868 | INFO |     Result               : Fail
+2025-06-27 01:14:08,868 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:08,869 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:08,869 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:08,869 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:09,352 | INFO |   ✅ Commented on OSV-4423: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-27 01:14:09,672 | INFO | ⏳ Updating 'OSV-4408: KPIT_TC_DRT_SPCCP_099'...
+2025-06-27 01:14:09,672 | INFO |   🔄 Updating fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 01:14:09,673 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:09,673 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:09,673 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:09,674 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:10,527 | INFO |   ✅ Updated fields for OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-27 01:14:10,527 | INFO |   🔄 Commenting on OSV-4408: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-27 01:14:10,527 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:10,528 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:10,528 | INFO |     Result               : Fail
+2025-06-27 01:14:10,528 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:10,528 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:10,529 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:10,529 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:10,976 | INFO |   ✅ Commented on OSV-4408: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-27 01:14:11,366 | INFO | ⏳ Updating 'OSV-4407: KPIT_TC_DRT_HFT_048'...
+2025-06-27 01:14:11,366 | INFO |   🔄 Updating fields for OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 01:14:11,367 | INFO |     Failure Category : Test Env issue
+2025-06-27 01:14:11,367 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:11,367 | INFO |     Root Cause Details : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:11,368 | INFO |     Fixation Performed : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:12,264 | INFO |   ✅ Updated fields for OSV-4407: 'KPIT_TC_DRT_HFT_048.
+2025-06-27 01:14:12,264 | INFO |   🔄 Commenting on OSV-4407: 'KPIT_TC_DRT_HFT_048...
+2025-06-27 01:14:12,265 | INFO |     Date                 : 25th June 2025
+2025-06-27 01:14:12,265 | INFO |     Analysis Done By     : Chandrakant
+2025-06-27 01:14:12,265 | INFO |     Result               : Fail
+2025-06-27 01:14:12,266 | INFO |     Failure Category     : Test Env issue
+2025-06-27 01:14:12,266 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-27 01:14:12,266 | INFO |     Root Cause Details   : While connecting iPhone as BT, Screen transited from BT connection screen to Settings home screen. Hence iPhone BT connection failed.
+2025-06-27 01:14:12,266 | INFO |     Fixation Performed   : Re-builded the test applications on iPhone, executed in daytime, result : Pass, Keeping under observation.
+2025-06-27 01:14:13,130 | INFO |   ✅ Commented on OSV-4407: 'KPIT_TC_DRT_HFT_048.
+

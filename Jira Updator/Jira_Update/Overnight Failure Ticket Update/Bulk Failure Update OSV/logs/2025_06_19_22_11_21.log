@@ -1,0 +1,567 @@
+2025-06-19 22:11:24,564 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-19 22:11:24,565 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-19 22:11:24,565 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:24,566 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:24,566 | INFO |     Result               : Pass
+2025-06-19 22:11:25,407 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-19 22:11:26,248 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-19 22:11:26,249 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 22:11:26,249 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:26,260 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:26,260 | INFO |     Result               : Pass
+2025-06-19 22:11:27,262 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-19 22:11:27,654 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-19 22:11:27,654 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-19 22:11:27,654 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:27,654 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:27,654 | INFO |     Result               : Pass
+2025-06-19 22:11:29,465 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-19 22:11:29,852 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-19 22:11:29,853 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 22:11:29,853 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:29,853 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:29,853 | INFO |     Result               : Pass
+2025-06-19 22:11:30,831 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-19 22:11:31,191 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-19 22:11:31,192 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-19 22:11:31,192 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:31,193 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:31,193 | INFO |     Result               : Pass
+2025-06-19 22:11:32,127 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-19 22:11:32,731 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-19 22:11:32,732 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-19 22:11:32,732 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:32,733 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:32,733 | INFO |     Result               : Pass
+2025-06-19 22:11:34,502 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-19 22:11:34,975 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-19 22:11:34,976 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 22:11:34,976 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:34,977 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:34,978 | INFO |     Result               : Pass
+2025-06-19 22:11:35,969 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-19 22:11:36,357 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-19 22:11:36,358 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 22:11:36,358 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:36,359 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:36,360 | INFO |     Result               : Pass
+2025-06-19 22:11:39,151 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-19 22:11:39,559 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-19 22:11:39,560 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 22:11:39,560 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:39,560 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:39,561 | INFO |     Result               : Pass
+2025-06-19 22:11:41,415 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-19 22:11:41,787 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-19 22:11:41,788 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 22:11:41,789 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:41,790 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:41,791 | INFO |     Result               : Pass
+2025-06-19 22:11:42,389 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-19 22:11:42,792 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-19 22:11:42,793 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 22:11:42,794 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:42,794 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:42,795 | INFO |     Result               : Pass
+2025-06-19 22:11:43,703 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-19 22:11:44,090 | INFO | ⏳ Updating 'OSV-3007: KPIT_TC_DRT_SND_039'...
+2025-06-19 22:11:44,091 | INFO |   🔄 Commenting on OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-19 22:11:44,092 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:44,092 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:44,092 | INFO |     Result               : Pass
+2025-06-19 22:11:45,167 | INFO |   ✅ Commented on OSV-3007: 'KPIT_TC_DRT_SND_039.
+
+2025-06-19 22:11:46,022 | INFO | ⏳ Updating 'OSV-3010: KPIT_TC_DRT_IPD_1193'...
+2025-06-19 22:11:46,023 | INFO |   🔄 Commenting on OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-19 22:11:46,023 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:46,023 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:46,024 | INFO |     Result               : Pass
+2025-06-19 22:11:47,021 | INFO |   ✅ Commented on OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+
+2025-06-19 22:11:48,161 | INFO | ⏳ Updating 'OSV-3011: KPIT_TC_DRT_USB_1245'...
+2025-06-19 22:11:48,162 | INFO |   🔄 Commenting on OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-19 22:11:48,162 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:48,163 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:48,163 | INFO |     Result               : Pass
+2025-06-19 22:11:49,783 | INFO |   ✅ Commented on OSV-3011: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-19 22:11:50,629 | INFO | ⏳ Updating 'OSV-3484: KPIT_TC_DRT_HFT_052'...
+2025-06-19 22:11:50,630 | INFO |   🔄 Commenting on OSV-3484: 'KPIT_TC_DRT_HFT_052...
+2025-06-19 22:11:50,630 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:50,631 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:50,632 | INFO |     Result               : Pass
+2025-06-19 22:11:52,999 | INFO |   ✅ Commented on OSV-3484: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-19 22:11:53,361 | INFO | ⏳ Updating 'OSV-3485: KPIT_TC_DRT_HFT_054'...
+2025-06-19 22:11:53,362 | INFO |   🔄 Commenting on OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-19 22:11:53,362 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:53,363 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:53,364 | INFO |     Result               : Pass
+2025-06-19 22:11:53,832 | INFO |   ✅ Commented on OSV-3485: 'KPIT_TC_DRT_HFT_054.
+
+2025-06-19 22:11:54,219 | INFO | ⏳ Updating 'OSV-3487: KPIT_TC_DRT_HFT_059'...
+2025-06-19 22:11:54,220 | INFO |   🔄 Commenting on OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-19 22:11:54,220 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:54,221 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:54,222 | INFO |     Result               : Pass
+2025-06-19 22:11:56,783 | INFO |   ✅ Commented on OSV-3487: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-19 22:11:57,435 | INFO | ⏳ Updating 'OSV-3488: KPIT_TC_DRT_HFT_017'...
+2025-06-19 22:11:57,436 | INFO |   🔄 Commenting on OSV-3488: 'KPIT_TC_DRT_HFT_017...
+2025-06-19 22:11:57,436 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:57,438 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:57,438 | INFO |     Result               : Pass
+2025-06-19 22:11:58,957 | INFO |   ✅ Commented on OSV-3488: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-19 22:11:59,681 | INFO | ⏳ Updating 'OSV-3490: KPIT_TC_DRT_KBD_003'...
+2025-06-19 22:11:59,681 | INFO |   🔄 Commenting on OSV-3490: 'KPIT_TC_DRT_KBD_003...
+2025-06-19 22:11:59,682 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:11:59,682 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:11:59,683 | INFO |     Result               : Pass
+2025-06-19 22:12:01,526 | INFO |   ✅ Commented on OSV-3490: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-19 22:12:02,096 | INFO | ⏳ Updating 'OSV-3493: KPIT_TC_DRT_HFT_046'...
+2025-06-19 22:12:02,096 | INFO |   🔄 Commenting on OSV-3493: 'KPIT_TC_DRT_HFT_046...
+2025-06-19 22:12:02,096 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:02,097 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:02,097 | INFO |     Result               : Pass
+2025-06-19 22:12:03,463 | INFO |   ✅ Commented on OSV-3493: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-19 22:12:03,828 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-19 22:12:03,829 | INFO |   🔄 Updating fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 22:12:03,830 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:03,830 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:03,831 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:03,832 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:05,327 | INFO |   ✅ Updated fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+2025-06-19 22:12:05,328 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 22:12:05,328 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:05,329 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:05,330 | INFO |     Result               : Fail
+2025-06-19 22:12:05,330 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:05,331 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:05,331 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:05,332 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:05,814 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-19 22:12:06,749 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-19 22:12:06,750 | INFO |   🔄 Updating fields for OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 22:12:06,751 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:06,751 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:06,752 | INFO |     Root Cause Details : Set-Up Wizard Screen not displayed properly after FDR.
+2025-06-19 22:12:06,752 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:08,536 | INFO |   ✅ Updated fields for OSV-2479: 'KPIT_TC_DRT_SUW_004.
+2025-06-19 22:12:08,537 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 22:12:08,537 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:08,538 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:08,538 | INFO |     Result               : Fail
+2025-06-19 22:12:08,539 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:08,539 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:08,540 | INFO |     Root Cause Details   : Set-Up Wizard Screen not displayed properly after FDR.
+2025-06-19 22:12:08,541 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:09,822 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-19 22:12:10,205 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-19 22:12:10,205 | INFO |   🔄 Updating fields for OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 22:12:10,206 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:10,206 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:10,207 | INFO |     Root Cause Details : Disclaimer popup obseverd in between of overnight.
+2025-06-19 22:12:10,207 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:11,138 | INFO |   ✅ Updated fields for OSV-2480: 'KPIT_TC_DRT_SUW_005.
+2025-06-19 22:12:11,138 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 22:12:11,139 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:11,140 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:11,140 | INFO |     Result               : Fail
+2025-06-19 22:12:11,141 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:11,141 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:11,142 | INFO |     Root Cause Details   : Disclaimer popup obseverd in between of overnight.
+2025-06-19 22:12:11,142 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:12,586 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-19 22:12:12,984 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-19 22:12:12,985 | INFO |   🔄 Updating fields for OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 22:12:12,986 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:12,986 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:12,987 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:12,987 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:13,927 | INFO |   ✅ Updated fields for OSV-2481: 'KPIT_TC_DRT_SUW_006.
+2025-06-19 22:12:13,927 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 22:12:13,927 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:13,928 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:13,928 | INFO |     Result               : Fail
+2025-06-19 22:12:13,928 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:13,928 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:13,928 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:13,929 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:15,489 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-19 22:12:16,889 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-19 22:12:16,890 | INFO |   🔄 Updating fields for OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 22:12:16,890 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:16,890 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:16,890 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:16,891 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:17,878 | INFO |   ✅ Updated fields for OSV-2482: 'KPIT_TC_DRT_SSR_012.
+2025-06-19 22:12:17,878 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 22:12:17,879 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:17,879 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:17,880 | INFO |     Result               : Fail
+2025-06-19 22:12:17,880 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:17,881 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:17,881 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:17,882 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:18,393 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-19 22:12:18,798 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-19 22:12:18,799 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 22:12:18,799 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:18,800 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:18,801 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-19 22:12:18,801 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:19,728 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-19 22:12:19,729 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 22:12:19,729 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:19,729 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:19,729 | INFO |     Result               : Fail
+2025-06-19 22:12:19,729 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:19,730 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:19,730 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-19 22:12:19,730 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:20,600 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-19 22:12:21,013 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-19 22:12:21,014 | INFO |   🔄 Updating fields for OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 22:12:21,014 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:21,014 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:21,014 | INFO |     Root Cause Details : Robot did not perform click properly on "Do not Show Text".
+2025-06-19 22:12:21,015 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:22,255 | INFO |   ✅ Updated fields for OSV-2485: 'KPIT_TC_DRT_PRM_003.
+2025-06-19 22:12:22,256 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 22:12:22,256 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:22,257 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:22,257 | INFO |     Result               : Fail
+2025-06-19 22:12:22,258 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:22,258 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:22,259 | INFO |     Root Cause Details   : Robot did not perform click properly on "Do not Show Text".
+2025-06-19 22:12:22,259 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:23,274 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-19 22:12:23,999 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-19 22:12:23,999 | INFO |   🔄 Updating fields for OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 22:12:24,000 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:24,000 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:24,001 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:24,001 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:24,925 | INFO |   ✅ Updated fields for OSV-2490: 'KPIT_TC_DRT_SSR_004.
+2025-06-19 22:12:24,926 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 22:12:24,926 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:24,926 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:24,927 | INFO |     Result               : Fail
+2025-06-19 22:12:24,927 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:24,927 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:24,927 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:24,927 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:25,650 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-19 22:12:26,023 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-19 22:12:26,024 | INFO |   🔄 Updating fields for OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 22:12:26,025 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:26,025 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:26,026 | INFO |     Root Cause Details : Home Customisation App Sequence got changed
+2025-06-19 22:12:26,026 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:26,965 | INFO |   ✅ Updated fields for OSV-2491: 'KPIT_TC_DRT_MCS_036.
+2025-06-19 22:12:26,966 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 22:12:26,966 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:26,966 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:26,966 | INFO |     Result               : Fail
+2025-06-19 22:12:26,967 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:26,967 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:26,967 | INFO |     Root Cause Details   : Home Customisation App Sequence got changed
+2025-06-19 22:12:26,967 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:28,110 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-19 22:12:28,498 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-19 22:12:28,498 | INFO |   🔄 Updating fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 22:12:28,498 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:28,499 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:28,499 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:28,499 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:29,630 | INFO |   ✅ Updated fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+2025-06-19 22:12:29,631 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 22:12:29,631 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:29,631 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:29,631 | INFO |     Result               : Fail
+2025-06-19 22:12:29,632 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:29,632 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:29,632 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:29,632 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:30,359 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-19 22:12:30,756 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-19 22:12:30,757 | INFO |   🔄 Updating fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 22:12:30,757 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:30,758 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:30,758 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:30,759 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:31,777 | INFO |   ✅ Updated fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+2025-06-19 22:12:31,777 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 22:12:31,777 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:31,778 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:31,778 | INFO |     Result               : Fail
+2025-06-19 22:12:31,778 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:31,778 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:31,778 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:31,778 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:32,905 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-19 22:12:33,474 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-19 22:12:33,475 | INFO |   🔄 Updating fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 22:12:33,475 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:33,476 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:33,476 | INFO |     Root Cause Details : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:33,477 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:34,539 | INFO |   ✅ Updated fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-19 22:12:34,539 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 22:12:34,540 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:34,540 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:34,541 | INFO |     Result               : Fail
+2025-06-19 22:12:34,542 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:34,542 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:34,543 | INFO |     Root Cause Details   : Unable to Switch to Phone8 in Precondition.
+2025-06-19 22:12:34,543 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:35,356 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-19 22:12:35,741 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-19 22:12:35,742 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 22:12:35,743 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:35,743 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:35,744 | INFO |     Root Cause Details : Wireless CarPlay not connected.
+2025-06-19 22:12:35,745 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:36,668 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-19 22:12:36,669 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 22:12:36,670 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:36,671 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:36,671 | INFO |     Result               : Fail
+2025-06-19 22:12:36,672 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:36,672 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:36,673 | INFO |     Root Cause Details   : Wireless CarPlay not connected.
+2025-06-19 22:12:36,674 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:37,405 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-19 22:12:37,786 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-19 22:12:37,787 | INFO |   🔄 Updating fields for OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 22:12:37,787 | INFO |     Failure Category : Test Env issue
+2025-06-19 22:12:37,789 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:37,789 | INFO |     Root Cause Details : Precondition to Connect Phone1 as Bluetooth device to ICB is Failed.
+2025-06-19 22:12:37,790 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:38,682 | INFO |   ✅ Updated fields for OSV-2612: 'KPIT_TC_DRT_BTA_024.
+2025-06-19 22:12:38,683 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 22:12:38,683 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:38,684 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:38,684 | INFO |     Result               : Fail
+2025-06-19 22:12:38,685 | INFO |     Failure Category     : Test Env issue
+2025-06-19 22:12:38,685 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 22:12:38,686 | INFO |     Root Cause Details   : Precondition to Connect Phone1 as Bluetooth device to ICB is Failed.
+2025-06-19 22:12:38,687 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:39,203 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-19 22:12:39,597 | INFO | ⏳ Updating 'OSV-2771: KPIT_TC_DRT_HOM_050'...
+2025-06-19 22:12:39,598 | INFO |   🔄 Updating fields for OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-19 22:12:39,598 | INFO |     Failure Category : TS issue
+2025-06-19 22:12:39,599 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 22:12:39,600 | INFO |     Root Cause Details : More than one profile displayed on user selection screen.
+2025-06-19 22:12:39,600 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:40,769 | INFO |   ✅ Updated fields for OSV-2771: 'KPIT_TC_DRT_HOM_050.
+2025-06-19 22:12:40,770 | INFO |   🔄 Commenting on OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-19 22:12:40,770 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:40,771 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:40,772 | INFO |     Result               : Fail
+2025-06-19 22:12:40,772 | INFO |     Failure Category     : TS issue
+2025-06-19 22:12:40,773 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 22:12:40,774 | INFO |     Root Cause Details   : More than one profile displayed on user selection screen.
+2025-06-19 22:12:40,774 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:41,715 | INFO |   ✅ Commented on OSV-2771: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-19 22:12:42,103 | INFO | ⏳ Updating 'OSV-2773: KPIT_TC_DRT_HOM_035'...
+2025-06-19 22:12:42,104 | INFO |   🔄 Updating fields for OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-19 22:12:42,104 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:42,105 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:42,106 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:42,106 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:43,160 | INFO |   ✅ Updated fields for OSV-2773: 'KPIT_TC_DRT_HOM_035.
+2025-06-19 22:12:43,161 | INFO |   🔄 Commenting on OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-19 22:12:43,161 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:43,162 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:43,163 | INFO |     Result               : Fail
+2025-06-19 22:12:43,163 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:43,164 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:43,165 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:43,165 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:43,732 | INFO |   ✅ Commented on OSV-2773: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-19 22:12:44,119 | INFO | ⏳ Updating 'OSV-2774: KPIT_TC_DRT_HOM_028'...
+2025-06-19 22:12:44,120 | INFO |   🔄 Updating fields for OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-19 22:12:44,121 | INFO |     Failure Category : TS issue
+2025-06-19 22:12:44,122 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 22:12:44,122 | INFO |     Root Cause Details : App sequence need to be changed as per FDR.
+2025-06-19 22:12:44,123 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:45,670 | INFO |   ✅ Updated fields for OSV-2774: 'KPIT_TC_DRT_HOM_028.
+2025-06-19 22:12:45,671 | INFO |   🔄 Commenting on OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-19 22:12:45,672 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:45,672 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:45,673 | INFO |     Result               : Fail
+2025-06-19 22:12:45,674 | INFO |     Failure Category     : TS issue
+2025-06-19 22:12:45,674 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 22:12:45,675 | INFO |     Root Cause Details   : App sequence need to be changed as per FDR.
+2025-06-19 22:12:45,676 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:46,208 | INFO |   ✅ Commented on OSV-2774: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-19 22:12:46,603 | INFO | ⏳ Updating 'OSV-2775: KPIT_TC_DRT_VEH_002'...
+2025-06-19 22:12:46,605 | INFO |   🔄 Updating fields for OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-19 22:12:46,605 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:46,606 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:46,606 | INFO |     Root Cause Details : Vehicle Settings not launched after selecting Vehicle Settings app from homescreen.
+2025-06-19 22:12:46,607 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:47,558 | INFO |   ✅ Updated fields for OSV-2775: 'KPIT_TC_DRT_VEH_002.
+2025-06-19 22:12:47,559 | INFO |   🔄 Commenting on OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-19 22:12:47,559 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:47,560 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:47,560 | INFO |     Result               : Fail
+2025-06-19 22:12:47,561 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:47,561 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:47,562 | INFO |     Root Cause Details   : Vehicle Settings not launched after selecting Vehicle Settings app from homescreen.
+2025-06-19 22:12:47,562 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:48,078 | INFO |   ✅ Commented on OSV-2775: 'KPIT_TC_DRT_VEH_002.
+
+2025-06-19 22:12:48,495 | INFO | ⏳ Updating 'OSV-2776: KPIT_TC_DRT_HOM_031'...
+2025-06-19 22:12:48,496 | INFO |   🔄 Updating fields for OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-19 22:12:48,496 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:48,496 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:48,497 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:48,497 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:49,445 | INFO |   ✅ Updated fields for OSV-2776: 'KPIT_TC_DRT_HOM_031.
+2025-06-19 22:12:49,447 | INFO |   🔄 Commenting on OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-19 22:12:49,447 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:49,448 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:49,448 | INFO |     Result               : Fail
+2025-06-19 22:12:49,449 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:49,449 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:49,450 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:49,451 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:50,230 | INFO |   ✅ Commented on OSV-2776: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-19 22:12:50,705 | INFO | ⏳ Updating 'OSV-2777: KPIT_TC_DRT_KBD_013'...
+2025-06-19 22:12:50,706 | INFO |   🔄 Updating fields for OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-19 22:12:50,707 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:50,707 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:50,708 | INFO |     Root Cause Details : ICB Name displayed as Honda Passport instead of HondaAccord.
+2025-06-19 22:12:50,708 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:51,745 | INFO |   ✅ Updated fields for OSV-2777: 'KPIT_TC_DRT_KBD_013.
+2025-06-19 22:12:51,745 | INFO |   🔄 Commenting on OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-19 22:12:51,746 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:51,746 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:51,746 | INFO |     Result               : Fail
+2025-06-19 22:12:51,746 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:51,746 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:51,748 | INFO |     Root Cause Details   : ICB Name displayed as Honda Passport instead of HondaAccord.
+2025-06-19 22:12:51,748 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:52,713 | INFO |   ✅ Commented on OSV-2777: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-19 22:12:53,389 | INFO | ⏳ Updating 'OSV-2778: KPIT_TC_DRT_HOM_009'...
+2025-06-19 22:12:53,390 | INFO |   🔄 Updating fields for OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-19 22:12:53,390 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:53,391 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:53,391 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:53,392 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:54,356 | INFO |   ✅ Updated fields for OSV-2778: 'KPIT_TC_DRT_HOM_009.
+2025-06-19 22:12:54,357 | INFO |   🔄 Commenting on OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-19 22:12:54,357 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:54,357 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:54,357 | INFO |     Result               : Fail
+2025-06-19 22:12:54,358 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:54,358 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:54,358 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:54,358 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:55,225 | INFO |   ✅ Commented on OSV-2778: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-19 22:12:55,606 | INFO | ⏳ Updating 'OSV-2779: KPIT_TC_DRT_HOM_012'...
+2025-06-19 22:12:55,607 | INFO |   🔄 Updating fields for OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-19 22:12:55,607 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:55,608 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:55,608 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:55,609 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:56,611 | INFO |   ✅ Updated fields for OSV-2779: 'KPIT_TC_DRT_HOM_012.
+2025-06-19 22:12:56,612 | INFO |   🔄 Commenting on OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-19 22:12:56,612 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:56,613 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:56,613 | INFO |     Result               : Fail
+2025-06-19 22:12:56,614 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:56,614 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:56,614 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:56,614 | INFO |     Fixation Performed   : NA
+2025-06-19 22:12:57,201 | INFO |   ✅ Commented on OSV-2779: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-19 22:12:57,613 | INFO | ⏳ Updating 'OSV-2780: KPIT_TC_DRT_HOM_005'...
+2025-06-19 22:12:57,614 | INFO |   🔄 Updating fields for OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-19 22:12:57,614 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:12:57,615 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:57,615 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:57,615 | INFO |     Fixation Performed : NA
+2025-06-19 22:12:58,780 | INFO |   ✅ Updated fields for OSV-2780: 'KPIT_TC_DRT_HOM_005.
+2025-06-19 22:12:58,781 | INFO |   🔄 Commenting on OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-19 22:12:58,781 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:12:58,782 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:12:58,782 | INFO |     Result               : Fail
+2025-06-19 22:12:58,783 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:12:58,783 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:12:58,783 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:12:58,784 | INFO |     Fixation Performed   : NA
+2025-06-19 22:13:02,552 | INFO |   ✅ Commented on OSV-2780: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-19 22:13:03,166 | INFO | ⏳ Updating 'OSV-2781: KPIT_TC_DRT_HOM_006'...
+2025-06-19 22:13:03,166 | INFO |   🔄 Updating fields for OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-19 22:13:03,167 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:13:03,167 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:13:03,167 | INFO |     Root Cause Details : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:13:03,168 | INFO |     Fixation Performed : NA
+2025-06-19 22:13:05,447 | INFO |   ✅ Updated fields for OSV-2781: 'KPIT_TC_DRT_HOM_006.
+2025-06-19 22:13:05,448 | INFO |   🔄 Commenting on OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-19 22:13:05,448 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:13:05,450 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:13:05,450 | INFO |     Result               : Fail
+2025-06-19 22:13:05,451 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:13:05,451 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:13:05,452 | INFO |     Root Cause Details   : ICB got stuck on google 2 step authentication screen.
+2025-06-19 22:13:05,453 | INFO |     Fixation Performed   : NA
+2025-06-19 22:13:07,105 | INFO |   ✅ Commented on OSV-2781: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-19 22:13:07,556 | INFO | ⏳ Updating 'OSV-2782: KPIT_TC_DRT_VEH_059'...
+2025-06-19 22:13:07,557 | INFO |   🔄 Updating fields for OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-19 22:13:07,557 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 22:13:07,557 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:13:07,558 | INFO |     Root Cause Details : Vehicle Settings not launched after selecting Vehicle Settings app from homescreen.
+2025-06-19 22:13:07,559 | INFO |     Fixation Performed : NA
+2025-06-19 22:13:08,943 | INFO |   ✅ Updated fields for OSV-2782: 'KPIT_TC_DRT_VEH_059.
+2025-06-19 22:13:08,944 | INFO |   🔄 Commenting on OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-19 22:13:08,944 | INFO |     Date                 : 27th May 2025
+2025-06-19 22:13:08,945 | INFO |     Analysis Done By     : Pratham
+2025-06-19 22:13:08,945 | INFO |     Result               : Fail
+2025-06-19 22:13:08,945 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 22:13:08,946 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 22:13:08,946 | INFO |     Root Cause Details   : Vehicle Settings not launched after selecting Vehicle Settings app from homescreen.
+2025-06-19 22:13:08,946 | INFO |     Fixation Performed   : NA
+2025-06-19 22:13:09,545 | INFO |   ✅ Commented on OSV-2782: 'KPIT_TC_DRT_VEH_059.
+
+2025-06-19 22:13:09,545 | INFO | ⚠️ No OVN Failure ticket is raised for script: 'KPIT_TC_FNC_SSR_0396_0001' on 27th May 2025.
+

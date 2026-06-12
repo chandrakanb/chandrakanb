@@ -1,0 +1,42 @@
+[
+  {
+    "issue": 655390,
+    "hours": 0.0,
+    "comment": "Test Script Development Internal Rework",
+    "cat": "TEST AUTOMATION",
+    "type": "WORK",
+    "subject": ""
+  },
+  {
+    "issue": 655390,
+    "hours": 0.0,
+    "comment": "DRT Execution",
+    "cat": "FUNCTIONAL TESTING",
+    "type": "WORK",
+    "subject": ""
+  },
+  {
+    "issue": 656555,
+    "hours": 1.0,
+    "comment": "Automation-Meeting/Trainings",
+    "cat": "TEAM MEETING",
+    "type": "WORK",
+    "subject": ""
+  },
+  {
+    "issue": 655390,
+    "hours": 4.0,
+    "comment": "DRT Execution",
+    "cat": "FUNCTIONAL TESTING",
+    "type": "WORK",
+    "subject": ""
+  },
+  {
+    "issue": 656563,
+    "hours": 4.0,
+    "comment": "Test Script Development",
+    "cat": "TEST AUTOMATION",
+    "type": "INTERNAL REWORK",
+    "subject": ""
+  }
+]

@@ -1,0 +1,43 @@
+2026-03-14 16:08:44 | 🚀 Jira Update Started.
+
+2026-03-14 16:08:45 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:08:45 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:08:46 |     Failure Category          : Human error
+2026-03-14 16:08:46 |     Failure Sub Category      : -
+2026-03-14 16:08:46 |     Previous Failure Category : ['ICB Issue (Once)', 'TS Issue', 'Test Env Issue', 'Human Error', 'KITE Issue']
+2026-03-14 16:08:46 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:08:46 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:08:47 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:08:47 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:08:47 |     Date                      : Date
+2026-03-14 16:08:47 |     Build Number              : Build
+2026-03-14 16:08:47 |     Result                    : Fail
+2026-03-14 16:08:47 |     Failure Category          : Human error
+2026-03-14 16:08:47 |     Failure Sub Category      : -
+2026-03-14 16:08:47 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:08:47 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:08:47 |     Remarks                   : Remarks
+2026-03-14 16:08:47 |     Reviewer                  : Reviewer
+2026-03-14 16:08:48 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172769
+
+2026-03-14 16:08:49 | ⏳ Updating    		            : DRT-7527 ('12345')
+2026-03-14 16:08:49 |   🔄 Updating fields          : DRT-7527 ('12345')
+2026-03-14 16:08:49 |     Failure Category          : KITE issue
+2026-03-14 16:08:49 |     Failure Sub Category      : Device Mapping issue
+2026-03-14 16:08:49 |     Previous Failure Category : ['ICB Issue (Once)', 'TS Issue', 'Test Env Issue', 'Human Error', 'KITE Issue']
+2026-03-14 16:08:49 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:08:49 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:08:50 |   ✅ Updated fields           : DRT-7527 ('12345')
+2026-03-14 16:08:50 |   🔄 Commenting               : DRT-7527 ('12345')
+2026-03-14 16:08:50 |     Date                      : Date
+2026-03-14 16:08:50 |     Build Number              : Build
+2026-03-14 16:08:50 |     Result                    : Fail
+2026-03-14 16:08:50 |     Failure Category          : KITE issue
+2026-03-14 16:08:50 |     Failure Sub Category      : Device Mapping issue
+2026-03-14 16:08:50 |     Root Cause Details        : Root Cause Details
+2026-03-14 16:08:50 |     Fixation Performed        : Fixation Performed
+2026-03-14 16:08:50 |     Remarks                   : Remarks
+2026-03-14 16:08:50 |     Reviewer                  : Reviewer
+2026-03-14 16:08:51 |   🔄 Commented                : DRT-7527 ('12345') | Comment ID: 172770
+
+2026-03-14 16:08:51 | ✅ Jira Update Completed.

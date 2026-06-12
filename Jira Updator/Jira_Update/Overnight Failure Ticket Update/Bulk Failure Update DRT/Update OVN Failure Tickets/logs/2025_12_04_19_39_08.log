@@ -1,0 +1,306 @@
+2025-12-04 19:39:09,688 | INFO | ⏳ Updating 'DRT-5245: KPIT_TC_DRT_LMG_013'...
+2025-12-04 19:39:09,690 | INFO |   🔄 Updating fields for DRT-5245: 'KPIT_TC_DRT_LMG_013...
+2025-12-04 19:39:09,690 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:09,691 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:09,692 | INFO |     Previous Failure Category : ['Human Error', 'Test Env Issue']
+2025-12-04 19:39:09,692 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:09,693 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:09,694 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:09,705 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:11,263 | INFO |   ✅ Updated fields for DRT-5245: 'KPIT_TC_DRT_LMG_013.
+2025-12-04 19:39:11,265 | INFO |   🔄 Commenting on DRT-5245: 'KPIT_TC_DRT_LMG_013...
+2025-12-04 19:39:11,265 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:11,266 | INFO |     Result : Fail
+2025-12-04 19:39:11,266 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:11,266 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:11,267 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:11,267 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:12,138 | INFO |   ✅ Commented on DRT-5245: 'KPIT_TC_DRT_LMG_013.
+
+2025-12-04 19:39:12,866 | INFO | ⏳ Updating 'DRT-5246: KPIT_TC_DRT_LMG_015'...
+2025-12-04 19:39:12,867 | INFO |   🔄 Updating fields for DRT-5246: 'KPIT_TC_DRT_LMG_015...
+2025-12-04 19:39:12,868 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:12,869 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:12,871 | INFO |     Previous Failure Category : ['Human Error', 'Test Env Issue']
+2025-12-04 19:39:12,871 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:12,872 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:12,873 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:12,873 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:14,291 | INFO |   ✅ Updated fields for DRT-5246: 'KPIT_TC_DRT_LMG_015.
+2025-12-04 19:39:14,292 | INFO |   🔄 Commenting on DRT-5246: 'KPIT_TC_DRT_LMG_015...
+2025-12-04 19:39:14,293 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:14,293 | INFO |     Result : Fail
+2025-12-04 19:39:14,294 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:14,294 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:14,295 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:14,296 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:15,176 | INFO |   ✅ Commented on DRT-5246: 'KPIT_TC_DRT_LMG_015.
+
+2025-12-04 19:39:15,819 | INFO | ⏳ Updating 'DRT-5247: KPIT_TC_DRT_LMG_016'...
+2025-12-04 19:39:15,820 | INFO |   🔄 Updating fields for DRT-5247: 'KPIT_TC_DRT_LMG_016...
+2025-12-04 19:39:15,821 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:15,821 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:15,822 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:15,823 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:15,824 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:15,824 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:15,827 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:17,012 | INFO |   ✅ Updated fields for DRT-5247: 'KPIT_TC_DRT_LMG_016.
+2025-12-04 19:39:17,013 | INFO |   🔄 Commenting on DRT-5247: 'KPIT_TC_DRT_LMG_016...
+2025-12-04 19:39:17,013 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:17,013 | INFO |     Result : Fail
+2025-12-04 19:39:17,014 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:17,014 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:17,014 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:17,014 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:17,613 | INFO |   ✅ Commented on DRT-5247: 'KPIT_TC_DRT_LMG_016.
+
+2025-12-04 19:39:17,909 | INFO | ⏳ Updating 'DRT-5244: KPIT_TC_DRT_LMG_011'...
+2025-12-04 19:39:17,909 | INFO |   🔄 Updating fields for DRT-5244: 'KPIT_TC_DRT_LMG_011...
+2025-12-04 19:39:17,910 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:17,910 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:17,910 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:17,911 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:17,911 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:17,911 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:17,912 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:18,782 | INFO |   ✅ Updated fields for DRT-5244: 'KPIT_TC_DRT_LMG_011.
+2025-12-04 19:39:18,783 | INFO |   🔄 Commenting on DRT-5244: 'KPIT_TC_DRT_LMG_011...
+2025-12-04 19:39:18,784 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:18,784 | INFO |     Result : Fail
+2025-12-04 19:39:18,785 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:18,785 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:18,786 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:18,787 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:19,818 | INFO |   ✅ Commented on DRT-5244: 'KPIT_TC_DRT_LMG_011.
+
+2025-12-04 19:39:20,225 | INFO | ⏳ Updating 'DRT-5243: KPIT_TC_DRT_LMG_1232'...
+2025-12-04 19:39:20,225 | INFO |   🔄 Updating fields for DRT-5243: 'KPIT_TC_DRT_LMG_1232...
+2025-12-04 19:39:20,226 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:20,226 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:20,226 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:20,227 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:20,227 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:20,227 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:20,231 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:21,153 | INFO |   ✅ Updated fields for DRT-5243: 'KPIT_TC_DRT_LMG_1232.
+2025-12-04 19:39:21,155 | INFO |   🔄 Commenting on DRT-5243: 'KPIT_TC_DRT_LMG_1232...
+2025-12-04 19:39:21,155 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:21,155 | INFO |     Result : Fail
+2025-12-04 19:39:21,161 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:21,161 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:21,161 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:21,161 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:21,661 | INFO |   ✅ Commented on DRT-5243: 'KPIT_TC_DRT_LMG_1232.
+
+2025-12-04 19:39:21,993 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-04 19:39:21,993 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-04 19:39:21,995 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:21,995 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:21,996 | INFO |     Previous Failure Category : ['KITE Issues', 'ICB Issue (Always)', 'Test Env Issue']
+2025-12-04 19:39:21,996 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:21,996 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:21,996 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:21,997 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:23,010 | INFO |   ✅ Updated fields for DRT-1859: 'KPIT_TC_DRT_LMG_024.
+2025-12-04 19:39:23,010 | INFO |   🔄 Commenting on DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-04 19:39:23,011 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:23,013 | INFO |     Result : Fail
+2025-12-04 19:39:23,013 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:23,016 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:23,016 | INFO |     Root Cause Details : Even if Phone1 is connected to ICB via BT, Link Manager Status is shown as disconnected on Phone side.
+2025-12-04 19:39:23,017 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:23,896 | INFO |   ✅ Commented on DRT-1859: 'KPIT_TC_DRT_LMG_024.
+
+2025-12-04 19:39:24,650 | INFO | ⏳ Updating 'DRT-3932: KPIT_TC_DRT_VEND_006'...
+2025-12-04 19:39:24,651 | INFO |   🔄 Updating fields for DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-04 19:39:24,651 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:24,652 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:24,652 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:24,652 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-04 19:39:24,653 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:24,653 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:24,653 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:25,678 | INFO |   ✅ Updated fields for DRT-3932: 'KPIT_TC_DRT_VEND_006.
+2025-12-04 19:39:25,679 | INFO |   🔄 Commenting on DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-04 19:39:25,679 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:25,680 | INFO |     Result : Fail
+2025-12-04 19:39:25,680 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:25,680 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:25,681 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-04 19:39:25,681 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:26,276 | INFO |   ✅ Commented on DRT-3932: 'KPIT_TC_DRT_VEND_006.
+
+2025-12-04 19:39:27,024 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-04 19:39:27,033 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:39:27,033 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:27,034 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:27,035 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:27,035 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-04 19:39:27,035 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:27,035 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:27,035 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:28,239 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-04 19:39:28,239 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:39:28,239 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:28,241 | INFO |     Result : Fail
+2025-12-04 19:39:28,241 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:28,241 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:28,241 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-04 19:39:28,243 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:28,945 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-04 19:39:29,347 | INFO | ⏳ Updating 'DRT-2305: KPIT_TC_DRT_VEND_092'...
+2025-12-04 19:39:29,347 | INFO |   🔄 Updating fields for DRT-2305: 'KPIT_TC_DRT_VEND_092...
+2025-12-04 19:39:29,348 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:29,350 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:29,350 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-04 19:39:29,350 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:29,350 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:29,351 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:29,352 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:30,698 | INFO |   ✅ Updated fields for DRT-2305: 'KPIT_TC_DRT_VEND_092.
+2025-12-04 19:39:30,699 | INFO |   🔄 Commenting on DRT-2305: 'KPIT_TC_DRT_VEND_092...
+2025-12-04 19:39:30,699 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:30,700 | INFO |     Result : Fail
+2025-12-04 19:39:30,701 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:30,702 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:30,702 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:30,703 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:31,594 | INFO |   ✅ Commented on DRT-2305: 'KPIT_TC_DRT_VEND_092.
+
+2025-12-04 19:39:31,877 | INFO | ⏳ Updating 'DRT-2304: KPIT_TC_FNC_VEND_0063_0001'...
+2025-12-04 19:39:31,879 | INFO |   🔄 Updating fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-04 19:39:31,879 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:31,880 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:31,881 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-04 19:39:31,881 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:31,882 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:31,883 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:31,883 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:32,934 | INFO |   ✅ Updated fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-12-04 19:39:32,935 | INFO |   🔄 Commenting on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-04 19:39:32,936 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:32,937 | INFO |     Result : Fail
+2025-12-04 19:39:32,937 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:32,937 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:32,939 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:32,939 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:33,543 | INFO |   ✅ Commented on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-12-04 19:39:33,959 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-12-04 19:39:33,960 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:39:33,961 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:33,961 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:33,961 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:33,962 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:33,962 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:33,962 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:33,963 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:35,550 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-12-04 19:39:35,551 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:39:35,552 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:35,552 | INFO |     Result : Fail
+2025-12-04 19:39:35,552 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:35,553 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:35,553 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:35,554 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:36,146 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-04 19:39:36,838 | INFO | ⏳ Updating 'DRT-2308: KPIT_TC_DRT_BZA_005'...
+2025-12-04 19:39:36,838 | INFO |   🔄 Updating fields for DRT-2308: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:39:36,839 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:36,839 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:36,839 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-04 19:39:36,840 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:36,840 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:36,841 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:36,841 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:37,848 | INFO |   ✅ Updated fields for DRT-2308: 'KPIT_TC_DRT_BZA_005.
+2025-12-04 19:39:37,848 | INFO |   🔄 Commenting on DRT-2308: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:39:37,849 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:37,850 | INFO |     Result : Fail
+2025-12-04 19:39:37,851 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:37,851 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:37,852 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:37,853 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:38,970 | INFO |   ✅ Commented on DRT-2308: 'KPIT_TC_DRT_BZA_005.
+
+2025-12-04 19:39:39,375 | INFO | ⏳ Updating 'DRT-2309: KPIT_TC_DRT_BZA_015'...
+2025-12-04 19:39:39,376 | INFO |   🔄 Updating fields for DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-04 19:39:39,376 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:39,376 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:39,377 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-04 19:39:39,377 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:39,377 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:39,378 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:39,378 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:40,408 | INFO |   ✅ Updated fields for DRT-2309: 'KPIT_TC_DRT_BZA_015.
+2025-12-04 19:39:40,409 | INFO |   🔄 Commenting on DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-04 19:39:40,409 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:40,411 | INFO |     Result : Fail
+2025-12-04 19:39:40,411 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:40,411 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:40,412 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:40,412 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:40,897 | INFO |   ✅ Commented on DRT-2309: 'KPIT_TC_DRT_BZA_015.
+
+2025-12-04 19:39:41,228 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-04 19:39:41,228 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:39:41,229 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:41,229 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:41,229 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:39:41,230 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:41,230 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:41,230 | INFO |     Remarks : In daytime for next build trigger, this is not observed.
+We will keep this under observation.
+2025-12-04 19:39:41,230 | INFO |     Reviewer : Rajashri
+2025-12-04 19:39:42,171 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-04 19:39:42,171 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:39:42,174 | INFO |     Date AEA1414R0.251203.1 : 2025-12-03
+2025-12-04 19:39:42,174 | INFO |     Result : Fail
+2025-12-04 19:39:42,174 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:39:42,175 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:39:42,175 | INFO |     Root Cause Details : Even if port2 unabled, Wired AA not got connected to ICB.
+2025-12-04 19:39:42,175 | INFO |     Fixation Performed : NA
+2025-12-04 19:39:42,758 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-04 19:39:43,066 | INFO |   🔄 Commenting on DRT-4715: 'KPIT_TC_DRT_LMG_009...
+2025-12-04 19:39:43,068 | INFO |     Date : 2025-12-03
+2025-12-04 19:39:43,069 | INFO |     Result : Pass
+2025-12-04 19:39:43,069 | INFO |     Boild Number : AEA1414R0.251203.1
+2025-12-04 19:39:43,902 | INFO |   ✅ Commented on DRT-4715: 'KPIT_TC_DRT_LMG_009.
+
+2025-12-04 19:39:44,396 | INFO |   🔄 Commenting on DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-04 19:39:44,397 | INFO |     Date : 2025-12-03
+2025-12-04 19:39:44,397 | INFO |     Result : Pass
+2025-12-04 19:39:44,397 | INFO |     Boild Number : AEA1414R0.251203.1
+2025-12-04 19:39:44,935 | INFO |   ✅ Commented on DRT-2139: 'KPIT_TC_DRT_BZA_013.
+
+2025-12-04 19:39:45,415 | INFO |   🔄 Commenting on DRT-1818: 'KPIT_TC_DRT_BT_033...
+2025-12-04 19:39:45,416 | INFO |     Date : 2025-12-03
+2025-12-04 19:39:45,416 | INFO |     Result : Pass
+2025-12-04 19:39:45,417 | INFO |     Boild Number : AEA1414R0.251203.1
+2025-12-04 19:39:46,032 | INFO |   ✅ Commented on DRT-1818: 'KPIT_TC_DRT_BT_033.
+
+2025-12-04 19:39:46,442 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-04 19:39:46,443 | INFO |     Date : 2025-12-03
+2025-12-04 19:39:46,443 | INFO |     Result : Pass
+2025-12-04 19:39:46,444 | INFO |     Boild Number : AEA1414R0.251203.1
+2025-12-04 19:39:47,173 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-04 19:39:47,178 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

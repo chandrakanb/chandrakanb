@@ -1,0 +1,33 @@
+2026-03-14 18:50:37,875 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 18:50:37,877 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 18:50:37,877 | INFO |     Failure Category : Human error
+2026-03-14 18:50:37,878 | INFO |     Failure Sub Category : -
+2026-03-14 18:50:37,878 | INFO |     Previous Failure Category : ['SRL/CR Changes', 'KITE Issue', 'ICB Issue (Always)', 'Human Error', 'ICB Issue (Once)', 'TS Issue', 'Test Env Issue']
+2026-03-14 18:50:37,879 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 18:50:37,880 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 18:50:39,204 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-14 18:50:39,205 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-14 18:50:39,215 | INFO |     Date Build : Date
+2026-03-14 18:50:39,216 | INFO |     Result : Fail
+2026-03-14 18:50:39,217 | INFO |     Failure Category : Human error
+2026-03-14 18:50:39,217 | INFO |     Failure Sub Category : -
+2026-03-14 18:50:39,218 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 18:50:39,219 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 18:50:39,219 | INFO |     Remarks : Remarks
+2026-03-14 18:50:39,220 | INFO |     Reviewer : Reviewer
+2026-03-14 18:50:40,059 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-14 18:50:40,727 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 18:50:40,728 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 18:50:40,728 | INFO |     Failure Category : KITE issue
+2026-03-14 18:50:40,729 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 18:50:40,730 | INFO |     Previous Failure Category : ['SRL/CR Changes', 'KITE Issue', 'ICB Issue (Always)', 'Human Error', 'ICB Issue (Once)', 'TS Issue', 'Test Env Issue', 'Human error']
+2026-03-14 18:50:40,730 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 18:50:40,731 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 18:50:41,452 | ERROR | [ERROR] Could not process DRT-7527: '12345 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3284918
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 14 Mar 2026 13:20:41 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd87ae0cb2ecb5b841551cb001e18bfce', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '3f7918dc3cb34b8bbcd0a2fa638e8967', 'Atl-Request-Id': '3f7918dc-3cb3-4b8b-bcd0-a2fa638e8967', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=212,atl-edge-internal;dur=17,atl-edge-upstream;dur=195,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 413ed3dae24eb2750ad87776f2cd3f9c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P1', 'X-Amz-Cf-Id': 'u_S3hUBB680UZO8bA-imJBpUDID5FshbF5xpqe_qR-ogpgIyANx_oA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Human error' is not valid"}}.
+
+2026-03-14 18:50:41,454 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

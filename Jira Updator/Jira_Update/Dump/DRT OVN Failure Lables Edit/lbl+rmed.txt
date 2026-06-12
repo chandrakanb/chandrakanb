@@ -1,0 +1,71 @@
+📌 Issue: DRT-3936
+   Current Labels: {'Dev_2025-04-17', 'Dev_2025-04-09', 'Dev_2025-04-22'}
+   Remove labels {'Dev_2025-04-22'} from DRT-3936? (y/n): y
+   ✅ Removed labels from DRT-3936.
+
+📌 Issue: DRT-3935
+   Current Labels: {'Dev_2025-04-17', 'Dev_2025-04-09', 'Dev_2025-04-22'}
+   Remove labels {'Dev_2025-04-22'} from DRT-3935? (y/n): y
+   ✅ Removed labels from DRT-3935.
+
+📌 Issue: DRT-1919
+   Current Labels: {'Dev_2025-02-24', 'Dev_2025-04-09', 'Dev_2025-04-17', 'Dev_2025-04-22', 'Dev_2025-04-01', 'Dev_2025-02-13'}
+   Remove labels {'Dev_2025-04-22'} from DRT-1919? (y/n): y
+   ✅ Removed labels from DRT-1919.
+
+📌 Issue: DRT-1908
+   Current Labels: {'Dev_2025-02-24', 'Dev_2025-04-09', 'Dev_2025-04-17', 'Dev_2025-04-22', 'Dev_2025-04-01', 'Dev_2025-02-13'}
+   Remove labels {'Dev_2025-04-22'} from DRT-1908? (y/n): y
+   ✅ Removed labels from DRT-1908.
+
+📌 Issue: DRT-1903
+   Current Labels: {'Dev_2025-02-24', 'Dev_2025-03-12', 'Dev_2025-04-09', 'Dev_2025-04-17', 'Dev_2025-04-22', 'Dev_2025-04-01', 'Dev_2025-02-13'}
+   Remove labels {'Dev_2025-04-22'} from DRT-1903? (y/n): y
+   ✅ Removed labels from DRT-1903.
+
+📌 Issue: DRT-1749
+   Current Labels: {'Dev_2025-02-24', 'Dev_2025-02-21', 'Dev_2025-03-03', 'Dev_2025-03-12', 'Dev_2025-02-10', 'Dev_2025-04-09', 'Dev_2025-04-17', 'Dev_2025-04-22', 'Dev_2025-02-25', 'Dev_2025-04-01', 'Dev_2025-02-13'}
+   Remove labels {'Dev_2025-04-22'} from DRT-1749? (y/n): y
+   ✅ Removed labels from DRT-1749.
+
+📌 Issue: DRT-1726
+   Current Labels: {'Dev_2025-03-03', 'Dev_2025-02-24', 'Dev_2025-03-12', 'Dev_2025-04-10', 'Dev_2025-02-10', 'Dev_2025-03-14', 'Dev_2025-04-09', 'Dev_2025-04-14', 'Dev_2025-04-15', 'Dev_2025-04-17', 'Dev_2025-04-22', 'Dev_2025-04-01', 'Dev_2025-02-13', 'Dev_2025-03-06'}
+   Remove labels {'Dev_2025-04-22'} from DRT-1726? (y/n): y
+   ✅ Removed labels from DRT-1726.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+C:\Users\chandrakanb\Downloads\New folder>rm_lbl_excl.py
+DRT-4098: ✅ Removed label 'Dev_2025-04-18'
+DRT-1801: ✅ Removed label 'Dev_2025-04-18'
+DRT-3420: ✅ Removed label 'Dev_2025-04-18'
+DRT-1828: ✅ Removed label 'Dev_2025-04-18'
+DRT-3417: ✅ Removed label 'Dev_2025-04-18'
+DRT-3936: ✅ Removed label 'Dev_2025-04-18'
+DRT-3935: ✅ Removed label 'Dev_2025-04-18'
+DRT-1801: ✅ Removed label 'Dev_2025-04-19'
+DRT-3420: ✅ Removed label 'Dev_2025-04-19'
+DRT-1828: ✅ Removed label 'Dev_2025-04-19'
+DRT-3417: ✅ Removed label 'Dev_2025-04-19'
+DRT-3936: ✅ Removed label 'Dev_2025-04-19'
+DRT-3935: ✅ Removed label 'Dev_2025-04-19'
+DRT-1801: ✅ Removed label 'Dev_2025-04-21'
+DRT-3420: ✅ Removed label 'Dev_2025-04-21'
+DRT-3415: ✅ Removed label 'Dev_2025-04-21'
+DRT-1828: ✅ Removed label 'Dev_2025-04-21'
+DRT-3417: ✅ Removed label 'Dev_2025-04-21'
+DRT-3936: ✅ Removed label 'Dev_2025-04-21'
+DRT-3935: ✅ Removed label 'Dev_2025-04-21'
+DRT-1801: ✅ Removed label 'Dev_2025-04-22'
+DRT-3420: ✅ Removed label 'Dev_2025-04-22'
+DRT-1828: ✅ Removed label 'Dev_2025-04-22'
+DRT-3417: ✅ Removed label 'Dev_2025-04-22'
+DRT-3936: ✅ Removed label 'Dev_2025-04-22'
+DRT-3935: ✅ Removed label 'Dev_2025-04-22'

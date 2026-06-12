@@ -1,0 +1,52 @@
+16506: KITE issue 
+	16522: CAN signal issue 
+	16523: Image comparison 
+	16524: Audio comparison 
+	16525: Video comparison 
+	16526: Robot operation 
+	16527: Device Mapping issue 
+	16528: KITE Application issue 
+	
+16507: TS issue 
+	16529: TS logic incorrect 
+	
+16512: ICB issue 
+	16518: Once seen 
+	16520: Always
+	16519: GAS implementation 
+	16521: Timing issue 
+	16554: SRL/CR changes 
+	
+16508: Test Env issue 
+	16514: Automation Setup malfunction 
+	16515: External HW 
+	16516: External Application issue 
+	16517: Network Issue 
+	19025: Cascading Issue 
+	
+16509: Human error 
+
+    fields = {}
+    if failure_category:
+    fields["customfield_10851"] = [{"value": str(failure_category)}]
+
+    issue.update(fields=fields)
+    
+    comment_url = f"{jira_server}/rest/api/2/issue/{ticket_id}/comment"
+    comment_response = requests.post(
+        comment_url,
+        json={"body": comment_text},
+        auth=HTTPBasicAuth(username, api_token),
+        headers={"Content-Type": "application/json"}
+    )
+	
+	
+customfield_14461 → {'self': 'https://kpithondajapan.atlassian.net/rest/api/2/customFieldOption/16506', 'value': 'KITE issue', 'id': '16506', 'child': {'self': 'https://kpithondajapan.atlassian.net/rest/api/2/customFieldOption/16522', 'value': 'CAN signal issue', 'id': '16522'}}
+
+
+
+
+customfield_10851 → [{'self': 'https://kpithondajapan.atlassian.net/rest/api/2/customFieldOption/11190', 'value': 'Test Env Issue', 'id': '11190'}]
+
+
+{'customfield_10851': [{'value': 'Test Env Issue'}], 'customfield_10617': 'Automation Setup Malfunction', 'customfield_10614': 'Audio for VR was not clear from the Speakers, Hence GA not initiated.', 'customfield_10618': 'Rearranged the Audio Setup.', 'customfield_12208': [{'value': 'Test Env Issue'}]}

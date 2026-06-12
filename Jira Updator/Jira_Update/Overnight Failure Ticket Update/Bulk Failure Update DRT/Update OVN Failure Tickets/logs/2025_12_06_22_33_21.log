@@ -1,0 +1,17 @@
+2025-12-06 22:33:22,014 | INFO | ⏳ Updating 'DRT-3831: KPIT_TC_DRT_IPD_047'...
+2025-12-06 22:33:22,015 | INFO |   🔄 Updating fields for DRT-3831: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 22:33:22,016 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:33:22,016 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:33:22,017 | INFO |     Previous Failure Category : ['KITE Issues']
+2025-12-06 22:33:22,017 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:33:22,019 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:33:22,019 | INFO |     Remarks : Root Cause is not found, We will keep this under observation.
+We will keep this under observation.
+2025-12-06 22:33:22,030 | INFO |     Reviewer : Rajashri
+2025-12-06 22:33:22,381 | ERROR | [ERROR] Could not process DRT-3831: 'KPIT_TC_DRT_IPD_047 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/23882
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 06 Dec 2025 17:03:22 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '9713d9cc2a02631c9cc0664aeb0abde4', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'bd923e20bc0147309d592f3ccd058a6b', 'Atl-Request-Id': 'bd923e20-bc01-4730-9d59-2f3ccd058a6b', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=206,atl-edge-internal;dur=20,atl-edge-upstream;dur=190,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 284eb977ec5d32f9a30f1c02fc454194.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P7', 'X-Amz-Cf-Id': 'K07nnnOxLsSzRitiiMutlidOzUnE6dwTXON0ah6vfctKBUP0JTIDhA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-06 22:33:22,382 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

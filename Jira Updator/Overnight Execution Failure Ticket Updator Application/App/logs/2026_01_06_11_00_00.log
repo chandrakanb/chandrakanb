@@ -1,0 +1,170 @@
+2026-01-06 11:00:00 | 🚀 Jira Update Started.
+
+2026-01-06 11:00:00 | ⏳ Updating    		            : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 11:00:00 |   🔄 Updating fields          : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 11:00:01 |     Failure Category          : Test Env Issue
+2026-01-06 11:00:01 |     Failure Sub Category      : External Application Issue
+2026-01-06 11:00:01 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 11:00:01 |     Root Cause Details        : Siri didn't initiated.
+2026-01-06 11:00:01 |     Fixation Performed        : NA
+2026-01-06 11:00:02 |   ✅ Updated fields           : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 11:00:02 |   🔄 Commenting               : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 11:00:02 |     Date                      : 2025-12-24
+2026-01-06 11:00:02 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:02 |     Result                    : Fail
+2026-01-06 11:00:02 |     Failure Category          : Test Env Issue
+2026-01-06 11:00:02 |     Failure Sub Category      : External Application Issue
+2026-01-06 11:00:02 |     Root Cause Details        : Siri didn't initiated.
+2026-01-06 11:00:02 |     Fixation Performed        : NA
+2026-01-06 11:00:02 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:02 |     Reviewer                  : Rajashri
+2026-01-06 11:00:03 |   🔄 Commented                : DRT-5112 ('KPIT_TC_DRT_SRW_003') | Comment ID: 136678
+
+2026-01-06 11:00:04 | ⏳ Updating    		            : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 11:00:04 |   🔄 Updating fields          : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 11:00:04 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:04 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:04 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 11:00:04 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:04 |     Fixation Performed        : NA
+2026-01-06 11:00:05 |   ✅ Updated fields           : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 11:00:05 |   🔄 Commenting               : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 11:00:05 |     Date                      : 2025-12-24
+2026-01-06 11:00:05 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:05 |     Result                    : Fail
+2026-01-06 11:00:05 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:05 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:05 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:05 |     Fixation Performed        : NA
+2026-01-06 11:00:05 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:05 |     Reviewer                  : Rajashri
+2026-01-06 11:00:06 |   🔄 Commented                : DRT-4032 ('KPIT_TC_DRT_MET_012') | Comment ID: 136679
+
+2026-01-06 11:00:06 | ⏳ Updating    		            : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 11:00:06 |   🔄 Updating fields          : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 11:00:06 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:06 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:06 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 11:00:06 |     Root Cause Details        : Beep audio validation failed for select disclaimer popup.
+2026-01-06 11:00:06 |     Fixation Performed        : NA
+2026-01-06 11:00:08 |   ✅ Updated fields           : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 11:00:08 |   🔄 Commenting               : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 11:00:08 |     Date                      : 2025-12-24
+2026-01-06 11:00:08 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:08 |     Result                    : Fail
+2026-01-06 11:00:08 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:08 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:08 |     Root Cause Details        : Beep audio validation failed for select disclaimer popup.
+2026-01-06 11:00:08 |     Fixation Performed        : NA
+2026-01-06 11:00:08 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:08 |     Reviewer                  : Rajashri
+2026-01-06 11:00:08 |   🔄 Commented                : DRT-3493 ('KPIT_TC_DRT_SND_008') | Comment ID: 136680
+
+2026-01-06 11:00:09 | ⏳ Updating    		            : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 11:00:09 |   🔄 Updating fields          : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 11:00:09 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:09 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:09 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 11:00:09 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:09 |     Fixation Performed        : NA
+2026-01-06 11:00:10 |   ✅ Updated fields           : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 11:00:10 |   🔄 Commenting               : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 11:00:10 |     Date                      : 2025-12-24
+2026-01-06 11:00:10 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:10 |     Result                    : Fail
+2026-01-06 11:00:10 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:10 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:10 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:10 |     Fixation Performed        : NA
+2026-01-06 11:00:10 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:10 |     Reviewer                  : Rajashri
+2026-01-06 11:00:10 |   🔄 Commented                : DRT-3310 ('KPIT_TC_DRT_MET_014') | Comment ID: 136681
+
+2026-01-06 11:00:11 | ⏳ Updating    		            : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 11:00:11 |   🔄 Updating fields          : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 11:00:11 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:11 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:11 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 11:00:11 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:11 |     Fixation Performed        : NA
+2026-01-06 11:00:12 |   ✅ Updated fields           : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 11:00:12 |   🔄 Commenting               : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 11:00:12 |     Date                      : 2025-12-24
+2026-01-06 11:00:12 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:12 |     Result                    : Fail
+2026-01-06 11:00:12 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:12 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:12 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:12 |     Fixation Performed        : NA
+2026-01-06 11:00:12 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:12 |     Reviewer                  : Rajashri
+2026-01-06 11:00:13 |   🔄 Commented                : DRT-3278 ('KPIT_TC_DRT_MET_011') | Comment ID: 136682
+
+2026-01-06 11:00:13 | ⏳ Updating    		            : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 11:00:13 |   🔄 Updating fields          : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 11:00:13 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:13 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:13 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 11:00:13 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:13 |     Fixation Performed        : NA
+2026-01-06 11:00:14 |   ✅ Updated fields           : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 11:00:14 |   🔄 Commenting               : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 11:00:14 |     Date                      : 2025-12-24
+2026-01-06 11:00:14 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:14 |     Result                    : Fail
+2026-01-06 11:00:14 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:14 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:14 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:14 |     Fixation Performed        : NA
+2026-01-06 11:00:14 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:14 |     Reviewer                  : Rajashri
+2026-01-06 11:00:15 |   🔄 Commented                : DRT-3277 ('KPIT_TC_DRT_MET_021') | Comment ID: 136683
+
+2026-01-06 11:00:15 | ⏳ Updating    		            : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 11:00:15 |   🔄 Updating fields          : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 11:00:15 |     Failure Category          : Human Error
+2026-01-06 11:00:15 |     Failure Sub Category      : -
+2026-01-06 11:00:15 |     Previous Failure Category : ['Test Env Issue']
+2026-01-06 11:00:15 |     Root Cause Details        : Phone was not kept properly on WLC.
+2026-01-06 11:00:15 |     Fixation Performed        : NA
+2026-01-06 11:00:17 |   ✅ Updated fields           : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 11:00:17 |   🔄 Commenting               : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 11:00:17 |     Date                      : 2025-12-24
+2026-01-06 11:00:17 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:17 |     Result                    : Fail
+2026-01-06 11:00:17 |     Failure Category          : Human Error
+2026-01-06 11:00:17 |     Failure Sub Category      : -
+2026-01-06 11:00:17 |     Root Cause Details        : Phone was not kept properly on WLC.
+2026-01-06 11:00:17 |     Fixation Performed        : NA
+2026-01-06 11:00:17 |     Remarks                   : Executed in daytime after keeping Phone on WLC properly, result: Pass.
+2026-01-06 11:00:17 |     Reviewer                  : Rajashri
+2026-01-06 11:00:18 |   🔄 Commented                : DRT-3136 ('KPIT_TC_DRT_SPCCP_069') | Comment ID: 136684
+
+2026-01-06 11:00:18 | ⏳ Updating    		            : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 11:00:18 |   🔄 Updating fields          : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 11:00:18 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:18 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:18 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 11:00:18 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:18 |     Fixation Performed        : NA
+2026-01-06 11:00:19 |   ✅ Updated fields           : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 11:00:19 |   🔄 Commenting               : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 11:00:19 |     Date                      : 2025-12-24
+2026-01-06 11:00:19 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:19 |     Result                    : Fail
+2026-01-06 11:00:19 |     Failure Category          : ICB Issue (Once)
+2026-01-06 11:00:19 |     Failure Sub Category      : Once Seen
+2026-01-06 11:00:19 |     Root Cause Details        : No Data Popup on ICB.
+2026-01-06 11:00:19 |     Fixation Performed        : NA
+2026-01-06 11:00:19 |     Remarks                   : Executed in daytime without any changes, result: Pass.
+2026-01-06 11:00:19 |     Reviewer                  : Rajashri
+2026-01-06 11:00:20 |   🔄 Commented                : DRT-2049 ('KPIT_TC_DRT_MET_022') | Comment ID: 136686
+
+2026-01-06 11:00:21 | ⏳ Updating    		            : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-01-06 11:00:21 |   🔄 Commenting               : DRT-4669 ('KPIT_TC_DRT_MET_056')
+2026-01-06 11:00:21 |     Date                      : 2025-12-24
+2026-01-06 11:00:21 |     Result                    : Pass
+2026-01-06 11:00:21 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 11:00:21 |   🔄 Commented                : DRT-4669 ('KPIT_TC_DRT_MET_056') | Comment ID: 136687
+
+2026-01-06 11:00:21 | ✅ Jira Update Completed.

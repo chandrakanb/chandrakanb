@@ -1,0 +1,6 @@
+2025-11-14 00:29:47,106 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-14 00:29:47,107 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : The truth value of an array with more than one element is ambiguous. Use a.any() or a.all().
+
+2025-11-14 00:29:47,371 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-14 00:29:47,372 | ERROR | [ERROR] Could not process DRT-2140: 'KPIT_TC_DRT_BTA_052 : The truth value of an array with more than one element is ambiguous. Use a.any() or a.all().
+

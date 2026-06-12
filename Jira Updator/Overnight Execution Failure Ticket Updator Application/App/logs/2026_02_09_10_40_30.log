@@ -1,0 +1,84 @@
+2026-02-09 10:40:30 | 🚀 Jira Update Started.
+
+2026-02-09 10:40:31 | ⏳ Updating    		            : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-09 10:40:31 |   🔄 Updating fields          : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-09 10:40:32 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:32 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:32 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issue']
+2026-02-09 10:40:32 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-02-09 10:40:32 |     Fixation Performed        : Updated new images.
+2026-02-09 10:40:33 |   ✅ Updated fields           : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-09 10:40:33 |   🔄 Commenting               : DRT-1859 ('KPIT_TC_DRT_LMG_024')
+2026-02-09 10:40:33 |     Date                      : 2026-02-06
+2026-02-09 10:40:33 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 10:40:33 |     Result                    : Fail
+2026-02-09 10:40:33 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:33 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:33 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-02-09 10:40:33 |     Fixation Performed        : Updated new images.
+2026-02-09 10:40:33 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 10:40:33 |     Reviewer                  : Rajashri
+2026-02-09 10:40:34 |   🔄 Commented                : DRT-1859 ('KPIT_TC_DRT_LMG_024') | Comment ID: 156273
+
+2026-02-09 10:40:34 | ⏳ Updating    		            : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-09 10:40:34 |   🔄 Updating fields          : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-09 10:40:34 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:34 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:34 |     Previous Failure Category : ['Test Env Issue', 'TS Issue', 'ICB Issue (Always)', 'KITE Issue']
+2026-02-09 10:40:34 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-02-09 10:40:34 |     Fixation Performed        : Updated new images.
+2026-02-09 10:40:35 |   ✅ Updated fields           : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-09 10:40:35 |   🔄 Commenting               : DRT-1809 ('KPIT_TC_DRT_LMG_021')
+2026-02-09 10:40:35 |     Date                      : 2026-02-06
+2026-02-09 10:40:35 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 10:40:35 |     Result                    : Fail
+2026-02-09 10:40:35 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:35 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:35 |     Root Cause Details        : Actual Image having different resolutions than golden image
+2026-02-09 10:40:35 |     Fixation Performed        : Updated new images.
+2026-02-09 10:40:35 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 10:40:35 |     Reviewer                  : Rajashri
+2026-02-09 10:40:36 |   🔄 Commented                : DRT-1809 ('KPIT_TC_DRT_LMG_021') | Comment ID: 156274
+
+2026-02-09 10:40:36 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-09 10:40:36 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-09 10:40:36 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:36 |     Failure Sub Category      : External Application Issue
+2026-02-09 10:40:36 |     Previous Failure Category : ['Test Env Issue']
+2026-02-09 10:40:36 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-09 10:40:36 |     Fixation Performed        : NA
+2026-02-09 10:40:37 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-09 10:40:37 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-09 10:40:37 |     Date                      : 2026-02-06
+2026-02-09 10:40:37 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 10:40:37 |     Result                    : Fail
+2026-02-09 10:40:37 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:37 |     Failure Sub Category      : External Application Issue
+2026-02-09 10:40:37 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-09 10:40:37 |     Fixation Performed        : NA
+2026-02-09 10:40:37 |     Remarks                   : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+Executed manually with another device with VE application version 4.1, result: Pass.
+2026-02-09 10:40:37 |     Reviewer                  : Rajashri
+2026-02-09 10:40:38 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 156275
+
+2026-02-09 10:40:38 | ⏳ Updating    		            : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-09 10:40:38 |   🔄 Updating fields          : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-09 10:40:38 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:38 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:38 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'Human Error', 'ICB Issue (Once)']
+2026-02-09 10:40:38 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-02-09 10:40:38 |     Fixation Performed        : NA
+2026-02-09 10:40:39 |   ✅ Updated fields           : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-09 10:40:39 |   🔄 Commenting               : DRT-2140 ('KPIT_TC_DRT_BTA_052')
+2026-02-09 10:40:39 |     Date                      : 2026-02-06
+2026-02-09 10:40:39 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 10:40:39 |     Result                    : Fail
+2026-02-09 10:40:39 |     Failure Category          : Test Env Issue
+2026-02-09 10:40:39 |     Failure Sub Category      : Automation Setup Malfunction
+2026-02-09 10:40:39 |     Root Cause Details        : BT Audion Data Loading Issue on Music Library Screen.
+2026-02-09 10:40:39 |     Fixation Performed        : NA
+2026-02-09 10:40:39 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 10:40:39 |     Reviewer                  : Rajashri
+2026-02-09 10:40:40 |   🔄 Commented                : DRT-2140 ('KPIT_TC_DRT_BTA_052') | Comment ID: 156276
+
+2026-02-09 10:40:40 | ✅ Jira Update Completed.

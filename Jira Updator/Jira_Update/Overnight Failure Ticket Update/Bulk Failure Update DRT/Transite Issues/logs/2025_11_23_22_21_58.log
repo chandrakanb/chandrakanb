@@ -1,0 +1,14 @@
+2025-11-23 22:21:58,712 | INFO | Token loaded from Environment Variable
+2025-11-23 22:21:59,434 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2025-11-23 22:22:01,314 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2025-11-23 22:22:01,940 | INFO | 
+Processing ticket DRT-4868 with current status: In_Progress
+2025-11-23 22:22:04,227 | INFO | Transitioned DRT-4868 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-11-23 22:22:06,572 | INFO | Transitioned DRT-4868 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2025-11-23 22:22:08,549 | INFO | Transitioned DRT-4868 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2025-11-23 22:22:10,637 | INFO | Transitioned DRT-4868 from 'Overnight Issue Fixed' to 'Ready for review'
+2025-11-23 22:22:11,205 | INFO | Ticket DRT-4868 is transited till status: Ready for review
+2025-11-23 22:22:11,583 | INFO | 
+Processing ticket DRT-1759 with current status: In_Progress
+2025-11-23 22:22:13,596 | INFO | Transitioned DRT-1759 from 'In_Progress' to 'Issue Analysis In Progress'
+2025-11-23 22:22:15,678 | INFO | Transitioned DRT-1759 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'

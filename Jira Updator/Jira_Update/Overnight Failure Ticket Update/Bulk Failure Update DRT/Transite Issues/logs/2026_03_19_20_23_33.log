@@ -1,0 +1,77 @@
+2026-03-19 20:23:33,750 | INFO | Token loaded from Environment Variable
+2026-03-19 20:23:34,519 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-03-19 20:23:36,561 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-03-19 20:23:37,304 | INFO | Processing ticket A15-3422 with current status: In Progress
+2026-03-19 20:23:38,900 | INFO | Transitioned A15-3422 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:23:41,143 | INFO | Transitioned A15-3422 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:23:43,892 | INFO | Transitioned A15-3422 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:23:46,111 | INFO | Transitioned A15-3422 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:23:47,249 | INFO | Ticket A15-3422 is transited till status: Ready for review
+2026-03-19 20:23:47,986 | INFO | Processing ticket A15-3421 with current status: In Progress
+2026-03-19 20:23:49,108 | INFO | Transitioned A15-3421 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:23:51,326 | INFO | Transitioned A15-3421 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:23:53,637 | INFO | Transitioned A15-3421 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:23:55,103 | INFO | Transitioned A15-3421 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:23:56,136 | INFO | Ticket A15-3421 is transited till status: Ready for review
+2026-03-19 20:23:56,477 | INFO | Processing ticket A15-3428 with current status: In Progress
+2026-03-19 20:23:57,550 | INFO | Transitioned A15-3428 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:23:58,981 | INFO | Transitioned A15-3428 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:01,216 | INFO | Transitioned A15-3428 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:03,003 | INFO | Transitioned A15-3428 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:04,341 | INFO | Ticket A15-3428 is transited till status: Ready for review
+2026-03-19 20:24:04,664 | INFO | Processing ticket A15-3426 with current status: In Progress
+2026-03-19 20:24:05,732 | INFO | Transitioned A15-3426 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:07,056 | INFO | Transitioned A15-3426 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:08,905 | INFO | Transitioned A15-3426 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:10,421 | INFO | Transitioned A15-3426 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:11,071 | INFO | Ticket A15-3426 is transited till status: Ready for review
+2026-03-19 20:24:11,391 | INFO | Processing ticket A15-3423 with current status: In Progress
+2026-03-19 20:24:12,858 | INFO | Transitioned A15-3423 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:14,263 | INFO | Transitioned A15-3423 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:15,697 | INFO | Transitioned A15-3423 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:17,543 | INFO | Transitioned A15-3423 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:18,162 | INFO | Ticket A15-3423 is transited till status: Ready for review
+2026-03-19 20:24:18,444 | INFO | Processing ticket A15-3427 with current status: In Progress
+2026-03-19 20:24:20,296 | INFO | Transitioned A15-3427 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:21,774 | INFO | Transitioned A15-3427 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:23,292 | INFO | Transitioned A15-3427 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:25,161 | INFO | Transitioned A15-3427 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:25,773 | INFO | Ticket A15-3427 is transited till status: Ready for review
+2026-03-19 20:24:26,127 | INFO | Processing ticket A15-3417 with current status: In Progress
+2026-03-19 20:24:27,263 | INFO | Transitioned A15-3417 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:28,733 | INFO | Transitioned A15-3417 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:30,217 | INFO | Transitioned A15-3417 from 'ISSUE ANALYSIS COMPLETED' to 'NO FIXATION REQUIRED'
+2026-03-19 20:24:32,062 | INFO | Transitioned A15-3417 from 'NO FIXATION REQUIRED' to 'Ready for review'
+2026-03-19 20:24:32,719 | INFO | Ticket A15-3417 is transited till status: Ready for review
+2026-03-19 20:24:33,052 | INFO | Processing ticket A15-3414 with current status: In Progress
+2026-03-19 20:24:34,174 | INFO | Transitioned A15-3414 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:36,005 | INFO | Transitioned A15-3414 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:37,483 | INFO | Transitioned A15-3414 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:38,968 | INFO | Transitioned A15-3414 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:39,589 | INFO | Ticket A15-3414 is transited till status: Ready for review
+2026-03-19 20:24:39,876 | INFO | Processing ticket A15-3429 with current status: In Progress
+2026-03-19 20:24:41,039 | INFO | Transitioned A15-3429 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:42,887 | INFO | Transitioned A15-3429 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:44,353 | INFO | Transitioned A15-3429 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:45,816 | INFO | Transitioned A15-3429 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:46,453 | INFO | Ticket A15-3429 is transited till status: Ready for review
+2026-03-19 20:24:46,766 | INFO | Processing ticket A15-3430 with current status: In Progress
+2026-03-19 20:24:47,966 | INFO | Transitioned A15-3430 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:49,529 | INFO | Transitioned A15-3430 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:51,337 | INFO | Transitioned A15-3430 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:52,815 | INFO | Transitioned A15-3430 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:24:53,425 | INFO | Ticket A15-3430 is transited till status: Ready for review
+2026-03-19 20:24:53,732 | INFO | Processing ticket A15-3431 with current status: In Progress
+2026-03-19 20:24:54,856 | INFO | Transitioned A15-3431 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:24:56,280 | INFO | Transitioned A15-3431 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:24:57,641 | INFO | Transitioned A15-3431 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:24:59,452 | INFO | Transitioned A15-3431 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:25:00,041 | INFO | Ticket A15-3431 is transited till status: Ready for review
+2026-03-19 20:25:00,354 | INFO | Processing ticket A15-3418 with current status: In Progress
+2026-03-19 20:25:01,484 | INFO | Transitioned A15-3418 from 'In Progress' to 'ISSUE ANALYSIS IN PROGRESS'
+2026-03-19 20:25:03,262 | INFO | Transitioned A15-3418 from 'ISSUE ANALYSIS IN PROGRESS' to 'ISSUE ANALYSIS COMPLETED'
+2026-03-19 20:25:04,595 | INFO | Transitioned A15-3418 from 'ISSUE ANALYSIS COMPLETED' to 'OVERNIGHT ISSUE FIXED'
+2026-03-19 20:25:06,125 | INFO | Transitioned A15-3418 from 'OVERNIGHT ISSUE FIXED' to 'Ready for review'
+2026-03-19 20:25:06,735 | INFO | Ticket A15-3418 is transited till status: Ready for review
+2026-03-19 20:25:06,736 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

@@ -1,0 +1,64 @@
+2026-03-21 13:14:24,602 | INFO | ⏳ Updating 'DRT-1788: KPIT_TC_DRT_AMFM_015'...
+2026-03-21 13:14:24,603 | INFO |   🔄 Updating fields for DRT-1788: 'KPIT_TC_DRT_AMFM_015...
+2026-03-21 13:14:24,603 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:24,604 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:24,604 | INFO |     Previous Failure Category : ['Test Env Issue', 'Human Error']
+2026-03-21 13:14:24,605 | INFO |     Root Cause Details : ICB took more time to boot up after the ACC cycle than expected. Because of this, the Disclaimer popup was not handled as FB was already executed, and further operations failed.
+2026-03-21 13:14:24,605 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:26,026 | INFO |   ✅ Updated fields for DRT-1788: 'KPIT_TC_DRT_AMFM_015.
+2026-03-21 13:14:26,026 | INFO |   🔄 Commenting on DRT-1788: 'KPIT_TC_DRT_AMFM_015...
+2026-03-21 13:14:26,027 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 13:14:26,027 | INFO |     Result : Fail
+2026-03-21 13:14:26,028 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:26,028 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:26,029 | INFO |     Root Cause Details : ICB took more time to boot up after the ACC cycle than expected. Because of this, the Disclaimer popup was not handled as FB was already executed, and further operations failed.
+2026-03-21 13:14:26,029 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:26,029 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-21 13:14:26,030 | INFO |     Reviewer : Rajashri
+2026-03-21 13:14:26,911 | INFO |   ✅ Commented on DRT-1788: 'KPIT_TC_DRT_AMFM_015.
+
+2026-03-21 13:14:27,529 | INFO | ⏳ Updating 'DRT-1791: KPIT_TC_DRT_AMFM_195'...
+2026-03-21 13:14:27,530 | INFO |   🔄 Updating fields for DRT-1791: 'KPIT_TC_DRT_AMFM_195...
+2026-03-21 13:14:27,530 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:27,531 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:27,531 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Human Error', 'Test Env Issue']
+2026-03-21 13:14:27,531 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after the ACC cycle than expected. As a result, the Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:14:27,531 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:28,221 | ERROR | [ERROR] Could not process DRT-1791: 'KPIT_TC_DRT_AMFM_195 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17933
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 21 Mar 2026 07:44:28 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'f21ba28a83ba2e1652498fd35d601874', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '0b60306b989e4512b3a3f2e2fdd4952c', 'Atl-Request-Id': '0b60306b-989e-4512-b3a3-f2e2fdd4952c', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=191,atl-edge-internal;dur=15,atl-edge-upstream;dur=176,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 99ed9c8a5c7493aadc79c846e0863ad0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P11', 'X-Amz-Cf-Id': 'AdYjYk5heI9AP3Jjf3nxRac_aH2YlRRArK2-5YHRenFzZgSkHB1o-Q=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-21 13:14:28,474 | INFO | ⏳ Updating 'DRT-3411: KPIT_TC_DRT_AMFM_196'...
+2026-03-21 13:14:28,475 | INFO |   🔄 Updating fields for DRT-3411: 'KPIT_TC_DRT_AMFM_196...
+2026-03-21 13:14:28,475 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:28,476 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:28,476 | INFO |     Previous Failure Category : ['Test Env Issue', 'Human Error']
+2026-03-21 13:14:28,477 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after the ACC cycle than expected. As a result, the Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:14:28,477 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:29,183 | ERROR | [ERROR] Could not process DRT-3411: 'KPIT_TC_DRT_AMFM_196 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20615
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 21 Mar 2026 07:44:28 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e38dde217d161caf1fb646db05b4c010', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '21df244091b64688ade148b0502da073', 'Atl-Request-Id': '21df2440-91b6-4688-ade1-48b0502da073', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=205,atl-edge-internal;dur=16,atl-edge-upstream;dur=190,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 99ed9c8a5c7493aadc79c846e0863ad0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P11', 'X-Amz-Cf-Id': 'lgUR7uI2_N-btd973pw97J27iugcTAz8ClC2SrDepcZidjESyCkkLQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-21 13:14:30,099 | INFO | ⏳ Updating 'DRT-7514: KPIT_TC_DRT_MCS_044'...
+2026-03-21 13:14:30,100 | INFO |   🔄 Updating fields for DRT-7514: 'KPIT_TC_DRT_MCS_044...
+2026-03-21 13:14:30,101 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:30,101 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:30,102 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-21 13:14:30,103 | INFO |     Root Cause Details : ICB took more time to transition to USB Video in full screen mode. When Magnify button was selected on the USB Video screen while the aspect ratio was set to normal and screen size was set to full.
+2026-03-21 13:14:30,104 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:31,877 | INFO |   ✅ Updated fields for DRT-7514: 'KPIT_TC_DRT_MCS_044.
+2026-03-21 13:14:31,878 | INFO |   🔄 Commenting on DRT-7514: 'KPIT_TC_DRT_MCS_044...
+2026-03-21 13:14:31,878 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 13:14:31,879 | INFO |     Result : Fail
+2026-03-21 13:14:31,880 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:14:31,881 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:14:31,881 | INFO |     Root Cause Details : ICB took more time to transition to USB Video in full screen mode. When Magnify button was selected on the USB Video screen while the aspect ratio was set to normal and screen size was set to full.
+2026-03-21 13:14:31,882 | INFO |     Fixation Performed : NA
+2026-03-21 13:14:31,883 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-21 13:14:31,884 | INFO |     Reviewer : Rajashri
+2026-03-21 13:14:32,603 | INFO |   ✅ Commented on DRT-7514: 'KPIT_TC_DRT_MCS_044.
+
+2026-03-21 13:14:32,605 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,6 @@
+2026-03-17 09:05:09,419 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'normalized_values' is not defined.
+
+2026-03-17 09:05:09,813 | ERROR | [ERROR] Could not process DRT-7527: '12345 : name 'normalized_values' is not defined.
+
+2026-03-17 09:05:09,813 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

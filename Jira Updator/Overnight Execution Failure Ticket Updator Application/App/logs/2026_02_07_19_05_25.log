@@ -1,0 +1,23 @@
+2026-02-07 19:05:25 | 🚀 Jira Update Started.
+
+2026-02-07 19:05:26 | ⏳ Updating    		            : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:05:26 |   🔄 Updating fields          : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:05:27 |     Failure Category          : KITE Issue
+2026-02-07 19:05:27 |     Failure Sub Category      : KITE Application Issue
+2026-02-07 19:05:27 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-07 19:05:27 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier.
+2026-02-07 19:05:27 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-07 19:05:28 |   ✅ Updated fields           : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:05:29 |   🔄 Commenting               : DRT-4715 ('KPIT_TC_DRT_LMG_009')
+2026-02-07 19:05:29 |     Date                      : 2026-02-06
+2026-02-07 19:05:29 |     Build Number              : AEA1416R0.260206.1
+2026-02-07 19:05:29 |     Result                    : Fail
+2026-02-07 19:05:29 |     Failure Category          : KITE Issue
+2026-02-07 19:05:29 |     Failure Sub Category      : KITE Application Issue
+2026-02-07 19:05:29 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier.
+2026-02-07 19:05:29 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-07 19:05:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-07 19:05:29 |     Reviewer                  : Rajashri
+2026-02-07 19:05:30 |   🔄 Commented                : DRT-4715 ('KPIT_TC_DRT_LMG_009') | Comment ID: 156186
+
+2026-02-07 19:05:30 | ✅ Jira Update Completed.

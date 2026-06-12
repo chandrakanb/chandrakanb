@@ -1,0 +1,40 @@
+2026-03-21 13:16:33,469 | INFO | ⏳ Updating 'DRT-1791: KPIT_TC_DRT_AMFM_195'...
+2026-03-21 13:16:33,470 | INFO |   🔄 Updating fields for DRT-1791: 'KPIT_TC_DRT_AMFM_195...
+2026-03-21 13:16:33,471 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:16:33,471 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:16:33,472 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Human Error', 'Test Env Issue']
+2026-03-21 13:16:33,472 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:16:33,483 | INFO |     Fixation Performed : NA
+2026-03-21 13:16:34,808 | INFO |   ✅ Updated fields for DRT-1791: 'KPIT_TC_DRT_AMFM_195.
+2026-03-21 13:16:34,809 | INFO |   🔄 Commenting on DRT-1791: 'KPIT_TC_DRT_AMFM_195...
+2026-03-21 13:16:34,810 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 13:16:34,810 | INFO |     Result : Fail
+2026-03-21 13:16:34,810 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:16:34,811 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:16:34,811 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:16:34,811 | INFO |     Fixation Performed : NA
+2026-03-21 13:16:34,812 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-21 13:16:34,812 | INFO |     Reviewer : Rajashri
+2026-03-21 13:16:35,630 | INFO |   ✅ Commented on DRT-1791: 'KPIT_TC_DRT_AMFM_195.
+
+2026-03-21 13:16:36,267 | INFO | ⏳ Updating 'DRT-3411: KPIT_TC_DRT_AMFM_196'...
+2026-03-21 13:16:36,267 | INFO |   🔄 Updating fields for DRT-3411: 'KPIT_TC_DRT_AMFM_196...
+2026-03-21 13:16:36,267 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:16:36,268 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:16:36,269 | INFO |     Previous Failure Category : ['Test Env Issue', 'Human Error']
+2026-03-21 13:16:36,269 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:16:36,270 | INFO |     Fixation Performed : NA
+2026-03-21 13:16:37,619 | INFO |   ✅ Updated fields for DRT-3411: 'KPIT_TC_DRT_AMFM_196.
+2026-03-21 13:16:37,620 | INFO |   🔄 Commenting on DRT-3411: 'KPIT_TC_DRT_AMFM_196...
+2026-03-21 13:16:37,621 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 13:16:37,622 | INFO |     Result : Fail
+2026-03-21 13:16:37,622 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-21 13:16:37,623 | INFO |     Failure Sub Category : Timing issue
+2026-03-21 13:16:37,623 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after ACC cycle than expected. As a result, Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-21 13:16:37,624 | INFO |     Fixation Performed : NA
+2026-03-21 13:16:37,625 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-21 13:16:37,625 | INFO |     Reviewer : Rajashri
+2026-03-21 13:16:38,132 | INFO |   ✅ Commented on DRT-3411: 'KPIT_TC_DRT_AMFM_196.
+
+2026-03-21 13:16:38,133 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,217 @@
+2026-03-18 02:14:26,182 | ERROR | [ERROR] Could not process DRT-7541: 'KPIT_TC_DRT_VEH_061 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:26,876 | ERROR | [ERROR] Could not process DRT-7539: 'KPIT_TC_DRT_IVI_044 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:27,583 | ERROR | [ERROR] Could not process DRT-7538: 'KPIT_TC_DRT_PWF_078 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:27,916 | ERROR | [ERROR] Could not process DRT-7537: 'KPIT_TC_DRT_PWF_077 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:28,580 | ERROR | [ERROR] Could not process DRT-7536: 'KPIT_TC_DRT_PWF_074 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:29,260 | ERROR | [ERROR] Could not process DRT-7535: 'KPIT_TC_DRT_PWF_073 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:29,954 | ERROR | [ERROR] Could not process DRT-7534: 'KPIT_TC_DRT_PWF_071 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:30,296 | ERROR | [ERROR] Could not process DRT-7533: 'KPIT_TC_DRT_PWF_001 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:30,663 | ERROR | [ERROR] Could not process DRT-5104: 'KPIT_TC_DRT_PWF_087 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:31,380 | ERROR | [ERROR] Could not process DRT-5103: 'KPIT_TC_DRT_PWF_086 : 'NoneType' object has no attribute 'value'.
+
+2026-03-18 02:14:31,753 | INFO | ⏳ Updating 'DRT-4327: KPIT_TC_DRT_KEY_021'...
+2026-03-18 02:14:31,754 | INFO |   🔄 Updating fields for DRT-4327: 'KPIT_TC_DRT_KEY_021...
+2026-03-18 02:14:31,754 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:31,755 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:31,755 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:31,755 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:31,756 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:32,496 | ERROR | [ERROR] Could not process DRT-4327: 'KPIT_TC_DRT_KEY_021 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2050445
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:32 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '9aec5a1badc4d2be54754a9c2f0a4333', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '4169cae45c264f3bbd4d799f3ad050c9', 'Atl-Request-Id': '4169cae4-5c26-4f3b-bd4d-799f3ad050c9', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=206,atl-edge-internal;dur=14,atl-edge-upstream;dur=192,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': '1SAL0mtI9IGb_4vYImJx8ARb362xUfQGWMcY5fkTisoDFsQyBLC3hw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:33,299 | INFO | ⏳ Updating 'DRT-3526: KPIT_TC_DRT_INL_010'...
+2026-03-18 02:14:33,300 | INFO |   🔄 Updating fields for DRT-3526: 'KPIT_TC_DRT_INL_010...
+2026-03-18 02:14:33,302 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:33,305 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:33,305 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:33,310 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:33,311 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:33,636 | ERROR | [ERROR] Could not process DRT-3526: 'KPIT_TC_DRT_INL_010 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20787
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:33 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'c6f8cdeb9602a9af2bb2e70bd15b0fb0', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '3cf822000a964f47918cbbc4740d6232', 'Atl-Request-Id': '3cf82200-0a96-4f47-918c-bbc4740d6232', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=157,atl-edge-internal;dur=15,atl-edge-upstream;dur=142,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'ajZIwBqJRCtYBVYvQieEaYUc_UrfNOwVhujVcxFM8xLpGaJs9W7fQA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:33,966 | INFO | ⏳ Updating 'DRT-3410: KPIT_TC_DRT_PKS_011'...
+2026-03-18 02:14:33,967 | INFO |   🔄 Updating fields for DRT-3410: 'KPIT_TC_DRT_PKS_011...
+2026-03-18 02:14:33,967 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:33,968 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:33,968 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:33,969 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:33,969 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:34,705 | ERROR | [ERROR] Could not process DRT-3410: 'KPIT_TC_DRT_PKS_011 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20614
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:34 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'bf4ba4f41d064f3e73ec969183e9e020', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '11496f1db5a048fab0d626d6809588d3', 'Atl-Request-Id': '11496f1d-b5a0-48fa-b0d6-26d6809588d3', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=209,atl-edge-internal;dur=19,atl-edge-upstream;dur=190,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'Z1ZA2MXtMp0sILm1fBMwhVK9KD2jIhnjNuxoWphVy1ZzWXZpY1px7w=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:35,491 | INFO | ⏳ Updating 'DRT-3409: KPIT_TC_DRT_LWC_003'...
+2026-03-18 02:14:35,492 | INFO |   🔄 Updating fields for DRT-3409: 'KPIT_TC_DRT_LWC_003...
+2026-03-18 02:14:35,492 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:35,492 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:35,493 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:35,493 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:35,494 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:35,847 | ERROR | [ERROR] Could not process DRT-3409: 'KPIT_TC_DRT_LWC_003 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20613
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:35 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '31f364371ddd44dcae5bc0ee32068a52', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'ac20cd44c5fe462e9c75a2038707e3d6', 'Atl-Request-Id': 'ac20cd44-c5fe-462e-9c75-a2038707e3d6', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=166,atl-edge-internal;dur=18,atl-edge-upstream;dur=149,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'iNOJot7FNivJTAGQfSGg3368vtw0Fa75qJtHFxiunkE-iZann_jSRg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:36,200 | INFO | ⏳ Updating 'DRT-3406: KPIT_TC_DRT_INL_008'...
+2026-03-18 02:14:36,200 | INFO |   🔄 Updating fields for DRT-3406: 'KPIT_TC_DRT_INL_008...
+2026-03-18 02:14:36,200 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:36,201 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:36,201 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:36,202 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:36,202 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:36,536 | ERROR | [ERROR] Could not process DRT-3406: 'KPIT_TC_DRT_INL_008 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20610
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:36 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '4c51f2d0f19a1247114d230489c2c5e9', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '570ae885374342aa998c71baa55899a8', 'Atl-Request-Id': '570ae885-3743-42aa-998c-71baa55899a8', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=170,atl-edge-internal;dur=14,atl-edge-upstream;dur=156,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'mi27t92vdSxGAR_ZWCgSxtblU2bR0zMr5mVhjRa13u8AFgRaHNdI_Q=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:36,871 | INFO | ⏳ Updating 'DRT-3405: KPIT_TC_DRT_INL_024'...
+2026-03-18 02:14:36,872 | INFO |   🔄 Updating fields for DRT-3405: 'KPIT_TC_DRT_INL_024...
+2026-03-18 02:14:36,873 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:36,873 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:36,873 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:36,873 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:36,874 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:37,574 | ERROR | [ERROR] Could not process DRT-3405: 'KPIT_TC_DRT_INL_024 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20609
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:37 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'eb5f5588608595fa6ae8a6c05cf9bcb2', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '16187068a53e486898d524d4f9d544fd', 'Atl-Request-Id': '16187068-a53e-4868-98d5-24d4f9d544fd', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=160,atl-edge-internal;dur=15,atl-edge-upstream;dur=145,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'hdkX-UkgAmlw-e_jMRscLlh3agiBZyPnURhCAOXzY_dDgSNqfMFbeg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:38,259 | INFO | ⏳ Updating 'DRT-3403: KPIT_TC_DRT_LWC_002'...
+2026-03-18 02:14:38,259 | INFO |   🔄 Updating fields for DRT-3403: 'KPIT_TC_DRT_LWC_002...
+2026-03-18 02:14:38,260 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:38,260 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:38,261 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:38,261 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:38,262 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:38,583 | ERROR | [ERROR] Could not process DRT-3403: 'KPIT_TC_DRT_LWC_002 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/20607
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:38 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'ba84c6ed8d6760ba8bdcef2b2d1c584e', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'ddba0e274c2141e081aa558f79bb9fe7', 'Atl-Request-Id': 'ddba0e27-4c21-41e0-81aa-558f79bb9fe7', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=148,atl-edge-internal;dur=15,atl-edge-upstream;dur=133,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'N23oFHwLRT4jqSxi8XkLAH-teD087StmjsQtPo0hMtmeg_g6lY-yxA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:38,955 | INFO | ⏳ Updating 'DRT-2131: KPIT_TC_DRT_KEY_022'...
+2026-03-18 02:14:38,955 | INFO |   🔄 Updating fields for DRT-2131: 'KPIT_TC_DRT_KEY_022...
+2026-03-18 02:14:38,956 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:38,957 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:38,957 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:38,958 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:38,958 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:39,665 | ERROR | [ERROR] Could not process DRT-2131: 'KPIT_TC_DRT_KEY_022 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18521
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:39 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '2e91707e0638e3ed01ee8e068b68ad2d', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '4f928171c0e541af8beb3c7d53ea16e8', 'Atl-Request-Id': '4f928171-c0e5-41af-8beb-3c7d53ea16e8', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=176,atl-edge-internal;dur=14,atl-edge-upstream;dur=162,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'ZXfR7fn2AnR-_FV7tb8ihw3aq9ML7SmJq_dwZCtrcFvarVo9_Mt-tA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:40,395 | INFO | ⏳ Updating 'DRT-2130: KPIT_TC_DRT_KEY_001'...
+2026-03-18 02:14:40,396 | INFO |   🔄 Updating fields for DRT-2130: 'KPIT_TC_DRT_KEY_001...
+2026-03-18 02:14:40,396 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:40,397 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:40,397 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:40,398 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:40,398 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:41,108 | ERROR | [ERROR] Could not process DRT-2130: 'KPIT_TC_DRT_KEY_001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18520
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:40 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '6fa82ae5f5a1dc27025e8cfa7b60453f', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '41b4d0d4d3204a9ba4c2806612092b3c', 'Atl-Request-Id': '41b4d0d4-d320-4a9b-a4c2-806612092b3c', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=174,atl-edge-internal;dur=17,atl-edge-upstream;dur=157,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'oQY3hPIK93ERjzsvnphlENk0d1Q3S9g6XFalmUjokM3SJdxk2WaO7Q=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:41,471 | INFO | ⏳ Updating 'DRT-2129: KPIT_TC_DRT_KEY_002'...
+2026-03-18 02:14:41,472 | INFO |   🔄 Updating fields for DRT-2129: 'KPIT_TC_DRT_KEY_002...
+2026-03-18 02:14:41,472 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:41,472 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:41,473 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:41,473 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:41,474 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:42,214 | ERROR | [ERROR] Could not process DRT-2129: 'KPIT_TC_DRT_KEY_002 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18519
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:42 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '397704f055857a8fa2b49b4400b07f8f', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '0ef879cf953543ab94573f226bb3b282', 'Atl-Request-Id': '0ef879cf-9535-43ab-9457-3f226bb3b282', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=196,atl-edge-internal;dur=15,atl-edge-upstream;dur=182,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': '5tZdAfhkHgaHBNFvmI0Ky3riwZGOkxPIH2jpdcFn_QlWbdsL0KB-Zg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:42,949 | INFO | ⏳ Updating 'DRT-2011: KPIT_TC_DRT_SPCCP_096'...
+2026-03-18 02:14:42,949 | INFO |   🔄 Updating fields for DRT-2011: 'KPIT_TC_DRT_SPCCP_096...
+2026-03-18 02:14:42,950 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:42,950 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:42,951 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:42,951 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:42,951 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:43,269 | ERROR | [ERROR] Could not process DRT-2011: 'KPIT_TC_DRT_SPCCP_096 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18347
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:43 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'fde1811c75f8e0b7ecec057b56a74730', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'e0a263913cc342ba9c4105a4a33a8bf3', 'Atl-Request-Id': 'e0a26391-3cc3-42ba-9c41-05a4a33a8bf3', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=153,atl-edge-internal;dur=16,atl-edge-upstream;dur=137,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'pTVn383OzAR56mt_MI-9O8shMr8zda1iHoz6j7EDCmiXZxM9wPxmUA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:43,621 | INFO | ⏳ Updating 'DRT-2010: KPIT_TC_DRT_SPCCP_097'...
+2026-03-18 02:14:43,622 | INFO |   🔄 Updating fields for DRT-2010: 'KPIT_TC_DRT_SPCCP_097...
+2026-03-18 02:14:43,622 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:43,622 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:43,623 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:43,623 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:43,623 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:43,937 | ERROR | [ERROR] Could not process DRT-2010: 'KPIT_TC_DRT_SPCCP_097 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18346
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:43 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '6c77b589a5d69f6a10750c37cd0ea0c7', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'f1c535d8fca64ca88bfa48945aef72f1', 'Atl-Request-Id': 'f1c535d8-fca6-4ca8-8bfa-48945aef72f1', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=145,atl-edge-internal;dur=14,atl-edge-upstream;dur=131,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'zIOHIS-Xi6Y7QP2ju34wMgNujQ0hTSnimv3hs6UemVw_kmH-4521yw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:44,343 | INFO | ⏳ Updating 'DRT-2009: KPIT_TC_DRT_SPCCP_103'...
+2026-03-18 02:14:44,344 | INFO |   🔄 Updating fields for DRT-2009: 'KPIT_TC_DRT_SPCCP_103...
+2026-03-18 02:14:44,344 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:44,344 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:44,345 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:44,345 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:44,345 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:44,711 | ERROR | [ERROR] Could not process DRT-2009: 'KPIT_TC_DRT_SPCCP_103 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18345
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:44 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '2066babaaba4efb6a9f963f4abc96161', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'c1e18ae822474228aeb9032e2fcd5274', 'Atl-Request-Id': 'c1e18ae8-2247-4228-aeb9-032e2fcd5274', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=206,atl-edge-internal;dur=17,atl-edge-upstream;dur=189,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': '6m2jAcwoKgdY7H7rgIgEVAv7YEHdK6zJWIK-pvBms4ZWhbxzHxdoLg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:45,067 | INFO | ⏳ Updating 'DRT-1998: KPIT_TC_DRT_SPCCP_037'...
+2026-03-18 02:14:45,068 | INFO |   🔄 Updating fields for DRT-1998: 'KPIT_TC_DRT_SPCCP_037...
+2026-03-18 02:14:45,069 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:45,070 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:45,070 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:45,071 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:45,072 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:45,417 | ERROR | [ERROR] Could not process DRT-1998: 'KPIT_TC_DRT_SPCCP_037 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18334
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:45 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '8151b2c17aa184781536fd118c806ca2', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '7597c304644049939874fb76b1d10088', 'Atl-Request-Id': '7597c304-6440-4993-9874-fb76b1d10088', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=170,atl-edge-internal;dur=14,atl-edge-upstream;dur=156,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'hLDtXKA6s_s3DiCPkeD3AlgM0cAhA5WH4jP3LePuv9dzJVjyt1zXCA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:45,823 | INFO | ⏳ Updating 'DRT-1785: KPIT_TC_DRT_KEY_013'...
+2026-03-18 02:14:45,824 | INFO |   🔄 Updating fields for DRT-1785: 'KPIT_TC_DRT_KEY_013...
+2026-03-18 02:14:45,824 | INFO |     Failure Category : Test Env issue
+2026-03-18 02:14:45,825 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-18 02:14:45,826 | INFO |     Previous Failure Category : []
+2026-03-18 02:14:45,826 | INFO |     Root Cause Details : ICB display is getting turned OFF in between execution.
+2026-03-18 02:14:45,827 | INFO |     Fixation Performed : "1. Replaced Multi Touch Motor by HW Person as suggested by Babaji San, Still Issue is getting reproduced in daytime.
+2. Checked with another display and issue is not reproduced, Hence Replaced Display by HW person as suggested by Babaji San and me, Issue is not getting reproduced in daytime, and overnight as well."	
+2026-03-18 02:14:46,215 | ERROR | [ERROR] Could not process DRT-1785: 'KPIT_TC_DRT_KEY_013 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17927
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 17 Mar 2026 20:44:46 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '791ece2996b833e1a423da289803ef06', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '25b370f227554a65b6302f3dc6e9fa9e', 'Atl-Request-Id': '25b370f2-2755-4a65-b630-2f3dc6e9fa9e', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=201,atl-edge-internal;dur=13,atl-edge-upstream;dur=188,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c07df4067a41d31ca3880183fe0e2270.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P6', 'X-Amz-Cf-Id': 'gHGevWaQ387LZPNRvIz0fJy85kkC14FMyN86DRhYm6xb90vNwKPm9g=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10618":"Fixation Performed can't exceed 255 characters"}}.
+
+2026-03-18 02:14:46,215 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,40 @@
+2026-03-19 02:17:17,973 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 02:17:17,974 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 02:17:17,976 | INFO |     Failure Category : Human error
+2026-03-19 02:17:17,976 | INFO |     Failure Sub Category : -
+2026-03-19 02:17:17,977 | INFO |     Previous Failure Category : ['KITE Issue', 'Human Error', 'SRL/CR Changes']
+2026-03-19 02:17:17,977 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:17:17,977 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:17:19,352 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 02:17:19,353 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 02:17:19,354 | INFO |     Date Build : Date
+2026-03-19 02:17:19,364 | INFO |     Result : Fail
+2026-03-19 02:17:19,365 | INFO |     Failure Category : Human error
+2026-03-19 02:17:19,366 | INFO |     Failure Sub Category : -
+2026-03-19 02:17:19,366 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:17:19,367 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:17:19,367 | INFO |     Remarks : Remarks
+2026-03-19 02:17:19,367 | INFO |     Reviewer : Reviewer
+2026-03-19 02:17:19,862 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 02:17:20,510 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-19 02:17:20,510 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-19 02:17:20,511 | INFO |     Failure Category : KITE issue
+2026-03-19 02:17:20,511 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-19 02:17:20,512 | INFO |     Previous Failure Category : ['KITE Issue', 'Human Error', 'SRL/CR Changes']
+2026-03-19 02:17:20,512 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:17:20,512 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:17:21,732 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-19 02:17:21,733 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-19 02:17:21,733 | INFO |     Date Build : Date
+2026-03-19 02:17:21,734 | INFO |     Result : Fail
+2026-03-19 02:17:21,735 | INFO |     Failure Category : KITE issue
+2026-03-19 02:17:21,735 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-19 02:17:21,736 | INFO |     Root Cause Details : Root Cause Details
+2026-03-19 02:17:21,737 | INFO |     Fixation Performed : Fixation Performed
+2026-03-19 02:17:21,738 | INFO |     Remarks : Remarks
+2026-03-19 02:17:21,739 | INFO |     Reviewer : Reviewer
+2026-03-19 02:17:22,227 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-19 02:17:22,227 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

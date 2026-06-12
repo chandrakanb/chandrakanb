@@ -1,0 +1,50 @@
+2025-06-27 01:48:11,600 | INFO | ⏳ Updating OSV-4407 - KPIT_TC_DRT_HFT_048
+2025-06-27 01:48:11,600 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:11,601 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:12,646 | INFO | ✅ Updated OSV-4407 - KPIT_TC_DRT_HFT_048
+
+2025-06-27 01:48:13,001 | INFO | ⏳ Updating OSV-4408 - KPIT_TC_DRT_SPCCP_099
+2025-06-27 01:48:13,001 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:13,002 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:13,865 | INFO | ✅ Updated OSV-4408 - KPIT_TC_DRT_SPCCP_099
+
+2025-06-27 01:48:14,207 | INFO | ⏳ Updating OSV-4409 - KPIT_TC_DRT_HMI_001
+2025-06-27 01:48:14,208 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:14,208 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:14,986 | INFO | ✅ Updated OSV-4409 - KPIT_TC_DRT_HMI_001
+
+2025-06-27 01:48:15,313 | INFO | ⏳ Updating OSV-4416 - KPIT_TC_DRT_BTA_053
+2025-06-27 01:48:15,313 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:15,313 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:16,272 | INFO | ✅ Updated OSV-4416 - KPIT_TC_DRT_BTA_053
+
+2025-06-27 01:48:16,630 | INFO | ⏳ Updating OSV-4420 - KPIT_TC_FNC_AVG_0878_0001
+2025-06-27 01:48:16,630 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:16,630 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:17,572 | INFO | ✅ Updated OSV-4420 - KPIT_TC_FNC_AVG_0878_0001
+
+2025-06-27 01:48:17,923 | INFO | ⏳ Updating OSV-4421 - KPIT_TC_DRT_PRM_003
+2025-06-27 01:48:17,924 | INFO |     ➤ Current Failure Category : ICB issue (Once)
+2025-06-27 01:48:17,924 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Once)', 'Test Env Issue']
+2025-06-27 01:48:18,546 | INFO | ✅ Updated OSV-4421 - KPIT_TC_DRT_PRM_003
+
+2025-06-27 01:48:18,862 | INFO | ⏳ Updating OSV-4423 - KPIT_TC_DRT_BTA_025
+2025-06-27 01:48:18,862 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:18,863 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:19,799 | INFO | ✅ Updated OSV-4423 - KPIT_TC_DRT_BTA_025
+
+2025-06-27 01:48:20,148 | INFO | ⏳ Updating OSV-4426 - KPIT_TC_DRT_BTA_020
+2025-06-27 01:48:20,149 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:20,149 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:20,982 | INFO | ✅ Updated OSV-4426 - KPIT_TC_DRT_BTA_020
+
+2025-06-27 01:48:21,329 | INFO | ⏳ Updating OSV-4428 - KPIT_TC_DRT_BTA_018
+2025-06-27 01:48:21,330 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:21,330 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:22,242 | INFO | ✅ Updated OSV-4428 - KPIT_TC_DRT_BTA_018
+
+2025-06-27 01:48:22,629 | INFO | ⏳ Updating OSV-4430 - KPIT_TC_DRT_SPCCP_021
+2025-06-27 01:48:22,630 | INFO |     ➤ Current Failure Category : Test Env issue
+2025-06-27 01:48:22,630 | INFO |     ➤ Previous Failure Category: ['ICB Issue (Always)', 'Test Env Issue']
+2025-06-27 01:48:23,456 | INFO | ✅ Updated OSV-4430 - KPIT_TC_DRT_SPCCP_021
+

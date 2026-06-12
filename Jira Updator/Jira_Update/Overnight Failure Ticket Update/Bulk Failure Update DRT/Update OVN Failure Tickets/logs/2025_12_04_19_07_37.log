@@ -1,0 +1,205 @@
+2025-12-04 19:07:40,287 | INFO | ⏳ Updating 'DRT-1733: KPIT_TC_DRT_LMG_005'...
+2025-12-04 19:07:40,289 | INFO |   🔄 Updating fields for DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-12-04 19:07:40,289 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:40,290 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:40,291 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)', 'Test Env Issue']
+2025-12-04 19:07:40,291 | INFO |     Root Cause Details : "BT pairing request" popup is appeared on Phone1 while scanning for BT devices on Phone side. Hence further operation failed.
+2025-12-04 19:07:40,292 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:40,294 | INFO |     Remarks : Na
+2025-12-04 19:07:40,294 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:41,168 | INFO |   ✅ Updated fields for DRT-1733: 'KPIT_TC_DRT_LMG_005.
+2025-12-04 19:07:41,168 | INFO |   🔄 Commenting on DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-12-04 19:07:41,169 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:41,169 | INFO |     Result : Fail
+2025-12-04 19:07:41,170 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:41,170 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:41,172 | INFO |     Root Cause Details : "BT pairing request" popup is appeared on Phone1 while scanning for BT devices on Phone side. Hence further operation failed.
+2025-12-04 19:07:41,173 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:41,764 | INFO |   ✅ Commented on DRT-1733: 'KPIT_TC_DRT_LMG_005.
+
+2025-12-04 19:07:42,108 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-12-04 19:07:42,109 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:07:42,109 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:42,110 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:42,111 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-04 19:07:42,111 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:42,112 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:42,112 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:42,113 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:42,818 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-12-04 19:07:42,820 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:07:42,821 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:42,821 | INFO |     Result : Fail
+2025-12-04 19:07:42,821 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:42,821 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:42,823 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:42,824 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:43,415 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-04 19:07:43,762 | INFO | ⏳ Updating 'DRT-3981: KPIT_TC_DRT_BT_003'...
+2025-12-04 19:07:43,763 | INFO |   🔄 Updating fields for DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-12-04 19:07:43,764 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:43,764 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:07:43,765 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-04 19:07:43,766 | INFO |     Root Cause Details : Two Robot_Phone1 are available on ICB while active pairing, Hence selected another Robot_Phone1. Hence active BT pairing failed.
+2025-12-04 19:07:43,766 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:43,766 | INFO |     Remarks : Only faced this issue once.
+We will keep this under observation.
+2025-12-04 19:07:43,767 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:44,574 | INFO |   ✅ Updated fields for DRT-3981: 'KPIT_TC_DRT_BT_003.
+2025-12-04 19:07:44,575 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-12-04 19:07:44,576 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:44,576 | INFO |     Result : Fail
+2025-12-04 19:07:44,577 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:44,577 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-04 19:07:44,577 | INFO |     Root Cause Details : Two Robot_Phone1 are available on ICB while active pairing, Hence selected another Robot_Phone1. Hence active BT pairing failed.
+2025-12-04 19:07:44,578 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:45,131 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-12-04 19:07:45,449 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-12-04 19:07:45,450 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:07:45,450 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:45,450 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:45,451 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-04 19:07:45,451 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:45,451 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:45,452 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:45,452 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:46,140 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-12-04 19:07:46,141 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:07:46,141 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:46,142 | INFO |     Result : Fail
+2025-12-04 19:07:46,142 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:46,143 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:46,143 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:46,144 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:46,655 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-04 19:07:47,005 | INFO | ⏳ Updating 'DRT-2127: KPIT_TC_DRT_BZA_005'...
+2025-12-04 19:07:47,006 | INFO |   🔄 Updating fields for DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:07:47,007 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:47,007 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:47,007 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:07:47,008 | INFO |     Root Cause Details : Switched from "Display for Event Response" Tab from "Display for Vehicle Data" Tab, In previous TS, Hence Send Notifications Failed.
+2025-12-04 19:07:47,008 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:47,008 | INFO |     Remarks : NA
+2025-12-04 19:07:47,009 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:47,862 | INFO |   ✅ Updated fields for DRT-2127: 'KPIT_TC_DRT_BZA_005.
+2025-12-04 19:07:47,863 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:07:47,864 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:47,864 | INFO |     Result : Fail
+2025-12-04 19:07:47,864 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:47,865 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:47,865 | INFO |     Root Cause Details : Switched from "Display for Event Response" Tab from "Display for Vehicle Data" Tab, In previous TS, Hence Send Notifications Failed.
+2025-12-04 19:07:47,865 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:48,300 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-12-04 19:07:48,616 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-12-04 19:07:48,617 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:07:48,618 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:48,618 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:48,618 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:07:48,619 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:48,619 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:48,620 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:48,620 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:50,132 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-12-04 19:07:50,133 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:07:50,133 | INFO |     Date AEA1415D0.251203.1 : 2025-12-03
+2025-12-04 19:07:50,134 | INFO |     Result : Fail
+2025-12-04 19:07:50,134 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:50,135 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:50,135 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:50,136 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:51,062 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-04 19:07:51,427 | INFO |   🔄 Commenting on DRT-1733: 'KPIT_TC_DRT_LMG_005...
+2025-12-04 19:07:51,428 | INFO |     Date : 2025-12-04
+2025-12-04 19:07:51,429 | INFO |     Result : Pass
+2025-12-04 19:07:51,429 | INFO |     Boild Number : AEA1415D0.251204.1
+2025-12-04 19:07:52,333 | INFO |   ✅ Commented on DRT-1733: 'KPIT_TC_DRT_LMG_005.
+
+2025-12-04 19:07:52,677 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-12-04 19:07:52,677 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:07:52,678 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:52,678 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:52,678 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-04 19:07:52,678 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:52,679 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:52,679 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:52,679 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:53,421 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-12-04 19:07:53,421 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-04 19:07:53,421 | INFO |     Date AEA1415D0.251204.1 : 2025-12-04
+2025-12-04 19:07:53,423 | INFO |     Result : Fail
+2025-12-04 19:07:53,423 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:53,423 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:53,423 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:53,425 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:54,033 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-04 19:07:54,366 | INFO |   🔄 Commenting on DRT-3981: 'KPIT_TC_DRT_BT_003...
+2025-12-04 19:07:54,367 | INFO |     Date : 2025-12-04
+2025-12-04 19:07:54,367 | INFO |     Result : Pass
+2025-12-04 19:07:54,368 | INFO |     Boild Number : AEA1415D0.251204.1
+2025-12-04 19:07:55,047 | INFO |   ✅ Commented on DRT-3981: 'KPIT_TC_DRT_BT_003.
+
+2025-12-04 19:07:55,380 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-12-04 19:07:55,381 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:07:55,381 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:55,381 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:55,382 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-12-04 19:07:55,382 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:55,382 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:55,383 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:55,383 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:56,451 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-12-04 19:07:56,452 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-04 19:07:56,453 | INFO |     Date AEA1415D0.251204.1 : 2025-12-04
+2025-12-04 19:07:56,453 | INFO |     Result : Fail
+2025-12-04 19:07:56,453 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:56,453 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:56,454 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:56,454 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:56,940 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-04 19:07:57,264 | INFO | ⏳ Updating 'DRT-2127: KPIT_TC_DRT_BZA_005'...
+2025-12-04 19:07:57,265 | INFO |   🔄 Updating fields for DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:07:57,265 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:57,266 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:57,266 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:07:57,268 | INFO |     Root Cause Details : Switched from "Display for Event Response" Tab from "Display for Vehicle Data" Tab, In previous TS, Hence Send Notifications Failed.
+2025-12-04 19:07:57,268 | INFO |     Fixation Performed : Changed TS Sequence in Test Pack.
+2025-12-04 19:07:57,269 | INFO |     Remarks : NA
+2025-12-04 19:07:57,270 | INFO |     Reviewer : Rajashri
+2025-12-04 19:07:58,084 | INFO |   ✅ Updated fields for DRT-2127: 'KPIT_TC_DRT_BZA_005.
+2025-12-04 19:07:58,085 | INFO |   🔄 Commenting on DRT-2127: 'KPIT_TC_DRT_BZA_005...
+2025-12-04 19:07:58,086 | INFO |     Date AEA1415D0.251204.1 : 2025-12-04
+2025-12-04 19:07:58,086 | INFO |     Result : Fail
+2025-12-04 19:07:58,087 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:58,087 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:58,087 | INFO |     Root Cause Details : Switched from "Display for Event Response" Tab from "Display for Vehicle Data" Tab, In previous TS, Hence Send Notifications Failed.
+2025-12-04 19:07:58,088 | INFO |     Fixation Performed : Changed TS Sequence in Test Pack.
+2025-12-04 19:07:58,984 | INFO |   ✅ Commented on DRT-2127: 'KPIT_TC_DRT_BZA_005.
+
+2025-12-04 19:07:59,314 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-12-04 19:07:59,314 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:07:59,315 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:07:59,315 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:07:59,316 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-04 19:07:59,316 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:07:59,316 | INFO |     Fixation Performed : NA
+2025-12-04 19:07:59,318 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-04 19:07:59,318 | INFO |     Reviewer : Rajashri
+2025-12-04 19:08:00,059 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-12-04 19:08:00,060 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-04 19:08:00,061 | INFO |     Date AEA1415D0.251204.1 : 2025-12-04
+2025-12-04 19:08:00,061 | INFO |     Result : Fail
+2025-12-04 19:08:00,062 | INFO |     Failure Category : Test Env Issue
+2025-12-04 19:08:00,063 | INFO |     Failure Sub Category : External Application Issue
+2025-12-04 19:08:00,063 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-04 19:08:00,064 | INFO |     Fixation Performed : NA
+2025-12-04 19:08:00,557 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-04 19:08:00,557 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

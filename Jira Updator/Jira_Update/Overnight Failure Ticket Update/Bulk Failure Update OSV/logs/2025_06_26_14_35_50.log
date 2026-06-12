@@ -1,0 +1,170 @@
+2025-06-26 14:35:53,509 | INFO | ⏳ Updating 'OSV-4044: KPIT_TC_DRT_BTA_021'...
+2025-06-26 14:35:53,510 | INFO |   🔄 Updating fields for OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-06-26 14:35:53,511 | INFO |     Failure Category : Test Env issue
+2025-06-26 14:35:53,511 | INFO |     Failure Sub Category : Automation Set up malfunction
+2025-06-26 14:35:53,511 | INFO |     Root Cause Details : Play state validation failed.
+2025-06-26 14:35:53,512 | INFO |     Fixation Performed : Added precondition to Set volume level to 20 for BTA screen and Play song from BT phone.
+2025-06-26 14:35:55,220 | INFO |   ✅ Updated fields for OSV-4044: 'KPIT_TC_DRT_BTA_021.
+2025-06-26 14:35:55,221 | INFO |   🔄 Commenting on OSV-4044: 'KPIT_TC_DRT_BTA_021...
+2025-06-26 14:35:55,232 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:35:55,233 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:35:55,234 | INFO |     Result               : Fail
+2025-06-26 14:35:55,234 | INFO |     Failure Category     : Test Env issue
+2025-06-26 14:35:55,234 | INFO |     Failure Sub Category : Automation Set up malfunction
+2025-06-26 14:35:55,235 | INFO |     Root Cause Details   : Play state validation failed.
+2025-06-26 14:35:55,235 | INFO |     Fixation Performed   : Added precondition to Set volume level to 20 for BTA screen and Play song from BT phone.
+2025-06-26 14:35:56,388 | INFO |   ✅ Commented on OSV-4044: 'KPIT_TC_DRT_BTA_021.
+
+2025-06-26 14:35:56,949 | INFO | ⏳ Updating 'OSV-4071: KPIT_TC_DRT_MCS_036'...
+2025-06-26 14:35:56,950 | INFO |   🔄 Updating fields for OSV-4071: 'KPIT_TC_DRT_MCS_036...
+2025-06-26 14:35:56,951 | INFO |     Failure Category : ICB issue (Once)
+2025-06-26 14:35:56,951 | INFO |     Failure Sub Category : GAS Implementation
+2025-06-26 14:35:56,952 | INFO |     Root Cause Details : Instead of Maps it shows Google Maps.
+2025-06-26 14:35:56,953 | INFO |     Fixation Performed : Changed ROI for Golden Image.
+2025-06-26 14:35:58,116 | INFO |   ✅ Updated fields for OSV-4071: 'KPIT_TC_DRT_MCS_036.
+2025-06-26 14:35:58,117 | INFO |   🔄 Commenting on OSV-4071: 'KPIT_TC_DRT_MCS_036...
+2025-06-26 14:35:58,117 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:35:58,118 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:35:58,119 | INFO |     Result               : Fail
+2025-06-26 14:35:58,119 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-26 14:35:58,120 | INFO |     Failure Sub Category : GAS Implementation
+2025-06-26 14:35:58,121 | INFO |     Root Cause Details   : Instead of Maps it shows Google Maps.
+2025-06-26 14:35:58,121 | INFO |     Fixation Performed   : Changed ROI for Golden Image.
+2025-06-26 14:35:58,825 | INFO |   ✅ Commented on OSV-4071: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-26 14:35:59,313 | INFO | ⏳ Updating 'OSV-4004: KPIT_TC_DRT_PRM_003'...
+2025-06-26 14:35:59,314 | INFO |   🔄 Updating fields for OSV-4004: 'KPIT_TC_DRT_PRM_003...
+2025-06-26 14:35:59,315 | INFO |     Failure Category : ICB issue (Once)
+2025-06-26 14:35:59,315 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:35:59,316 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:35:59,317 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:00,938 | INFO |   ✅ Updated fields for OSV-4004: 'KPIT_TC_DRT_PRM_003.
+2025-06-26 14:36:00,939 | INFO |   🔄 Commenting on OSV-4004: 'KPIT_TC_DRT_PRM_003...
+2025-06-26 14:36:00,939 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:00,940 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:00,940 | INFO |     Result               : Fail
+2025-06-26 14:36:00,940 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-26 14:36:00,940 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:36:00,940 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:36:00,941 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:01,720 | INFO |   ✅ Commented on OSV-4004: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-26 14:36:02,161 | INFO | ⏳ Updating 'OSV-4007: KPIT_TC_DRT_PRM_007'...
+2025-06-26 14:36:02,162 | INFO |   🔄 Updating fields for OSV-4007: 'KPIT_TC_DRT_PRM_007...
+2025-06-26 14:36:02,163 | INFO |     Failure Category : ICB issue (Once)
+2025-06-26 14:36:02,164 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:36:02,164 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:36:02,165 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:03,327 | INFO |   ✅ Updated fields for OSV-4007: 'KPIT_TC_DRT_PRM_007.
+2025-06-26 14:36:03,327 | INFO |   🔄 Commenting on OSV-4007: 'KPIT_TC_DRT_PRM_007...
+2025-06-26 14:36:03,328 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:03,328 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:03,329 | INFO |     Result               : Fail
+2025-06-26 14:36:03,330 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-26 14:36:03,330 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:36:03,331 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:36:03,331 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:04,715 | INFO |   ✅ Commented on OSV-4007: 'KPIT_TC_DRT_PRM_007.
+
+2025-06-26 14:36:05,236 | INFO | ⏳ Updating 'OSV-3962: KPIT_TC_DRT_PRM_015'...
+2025-06-26 14:36:05,251 | INFO |   🔄 Updating fields for OSV-3962: 'KPIT_TC_DRT_PRM_015...
+2025-06-26 14:36:05,251 | INFO |     Failure Category : ICB issue (Once)
+2025-06-26 14:36:05,252 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:36:05,253 | INFO |     Root Cause Details : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:36:05,253 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:06,323 | INFO |   ✅ Updated fields for OSV-3962: 'KPIT_TC_DRT_PRM_015.
+2025-06-26 14:36:06,323 | INFO |   🔄 Commenting on OSV-3962: 'KPIT_TC_DRT_PRM_015...
+2025-06-26 14:36:06,324 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:06,324 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:06,325 | INFO |     Result               : Fail
+2025-06-26 14:36:06,325 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-26 14:36:06,326 | INFO |     Failure Sub Category : UI Changed
+2025-06-26 14:36:06,326 | INFO |     Root Cause Details   : Even after selecting arrow, after entering pin in user selection screen, It stuck on the same screen.
+2025-06-26 14:36:06,326 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:06,973 | INFO |   ✅ Commented on OSV-3962: 'KPIT_TC_DRT_PRM_015.
+
+2025-06-26 14:36:07,450 | INFO | ⏳ Updating 'OSV-4034: KPIT_TC_DRT_HOM_028'...
+2025-06-26 14:36:07,450 | INFO |   🔄 Updating fields for OSV-4034: 'KPIT_TC_DRT_HOM_028...
+2025-06-26 14:36:07,451 | INFO |     Failure Category : TS issue
+2025-06-26 14:36:07,451 | INFO |     Failure Sub Category : Validation resource needs modification
+2025-06-26 14:36:07,451 | INFO |     Root Cause Details : While validating app shortcuts sequence on home screen, there is difference in 30AAA and 3BMA homescreen.
+2025-06-26 14:36:07,451 | INFO |     Fixation Performed : Handled valifdation for  30AAA and 3BMA homescreen.
+2025-06-26 14:36:08,522 | INFO |   ✅ Updated fields for OSV-4034: 'KPIT_TC_DRT_HOM_028.
+2025-06-26 14:36:08,522 | INFO |   🔄 Commenting on OSV-4034: 'KPIT_TC_DRT_HOM_028...
+2025-06-26 14:36:08,523 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:08,523 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:08,524 | INFO |     Result               : Fail
+2025-06-26 14:36:08,524 | INFO |     Failure Category     : TS issue
+2025-06-26 14:36:08,524 | INFO |     Failure Sub Category : Validation resource needs modification
+2025-06-26 14:36:08,524 | INFO |     Root Cause Details   : While validating app shortcuts sequence on home screen, there is difference in 30AAA and 3BMA homescreen.
+2025-06-26 14:36:08,525 | INFO |     Fixation Performed   : Handled valifdation for  30AAA and 3BMA homescreen.
+2025-06-26 14:36:09,229 | INFO |   ✅ Commented on OSV-4034: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-26 14:36:09,703 | INFO | ⏳ Updating 'OSV-4074: KPIT_TC_DRT_WLC_013'...
+2025-06-26 14:36:09,704 | INFO |   🔄 Updating fields for OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-06-26 14:36:09,704 | INFO |     Failure Category : ICB issue (Always)
+2025-06-26 14:36:09,705 | INFO |     Failure Sub Category : Once Seen
+2025-06-26 14:36:09,705 | INFO |     Root Cause Details : PJ04DEF00-3988: [Wireless Charger] Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-06-26 14:36:09,705 | INFO |     Fixation Performed : As this is  ICB Issue,  thus cant be fixed.
+2025-06-26 14:36:10,551 | INFO |   ✅ Updated fields for OSV-4074: 'KPIT_TC_DRT_WLC_013.
+2025-06-26 14:36:10,552 | INFO |   🔄 Commenting on OSV-4074: 'KPIT_TC_DRT_WLC_013...
+2025-06-26 14:36:10,552 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:10,553 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:10,553 | INFO |     Result               : Fail
+2025-06-26 14:36:10,554 | INFO |     Failure Category     : ICB issue (Always)
+2025-06-26 14:36:10,555 | INFO |     Failure Sub Category : Once Seen
+2025-06-26 14:36:10,555 | INFO |     Root Cause Details   : PJ04DEF00-3988: [Wireless Charger] Wireless Charger indicator is not displayed on header when information is received from the Wireless Charger via CAN Signals
+2025-06-26 14:36:10,556 | INFO |     Fixation Performed   : As this is  ICB Issue,  thus cant be fixed.
+2025-06-26 14:36:11,394 | INFO |   ✅ Commented on OSV-4074: 'KPIT_TC_DRT_WLC_013.
+
+2025-06-26 14:36:11,906 | INFO | ⏳ Updating 'OSV-3955: KPIT_TC_DRT_HMI_001'...
+2025-06-26 14:36:11,907 | INFO |   🔄 Updating fields for OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-06-26 14:36:11,907 | INFO |     Failure Category : Test Env issue
+2025-06-26 14:36:11,908 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-26 14:36:11,908 | INFO |     Root Cause Details : Wireless Carplay got disconnected, post ACC cycle.
+2025-06-26 14:36:11,909 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:13,102 | INFO |   ✅ Updated fields for OSV-3955: 'KPIT_TC_DRT_HMI_001.
+2025-06-26 14:36:13,102 | INFO |   🔄 Commenting on OSV-3955: 'KPIT_TC_DRT_HMI_001...
+2025-06-26 14:36:13,102 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:13,102 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:13,103 | INFO |     Result               : Fail
+2025-06-26 14:36:13,103 | INFO |     Failure Category     : Test Env issue
+2025-06-26 14:36:13,103 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-26 14:36:13,103 | INFO |     Root Cause Details   : Wireless Carplay got disconnected, post ACC cycle.
+2025-06-26 14:36:13,104 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:13,863 | INFO |   ✅ Commented on OSV-3955: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-26 14:36:14,295 | INFO | ⏳ Updating 'OSV-4073: KPIT_TC_DRT_SPCCP_021'...
+2025-06-26 14:36:14,296 | INFO |   🔄 Updating fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-26 14:36:14,296 | INFO |     Failure Category : Test Env issue
+2025-06-26 14:36:14,296 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-26 14:36:14,296 | INFO |     Root Cause Details : Wireless Carplay got disconnected, post ACC cycle.
+2025-06-26 14:36:14,298 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:15,482 | INFO |   ✅ Updated fields for OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-26 14:36:15,483 | INFO |   🔄 Commenting on OSV-4073: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-26 14:36:15,483 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:15,484 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:15,484 | INFO |     Result               : Fail
+2025-06-26 14:36:15,484 | INFO |     Failure Category     : Test Env issue
+2025-06-26 14:36:15,485 | INFO |     Failure Sub Category : Automation Setup malfunction
+2025-06-26 14:36:15,485 | INFO |     Root Cause Details   : Wireless Carplay got disconnected, post ACC cycle.
+2025-06-26 14:36:15,485 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:16,239 | INFO |   ✅ Commented on OSV-4073: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-26 14:36:16,739 | INFO | ⏳ Updating 'OSV-3956: KPIT_TC_DRT_SUW_005'...
+2025-06-26 14:36:16,739 | INFO |   🔄 Updating fields for OSV-3956: 'KPIT_TC_DRT_SUW_005...
+2025-06-26 14:36:16,739 | INFO |     Failure Category : ICB issue (Once)
+2025-06-26 14:36:16,739 | INFO |     Failure Sub Category : Once Seen
+2025-06-26 14:36:16,739 | INFO |     Root Cause Details : Set up wizard skipped, Post FDR.
+2025-06-26 14:36:16,740 | INFO |     Fixation Performed : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:17,882 | INFO |   ✅ Updated fields for OSV-3956: 'KPIT_TC_DRT_SUW_005.
+2025-06-26 14:36:17,882 | INFO |   🔄 Commenting on OSV-3956: 'KPIT_TC_DRT_SUW_005...
+2025-06-26 14:36:17,883 | INFO |     Date                 : 23rd June 2025
+2025-06-26 14:36:17,883 | INFO |     Analysis Done By     : Chandrakant
+2025-06-26 14:36:17,883 | INFO |     Result               : Fail
+2025-06-26 14:36:17,883 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-26 14:36:17,883 | INFO |     Failure Sub Category : Once Seen
+2025-06-26 14:36:17,884 | INFO |     Root Cause Details   : Set up wizard skipped, Post FDR.
+2025-06-26 14:36:17,884 | INFO |     Fixation Performed   : Without performing fixation executed in daytime, result : Pass.
+2025-06-26 14:36:18,648 | INFO |   ✅ Commented on OSV-3956: 'KPIT_TC_DRT_SUW_005.
+

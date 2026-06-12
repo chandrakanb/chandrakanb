@@ -1,0 +1,263 @@
+2026-01-06 13:05:09 | 🚀 Jira Update Started.
+
+2026-01-06 13:05:09 | ⏳ Updating    		            : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-01-06 13:05:09 |   🔄 Updating fields          : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-01-06 13:05:09 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:09 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:09 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-01-06 13:05:09 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:09 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:10 |   ✅ Updated fields           : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-01-06 13:05:10 |   🔄 Commenting               : DRT-6153 ('KPIT_TC_DRT_MET_046')
+2026-01-06 13:05:10 |     Date                      : 2025-12-24
+2026-01-06 13:05:10 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:10 |     Result                    : Fail
+2026-01-06 13:05:10 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:10 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:10 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:10 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:10 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:10 |     Reviewer                  : Rajashri
+2026-01-06 13:05:10 |   🔄 Commented                : DRT-6153 ('KPIT_TC_DRT_MET_046') | Comment ID: 137067
+
+2026-01-06 13:05:11 | ⏳ Updating    		            : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-01-06 13:05:11 |   🔄 Updating fields          : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-01-06 13:05:11 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:11 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:11 |     Previous Failure Category : ['Human Error', 'ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:11 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:11 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:12 |   ✅ Updated fields           : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-01-06 13:05:12 |   🔄 Commenting               : DRT-4430 ('KPIT_TC_DRT_SPCAA_022')
+2026-01-06 13:05:12 |     Date                      : 2025-12-24
+2026-01-06 13:05:12 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:12 |     Result                    : Fail
+2026-01-06 13:05:12 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:12 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:12 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:12 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:12 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:12 |     Reviewer                  : Rajashri
+2026-01-06 13:05:12 |   🔄 Commented                : DRT-4430 ('KPIT_TC_DRT_SPCAA_022') | Comment ID: 137068
+
+2026-01-06 13:05:12 | ⏳ Updating    		            : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-01-06 13:05:12 |   🔄 Updating fields          : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-01-06 13:05:12 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:12 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:12 |     Previous Failure Category : ['Human Error', 'ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:12 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:12 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:13 |   ✅ Updated fields           : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-01-06 13:05:13 |   🔄 Commenting               : DRT-4429 ('KPIT_TC_DRT_SPCAA_023')
+2026-01-06 13:05:13 |     Date                      : 2025-12-24
+2026-01-06 13:05:13 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:13 |     Result                    : Fail
+2026-01-06 13:05:13 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:13 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:13 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:13 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:13 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:13 |     Reviewer                  : Rajashri
+2026-01-06 13:05:14 |   🔄 Commented                : DRT-4429 ('KPIT_TC_DRT_SPCAA_023') | Comment ID: 137069
+
+2026-01-06 13:05:14 | ⏳ Updating    		            : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-01-06 13:05:14 |   🔄 Updating fields          : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-01-06 13:05:14 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:14 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:14 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue', 'ICB Issue (Once)']
+2026-01-06 13:05:14 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:14 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:15 |   ✅ Updated fields           : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-01-06 13:05:15 |   🔄 Commenting               : DRT-2053 ('KPIT_TC_DRT_SPCAA_026')
+2026-01-06 13:05:15 |     Date                      : 2025-12-24
+2026-01-06 13:05:15 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:15 |     Result                    : Fail
+2026-01-06 13:05:15 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:15 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:15 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:15 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:15 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:15 |     Reviewer                  : Rajashri
+2026-01-06 13:05:15 |   🔄 Commented                : DRT-2053 ('KPIT_TC_DRT_SPCAA_026') | Comment ID: 137070
+
+2026-01-06 13:05:16 | ⏳ Updating    		            : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-01-06 13:05:16 |   🔄 Updating fields          : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-01-06 13:05:16 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:16 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:16 |     Previous Failure Category : ['Human Error', 'ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:16 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:16 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:17 |   ✅ Updated fields           : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-01-06 13:05:17 |   🔄 Commenting               : DRT-2050 ('KPIT_TC_DRT_MET_103')
+2026-01-06 13:05:17 |     Date                      : 2025-12-24
+2026-01-06 13:05:17 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:17 |     Result                    : Fail
+2026-01-06 13:05:17 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:17 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:17 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:17 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:17 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:17 |     Reviewer                  : Rajashri
+2026-01-06 13:05:17 |   🔄 Commented                : DRT-2050 ('KPIT_TC_DRT_MET_103') | Comment ID: 137071
+
+2026-01-06 13:05:17 | ⏳ Updating    		            : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 13:05:17 |   🔄 Updating fields          : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 13:05:17 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:17 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:17 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-01-06 13:05:17 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:17 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:18 |   ✅ Updated fields           : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 13:05:18 |   🔄 Commenting               : DRT-5112 ('KPIT_TC_DRT_SRW_003')
+2026-01-06 13:05:18 |     Date                      : 2025-12-24
+2026-01-06 13:05:18 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:18 |     Result                    : Fail
+2026-01-06 13:05:18 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:18 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:18 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:18 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:18 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:18 |     Reviewer                  : Rajashri
+2026-01-06 13:05:19 |   🔄 Commented                : DRT-5112 ('KPIT_TC_DRT_SRW_003') | Comment ID: 137072
+
+2026-01-06 13:05:19 | ⏳ Updating    		            : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 13:05:19 |   🔄 Updating fields          : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 13:05:19 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:19 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:19 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:19 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:19 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:20 |   ✅ Updated fields           : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 13:05:20 |   🔄 Commenting               : DRT-4032 ('KPIT_TC_DRT_MET_012')
+2026-01-06 13:05:20 |     Date                      : 2025-12-24
+2026-01-06 13:05:20 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:20 |     Result                    : Fail
+2026-01-06 13:05:20 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:20 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:20 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:20 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:20 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:20 |     Reviewer                  : Rajashri
+2026-01-06 13:05:21 |   🔄 Commented                : DRT-4032 ('KPIT_TC_DRT_MET_012') | Comment ID: 137073
+
+2026-01-06 13:05:21 | ⏳ Updating    		            : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 13:05:21 |   🔄 Updating fields          : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 13:05:21 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:21 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:21 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-01-06 13:05:21 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:21 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:22 |   ✅ Updated fields           : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 13:05:22 |   🔄 Commenting               : DRT-3493 ('KPIT_TC_DRT_SND_008')
+2026-01-06 13:05:22 |     Date                      : 2025-12-24
+2026-01-06 13:05:22 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:22 |     Result                    : Fail
+2026-01-06 13:05:22 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:22 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:22 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:22 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:22 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:22 |     Reviewer                  : Rajashri
+2026-01-06 13:05:23 |   🔄 Commented                : DRT-3493 ('KPIT_TC_DRT_SND_008') | Comment ID: 137074
+
+2026-01-06 13:05:23 | ⏳ Updating    		            : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 13:05:23 |   🔄 Updating fields          : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 13:05:23 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:23 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:23 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:23 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:23 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:24 |   ✅ Updated fields           : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 13:05:24 |   🔄 Commenting               : DRT-3310 ('KPIT_TC_DRT_MET_014')
+2026-01-06 13:05:24 |     Date                      : 2025-12-24
+2026-01-06 13:05:24 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:24 |     Result                    : Fail
+2026-01-06 13:05:24 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:24 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:24 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:24 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:24 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:24 |     Reviewer                  : Rajashri
+2026-01-06 13:05:25 |   🔄 Commented                : DRT-3310 ('KPIT_TC_DRT_MET_014') | Comment ID: 137075
+
+2026-01-06 13:05:25 | ⏳ Updating    		            : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 13:05:25 |   🔄 Updating fields          : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 13:05:25 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:25 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:25 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:25 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:25 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:29 |   ✅ Updated fields           : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 13:05:29 |   🔄 Commenting               : DRT-3278 ('KPIT_TC_DRT_MET_011')
+2026-01-06 13:05:29 |     Date                      : 2025-12-24
+2026-01-06 13:05:29 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:29 |     Result                    : Fail
+2026-01-06 13:05:29 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:29 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:29 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:29 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:29 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:29 |     Reviewer                  : Rajashri
+2026-01-06 13:05:30 |   🔄 Commented                : DRT-3278 ('KPIT_TC_DRT_MET_011') | Comment ID: 137077
+
+2026-01-06 13:05:30 | ⏳ Updating    		            : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 13:05:30 |   🔄 Updating fields          : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 13:05:30 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:30 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:30 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:30 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:30 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:31 |   ✅ Updated fields           : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 13:05:31 |   🔄 Commenting               : DRT-3277 ('KPIT_TC_DRT_MET_021')
+2026-01-06 13:05:31 |     Date                      : 2025-12-24
+2026-01-06 13:05:31 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:31 |     Result                    : Fail
+2026-01-06 13:05:31 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:31 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:31 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:31 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:31 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:31 |     Reviewer                  : Rajashri
+2026-01-06 13:05:32 |   🔄 Commented                : DRT-3277 ('KPIT_TC_DRT_MET_021') | Comment ID: 137078
+
+2026-01-06 13:05:32 | ⏳ Updating    		            : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 13:05:32 |   🔄 Updating fields          : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 13:05:32 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:32 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:32 |     Previous Failure Category : ['Human Error', 'ICB Issue (Once)', 'Test Env Issue']
+2026-01-06 13:05:32 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:32 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:33 |   ✅ Updated fields           : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 13:05:33 |   🔄 Commenting               : DRT-3136 ('KPIT_TC_DRT_SPCCP_069')
+2026-01-06 13:05:33 |     Date                      : 2025-12-24
+2026-01-06 13:05:33 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:33 |     Result                    : Fail
+2026-01-06 13:05:33 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:33 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:33 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:33 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:33 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:33 |     Reviewer                  : Rajashri
+2026-01-06 13:05:34 |   🔄 Commented                : DRT-3136 ('KPIT_TC_DRT_SPCCP_069') | Comment ID: 137079
+
+2026-01-06 13:05:34 | ⏳ Updating    		            : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 13:05:34 |   🔄 Updating fields          : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 13:05:34 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:34 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:34 |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2026-01-06 13:05:34 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:34 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:35 |   ✅ Updated fields           : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 13:05:35 |   🔄 Commenting               : DRT-2049 ('KPIT_TC_DRT_MET_022')
+2026-01-06 13:05:35 |     Date                      : 2025-12-24
+2026-01-06 13:05:35 |     Build Number              : AEA1412S1.251223.1
+2026-01-06 13:05:35 |     Result                    : Fail
+2026-01-06 13:05:35 |     Failure Category          : ICB Issue (Once)
+2026-01-06 13:05:35 |     Failure Sub Category      : Timing Issue
+2026-01-06 13:05:35 |     Root Cause Details        : ICB took more time for anti-theft screen, in previous TS.
+2026-01-06 13:05:35 |     Fixation Performed        : Increased loop counter for whilenot loop.
+2026-01-06 13:05:35 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-06 13:05:35 |     Reviewer                  : Rajashri
+2026-01-06 13:05:35 |   🔄 Commented                : DRT-2049 ('KPIT_TC_DRT_MET_022') | Comment ID: 137080
+
+2026-01-06 13:05:35 | ✅ Jira Update Completed.

@@ -1,0 +1,4 @@
+2026-03-19 09:31:00,797 | ERROR | [ERROR] Could not process A15-3448: 'KPIT_TC_DRT_USB_132 : <class 'jira.resources.CustomFieldOption'> object has no attribute 'lower' ('CustomFieldOption' object is not subscriptable).
+
+2026-03-19 09:31:00,798 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

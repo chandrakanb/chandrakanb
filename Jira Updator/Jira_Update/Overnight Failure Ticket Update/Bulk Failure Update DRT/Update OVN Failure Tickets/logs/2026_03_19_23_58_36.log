@@ -1,0 +1,126 @@
+2026-03-19 23:58:38,447 | INFO | ⏳ Updating 'DRT-3932: KPIT_TC_DRT_VEND_006'...
+2026-03-19 23:58:38,448 | INFO |   🔄 Updating fields for DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2026-03-19 23:58:38,449 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:38,450 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:38,451 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 23:58:38,452 | INFO |     Root Cause Details : While connecting Phone2 as wireless android auto, after selecting Yes on android auto connnection popup, "Your Phone is unable to connect to the wireless access point in your vehicle" popup displayed,
+And android auto disclaimer popup come after that, Hence wireless android auto not connected.
+2026-03-19 23:58:38,453 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:38,453 | INFO |   ✅ Updated fields for DRT-3932: 'KPIT_TC_DRT_VEND_006.
+2026-03-19 23:58:38,454 | INFO |   🔄 Commenting on DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2026-03-19 23:58:38,454 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:38,454 | INFO |     Result : Fail
+2026-03-19 23:58:38,455 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:38,456 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:38,456 | INFO |     Root Cause Details : While connecting Phone2 as wireless android auto, after selecting Yes on android auto connnection popup, "Your Phone is unable to connect to the wireless access point in your vehicle" popup displayed,
+And android auto disclaimer popup come after that, Hence wireless android auto not connected.
+2026-03-19 23:58:38,456 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:38,457 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:38,458 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:39,580 | INFO |   ✅ Commented on DRT-3932: 'KPIT_TC_DRT_VEND_006.
+
+2026-03-19 23:58:40,477 | INFO | ⏳ Updating 'DRT-2139: KPIT_TC_DRT_BZA_013'...
+2026-03-19 23:58:40,477 | INFO |   🔄 Updating fields for DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2026-03-19 23:58:40,478 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:40,479 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:40,480 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 23:58:40,480 | INFO |     Root Cause Details : While connecting Phone2 as wireless android auto, after selecting Yes on android auto connnection popup, "Your Phone is unable to connect to the wireless access point in your vehicle" popup displayed,
+And android auto disclaimer popup come after that, Hence wireless android auto not connected.
+2026-03-19 23:58:40,481 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:40,482 | INFO |   ✅ Updated fields for DRT-2139: 'KPIT_TC_DRT_BZA_013.
+2026-03-19 23:58:40,482 | INFO |   🔄 Commenting on DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2026-03-19 23:58:40,482 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:40,482 | INFO |     Result : Fail
+2026-03-19 23:58:40,483 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:40,483 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:40,483 | INFO |     Root Cause Details : While connecting Phone2 as wireless android auto, after selecting Yes on android auto connnection popup, "Your Phone is unable to connect to the wireless access point in your vehicle" popup displayed,
+And android auto disclaimer popup come after that, Hence wireless android auto not connected.
+2026-03-19 23:58:40,484 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:40,484 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:40,484 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:41,891 | INFO |   ✅ Commented on DRT-2139: 'KPIT_TC_DRT_BZA_013.
+
+2026-03-19 23:58:42,237 | INFO | ⏳ Updating 'DRT-1818: KPIT_TC_DRT_BT_033'...
+2026-03-19 23:58:42,238 | INFO |   🔄 Updating fields for DRT-1818: 'KPIT_TC_DRT_BT_033...
+2026-03-19 23:58:42,238 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:42,239 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:42,239 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'ICB Issue (Once)', 'Human Error']
+2026-03-19 23:58:42,240 | INFO |     Root Cause Details : In precondition to connect Phone2 as BT device, Device list is not loaded on Phone2 after selecting scan on BT tab in Kite app.
+2026-03-19 23:58:42,241 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:42,242 | INFO |   ✅ Updated fields for DRT-1818: 'KPIT_TC_DRT_BT_033.
+2026-03-19 23:58:42,242 | INFO |   🔄 Commenting on DRT-1818: 'KPIT_TC_DRT_BT_033...
+2026-03-19 23:58:42,243 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:42,243 | INFO |     Result : Fail
+2026-03-19 23:58:42,244 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:42,244 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:42,245 | INFO |     Root Cause Details : In precondition to connect Phone2 as BT device, Device list is not loaded on Phone2 after selecting scan on BT tab in Kite app.
+2026-03-19 23:58:42,245 | INFO |     Fixation Performed : Restarted Phone and updated android auto application on Phone2.
+2026-03-19 23:58:42,246 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:42,247 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:42,822 | INFO |   ✅ Commented on DRT-1818: 'KPIT_TC_DRT_BT_033.
+
+2026-03-19 23:58:43,554 | INFO | ⏳ Updating 'DRT-7395: KPIT_TC_DRT_SPCAA_074'...
+2026-03-19 23:58:43,555 | INFO |   🔄 Updating fields for DRT-7395: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-19 23:58:43,555 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:43,556 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:43,557 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 23:58:43,558 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:43,559 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:43,559 | INFO |   ✅ Updated fields for DRT-7395: 'KPIT_TC_DRT_SPCAA_074.
+2026-03-19 23:58:43,560 | INFO |   🔄 Commenting on DRT-7395: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-19 23:58:43,560 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:43,561 | INFO |     Result : Fail
+2026-03-19 23:58:43,561 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:43,562 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:43,563 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:43,563 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:43,564 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:43,565 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:44,258 | INFO |   ✅ Commented on DRT-7395: 'KPIT_TC_DRT_SPCAA_074.
+
+2026-03-19 23:58:44,978 | INFO | ⏳ Updating 'DRT-7396: KPIT_TC_DRT_SPCAA_075'...
+2026-03-19 23:58:44,979 | INFO |   🔄 Updating fields for DRT-7396: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-19 23:58:44,979 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:44,980 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:44,980 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 23:58:44,981 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:44,981 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:44,982 | INFO |   ✅ Updated fields for DRT-7396: 'KPIT_TC_DRT_SPCAA_075.
+2026-03-19 23:58:44,982 | INFO |   🔄 Commenting on DRT-7396: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-19 23:58:44,983 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:44,983 | INFO |     Result : Fail
+2026-03-19 23:58:44,984 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:44,984 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:44,984 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:44,985 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:44,985 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:44,986 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:45,864 | INFO |   ✅ Commented on DRT-7396: 'KPIT_TC_DRT_SPCAA_075.
+
+2026-03-19 23:58:46,502 | INFO | ⏳ Updating 'DRT-5927: KPIT_TC_DRT_HFT_020'...
+2026-03-19 23:58:46,503 | INFO |   🔄 Updating fields for DRT-5927: 'KPIT_TC_DRT_HFT_020...
+2026-03-19 23:58:46,503 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:46,504 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:46,504 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-19 23:58:46,505 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:46,505 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:46,506 | INFO |   ✅ Updated fields for DRT-5927: 'KPIT_TC_DRT_HFT_020.
+2026-03-19 23:58:46,506 | INFO |   🔄 Commenting on DRT-5927: 'KPIT_TC_DRT_HFT_020...
+2026-03-19 23:58:46,506 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-19 23:58:46,507 | INFO |     Result : Fail
+2026-03-19 23:58:46,507 | INFO |     Failure Category : Test Env issue
+2026-03-19 23:58:46,507 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-19 23:58:46,508 | INFO |     Root Cause Details : Phone2 side active call validation failed.
+As different Audio length of recorded audio for beep audio validation.
+2026-03-19 23:58:46,508 | INFO |     Fixation Performed : NA
+2026-03-19 23:58:46,509 | INFO |     Remarks : Executed manually in daytime, result: Pass.
+2026-03-19 23:58:46,509 | INFO |     Reviewer : Rajashri
+2026-03-19 23:58:47,135 | INFO |   ✅ Commented on DRT-5927: 'KPIT_TC_DRT_HFT_020.
+
+2026-03-19 23:58:47,136 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,19 @@
+3. Schedule the Task Using Task Scheduler
+
+Press Win + S, type Task Scheduler, and open it.
+
+Task Scheduler >> Create Task
+
+Configure the task:
+
+General Tab >> Enter a name >> "Run Batch File Hourly" >> Select Run when the user is logged on.
+
+Triggers Tab >> New >> Begin the task to On a schedule >> Repeat task every field to 1 hour >> duration (Indefinitely).
+
+Actions Tab >> Program/script >> powershell.exe >> Add arguments >> -WindowStyle Hidden -Command "& {Start-Process 'path\to\yourfile.bat' -WindowStyle Hidden}"
+
+Conditions Tab >> Uncheck Start the task only if the computer is on AC power if you want it to run on battery.
+
+Settings Tab >> Ensure Allow task to be run on demand is checked.
+
+Click OK to save the task.

@@ -1,0 +1,52 @@
+2026-01-01 21:08:49 | 🚀 Jira Update Started.
+
+2026-01-01 21:08:51 | ⏳ Updating    		            : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:51 |   🔄 Updating fields          : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:51 |     Failure Category          : KITE Issue
+2026-01-01 21:08:51 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 21:08:51 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issue']
+2026-01-01 21:08:51 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 21:08:51 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 21:08:53 |   ✅ Updated fields           : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:53 |   🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:53 |     Date                      : 2025-12-23
+2026-01-01 21:08:53 |     Build Number              : AEA1414R0.251223.1
+2026-01-01 21:08:53 |     Result                    : Fail
+2026-01-01 21:08:53 |     Failure Category          : KITE Issue
+2026-01-01 21:08:53 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 21:08:53 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 21:08:53 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 21:08:53 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-01 21:08:53 |     Reviewer                  : Rajashri
+2026-01-01 21:08:54 |   🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135686
+
+2026-01-01 21:08:56 | ⏳ Updating    		            : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:56 |   🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:56 |     Date                      : 2025-12-23
+2026-01-01 21:08:56 |     Result                    : Pass
+2026-01-01 21:08:56 |     Build Number              : AEA1414R0.251223.1
+2026-01-01 21:08:57 |   🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135687
+
+2026-01-01 21:08:57 | ⏳ Updating    		            : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:57 |   🔄 Updating fields          : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:57 |     Failure Category          : KITE Issue
+2026-01-01 21:08:57 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 21:08:57 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issue']
+2026-01-01 21:08:57 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 21:08:58 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 21:08:59 |   ✅ Updated fields           : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:59 |   🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 21:08:59 |     Date                      : 2025-12-23
+2026-01-01 21:08:59 |     Build Number              : AEA1414R0.251223.1
+2026-01-01 21:08:59 |     Result                    : Fail
+2026-01-01 21:08:59 |     Failure Category          : KITE Issue
+2026-01-01 21:08:59 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 21:08:59 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 21:08:59 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 21:08:59 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-01 21:08:59 |     Reviewer                  : Rajashri
+2026-01-01 21:08:59 | ⚠ Jira Update cancelled by user.
+2026-01-01 21:09:00 |   🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135688
+
+2026-01-01 21:09:00 | ⚠ Jira Update stopped before completion.
+2026-01-01 21:09:00 | ⚠ Jira Update Cancelled.

@@ -1,0 +1,24 @@
+2026-03-05 18:15:35,132 | INFO | Token loaded from Environment Variable
+2026-03-05 18:15:35,440 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-03-05 18:15:37,194 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-03-05 18:15:37,833 | INFO | Ticket DRT-5002 is transited till status: Ready for review
+2026-03-05 18:15:38,834 | INFO | Ticket DRT-2305 is transited till status: Ready for review
+2026-03-05 18:15:39,987 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2026-03-05 18:15:40,660 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2026-03-05 18:15:41,579 | INFO | Ticket DRT-7395 is transited till status: Ready for review
+2026-03-05 18:15:42,169 | INFO | Ticket DRT-7396 is transited till status: Ready for review
+2026-03-05 18:15:43,090 | INFO | Ticket DRT-5927 is transited till status: Ready for review
+2026-03-05 18:15:44,406 | INFO | Ticket DRT-2140 is transited till status: Ready for review
+2026-03-05 18:15:45,073 | INFO | Ticket DRT-5249 is transited till status: Ready for review
+2026-03-05 18:15:45,678 | INFO | Ticket DRT-2054 is transited till status: Ready for review
+2026-03-05 18:15:46,679 | INFO | Ticket DRT-1847 is transited till status: Ready for review
+2026-03-05 18:15:47,265 | INFO | Ticket DRT-3549 is transited till status: Ready for review
+2026-03-05 18:15:48,166 | INFO | Ticket DRT-6270 is transited till status: Ready for review
+2026-03-05 18:15:48,743 | INFO | Ticket DRT-7397 is transited till status: Ready for review
+2026-03-05 18:15:49,645 | INFO | Ticket DRT-6220 is transited till status: Ready for review
+2026-03-05 18:15:50,303 | INFO | Ticket DRT-1815 is transited till status: Ready for review
+2026-03-05 18:15:50,854 | INFO | Ticket DRT-6030 is transited till status: Ready for review
+2026-03-05 18:15:51,431 | INFO | Ticket DRT-6000 is transited till status: Ready for review
+2026-03-05 18:15:52,372 | INFO | Ticket DRT-4627 is transited till status: Ready for review
+2026-03-05 18:15:52,373 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

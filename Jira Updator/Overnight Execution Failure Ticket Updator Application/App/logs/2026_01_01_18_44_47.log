@@ -1,0 +1,30 @@
+2026-01-01 18:44:47 | 🚀 Jira Update Started.
+
+2026-01-01 18:44:48 | ⏳ Updating    		            : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:48 |   🔄 Updating fields          : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:48 |     Failure Category          : KITE Issue
+2026-01-01 18:44:48 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 18:44:48 |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'KITE Issue']
+2026-01-01 18:44:48 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 18:44:48 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 18:44:50 |   ✅ Updated fields           : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:50 |   🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:50 |     Date                      : 2025-12-23
+2026-01-01 18:44:50 |     Build Number              : AEA1414R0.251223.1
+2026-01-01 18:44:50 |     Result                    : Fail
+2026-01-01 18:44:50 |     Failure Category          : KITE Issue
+2026-01-01 18:44:50 |     Failure Sub Category      : KITE Application Issue
+2026-01-01 18:44:50 |     Root Cause Details        : No active appium session for Phone8. In between TS. Hence Further operation failed.
+2026-01-01 18:44:50 |     Fixation Performed        : Updated Batch file with adb over wifi connect command.
+2026-01-01 18:44:50 |     Remarks                   : Executed in daytime, result: Pass.
+2026-01-01 18:44:50 |     Reviewer                  : Rajashri
+2026-01-01 18:44:51 |   🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135681
+
+2026-01-01 18:44:51 | ⏳ Updating    		            : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:51 |   🔄 Commenting               : DRT-6298 ('KPIT_TC_DRT_LMG_012')
+2026-01-01 18:44:51 |     Date                      : 2025-12-23
+2026-01-01 18:44:51 |     Result                    : Pass
+2026-01-01 18:44:51 |     Build Number              : AEA1414R0.251223.1
+2026-01-01 18:44:52 |   🔄 Commented                : DRT-6298 ('KPIT_TC_DRT_LMG_012') | Comment ID: 135682
+
+2026-01-01 18:44:52 | ✅ Jira Update Completed.

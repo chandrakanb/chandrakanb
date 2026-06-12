@@ -1,0 +1,149 @@
+2025-12-20 15:51:40,066 | INFO | ⏳ Updating 'DRT-2038: KPIT_TC_DRT_BTA_024'...
+2025-12-20 15:51:40,067 | INFO |   🔄 Updating fields for DRT-2038: 'KPIT_TC_DRT_BTA_024...
+2025-12-20 15:51:40,068 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:40,069 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:40,070 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-12-20 15:51:40,070 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:40,072 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:40,072 | INFO |     Remarks : PJ04DEF00-507
+2025-12-20 15:51:40,074 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:40,882 | INFO |   ✅ Updated fields for DRT-2038: 'KPIT_TC_DRT_BTA_024.
+2025-12-20 15:51:40,883 | INFO |   🔄 Commenting on DRT-2038: 'KPIT_TC_DRT_BTA_024...
+2025-12-20 15:51:40,883 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:51:40,883 | INFO |     Result : Fail
+2025-12-20 15:51:40,884 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:40,884 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:40,885 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:40,885 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:41,499 | INFO |   ✅ Commented on DRT-2038: 'KPIT_TC_DRT_BTA_024.
+
+2025-12-20 15:51:41,795 | INFO | ⏳ Updating 'DRT-1810: KPIT_TC_DRT_BTA_020'...
+2025-12-20 15:51:41,796 | INFO |   🔄 Updating fields for DRT-1810: 'KPIT_TC_DRT_BTA_020...
+2025-12-20 15:51:41,796 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:41,797 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:41,798 | INFO |     Previous Failure Category : ['KITE Issues', 'ICB Issue (Always)', 'ICB Issue (Once)']
+2025-12-20 15:51:41,799 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:41,799 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:41,800 | INFO |     Remarks : PJ04DEF00-507
+2025-12-20 15:51:41,800 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:42,113 | ERROR | [ERROR] Could not process DRT-1810: 'KPIT_TC_DRT_BTA_020 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17962
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:21:42 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '105947d19967582b3b06af6954f5256c', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '2d39fcc7137e4ee38927eb54db468d2e', 'Atl-Request-Id': '2d39fcc7-137e-4ee3-8927-eb54db468d2e', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=169,atl-edge-internal;dur=15,atl-edge-upstream;dur=155,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 147e8b4a67415ed6ed50ac5b9ae901ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'FogO7EVdysodZIbssbimBgFJW7S56AN75yG7fJAYFzCOuhg-gYH7hQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 15:51:42,389 | INFO | ⏳ Updating 'DRT-4840: KPIT_TC_DRT_BTA_021'...
+2025-12-20 15:51:42,390 | INFO |   🔄 Updating fields for DRT-4840: 'KPIT_TC_DRT_BTA_021...
+2025-12-20 15:51:42,391 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:42,391 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:42,391 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)', 'TS Issue']
+2025-12-20 15:51:42,392 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:42,393 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:42,393 | INFO |     Remarks : PJ04DEF00-507
+2025-12-20 15:51:42,394 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:43,230 | INFO |   ✅ Updated fields for DRT-4840: 'KPIT_TC_DRT_BTA_021.
+2025-12-20 15:51:43,231 | INFO |   🔄 Commenting on DRT-4840: 'KPIT_TC_DRT_BTA_021...
+2025-12-20 15:51:43,232 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:51:43,232 | INFO |     Result : Fail
+2025-12-20 15:51:43,233 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:43,244 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:43,245 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:43,246 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:43,841 | INFO |   ✅ Commented on DRT-4840: 'KPIT_TC_DRT_BTA_021.
+
+2025-12-20 15:51:44,114 | INFO | ⏳ Updating 'DRT-4839: KPIT_TC_DRT_BTA_032'...
+2025-12-20 15:51:44,115 | INFO |   🔄 Updating fields for DRT-4839: 'KPIT_TC_DRT_BTA_032...
+2025-12-20 15:51:44,116 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:44,116 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:44,117 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'ICB Issue (Once)']
+2025-12-20 15:51:44,117 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:44,118 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:44,118 | INFO |     Remarks : PJ04DEF00-507
+2025-12-20 15:51:44,118 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:44,883 | INFO |   ✅ Updated fields for DRT-4839: 'KPIT_TC_DRT_BTA_032.
+2025-12-20 15:51:44,883 | INFO |   🔄 Commenting on DRT-4839: 'KPIT_TC_DRT_BTA_032...
+2025-12-20 15:51:44,884 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:51:44,884 | INFO |     Result : Fail
+2025-12-20 15:51:44,884 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:44,885 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 15:51:44,885 | INFO |     Root Cause Details : "No Data" popup is displayed when "Samsung Music" Folder is selected from "Music Library" Screen
+2025-12-20 15:51:44,886 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:45,390 | INFO |   ✅ Commented on DRT-4839: 'KPIT_TC_DRT_BTA_032.
+
+2025-12-20 15:51:45,700 | INFO | ⏳ Updating 'DRT-4830: KPIT_TC_DRT_PRM_014'...
+2025-12-20 15:51:45,700 | INFO |   🔄 Updating fields for DRT-4830: 'KPIT_TC_DRT_PRM_014...
+2025-12-20 15:51:45,701 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:45,701 | INFO |     Failure Sub Category : Timing Issue
+2025-12-20 15:51:45,702 | INFO |     Previous Failure Category : ['ICB Issue (Always)']
+2025-12-20 15:51:45,702 | INFO |     Root Cause Details : "Could not load your profile settings" text displayed below "Enter your pin" on lock screen, hence Enter Pin Screen validation failed.
+2025-12-20 15:51:45,703 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:45,703 | INFO |     Remarks : We will keep this issue under obervation.
+2025-12-20 15:51:45,703 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:46,550 | INFO |   ✅ Updated fields for DRT-4830: 'KPIT_TC_DRT_PRM_014.
+2025-12-20 15:51:46,551 | INFO |   🔄 Commenting on DRT-4830: 'KPIT_TC_DRT_PRM_014...
+2025-12-20 15:51:46,551 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:51:46,552 | INFO |     Result : Fail
+2025-12-20 15:51:46,552 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 15:51:46,553 | INFO |     Failure Sub Category : Timing Issue
+2025-12-20 15:51:46,553 | INFO |     Root Cause Details : "Could not load your profile settings" text displayed below "Enter your pin" on lock screen, hence Enter Pin Screen validation failed.
+2025-12-20 15:51:46,554 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:47,081 | INFO |   ✅ Commented on DRT-4830: 'KPIT_TC_DRT_PRM_014.
+
+2025-12-20 15:51:47,349 | INFO | ⏳ Updating 'DRT-5769: KPIT_TC_DRT_PLS_006'...
+2025-12-20 15:51:47,350 | INFO |   🔄 Updating fields for DRT-5769: 'KPIT_TC_DRT_PLS_006...
+2025-12-20 15:51:47,350 | INFO |     Failure Category : KITE Issue
+2025-12-20 15:51:47,351 | INFO |     Failure Sub Category : Image Comparision
+2025-12-20 15:51:47,351 | INFO |     Previous Failure Category : ['KITE Issues', 'Test Env Issue']
+2025-12-20 15:51:47,351 | INFO |     Root Cause Details : "CLICK_BY_TEXT" command failed even if the "Spotify" text is present on screen.
+2025-12-20 15:51:47,351 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:47,352 | INFO |     Remarks : BUG ID: 3017360
+2025-12-20 15:51:47,352 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:47,639 | ERROR | [ERROR] Could not process DRT-5769: 'KPIT_TC_DRT_PLS_006 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2166002
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:21:47 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'ef5ca86ee3efef1923b6af56608ba465', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '324a4acf7aff49ff92c38df12d7de472', 'Atl-Request-Id': '324a4acf-7aff-49ff-92c3-8df12d7de472', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=143,atl-edge-internal;dur=13,atl-edge-upstream;dur=129,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 147e8b4a67415ed6ed50ac5b9ae901ac.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM54-P2', 'X-Amz-Cf-Id': 'wU-uXbvQQJbPYfhnbkCVaU8f3ac-IYmsZO0bwRHMo5zQ7VnrxCPBhw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 15:51:47,978 | INFO | ⏳ Updating 'DRT-1848: KPIT_TC_DRT_BTA_053'...
+2025-12-20 15:51:47,979 | INFO |   🔄 Updating fields for DRT-1848: 'KPIT_TC_DRT_BTA_053...
+2025-12-20 15:51:47,979 | INFO |     Failure Category : TS Issue
+2025-12-20 15:51:47,979 | INFO |     Failure Sub Category : FB Modification Required
+2025-12-20 15:51:47,980 | INFO |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2025-12-20 15:51:47,980 | INFO |     Root Cause Details : "SET_HOME" command failed with error WebDriverAgent Timeout .
+2025-12-20 15:51:47,980 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:47,981 | INFO |     Remarks : NA
+2025-12-20 15:51:47,981 | INFO |     Reviewer : Yukta Rane
+2025-12-20 15:51:48,798 | INFO |   ✅ Updated fields for DRT-1848: 'KPIT_TC_DRT_BTA_053.
+2025-12-20 15:51:48,799 | INFO |   🔄 Commenting on DRT-1848: 'KPIT_TC_DRT_BTA_053...
+2025-12-20 15:51:48,799 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 15:51:48,801 | INFO |     Result : Fail
+2025-12-20 15:51:48,801 | INFO |     Failure Category : TS Issue
+2025-12-20 15:51:48,801 | INFO |     Failure Sub Category : FB Modification Required
+2025-12-20 15:51:48,801 | INFO |     Root Cause Details : "SET_HOME" command failed with error WebDriverAgent Timeout .
+2025-12-20 15:51:48,801 | INFO |     Fixation Performed : NA
+2025-12-20 15:51:49,400 | INFO |   ✅ Commented on DRT-1848: 'KPIT_TC_DRT_BTA_053.
+
+2025-12-20 15:51:49,738 | INFO |   🔄 Commenting on DRT-4831: 'KPIT_TC_DRT_PRM_011...
+2025-12-20 15:51:49,739 | INFO |     Date : 2025-12-20
+2025-12-20 15:51:49,740 | INFO |     Result : Pass
+2025-12-20 15:51:49,740 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 15:51:50,608 | INFO |   ✅ Commented on DRT-4831: 'KPIT_TC_DRT_PRM_011.
+
+2025-12-20 15:51:50,929 | INFO |   🔄 Commenting on DRT-4829: 'KPIT_TC_DRT_PRM_015...
+2025-12-20 15:51:50,930 | INFO |     Date : 2025-12-20
+2025-12-20 15:51:50,930 | INFO |     Result : Pass
+2025-12-20 15:51:50,930 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 15:51:51,445 | INFO |   ✅ Commented on DRT-4829: 'KPIT_TC_DRT_PRM_015.
+
+2025-12-20 15:51:51,749 | INFO |   🔄 Commenting on DRT-4354: 'KPIT_TC_DRT_BTA_018...
+2025-12-20 15:51:51,750 | INFO |     Date : 2025-12-20
+2025-12-20 15:51:51,750 | INFO |     Result : Pass
+2025-12-20 15:51:51,751 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 15:51:52,604 | INFO |   ✅ Commented on DRT-4354: 'KPIT_TC_DRT_BTA_018.
+
+2025-12-20 15:51:52,879 | INFO |   🔄 Commenting on DRT-1814: 'KPIT_TC_DRT_BTA_025...
+2025-12-20 15:51:52,879 | INFO |     Date : 2025-12-20
+2025-12-20 15:51:52,880 | INFO |     Result : Pass
+2025-12-20 15:51:52,880 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 15:51:53,469 | INFO |   ✅ Commented on DRT-1814: 'KPIT_TC_DRT_BTA_025.
+
+2025-12-20 15:51:53,470 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

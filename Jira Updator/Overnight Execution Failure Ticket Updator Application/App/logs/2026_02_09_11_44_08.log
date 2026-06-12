@@ -1,0 +1,123 @@
+2026-02-09 11:44:08 | 🚀 Jira Update Started.
+
+2026-02-09 11:44:08 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:44:08 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:44:08 |     Failure Category          : KITE Issue
+2026-02-09 11:44:08 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:08 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:08 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:08 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:09 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:44:09 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:44:09 |     Date                      : 2026-02-06
+2026-02-09 11:44:09 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:09 |     Result                    : Fail
+2026-02-09 11:44:09 |     Failure Category          : KITE Issue
+2026-02-09 11:44:09 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:09 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:09 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:09 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:09 |     Reviewer                  : Rajashri
+2026-02-09 11:44:10 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 156303
+
+2026-02-09 11:44:10 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-09 11:44:10 |   🔄 Updating fields          : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-09 11:44:10 |     Failure Category          : KITE Issue
+2026-02-09 11:44:10 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:10 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:10 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:10 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:12 |   ✅ Updated fields           : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-09 11:44:12 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-09 11:44:12 |     Date                      : 2026-02-06
+2026-02-09 11:44:12 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:12 |     Result                    : Fail
+2026-02-09 11:44:12 |     Failure Category          : KITE Issue
+2026-02-09 11:44:12 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:12 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:12 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:12 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:12 |     Reviewer                  : Rajashri
+2026-02-09 11:44:12 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 156304
+
+2026-02-09 11:44:13 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-09 11:44:13 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-09 11:44:13 |     Failure Category          : KITE Issue
+2026-02-09 11:44:13 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:13 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:13 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:13 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:14 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-09 11:44:14 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-09 11:44:14 |     Date                      : 2026-02-06
+2026-02-09 11:44:14 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:14 |     Result                    : Fail
+2026-02-09 11:44:14 |     Failure Category          : KITE Issue
+2026-02-09 11:44:14 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:14 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:14 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:14 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:14 |     Reviewer                  : Rajashri
+2026-02-09 11:44:14 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 156305
+
+2026-02-09 11:44:15 | ⏳ Updating    		            : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-09 11:44:15 |   🔄 Updating fields          : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-09 11:44:15 |     Failure Category          : KITE Issue
+2026-02-09 11:44:15 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:15 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:15 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:15 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:16 |   ✅ Updated fields           : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-09 11:44:16 |   🔄 Commenting               : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-09 11:44:16 |     Date                      : 2026-02-06
+2026-02-09 11:44:16 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:16 |     Result                    : Fail
+2026-02-09 11:44:16 |     Failure Category          : KITE Issue
+2026-02-09 11:44:16 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:16 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:16 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:16 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:16 |     Reviewer                  : Rajashri
+2026-02-09 11:44:17 |   🔄 Commented                : DRT-2308 ('KPIT_TC_DRT_BZA_005') | Comment ID: 156306
+
+2026-02-09 11:44:17 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-09 11:44:17 |   🔄 Updating fields          : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-09 11:44:17 |     Failure Category          : KITE Issue
+2026-02-09 11:44:17 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:17 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:17 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:17 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:18 |   ✅ Updated fields           : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-09 11:44:18 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-09 11:44:18 |     Date                      : 2026-02-06
+2026-02-09 11:44:18 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:18 |     Result                    : Fail
+2026-02-09 11:44:18 |     Failure Category          : KITE Issue
+2026-02-09 11:44:18 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:18 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:18 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:18 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:18 |     Reviewer                  : Rajashri
+2026-02-09 11:44:19 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 156307
+
+2026-02-09 11:44:19 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-09 11:44:19 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-09 11:44:19 |     Failure Category          : KITE Issue
+2026-02-09 11:44:19 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:19 |     Previous Failure Category : ['KITE Issue', 'Test Env Issue']
+2026-02-09 11:44:19 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:19 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:20 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-09 11:44:20 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-09 11:44:20 |     Date                      : 2026-02-06
+2026-02-09 11:44:20 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:44:20 |     Result                    : Fail
+2026-02-09 11:44:20 |     Failure Category          : KITE Issue
+2026-02-09 11:44:20 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:44:20 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:44:20 |     Fixation Performed        : Modified the batch file to connect adb over wifi connection.
+2026-02-09 11:44:20 |     Remarks                   : Executed in daytime, result: Pass.
+2026-02-09 11:44:20 |     Reviewer                  : Rajashri
+2026-02-09 11:44:21 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 156308
+
+2026-02-09 11:44:21 | ✅ Jira Update Completed.

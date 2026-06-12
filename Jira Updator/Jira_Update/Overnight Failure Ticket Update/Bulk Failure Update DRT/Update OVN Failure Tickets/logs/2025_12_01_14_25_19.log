@@ -1,0 +1,27 @@
+2025-12-01 14:25:20,774 | INFO |   🔄 Commenting on DRT-1818: 'KPIT_TC_DRT_BT_033...
+2025-12-01 14:25:20,775 | INFO |     Date : 2025-11-27
+2025-12-01 14:25:20,775 | INFO |     Result : Pass
+2025-12-01 14:25:20,776 | INFO |     Boild Number : AEA1413R0.251127.1
+2025-12-01 14:25:21,405 | INFO |   ✅ Commented on DRT-1818: 'KPIT_TC_DRT_BT_033.
+
+2025-12-01 14:25:21,737 | INFO | ⏳ Updating 'DRT-1818: KPIT_TC_DRT_BT_033'...
+2025-12-01 14:25:21,738 | INFO |   🔄 Updating fields for DRT-1818: 'KPIT_TC_DRT_BT_033...
+2025-12-01 14:25:21,738 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:25:21,739 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:25:21,739 | INFO |     Previous Failure Category : ['Human Error', 'Test Env Issue', 'ICB Issue (Always)', 'ICB Issue (Once)']
+2025-12-01 14:25:21,741 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:25:21,741 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:25:21,742 | INFO |     Remarks : NA
+2025-12-01 14:25:21,742 | INFO |     Reviewer : Rajashri
+2025-12-01 14:25:22,673 | INFO |   ✅ Updated fields for DRT-1818: 'KPIT_TC_DRT_BT_033.
+2025-12-01 14:25:22,674 | INFO |   🔄 Commenting on DRT-1818: 'KPIT_TC_DRT_BT_033...
+2025-12-01 14:25:22,674 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:25:22,675 | INFO |     Result : Fail
+2025-12-01 14:25:22,675 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:25:22,676 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:25:22,676 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:25:22,677 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:25:23,204 | INFO |   ✅ Commented on DRT-1818: 'KPIT_TC_DRT_BT_033.
+
+2025-12-01 14:25:23,205 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

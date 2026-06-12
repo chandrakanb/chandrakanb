@@ -1,0 +1,26 @@
+2026-03-14 19:04:37,283 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 19:04:37,284 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 19:04:37,284 | INFO |     Failure Category : Human error
+2026-03-14 19:04:37,285 | INFO |     Failure Sub Category : -
+2026-03-14 19:04:37,285 | INFO |     Previous Failure Category : ['TS Issue', 'SRL/CR Changes', 'ICB Issue (Once)', 'ICB Issue (Always)', 'Human Error', 'Human error', 'KITE Issue', 'Test Env Issue']
+2026-03-14 19:04:37,285 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 19:04:37,286 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 19:04:37,619 | ERROR | [ERROR] Could not process DRT-7527: '12345 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3284918
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 14 Mar 2026 13:34:37 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '6575debb3582de5204612fff34b4e96f', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '1c245672df63475a89fb28abc388cef6', 'Atl-Request-Id': '1c245672-df63-475a-89fb-28abc388cef6', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=193,atl-edge-internal;dur=17,atl-edge-upstream;dur=175,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 5872fbe51a27cfccc81ebb3630f75e08.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P11', 'X-Amz-Cf-Id': 'GUYO7dXv52p58CR_p-nkshJKTkPC4xgS_ZP83VPkhU3W4-Pc-JMxOw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Human error' is not valid"}}.
+
+2026-03-14 19:04:38,297 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 19:04:38,298 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 19:04:38,298 | INFO |     Failure Category : KITE issue
+2026-03-14 19:04:38,299 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 19:04:38,299 | INFO |     Previous Failure Category : ['TS Issue', 'SRL/CR Changes', 'ICB Issue (Once)', 'ICB Issue (Always)', 'Human Error', 'Human error', 'KITE Issue', 'Test Env Issue']
+2026-03-14 19:04:38,299 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 19:04:38,300 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 19:04:38,981 | ERROR | [ERROR] Could not process DRT-7527: '12345 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/3284918
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 14 Mar 2026 13:34:38 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'a4f408242cabd0840aa670206aa503c9', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '7e5f4a2286c6486a9cac62a3813bd96b', 'Atl-Request-Id': '7e5f4a22-86c6-486a-9cac-62a3813bd96b', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=179,atl-edge-internal;dur=17,atl-edge-upstream;dur=162,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 5872fbe51a27cfccc81ebb3630f75e08.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P11', 'X-Amz-Cf-Id': 'BNSNj0QV-4AkOsNdY-Lv_dFvl3LlE2hu5BVzDFQh_DUQEYrd6MTKWA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'Human error' is not valid"}}.
+
+2026-03-14 19:04:38,982 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

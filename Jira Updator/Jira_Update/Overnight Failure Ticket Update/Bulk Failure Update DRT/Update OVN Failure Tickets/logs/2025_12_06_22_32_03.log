@@ -1,0 +1,151 @@
+2025-12-06 22:32:05,294 | INFO | ⏳ Updating 'DRT-3831: KPIT_TC_DRT_IPD_047'...
+2025-12-06 22:32:05,295 | INFO |   🔄 Updating fields for DRT-3831: 'KPIT_TC_DRT_IPD_047...
+2025-12-06 22:32:05,295 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:05,296 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:32:05,297 | INFO |     Previous Failure Category : ['KITE Issues']
+2025-12-06 22:32:05,298 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:32:05,298 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:32:05,299 | INFO |     Remarks : Root Cause is not found, We will keep this under observation.
+We will keep this under observation.
+2025-12-06 22:32:05,300 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:05,645 | ERROR | [ERROR] Could not process DRT-3831: 'KPIT_TC_DRT_IPD_047 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/23882
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 06 Dec 2025 17:02:05 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd4923b4ffd72689ffd1b4142ddf6bbf8', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'a522bad2cf8f40ea814f3119b3cf57fe', 'Atl-Request-Id': 'a522bad2-cf8f-40ea-814f-3119b3cf57fe', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=201,atl-edge-internal;dur=15,atl-edge-upstream;dur=185,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 814d785316b3b97f3947d5725de20452.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P1', 'X-Amz-Cf-Id': 'm7d1pabTqYGu7b1c0lLGe0FOQWZMMLzeEiwxSbjGKg2qd0D6b8j5Gw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-06 22:32:06,302 | INFO | ⏳ Updating 'DRT-6166: KPIT_TC_FNC_IPD_0534_0001'...
+2025-12-06 22:32:06,303 | INFO |   🔄 Updating fields for DRT-6166: 'KPIT_TC_FNC_IPD_0534_0001...
+2025-12-06 22:32:06,303 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:06,304 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:32:06,305 | INFO |     Previous Failure Category : []
+2025-12-06 22:32:06,306 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:32:06,306 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:32:06,307 | INFO |     Remarks : Root Cause is not found, We will keep this under observation.
+We will keep this under observation.
+2025-12-06 22:32:06,307 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:07,515 | INFO |   ✅ Updated fields for DRT-6166: 'KPIT_TC_FNC_IPD_0534_0001.
+2025-12-06 22:32:07,516 | INFO |   🔄 Commenting on DRT-6166: 'KPIT_TC_FNC_IPD_0534_0001...
+2025-12-06 22:32:07,517 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:07,517 | INFO |     Result : Fail
+2025-12-06 22:32:07,518 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:07,519 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:32:07,519 | INFO |     Root Cause Details : Even if Port3 is enabled, iPod not got connected to ICB. Even though it got connected in previous Test Pack.
+2025-12-06 22:32:07,520 | INFO |     Fixation Performed : Changed Test Pack sequence in Test Cycle.
+2025-12-06 22:32:08,508 | INFO |   ✅ Commented on DRT-6166: 'KPIT_TC_FNC_IPD_0534_0001.
+
+2025-12-06 22:32:09,203 | INFO | ⏳ Updating 'DRT-1732: KPIT_TC_DRT_LMG_021'...
+2025-12-06 22:32:09,204 | INFO |   🔄 Updating fields for DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-12-06 22:32:09,204 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:09,205 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:32:09,206 | INFO |     Previous Failure Category : ['ICB Issue (Always)', 'Test Env Issue', 'ICB Issue (Once)']
+2025-12-06 22:32:09,206 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 22:32:09,206 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:09,206 | INFO |     Remarks : NA
+2025-12-06 22:32:09,206 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:10,402 | INFO |   ✅ Updated fields for DRT-1732: 'KPIT_TC_DRT_LMG_021.
+2025-12-06 22:32:10,403 | INFO |   🔄 Commenting on DRT-1732: 'KPIT_TC_DRT_LMG_021...
+2025-12-06 22:32:10,403 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:10,403 | INFO |     Result : Fail
+2025-12-06 22:32:10,404 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:10,404 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-06 22:32:10,405 | INFO |     Root Cause Details : "Pairing code could not be verified" popup displayed while doing active pairing to phone1.
+2025-12-06 22:32:10,405 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:11,419 | INFO |   ✅ Commented on DRT-1732: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-06 22:32:11,720 | INFO | ⏳ Updating 'DRT-3915: KPIT_TC_DRT_VEND_006'...
+2025-12-06 22:32:11,721 | INFO |   🔄 Updating fields for DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-12-06 22:32:11,721 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:11,722 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:11,722 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-06 22:32:11,722 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:11,723 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:11,724 | INFO |     Remarks : Android auto got connected in daytime.
+2025-12-06 22:32:11,724 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:13,335 | INFO |   ✅ Updated fields for DRT-3915: 'KPIT_TC_DRT_VEND_006.
+2025-12-06 22:32:13,336 | INFO |   🔄 Commenting on DRT-3915: 'KPIT_TC_DRT_VEND_006...
+2025-12-06 22:32:13,336 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:13,337 | INFO |     Result : Fail
+2025-12-06 22:32:13,337 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:13,338 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:13,339 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:13,339 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:14,223 | INFO |   ✅ Commented on DRT-3915: 'KPIT_TC_DRT_VEND_006.
+
+2025-12-06 22:32:14,549 | INFO | ⏳ Updating 'DRT-3914: KPIT_TC_DRT_VEND_115'...
+2025-12-06 22:32:14,549 | INFO |   🔄 Updating fields for DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-06 22:32:14,549 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:14,549 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:14,550 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-12-06 22:32:14,550 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:14,551 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:14,551 | INFO |     Remarks : Android auto got connected in daytime.
+2025-12-06 22:32:14,551 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:15,575 | INFO |   ✅ Updated fields for DRT-3914: 'KPIT_TC_DRT_VEND_115.
+2025-12-06 22:32:15,575 | INFO |   🔄 Commenting on DRT-3914: 'KPIT_TC_DRT_VEND_115...
+2025-12-06 22:32:15,576 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:15,576 | INFO |     Result : Fail
+2025-12-06 22:32:15,576 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:15,578 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:15,578 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:15,579 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:16,119 | INFO |   ✅ Commented on DRT-3914: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-06 22:32:17,006 | INFO | ⏳ Updating 'DRT-1880: KPIT_TC_DRT_BZA_013'...
+2025-12-06 22:32:17,007 | INFO |   🔄 Updating fields for DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-12-06 22:32:17,007 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:17,007 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:17,008 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-06 22:32:17,008 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:17,008 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:17,008 | INFO |     Remarks : Android auto got connected in daytime.
+2025-12-06 22:32:17,009 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:18,057 | INFO |   ✅ Updated fields for DRT-1880: 'KPIT_TC_DRT_BZA_013.
+2025-12-06 22:32:18,057 | INFO |   🔄 Commenting on DRT-1880: 'KPIT_TC_DRT_BZA_013...
+2025-12-06 22:32:18,058 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:18,059 | INFO |     Result : Fail
+2025-12-06 22:32:18,059 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:18,060 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:18,060 | INFO |     Root Cause Details : Android auto didn't connected due to android auto application update on Phone2.
+2025-12-06 22:32:18,060 | INFO |     Fixation Performed : Updated android auto application and restarted Phone2.
+2025-12-06 22:32:19,077 | INFO |   ✅ Commented on DRT-1880: 'KPIT_TC_DRT_BZA_013.
+
+2025-12-06 22:32:19,494 | INFO | ⏳ Updating 'DRT-3980: KPIT_TC_DRT_VEND_114'...
+2025-12-06 22:32:19,494 | INFO |   🔄 Updating fields for DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-06 22:32:19,495 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:19,495 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:19,496 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2025-12-06 22:32:19,496 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-06 22:32:19,497 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:19,497 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-06 22:32:19,497 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:20,584 | INFO |   ✅ Updated fields for DRT-3980: 'KPIT_TC_DRT_VEND_114.
+2025-12-06 22:32:20,585 | INFO |   🔄 Commenting on DRT-3980: 'KPIT_TC_DRT_VEND_114...
+2025-12-06 22:32:20,585 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:20,586 | INFO |     Result : Fail
+2025-12-06 22:32:20,586 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:20,586 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:20,588 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-06 22:32:20,588 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:21,295 | INFO |   ✅ Commented on DRT-3980: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-06 22:32:21,970 | INFO | ⏳ Updating 'DRT-2125: KPIT_TC_DRT_VEND_113'...
+2025-12-06 22:32:21,971 | INFO |   🔄 Updating fields for DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-06 22:32:21,971 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:21,971 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:21,973 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-06 22:32:21,973 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-06 22:32:21,973 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:21,974 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-06 22:32:21,974 | INFO |     Reviewer : Rajashri
+2025-12-06 22:32:23,095 | INFO |   ✅ Updated fields for DRT-2125: 'KPIT_TC_DRT_VEND_113.
+2025-12-06 22:32:23,096 | INFO |   🔄 Commenting on DRT-2125: 'KPIT_TC_DRT_VEND_113...
+2025-12-06 22:32:23,096 | INFO |     Date AEA1415D0.251205.1 : 2025-11-05
+2025-12-06 22:32:23,096 | INFO |     Result : Fail
+2025-12-06 22:32:23,098 | INFO |     Failure Category : Test Env Issue
+2025-12-06 22:32:23,098 | INFO |     Failure Sub Category : External Application Issue
+2025-12-06 22:32:23,098 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-06 22:32:23,099 | INFO |     Fixation Performed : NA
+2025-12-06 22:32:23,656 | INFO |   ✅ Commented on DRT-2125: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-06 22:32:23,657 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

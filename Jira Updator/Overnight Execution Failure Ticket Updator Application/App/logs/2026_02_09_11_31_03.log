@@ -1,0 +1,23 @@
+2026-02-09 11:31:03 | 🚀 Jira Update Started.
+
+2026-02-09 11:31:03 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:31:03 |   🔄 Updating fields          : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:31:03 |     Failure Category          : KITE Issue
+2026-02-09 11:31:03 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:31:03 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-02-09 11:31:04 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:31:04 |     Fixation Performed        : 
+2026-02-09 11:31:04 |   ✅ Updated fields           : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:31:04 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-09 11:31:04 |     Date                      : 2026-02-06
+2026-02-09 11:31:04 |     Build Number              : AEA1416R0.260206.1
+2026-02-09 11:31:04 |     Result                    : Fail
+2026-02-09 11:31:04 |     Failure Category          : KITE Issue
+2026-02-09 11:31:04 |     Failure Sub Category      : KITE Application Issue
+2026-02-09 11:31:04 |     Root Cause Details        : CAPTURE_SCREEN command failed with "KITE Internal Error: The information is missing from plugin" for Phone8, Even though SET_DEVICE was Pass earlier, Hence wired android auto connection precondition failed.
+2026-02-09 11:31:04 |     Fixation Performed        : 
+2026-02-09 11:31:04 |     Remarks                   : 
+2026-02-09 11:31:04 |     Reviewer                  : Rajashri
+2026-02-09 11:31:05 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 156299
+
+2026-02-09 11:31:05 | ✅ Jira Update Completed.

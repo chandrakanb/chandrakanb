@@ -1,0 +1,671 @@
+⏳ Updating 'OSV-2626: KPIT_TC_DRT_SSR_008'...
+  🔄 Updating fields for OSV-2626: 'KPIT_TC_DRT_SSR_008...
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2626: 'KPIT_TC_DRT_SSR_008.
+  🔄 Commenting on OSV-2626: 'KPIT_TC_DRT_SSR_008...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2626: 'KPIT_TC_DRT_SSR_008.
+
+⏳ Updating 'OSV-2627: KPIT_TC_DRT_SSR_010'...
+  🔄 Updating fields for OSV-2627: 'KPIT_TC_DRT_SSR_010...
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2627: 'KPIT_TC_DRT_SSR_010.
+  🔄 Commenting on OSV-2627: 'KPIT_TC_DRT_SSR_010...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2627: 'KPIT_TC_DRT_SSR_010.
+
+⏳ Updating 'OSV-2629: KPIT_TC_DRT_ANT_013'...
+  🔄 Updating fields for OSV-2629: 'KPIT_TC_DRT_ANT_013...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Updated fields for OSV-2629: 'KPIT_TC_DRT_ANT_013.
+  🔄 Commenting on OSV-2629: 'KPIT_TC_DRT_ANT_013...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Commented on OSV-2629: 'KPIT_TC_DRT_ANT_013.
+
+⏳ Updating 'OSV-2638: KPIT_TC_DRT_ANT_005'...
+  🔄 Updating fields for OSV-2638: 'KPIT_TC_DRT_ANT_005...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Updated fields for OSV-2638: 'KPIT_TC_DRT_ANT_005.
+  🔄 Commenting on OSV-2638: 'KPIT_TC_DRT_ANT_005...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Commented on OSV-2638: 'KPIT_TC_DRT_ANT_005.
+
+⏳ Updating 'OSV-2639: KPIT_TC_DRT_ANT_009'...
+  🔄 Updating fields for OSV-2639: 'KPIT_TC_DRT_ANT_009...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Updated fields for OSV-2639: 'KPIT_TC_DRT_ANT_009.
+  🔄 Commenting on OSV-2639: 'KPIT_TC_DRT_ANT_009...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Commented on OSV-2639: 'KPIT_TC_DRT_ANT_009.
+
+⏳ Updating 'OSV-2624: KPIT_TC_DRT_HAC_072'...
+  🔄 Updating fields for OSV-2624: 'KPIT_TC_DRT_HAC_072...
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2624: 'KPIT_TC_DRT_HAC_072.
+  🔄 Commenting on OSV-2624: 'KPIT_TC_DRT_HAC_072...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2624: 'KPIT_TC_DRT_HAC_072.
+
+⏳ Updating 'OSV-2615: KPIT_TC_DRT_SPCAA_073'...
+  🔄 Updating fields for OSV-2615: 'KPIT_TC_DRT_SPCAA_073...
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2615: 'KPIT_TC_DRT_SPCAA_073.
+  🔄 Commenting on OSV-2615: 'KPIT_TC_DRT_SPCAA_073...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : KITE Application Issue
+    Root Cause Details : Failed to select continue on Android Auto device, As failed to create session for AndroidPhone8.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2615: 'KPIT_TC_DRT_SPCAA_073.
+
+⏳ Updating 'OSV-2633: KPIT_TC_DRT_HLP_049'...
+  🔄 Updating fields for OSV-2633: 'KPIT_TC_DRT_HLP_049...
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2633: 'KPIT_TC_DRT_HLP_049.
+  🔄 Commenting on OSV-2633: 'KPIT_TC_DRT_HLP_049...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2633: 'KPIT_TC_DRT_HLP_049.
+
+⏳ Updating 'OSV-2632: KPIT_TC_DRT_HLP_050'...
+  🔄 Updating fields for OSV-2632: 'KPIT_TC_DRT_HLP_050...
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2632: 'KPIT_TC_DRT_HLP_050.
+  🔄 Commenting on OSV-2632: 'KPIT_TC_DRT_HLP_050...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2632: 'KPIT_TC_DRT_HLP_050.
+
+⏳ Updating 'OSV-2652: KPIT_TC_FNC_HLS_0072_0001'...
+  🔄 Updating fields for OSV-2652: 'KPIT_TC_FNC_HLS_0072_0001...
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2652: 'KPIT_TC_FNC_HLS_0072_0001.
+  🔄 Commenting on OSV-2652: 'KPIT_TC_FNC_HLS_0072_0001...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : Click_By_Image failed for 9_key.png, Even if the image is present on screen. Hence Precondition To Set VIN Setting VIN1999 failed.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2652: 'KPIT_TC_FNC_HLS_0072_0001.
+
+⏳ Updating 'OSV-2628: KPIT_TC_DRT_BTA_050'...
+  🔄 Updating fields for OSV-2628: 'KPIT_TC_DRT_BTA_050...
+    Failure Category : KITE issue
+    Failure Sub Category : Audio Comparision
+    Root Cause Details : Play state validation failed, For FM audio playback. As FM Transmitter power issue there.
+    Fixation Performed : Restarted FM Transmitter.
+  ✅ Updated fields for OSV-2628: 'KPIT_TC_DRT_BTA_050.
+  🔄 Commenting on OSV-2628: 'KPIT_TC_DRT_BTA_050...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Audio Comparision
+    Root Cause Details : Play state validation failed, For FM audio playback. As FM Transmitter power issue there.
+    Fixation Performed : Restarted FM Transmitter.
+  ✅ Commented on OSV-2628: 'KPIT_TC_DRT_BTA_050.
+
+⏳ Updating 'OSV-2651: KPIT_TC_DRT_HFT_005'...
+  🔄 Updating fields for OSV-2651: 'KPIT_TC_DRT_HFT_005...
+    Failure Category : KITE issue
+    Failure Sub Category : Robot Touch Operation
+    Root Cause Details : Swipe coordinates are outside the start and end boundaries.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2651: 'KPIT_TC_DRT_HFT_005.
+  🔄 Commenting on OSV-2651: 'KPIT_TC_DRT_HFT_005...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Robot Touch Operation
+    Root Cause Details : Swipe coordinates are outside the start and end boundaries.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2651: 'KPIT_TC_DRT_HFT_005.
+
+⏳ Updating 'OSV-2642: KPIT_TC_DRT_IPD_024'...
+  🔄 Updating fields for OSV-2642: 'KPIT_TC_DRT_IPD_024...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2642: 'KPIT_TC_DRT_IPD_024.
+  🔄 Commenting on OSV-2642: 'KPIT_TC_DRT_IPD_024...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2642: 'KPIT_TC_DRT_IPD_024.
+
+⏳ Updating 'OSV-2644: KPIT_TC_DRT_IPD_027'...
+  🔄 Updating fields for OSV-2644: 'KPIT_TC_DRT_IPD_027...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2644: 'KPIT_TC_DRT_IPD_027.
+  🔄 Commenting on OSV-2644: 'KPIT_TC_DRT_IPD_027...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2644: 'KPIT_TC_DRT_IPD_027.
+
+⏳ Updating 'OSV-2645: KPIT_TC_DRT_IPD_050'...
+  🔄 Updating fields for OSV-2645: 'KPIT_TC_DRT_IPD_050...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2645: 'KPIT_TC_DRT_IPD_050.
+  🔄 Commenting on OSV-2645: 'KPIT_TC_DRT_IPD_050...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2645: 'KPIT_TC_DRT_IPD_050.
+
+⏳ Updating 'OSV-2650: KPIT_TC_DRT_IPD_051'...
+  🔄 Updating fields for OSV-2650: 'KPIT_TC_DRT_IPD_051...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2650: 'KPIT_TC_DRT_IPD_051.
+  🔄 Commenting on OSV-2650: 'KPIT_TC_DRT_IPD_051...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2650: 'KPIT_TC_DRT_IPD_051.
+
+⏳ Updating 'OSV-2641: KPIT_TC_DRT_IPD_057'...
+  🔄 Updating fields for OSV-2641: 'KPIT_TC_DRT_IPD_057...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2641: 'KPIT_TC_DRT_IPD_057.
+  🔄 Commenting on OSV-2641: 'KPIT_TC_DRT_IPD_057...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2641: 'KPIT_TC_DRT_IPD_057.
+
+⏳ Updating 'OSV-2616: KPIT_TC_DRT_IPD_061'...
+  🔄 Updating fields for OSV-2616: 'KPIT_TC_DRT_IPD_061...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2616: 'KPIT_TC_DRT_IPD_061.
+  🔄 Commenting on OSV-2616: 'KPIT_TC_DRT_IPD_061...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2616: 'KPIT_TC_DRT_IPD_061.
+
+⏳ Updating 'OSV-2614: KPIT_TC_DRT_IPD_060'...
+  🔄 Updating fields for OSV-2614: 'KPIT_TC_DRT_IPD_060...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2614: 'KPIT_TC_DRT_IPD_060.
+  🔄 Commenting on OSV-2614: 'KPIT_TC_DRT_IPD_060...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2614: 'KPIT_TC_DRT_IPD_060.
+
+⏳ Updating 'OSV-2617: KPIT_TC_DRT_IPD_062'...
+  🔄 Updating fields for OSV-2617: 'KPIT_TC_DRT_IPD_062...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2617: 'KPIT_TC_DRT_IPD_062.
+  🔄 Commenting on OSV-2617: 'KPIT_TC_DRT_IPD_062...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2617: 'KPIT_TC_DRT_IPD_062.
+
+⏳ Updating 'OSV-2623: KPIT_TC_DRT_IPD_073'...
+  🔄 Updating fields for OSV-2623: 'KPIT_TC_DRT_IPD_073...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2623: 'KPIT_TC_DRT_IPD_073.
+  🔄 Commenting on OSV-2623: 'KPIT_TC_DRT_IPD_073...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2623: 'KPIT_TC_DRT_IPD_073.
+
+⏳ Updating 'OSV-2643: KPIT_TC_DRT_IPD_025'...
+  🔄 Updating fields for OSV-2643: 'KPIT_TC_DRT_IPD_025...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2643: 'KPIT_TC_DRT_IPD_025.
+  🔄 Commenting on OSV-2643: 'KPIT_TC_DRT_IPD_025...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2643: 'KPIT_TC_DRT_IPD_025.
+
+⏳ Updating 'OSV-2646: KPIT_TC_DRT_IPD_041'...
+  🔄 Updating fields for OSV-2646: 'KPIT_TC_DRT_IPD_041...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2646: 'KPIT_TC_DRT_IPD_041.
+  🔄 Commenting on OSV-2646: 'KPIT_TC_DRT_IPD_041...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2646: 'KPIT_TC_DRT_IPD_041.
+
+⏳ Updating 'OSV-2640: KPIT_TC_DRT_IPD_056'...
+  🔄 Updating fields for OSV-2640: 'KPIT_TC_DRT_IPD_056...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2640: 'KPIT_TC_DRT_IPD_056.
+  🔄 Commenting on OSV-2640: 'KPIT_TC_DRT_IPD_056...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2640: 'KPIT_TC_DRT_IPD_056.
+
+⏳ Updating 'OSV-2648: KPIT_TC_DRT_IPD_042'...
+  🔄 Updating fields for OSV-2648: 'KPIT_TC_DRT_IPD_042...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2648: 'KPIT_TC_DRT_IPD_042.
+  🔄 Commenting on OSV-2648: 'KPIT_TC_DRT_IPD_042...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2648: 'KPIT_TC_DRT_IPD_042.
+
+⏳ Updating 'OSV-2647: KPIT_TC_DRT_IPD_059'...
+  🔄 Updating fields for OSV-2647: 'KPIT_TC_DRT_IPD_059...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2647: 'KPIT_TC_DRT_IPD_059.
+  🔄 Commenting on OSV-2647: 'KPIT_TC_DRT_IPD_059...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2647: 'KPIT_TC_DRT_IPD_059.
+
+⏳ Updating 'OSV-2649: KPIT_TC_DRT_IPD_046'...
+  🔄 Updating fields for OSV-2649: 'KPIT_TC_DRT_IPD_046...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2649: 'KPIT_TC_DRT_IPD_046.
+  🔄 Commenting on OSV-2649: 'KPIT_TC_DRT_IPD_046...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2649: 'KPIT_TC_DRT_IPD_046.
+
+⏳ Updating 'OSV-2621: KPIT_TC_DRT_IPD_070'...
+  🔄 Updating fields for OSV-2621: 'KPIT_TC_DRT_IPD_070...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2621: 'KPIT_TC_DRT_IPD_070.
+  🔄 Commenting on OSV-2621: 'KPIT_TC_DRT_IPD_070...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2621: 'KPIT_TC_DRT_IPD_070.
+
+⏳ Updating 'OSV-2618: KPIT_TC_DRT_IPD_066'...
+  🔄 Updating fields for OSV-2618: 'KPIT_TC_DRT_IPD_066...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2618: 'KPIT_TC_DRT_IPD_066.
+  🔄 Commenting on OSV-2618: 'KPIT_TC_DRT_IPD_066...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2618: 'KPIT_TC_DRT_IPD_066.
+
+⏳ Updating 'OSV-2619: KPIT_TC_DRT_IPD_067'...
+  🔄 Updating fields for OSV-2619: 'KPIT_TC_DRT_IPD_067...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2619: 'KPIT_TC_DRT_IPD_067.
+  🔄 Commenting on OSV-2619: 'KPIT_TC_DRT_IPD_067...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2619: 'KPIT_TC_DRT_IPD_067.
+
+⏳ Updating 'OSV-2636: KPIT_TC_DRT_IPD_037'...
+  🔄 Updating fields for OSV-2636: 'KPIT_TC_DRT_IPD_037...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2636: 'KPIT_TC_DRT_IPD_037.
+  🔄 Commenting on OSV-2636: 'KPIT_TC_DRT_IPD_037...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2636: 'KPIT_TC_DRT_IPD_037.
+
+⏳ Updating 'OSV-2637: KPIT_TC_DRT_IPD_053'...
+  🔄 Updating fields for OSV-2637: 'KPIT_TC_DRT_IPD_053...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2637: 'KPIT_TC_DRT_IPD_053.
+  🔄 Commenting on OSV-2637: 'KPIT_TC_DRT_IPD_053...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2637: 'KPIT_TC_DRT_IPD_053.
+
+⏳ Updating 'OSV-2620: KPIT_TC_DRT_IPD_068'...
+  🔄 Updating fields for OSV-2620: 'KPIT_TC_DRT_IPD_068...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2620: 'KPIT_TC_DRT_IPD_068.
+  🔄 Commenting on OSV-2620: 'KPIT_TC_DRT_IPD_068...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2620: 'KPIT_TC_DRT_IPD_068.
+
+⏳ Updating 'OSV-2622: KPIT_TC_DRT_IPD_072'...
+  🔄 Updating fields for OSV-2622: 'KPIT_TC_DRT_IPD_072...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Updated fields for OSV-2622: 'KPIT_TC_DRT_IPD_072.
+  🔄 Commenting on OSV-2622: 'KPIT_TC_DRT_IPD_072...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Ipod is not got connected, Even if it charged.
+    Fixation Performed : Updated OS of iPod.
+  ✅ Commented on OSV-2622: 'KPIT_TC_DRT_IPD_072.
+
+⏳ Updating 'OSV-2625: KPIT_TC_DRT_HAC_079'...
+  🔄 Updating fields for OSV-2625: 'KPIT_TC_DRT_HAC_079...
+    Failure Category : KITE issue
+    Failure Sub Category : Video Comparision
+    Root Cause Details : IS_HMI_SCREEN_DISPLAYED command failed.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2625: 'KPIT_TC_DRT_HAC_079.
+  🔄 Commenting on OSV-2625: 'KPIT_TC_DRT_HAC_079...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Video Comparision
+    Root Cause Details : IS_HMI_SCREEN_DISPLAYED command failed.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2625: 'KPIT_TC_DRT_HAC_079.
+
+⏳ Updating 'OSV-2655: KPIT_TC_DRT_ANT_1236'...
+  🔄 Updating fields for OSV-2655: 'KPIT_TC_DRT_ANT_1236...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Updated fields for OSV-2655: 'KPIT_TC_DRT_ANT_1236.
+  🔄 Commenting on OSV-2655: 'KPIT_TC_DRT_ANT_1236...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Commented on OSV-2655: 'KPIT_TC_DRT_ANT_1236.
+
+⏳ Updating 'OSV-2654: KPIT_TC_DRT_ANT_1235'...
+  🔄 Updating fields for OSV-2654: 'KPIT_TC_DRT_ANT_1235...
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Updated fields for OSV-2654: 'KPIT_TC_DRT_ANT_1235.
+  🔄 Commenting on OSV-2654: 'KPIT_TC_DRT_ANT_1235...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : Test Env issue
+    Failure Sub Category : Automation Setup Malfunction
+    Root Cause Details : Failed to Skip One Hour Reboot Time After Entering Wrong Anti Theft Pin 10 Times, Using python file. As required python libraries are uninstalled by pipeline members.
+    Fixation Performed : Installed required python libraries.
+  ✅ Commented on OSV-2654: 'KPIT_TC_DRT_ANT_1235.
+
+⏳ Updating 'OSV-2635: KPIT_TC_FNC_SPCAA_0170_0001'...
+  🔄 Updating fields for OSV-2635: 'KPIT_TC_FNC_SPCAA_0170_0001...
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : CLICK_BY_IMAGE failed for AA_A1_Song.png, Even if the image is present on screen.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2635: 'KPIT_TC_FNC_SPCAA_0170_0001.
+  🔄 Commenting on OSV-2635: 'KPIT_TC_FNC_SPCAA_0170_0001...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Image Comparision
+    Root Cause Details : CLICK_BY_IMAGE failed for AA_A1_Song.png, Even if the image is present on screen.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2635: 'KPIT_TC_FNC_SPCAA_0170_0001.
+
+⏳ Updating 'OSV-2634: KPIT_TC_FNC_AVG_0878_0002'...
+  🔄 Updating fields for OSV-2634: 'KPIT_TC_FNC_AVG_0878_0002...
+    Failure Category : KITE issue
+    Failure Sub Category : Audio Comparision
+    Root Cause Details : Audio validation failed.
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2634: 'KPIT_TC_FNC_AVG_0878_0002.
+  🔄 Commenting on OSV-2634: 'KPIT_TC_FNC_AVG_0878_0002...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : KITE issue
+    Failure Sub Category : Audio Comparision
+    Root Cause Details : Audio validation failed.
+    Fixation Performed : NA
+  ✅ Commented on OSV-2634: 'KPIT_TC_FNC_AVG_0878_0002.
+
+⏳ Updating 'OSV-2631: KPIT_TC_DRT_HOM_048'...
+  🔄 Updating fields for OSV-2631: 'KPIT_TC_DRT_HOM_048...
+    Failure Category : TS issue
+    Failure Sub Category : Incorrect TS Modification
+    Root Cause Details : TS is modified as per T Variant
+    Fixation Performed : NA
+  ✅ Updated fields for OSV-2631: 'KPIT_TC_DRT_HOM_048.
+  🔄 Commenting on OSV-2631: 'KPIT_TC_DRT_HOM_048...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : TS issue
+    Failure Sub Category : Incorrect TS Modification
+    Root Cause Details : TS is modified as per T Variant
+    Fixation Performed : NA
+  ✅ Commented on OSV-2631: 'KPIT_TC_DRT_HOM_048.
+
+⏳ Updating 'OSV-2630: KPIT_TC_DRT_AMFM_157'...
+  🔄 Updating fields for OSV-2630: 'KPIT_TC_DRT_AMFM_157...
+    Failure Category : ICB issue (Once)
+    Failure Sub Category : Once Seen
+    Root Cause Details : CAN Signals are not reflected for selecting seek down button using SWC on FM main screen.
+    Fixation Performed : Reconnected the CAN in CAN LIN setting preference page and reconnected the CAN H/W.
+  ✅ Updated fields for OSV-2630: 'KPIT_TC_DRT_AMFM_157.
+  🔄 Commenting on OSV-2630: 'KPIT_TC_DRT_AMFM_157...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : ICB issue (Once)
+    Failure Sub Category : Once Seen
+    Root Cause Details : CAN Signals are not reflected for selecting seek down button using SWC on FM main screen.
+    Fixation Performed : Reconnected the CAN in CAN LIN setting preference page and reconnected the CAN H/W.
+  ✅ Commented on OSV-2630: 'KPIT_TC_DRT_AMFM_157.
+
+⏳ Updating 'OSV-2653: KPIT_TC_DRT_HAC_1222'...
+  🔄 Updating fields for OSV-2653: 'KPIT_TC_DRT_HAC_1222...
+    Failure Category : ICB issue (Once)
+    Failure Sub Category : Once Seen
+    Root Cause Details : CAN Signals are not reflected for enabling driver ristriction.
+    Fixation Performed : Reconnected the CAN in CAN LIN setting preference page and reconnected the CAN H/W.
+  ✅ Updated fields for OSV-2653: 'KPIT_TC_DRT_HAC_1222.
+  🔄 Commenting on OSV-2653: 'KPIT_TC_DRT_HAC_1222...
+    Date : 21st May 2025
+    Result : Fail
+    Failure Category : ICB issue (Once)
+    Failure Sub Category : Once Seen
+    Root Cause Details : CAN Signals are not reflected for enabling driver ristriction.
+    Fixation Performed : Reconnected the CAN in CAN LIN setting preference page and reconnected the CAN H/W.
+  ✅ Commented on OSV-2653: 'KPIT_TC_DRT_HAC_1222.

@@ -1,0 +1,178 @@
+2026-03-20 00:27:13,880 | INFO | ⏳ Updating 'DRT-2538: KPIT_TC_DRT_USB_134'...
+2026-03-20 00:27:13,880 | ERROR | [ERROR] Could not process DRT-2538: 'KPIT_TC_DRT_USB_134 : ' External HW '.
+
+2026-03-20 00:27:14,571 | INFO | ⏳ Updating 'DRT-4425: KPIT_TC_DRT_USB_012'...
+2026-03-20 00:27:14,572 | INFO |   🔄 Updating fields for DRT-4425: 'KPIT_TC_DRT_USB_012...
+2026-03-20 00:27:14,573 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:14,573 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:14,574 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-03-20 00:27:14,575 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-20 00:27:14,587 | INFO |     Fixation Performed : Performed Robot Calibratiion.
+2026-03-20 00:27:14,587 | INFO |   ✅ Updated fields for DRT-4425: 'KPIT_TC_DRT_USB_012.
+2026-03-20 00:27:14,588 | INFO |   🔄 Commenting on DRT-4425: 'KPIT_TC_DRT_USB_012...
+2026-03-20 00:27:14,588 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-20 00:27:14,589 | INFO |     Result : Fail
+2026-03-20 00:27:14,589 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:14,590 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:14,590 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-20 00:27:14,590 | INFO |     Fixation Performed : Performed Robot Calibratiion.
+2026-03-20 00:27:14,591 | INFO |     Remarks : Executed and chekced Battery cycle and ACC cycle in 10 iteration, by manually as well as via automation.
+2026-03-20 00:27:14,591 | INFO |     Reviewer : Rajashri
+2026-03-20 00:27:15,581 | INFO |   ✅ Commented on DRT-4425: 'KPIT_TC_DRT_USB_012.
+
+2026-03-20 00:27:16,244 | INFO | ⏳ Updating 'DRT-2540: KPIT_TC_DRT_USB_073'...
+2026-03-20 00:27:16,245 | INFO |   🔄 Updating fields for DRT-2540: 'KPIT_TC_DRT_USB_073...
+2026-03-20 00:27:16,245 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:16,246 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:16,247 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-20 00:27:16,248 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-20 00:27:16,248 | INFO |     Fixation Performed : Performed Robot Calibratiion.
+2026-03-20 00:27:16,249 | INFO |   ✅ Updated fields for DRT-2540: 'KPIT_TC_DRT_USB_073.
+2026-03-20 00:27:16,249 | INFO |   🔄 Commenting on DRT-2540: 'KPIT_TC_DRT_USB_073...
+2026-03-20 00:27:16,250 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-20 00:27:16,251 | INFO |     Result : Fail
+2026-03-20 00:27:16,251 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:16,252 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:16,253 | INFO |     Root Cause Details : Robot did not performed swipe as expected, this might be robot touch depth and/or park height issue
+2026-03-20 00:27:16,253 | INFO |     Fixation Performed : Performed Robot Calibratiion.
+2026-03-20 00:27:16,254 | INFO |     Remarks : Executed and chekced Battery cycle and ACC cycle in 10 iteration, by manually as well as via automation.
+2026-03-20 00:27:16,254 | INFO |     Reviewer : Rajashri
+2026-03-20 00:27:17,244 | INFO |   ✅ Commented on DRT-2540: 'KPIT_TC_DRT_USB_073.
+
+2026-03-20 00:27:17,635 | INFO | ⏳ Updating 'DRT-1816: KPIT_TC_DRT_USB_140'...
+2026-03-20 00:27:17,636 | ERROR | [ERROR] Could not process DRT-1816: 'KPIT_TC_DRT_USB_140 : ' External HW '.
+
+2026-03-20 00:27:17,933 | INFO | ⏳ Updating 'DRT-3838: KPIT_TC_DRT_AMFM_017'...
+2026-03-20 00:27:17,934 | ERROR | [ERROR] Could not process DRT-3838: 'KPIT_TC_DRT_AMFM_017 : ' External HW '.
+
+2026-03-20 00:27:18,197 | INFO | ⏳ Updating 'DRT-3942: KPIT_TC_DRT_AMFM_195'...
+2026-03-20 00:27:18,197 | ERROR | [ERROR] Could not process DRT-3942: 'KPIT_TC_DRT_AMFM_195 : ' External HW '.
+
+2026-03-20 00:27:18,492 | INFO | ⏳ Updating 'DRT-3941: KPIT_TC_DRT_AMFM_196'...
+2026-03-20 00:27:18,493 | ERROR | [ERROR] Could not process DRT-3941: 'KPIT_TC_DRT_AMFM_196 : ' External HW '.
+
+2026-03-20 00:27:18,788 | INFO | ⏳ Updating 'DRT-3948: KPIT_TC_DRT_DAB_047'...
+2026-03-20 00:27:18,788 | ERROR | [ERROR] Could not process DRT-3948: 'KPIT_TC_DRT_DAB_047 : ' External HW '.
+
+2026-03-20 00:27:19,114 | INFO | ⏳ Updating 'DRT-1844: KPIT_TC_DRT_DAB_048'...
+2026-03-20 00:27:19,115 | INFO |   🔄 Updating fields for DRT-1844: 'KPIT_TC_DRT_DAB_048...
+2026-03-20 00:27:19,115 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:19,116 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:19,117 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-20 00:27:19,118 | INFO |     Root Cause Details : After FDR, Set Brightness level 3 failed due to color differece, due to which "TA-Information Setting toggle is set to off" validation failed.
+2026-03-20 00:27:19,118 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:19,119 | INFO |   ✅ Updated fields for DRT-1844: 'KPIT_TC_DRT_DAB_048.
+2026-03-20 00:27:19,120 | INFO |   🔄 Commenting on DRT-1844: 'KPIT_TC_DRT_DAB_048...
+2026-03-20 00:27:19,120 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-20 00:27:19,121 | INFO |     Result : Fail
+2026-03-20 00:27:19,122 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:19,122 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:19,123 | INFO |     Root Cause Details : After FDR, Set Brightness level 3 failed due to color differece, due to which "TA-Information Setting toggle is set to off" validation failed.
+2026-03-20 00:27:19,124 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:19,125 | INFO |     Remarks : Performed Camera Calibration, But we will check this tomarrow due to time constraints.
+2026-03-20 00:27:19,125 | INFO |     Reviewer : Rajashri
+2026-03-20 00:27:20,112 | INFO |   ✅ Commented on DRT-1844: 'KPIT_TC_DRT_DAB_048.
+
+2026-03-20 00:27:20,475 | INFO | ⏳ Updating 'DRT-2044: KPIT_TC_DRT_SPCCP_103'...
+2026-03-20 00:27:20,476 | ERROR | [ERROR] Could not process DRT-2044: 'KPIT_TC_DRT_SPCCP_103 : ' External HW '.
+
+2026-03-20 00:27:20,800 | INFO | ⏳ Updating 'DRT-2046: KPIT_TC_DRT_SPCCP_096'...
+2026-03-20 00:27:20,801 | ERROR | [ERROR] Could not process DRT-2046: 'KPIT_TC_DRT_SPCCP_096 : ' External HW '.
+
+2026-03-20 00:27:21,153 | INFO | ⏳ Updating 'DRT-2037: KPIT_TC_DRT_SPCCP_037'...
+2026-03-20 00:27:21,154 | ERROR | [ERROR] Could not process DRT-2037: 'KPIT_TC_DRT_SPCCP_037 : ' External HW '.
+
+2026-03-20 00:27:21,846 | INFO | ⏳ Updating 'DRT-2045: KPIT_TC_DRT_SPCCP_097'...
+2026-03-20 00:27:21,847 | ERROR | [ERROR] Could not process DRT-2045: 'KPIT_TC_DRT_SPCCP_097 : ' External HW '.
+
+2026-03-20 00:27:22,463 | INFO | ⏳ Updating 'DRT-7601: KPIT_TC_DRT_IVI_046'...
+2026-03-20 00:27:22,464 | ERROR | [ERROR] Could not process DRT-7601: 'KPIT_TC_DRT_IVI_046 : ' External HW '.
+
+2026-03-20 00:27:22,728 | INFO | ⏳ Updating 'DRT-3478: KPIT_TC_DRT_INL_008'...
+2026-03-20 00:27:22,728 | ERROR | [ERROR] Could not process DRT-3478: 'KPIT_TC_DRT_INL_008 : ' External HW '.
+
+2026-03-20 00:27:23,469 | INFO | ⏳ Updating 'DRT-3523: KPIT_TC_DRT_INL_010'...
+2026-03-20 00:27:23,469 | ERROR | [ERROR] Could not process DRT-3523: 'KPIT_TC_DRT_INL_010 : ' External HW '.
+
+2026-03-20 00:27:23,724 | INFO | ⏳ Updating 'DRT-3477: KPIT_TC_DRT_INL_024'...
+2026-03-20 00:27:23,725 | ERROR | [ERROR] Could not process DRT-3477: 'KPIT_TC_DRT_INL_024 : ' External HW '.
+
+2026-03-20 00:27:24,019 | INFO | ⏳ Updating 'DRT-2300: KPIT_TC_DRT_LWC_001'...
+2026-03-20 00:27:24,020 | ERROR | [ERROR] Could not process DRT-2300: 'KPIT_TC_DRT_LWC_001 : ' External HW '.
+
+2026-03-20 00:27:24,288 | INFO | ⏳ Updating 'DRT-2299: KPIT_TC_DRT_LWC_002'...
+2026-03-20 00:27:24,289 | ERROR | [ERROR] Could not process DRT-2299: 'KPIT_TC_DRT_LWC_002 : ' External HW '.
+
+2026-03-20 00:27:24,578 | INFO | ⏳ Updating 'DRT-2302: KPIT_TC_DRT_LWC_003'...
+2026-03-20 00:27:24,579 | ERROR | [ERROR] Could not process DRT-2302: 'KPIT_TC_DRT_LWC_003 : ' External HW '.
+
+2026-03-20 00:27:24,846 | INFO | ⏳ Updating 'DRT-2301: KPIT_TC_DRT_LWC_004'...
+2026-03-20 00:27:24,847 | ERROR | [ERROR] Could not process DRT-2301: 'KPIT_TC_DRT_LWC_004 : ' External HW '.
+
+2026-03-20 00:27:25,504 | INFO | ⏳ Updating 'DRT-2303: KPIT_TC_DRT_PKS_011'...
+2026-03-20 00:27:25,505 | ERROR | [ERROR] Could not process DRT-2303: 'KPIT_TC_DRT_PKS_011 : ' External HW '.
+
+2026-03-20 00:27:25,833 | INFO | ⏳ Updating 'DRT-3309: KPIT_TC_DRT_AVC_060'...
+2026-03-20 00:27:25,834 | ERROR | [ERROR] Could not process DRT-3309: 'KPIT_TC_DRT_AVC_060 : ' External HW '.
+
+2026-03-20 00:27:26,145 | INFO | ⏳ Updating 'DRT-4426: KPIT_TC_DRT_AVC_219'...
+2026-03-20 00:27:26,146 | ERROR | [ERROR] Could not process DRT-4426: 'KPIT_TC_DRT_AVC_219 : ' External HW '.
+
+2026-03-20 00:27:26,474 | INFO | ⏳ Updating 'DRT-1841: KPIT_TC_DRT_AVC_091'...
+2026-03-20 00:27:26,475 | ERROR | [ERROR] Could not process DRT-1841: 'KPIT_TC_DRT_AVC_091 : ' External HW '.
+
+2026-03-20 00:27:26,734 | INFO | ⏳ Updating 'DRT-4091: KPIT_TC_DRT_KEY_001'...
+2026-03-20 00:27:26,734 | ERROR | [ERROR] Could not process DRT-4091: 'KPIT_TC_DRT_KEY_001 : ' External HW '.
+
+2026-03-20 00:27:27,047 | INFO | ⏳ Updating 'DRT-4090: KPIT_TC_DRT_KEY_002'...
+2026-03-20 00:27:27,047 | ERROR | [ERROR] Could not process DRT-4090: 'KPIT_TC_DRT_KEY_002 : ' External HW '.
+
+2026-03-20 00:27:27,349 | INFO | ⏳ Updating 'DRT-4092: KPIT_TC_DRT_KEY_022'...
+2026-03-20 00:27:27,350 | ERROR | [ERROR] Could not process DRT-4092: 'KPIT_TC_DRT_KEY_022 : ' External HW '.
+
+2026-03-20 00:27:27,632 | INFO | ⏳ Updating 'DRT-1840: KPIT_TC_DRT_KEY_013'...
+2026-03-20 00:27:27,633 | ERROR | [ERROR] Could not process DRT-1840: 'KPIT_TC_DRT_KEY_013 : ' External HW '.
+
+2026-03-20 00:27:28,323 | INFO | ⏳ Updating 'DRT-5308: KPIT_TC_DRT_KEY_021'...
+2026-03-20 00:27:28,324 | ERROR | [ERROR] Could not process DRT-5308: 'KPIT_TC_DRT_KEY_021 : ' External HW '.
+
+2026-03-20 00:27:28,620 | INFO | ⏳ Updating 'DRT-7602: KPIT_TC_DRT_IDS_015'...
+2026-03-20 00:27:28,621 | INFO |   🔄 Updating fields for DRT-7602: 'KPIT_TC_DRT_IDS_015...
+2026-03-20 00:27:28,621 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:28,621 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:28,622 | INFO |     Previous Failure Category : []
+2026-03-20 00:27:28,622 | INFO |     Root Cause Details : Home Screen Page 1 validation failed with 81% match.
+2026-03-20 00:27:28,623 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:28,623 | INFO |   ✅ Updated fields for DRT-7602: 'KPIT_TC_DRT_IDS_015.
+2026-03-20 00:27:28,623 | INFO |   🔄 Commenting on DRT-7602: 'KPIT_TC_DRT_IDS_015...
+2026-03-20 00:27:28,624 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-20 00:27:28,625 | INFO |     Result : Fail
+2026-03-20 00:27:28,625 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:28,626 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:28,627 | INFO |     Root Cause Details : Home Screen Page 1 validation failed with 81% match.
+2026-03-20 00:27:28,627 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:28,627 | INFO |     Remarks : Performed Camera Calibration, But we will check this tomarrow due to time constraints.
+2026-03-20 00:27:28,628 | INFO |     Reviewer : Rajashri
+2026-03-20 00:27:29,522 | INFO |   ✅ Commented on DRT-7602: 'KPIT_TC_DRT_IDS_015.
+
+2026-03-20 00:27:30,181 | INFO | ⏳ Updating 'DRT-7603: KPIT_TC_DRT_IDS_018'...
+2026-03-20 00:27:30,182 | INFO |   🔄 Updating fields for DRT-7603: 'KPIT_TC_DRT_IDS_018...
+2026-03-20 00:27:30,182 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:30,183 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:30,183 | INFO |     Previous Failure Category : []
+2026-03-20 00:27:30,184 | INFO |     Root Cause Details : Home Screen Page 1 validation failed with 82% match.
+2026-03-20 00:27:30,184 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:30,185 | INFO |   ✅ Updated fields for DRT-7603: 'KPIT_TC_DRT_IDS_018.
+2026-03-20 00:27:30,185 | INFO |   🔄 Commenting on DRT-7603: 'KPIT_TC_DRT_IDS_018...
+2026-03-20 00:27:30,185 | INFO |     Date AEA1415R1.260319.1 : 2026-03-19
+2026-03-20 00:27:30,186 | INFO |     Result : Fail
+2026-03-20 00:27:30,186 | INFO |     Failure Category : Test Env issue
+2026-03-20 00:27:30,187 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-20 00:27:30,187 | INFO |     Root Cause Details : Home Screen Page 1 validation failed with 82% match.
+2026-03-20 00:27:30,188 | INFO |     Fixation Performed : Performed Camera Calibration.
+2026-03-20 00:27:30,189 | INFO |     Remarks : Performed Camera Calibration, But we will check this tomarrow due to time constraints.
+2026-03-20 00:27:30,189 | INFO |     Reviewer : Rajashri
+2026-03-20 00:27:31,147 | INFO |   ✅ Commented on DRT-7603: 'KPIT_TC_DRT_IDS_018.
+
+2026-03-20 00:27:31,147 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

@@ -1,0 +1,21 @@
+2025-11-14 01:08:47,445 | INFO | ⏳ Updating 'DRT-3938: KPIT_TC_DRT_HOM_038'...
+2025-11-14 01:08:47,445 | INFO |   🔄 Updating fields for DRT-3938: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 01:08:47,446 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 01:08:47,447 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 01:08:47,447 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)']
+2025-11-14 01:08:47,448 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 01:08:47,449 | INFO |     Fixation Performed : NA
+2025-11-14 01:08:47,459 | INFO |     Remarks : 
+2025-11-14 01:08:47,460 | INFO |     Reviewer : Lumesh
+2025-11-14 01:08:48,856 | INFO |   ✅ Updated fields for DRT-3938: 'KPIT_TC_DRT_HOM_038.
+2025-11-14 01:08:48,857 | INFO |   🔄 Commenting on DRT-3938: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 01:08:48,858 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:08:48,859 | INFO |     Result : Fail
+2025-11-14 01:08:48,860 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 01:08:48,861 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 01:08:48,862 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 01:08:48,863 | INFO |     Fixation Performed : NA
+2025-11-14 01:08:49,662 | INFO |   ✅ Commented on DRT-3938: 'KPIT_TC_DRT_HOM_038.
+

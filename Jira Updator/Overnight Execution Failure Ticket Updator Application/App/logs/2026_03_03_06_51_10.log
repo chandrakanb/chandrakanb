@@ -1,0 +1,23 @@
+2026-03-03 06:51:10,793 | INFO | Token loaded from Environment Variable
+2026-03-03 06:51:11,522 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-03-03 06:51:12,797 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-03-03 06:51:13,188 | INFO | Processing ticket DRT-3931 with current status: In_Progress
+2026-03-03 06:51:15,694 | INFO | Transitioned DRT-3931 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-03-03 06:51:17,992 | INFO | Transitioned DRT-3931 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-03-03 06:51:21,013 | INFO | Transitioned DRT-3931 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-03-03 06:51:22,690 | INFO | Transitioned DRT-3931 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-03-03 06:51:24,023 | INFO | Ticket DRT-3931 is transited till status: Ready for review
+2026-03-03 06:51:24,708 | INFO | Processing ticket DRT-3933 with current status: In_Progress
+2026-03-03 06:51:26,670 | INFO | Transitioned DRT-3933 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-03-03 06:51:29,266 | INFO | Transitioned DRT-3933 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-03-03 06:51:30,797 | INFO | Transitioned DRT-3933 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-03-03 06:51:32,338 | INFO | Transitioned DRT-3933 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-03-03 06:51:32,931 | INFO | Ticket DRT-3933 is transited till status: Ready for review
+2026-03-03 06:51:33,230 | INFO | Processing ticket DRT-2306 with current status: In_Progress
+2026-03-03 06:51:34,796 | INFO | Transitioned DRT-2306 from 'In_Progress' to 'Issue Analysis In Progress'
+2026-03-03 06:51:37,764 | INFO | Transitioned DRT-2306 from 'Issue Analysis In Progress' to 'Issue Analysis Completed'
+2026-03-03 06:51:39,486 | INFO | Transitioned DRT-2306 from 'Issue Analysis Completed' to 'Overnight Issue Fixed'
+2026-03-03 06:51:41,035 | INFO | Transitioned DRT-2306 from 'Overnight Issue Fixed' to 'Ready for review'
+2026-03-03 06:51:41,607 | INFO | Ticket DRT-2306 is transited till status: Ready for review
+2026-03-03 06:51:41,608 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

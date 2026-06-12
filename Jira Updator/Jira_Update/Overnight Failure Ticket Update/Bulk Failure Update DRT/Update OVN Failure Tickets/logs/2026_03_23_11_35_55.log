@@ -1,0 +1,335 @@
+2026-03-23 11:35:59,813 | INFO | ⏳ Updating 'DRT-4425: KPIT_TC_DRT_USB_012'...
+2026-03-23 11:35:59,814 | INFO |   🔄 Updating fields for DRT-4425: 'KPIT_TC_DRT_USB_012...
+2026-03-23 11:35:59,815 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:35:59,816 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:35:59,817 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-03-23 11:35:59,818 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 11:35:59,819 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:01,114 | INFO |   ✅ Updated fields for DRT-4425: 'KPIT_TC_DRT_USB_012.
+2026-03-23 11:36:01,121 | INFO |   🔄 Commenting on DRT-4425: 'KPIT_TC_DRT_USB_012...
+2026-03-23 11:36:01,123 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:01,123 | INFO |     Result : Fail
+2026-03-23 11:36:01,124 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:01,125 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:01,125 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 11:36:01,126 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:01,127 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:01,128 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:01,751 | INFO |   ✅ Commented on DRT-4425: 'KPIT_TC_DRT_USB_012.
+
+2026-03-23 11:36:02,451 | INFO | ⏳ Updating 'DRT-2540: KPIT_TC_DRT_USB_073'...
+2026-03-23 11:36:02,452 | INFO |   🔄 Updating fields for DRT-2540: 'KPIT_TC_DRT_USB_073...
+2026-03-23 11:36:02,452 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:02,461 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:02,462 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue']
+2026-03-23 11:36:02,462 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 11:36:02,462 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:04,121 | INFO |   ✅ Updated fields for DRT-2540: 'KPIT_TC_DRT_USB_073.
+2026-03-23 11:36:04,122 | INFO |   🔄 Commenting on DRT-2540: 'KPIT_TC_DRT_USB_073...
+2026-03-23 11:36:04,123 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:04,124 | INFO |     Result : Fail
+2026-03-23 11:36:04,124 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:04,125 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:04,125 | INFO |     Root Cause Details : Video comparison failed due camera calibration difference.
+2026-03-23 11:36:04,126 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:04,126 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:04,127 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:04,716 | INFO |   ✅ Commented on DRT-2540: 'KPIT_TC_DRT_USB_073.
+
+2026-03-23 11:36:05,015 | INFO | ⏳ Updating 'DRT-1844: KPIT_TC_DRT_DAB_048'...
+2026-03-23 11:36:05,015 | INFO |   🔄 Updating fields for DRT-1844: 'KPIT_TC_DRT_DAB_048...
+2026-03-23 11:36:05,016 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:05,018 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:05,019 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-03-23 11:36:05,020 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:05,021 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:06,115 | INFO |   ✅ Updated fields for DRT-1844: 'KPIT_TC_DRT_DAB_048.
+2026-03-23 11:36:06,117 | INFO |   🔄 Commenting on DRT-1844: 'KPIT_TC_DRT_DAB_048...
+2026-03-23 11:36:06,117 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:06,117 | INFO |     Result : Fail
+2026-03-23 11:36:06,117 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:06,118 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:06,119 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:06,119 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:06,119 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:06,120 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:06,694 | INFO |   ✅ Commented on DRT-1844: 'KPIT_TC_DRT_DAB_048.
+
+2026-03-23 11:36:07,054 | INFO | ⏳ Updating 'DRT-2044: KPIT_TC_DRT_SPCCP_103'...
+2026-03-23 11:36:07,054 | INFO |   🔄 Updating fields for DRT-2044: 'KPIT_TC_DRT_SPCCP_103...
+2026-03-23 11:36:07,056 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:07,057 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:07,057 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:07,058 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:07,058 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:08,135 | INFO |   ✅ Updated fields for DRT-2044: 'KPIT_TC_DRT_SPCCP_103.
+2026-03-23 11:36:08,135 | INFO |   🔄 Commenting on DRT-2044: 'KPIT_TC_DRT_SPCCP_103...
+2026-03-23 11:36:08,135 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:08,137 | INFO |     Result : Fail
+2026-03-23 11:36:08,137 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:08,138 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:08,138 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:08,139 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:08,139 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:08,139 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:08,667 | INFO |   ✅ Commented on DRT-2044: 'KPIT_TC_DRT_SPCCP_103.
+
+2026-03-23 11:36:09,148 | INFO | ⏳ Updating 'DRT-2046: KPIT_TC_DRT_SPCCP_096'...
+2026-03-23 11:36:09,148 | INFO |   🔄 Updating fields for DRT-2046: 'KPIT_TC_DRT_SPCCP_096...
+2026-03-23 11:36:09,149 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:09,149 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:09,150 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:09,150 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:09,150 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:10,388 | INFO |   ✅ Updated fields for DRT-2046: 'KPIT_TC_DRT_SPCCP_096.
+2026-03-23 11:36:10,389 | INFO |   🔄 Commenting on DRT-2046: 'KPIT_TC_DRT_SPCCP_096...
+2026-03-23 11:36:10,390 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:10,390 | INFO |     Result : Fail
+2026-03-23 11:36:10,390 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:10,391 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:10,391 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:10,392 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:10,392 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:10,392 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:10,975 | INFO |   ✅ Commented on DRT-2046: 'KPIT_TC_DRT_SPCCP_096.
+
+2026-03-23 11:36:11,330 | INFO | ⏳ Updating 'DRT-2037: KPIT_TC_DRT_SPCCP_037'...
+2026-03-23 11:36:11,331 | INFO |   🔄 Updating fields for DRT-2037: 'KPIT_TC_DRT_SPCCP_037...
+2026-03-23 11:36:11,331 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:11,332 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:11,332 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:11,333 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:11,334 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:12,646 | INFO |   ✅ Updated fields for DRT-2037: 'KPIT_TC_DRT_SPCCP_037.
+2026-03-23 11:36:12,647 | INFO |   🔄 Commenting on DRT-2037: 'KPIT_TC_DRT_SPCCP_037...
+2026-03-23 11:36:12,648 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:12,648 | INFO |     Result : Fail
+2026-03-23 11:36:12,649 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:12,649 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:12,650 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:12,650 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:12,650 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:12,650 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:13,228 | INFO |   ✅ Commented on DRT-2037: 'KPIT_TC_DRT_SPCCP_037.
+
+2026-03-23 11:36:13,922 | INFO | ⏳ Updating 'DRT-2045: KPIT_TC_DRT_SPCCP_097'...
+2026-03-23 11:36:13,923 | INFO |   🔄 Updating fields for DRT-2045: 'KPIT_TC_DRT_SPCCP_097...
+2026-03-23 11:36:13,924 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:13,925 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:13,925 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:13,927 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:13,927 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:14,803 | INFO |   ✅ Updated fields for DRT-2045: 'KPIT_TC_DRT_SPCCP_097.
+2026-03-23 11:36:14,804 | INFO |   🔄 Commenting on DRT-2045: 'KPIT_TC_DRT_SPCCP_097...
+2026-03-23 11:36:14,804 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:14,804 | INFO |     Result : Fail
+2026-03-23 11:36:14,806 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:14,806 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:14,807 | INFO |     Root Cause Details : In precondition, while connecting the CarPlay device to ICB, after selecting the Home button twice, the ICB screen did not transition to Home screen page 1. It seems to be a soft touch issue due to robot calibration.
+2026-03-23 11:36:14,807 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:14,808 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:14,808 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:15,304 | INFO |   ✅ Commented on DRT-2045: 'KPIT_TC_DRT_SPCCP_097.
+
+2026-03-23 11:36:15,588 | INFO | ⏳ Updating 'DRT-3478: KPIT_TC_DRT_INL_008'...
+2026-03-23 11:36:15,589 | INFO |   🔄 Updating fields for DRT-3478: 'KPIT_TC_DRT_INL_008...
+2026-03-23 11:36:15,590 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:15,590 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:15,591 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:15,591 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:15,592 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:16,884 | INFO |   ✅ Updated fields for DRT-3478: 'KPIT_TC_DRT_INL_008.
+2026-03-23 11:36:16,885 | INFO |   🔄 Commenting on DRT-3478: 'KPIT_TC_DRT_INL_008...
+2026-03-23 11:36:16,886 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:16,886 | INFO |     Result : Fail
+2026-03-23 11:36:16,886 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:16,887 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:16,887 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:16,887 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:16,888 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:16,888 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:17,423 | INFO |   ✅ Commented on DRT-3478: 'KPIT_TC_DRT_INL_008.
+
+2026-03-23 11:36:17,780 | INFO | ⏳ Updating 'DRT-3523: KPIT_TC_DRT_INL_010'...
+2026-03-23 11:36:17,780 | INFO |   🔄 Updating fields for DRT-3523: 'KPIT_TC_DRT_INL_010...
+2026-03-23 11:36:17,782 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:17,783 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:17,784 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:17,784 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:17,785 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:18,700 | INFO |   ✅ Updated fields for DRT-3523: 'KPIT_TC_DRT_INL_010.
+2026-03-23 11:36:18,700 | INFO |   🔄 Commenting on DRT-3523: 'KPIT_TC_DRT_INL_010...
+2026-03-23 11:36:18,701 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:18,701 | INFO |     Result : Fail
+2026-03-23 11:36:18,701 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:18,702 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:18,702 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:18,714 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:18,714 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:18,714 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:19,620 | INFO |   ✅ Commented on DRT-3523: 'KPIT_TC_DRT_INL_010.
+
+2026-03-23 11:36:19,896 | INFO | ⏳ Updating 'DRT-3477: KPIT_TC_DRT_INL_024'...
+2026-03-23 11:36:19,897 | INFO |   🔄 Updating fields for DRT-3477: 'KPIT_TC_DRT_INL_024...
+2026-03-23 11:36:19,897 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:19,898 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:19,898 | INFO |     Previous Failure Category : []
+2026-03-23 11:36:19,899 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:19,900 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:21,127 | INFO |   ✅ Updated fields for DRT-3477: 'KPIT_TC_DRT_INL_024.
+2026-03-23 11:36:21,128 | INFO |   🔄 Commenting on DRT-3477: 'KPIT_TC_DRT_INL_024...
+2026-03-23 11:36:21,129 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:21,130 | INFO |     Result : Fail
+2026-03-23 11:36:21,131 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:21,132 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:21,133 | INFO |     Root Cause Details : Image comparison failed due to color differences caused by camera calibration.
+2026-03-23 11:36:21,133 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:21,133 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-23 11:36:21,134 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:21,677 | INFO |   ✅ Commented on DRT-3477: 'KPIT_TC_DRT_INL_024.
+
+2026-03-23 11:36:21,972 | INFO | ⏳ Updating 'DRT-2300: KPIT_TC_DRT_LWC_001'...
+2026-03-23 11:36:21,972 | INFO |   🔄 Updating fields for DRT-2300: 'KPIT_TC_DRT_LWC_001...
+2026-03-23 11:36:21,973 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:21,974 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:21,974 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-23 11:36:21,975 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:21,975 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:23,000 | INFO |   ✅ Updated fields for DRT-2300: 'KPIT_TC_DRT_LWC_001.
+2026-03-23 11:36:23,001 | INFO |   🔄 Commenting on DRT-2300: 'KPIT_TC_DRT_LWC_001...
+2026-03-23 11:36:23,002 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:23,002 | INFO |     Result : Fail
+2026-03-23 11:36:23,002 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:23,002 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:23,003 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:23,003 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:23,003 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 11:36:23,005 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:38,928 | INFO |   ✅ Commented on DRT-2300: 'KPIT_TC_DRT_LWC_001.
+
+2026-03-23 11:36:39,208 | INFO | ⏳ Updating 'DRT-2299: KPIT_TC_DRT_LWC_002'...
+2026-03-23 11:36:39,208 | INFO |   🔄 Updating fields for DRT-2299: 'KPIT_TC_DRT_LWC_002...
+2026-03-23 11:36:39,209 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:39,211 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:39,212 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-23 11:36:39,212 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:39,212 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:40,082 | INFO |   ✅ Updated fields for DRT-2299: 'KPIT_TC_DRT_LWC_002.
+2026-03-23 11:36:40,083 | INFO |   🔄 Commenting on DRT-2299: 'KPIT_TC_DRT_LWC_002...
+2026-03-23 11:36:40,083 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:40,084 | INFO |     Result : Fail
+2026-03-23 11:36:40,084 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:40,084 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:40,085 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:40,085 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:40,086 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 11:36:40,086 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:40,518 | INFO |   ✅ Commented on DRT-2299: 'KPIT_TC_DRT_LWC_002.
+
+2026-03-23 11:36:40,825 | INFO | ⏳ Updating 'DRT-2302: KPIT_TC_DRT_LWC_003'...
+2026-03-23 11:36:40,826 | INFO |   🔄 Updating fields for DRT-2302: 'KPIT_TC_DRT_LWC_003...
+2026-03-23 11:36:40,827 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:40,827 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:40,828 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-23 11:36:40,828 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:40,829 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:41,748 | INFO |   ✅ Updated fields for DRT-2302: 'KPIT_TC_DRT_LWC_003.
+2026-03-23 11:36:41,749 | INFO |   🔄 Commenting on DRT-2302: 'KPIT_TC_DRT_LWC_003...
+2026-03-23 11:36:41,749 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:41,750 | INFO |     Result : Fail
+2026-03-23 11:36:41,750 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:41,751 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:41,751 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:41,752 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:41,752 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 11:36:41,752 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:42,267 | INFO |   ✅ Commented on DRT-2302: 'KPIT_TC_DRT_LWC_003.
+
+2026-03-23 11:36:42,547 | INFO | ⏳ Updating 'DRT-2301: KPIT_TC_DRT_LWC_004'...
+2026-03-23 11:36:42,547 | INFO |   🔄 Updating fields for DRT-2301: 'KPIT_TC_DRT_LWC_004...
+2026-03-23 11:36:42,548 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:42,548 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:42,549 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-23 11:36:42,549 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:42,549 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:43,353 | INFO |   ✅ Updated fields for DRT-2301: 'KPIT_TC_DRT_LWC_004.
+2026-03-23 11:36:43,354 | INFO |   🔄 Commenting on DRT-2301: 'KPIT_TC_DRT_LWC_004...
+2026-03-23 11:36:43,355 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:43,356 | INFO |     Result : Fail
+2026-03-23 11:36:43,356 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:43,357 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:43,358 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:43,358 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:43,359 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 11:36:43,359 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:43,904 | INFO |   ✅ Commented on DRT-2301: 'KPIT_TC_DRT_LWC_004.
+
+2026-03-23 11:36:44,186 | INFO | ⏳ Updating 'DRT-2303: KPIT_TC_DRT_PKS_011'...
+2026-03-23 11:36:44,187 | INFO |   🔄 Updating fields for DRT-2303: 'KPIT_TC_DRT_PKS_011...
+2026-03-23 11:36:44,188 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:44,188 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:44,190 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Once)']
+2026-03-23 11:36:44,191 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:44,192 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:45,123 | INFO |   ✅ Updated fields for DRT-2303: 'KPIT_TC_DRT_PKS_011.
+2026-03-23 11:36:45,124 | INFO |   🔄 Commenting on DRT-2303: 'KPIT_TC_DRT_PKS_011...
+2026-03-23 11:36:45,124 | INFO |     Date [Build] : 2026-03-20 [AEA1417R0.260320.1]
+2026-03-23 11:36:45,124 | INFO |     Result : Fail
+2026-03-23 11:36:45,125 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:45,125 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:45,125 | INFO |     Root Cause Details : LWC Camera images are black, seems like LED's of LWC Setup were got turned off.
+2026-03-23 11:36:45,126 | INFO |     Fixation Performed : Reconnected LED's of LWC Setup.
+2026-03-23 11:36:45,126 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-23 11:36:45,126 | INFO |     Reviewer : Rajashri
+2026-03-23 11:36:45,772 | INFO |   ✅ Commented on DRT-2303: 'KPIT_TC_DRT_PKS_011.
+
+2026-03-23 11:36:46,202 | INFO | ⏳ Updating 'DRT-1841: KPIT_TC_DRT_AVC_091'...
+2026-03-23 11:36:46,202 | INFO |   🔄 Updating fields for DRT-1841: 'KPIT_TC_DRT_AVC_091...
+2026-03-23 11:36:46,203 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:46,203 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:46,203 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'TS Issue']
+2026-03-23 11:36:46,204 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on Dealer Diag screen, it failed to return to the home screen due to OCR validation failure caused by camera calibration. Hence, setting Smart Phone Projection screen to normal failed as ICB remained on System Links screen.
+2026-03-23 11:36:46,204 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:46,537 | ERROR | [ERROR] Could not process DRT-1841: 'KPIT_TC_DRT_AVC_091 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17993
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 23 Mar 2026 06:06:46 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '348c1e062f99b2b0489e54b35bcb9c2b', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '8e5ca81d5c6a4031a5efc71cd27b612a', 'Atl-Request-Id': '8e5ca81d-5c6a-4031-a5ef-c71cd27b612a', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=192,atl-edge-internal;dur=17,atl-edge-upstream;dur=175,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'O847frYM1i9r0qcYHCuZf9YETRTpNI3BfINjrxrFZmZ9cTgTz3MO3A=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-23 11:36:46,879 | INFO | ⏳ Updating 'DRT-4091: KPIT_TC_DRT_KEY_001'...
+2026-03-23 11:36:46,879 | INFO |   🔄 Updating fields for DRT-4091: 'KPIT_TC_DRT_KEY_001...
+2026-03-23 11:36:46,879 | INFO |     Failure Category : Test Env issue
+2026-03-23 11:36:46,880 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-23 11:36:46,880 | INFO |     Previous Failure Category : ['Test Env Issue', 'TS Issue']
+2026-03-23 11:36:46,881 | INFO |     Root Cause Details : In precondition, while setting volume to 20 from Tuner on the Dealer Diag screen, it failed to return to the home screen due to OCR validation failure caused by camera calibration. Hence, ICB remained on the System Links screen, and further operations failed.
+2026-03-23 11:36:46,881 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-23 11:36:47,223 | ERROR | [ERROR] Could not process DRT-4091: 'KPIT_TC_DRT_KEY_001 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2038258
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 23 Mar 2026 06:06:47 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'af0086961b991ccbb3321dff67704a85', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '40f838fafce14333b6605e35ed851558', 'Atl-Request-Id': '40f838fa-fce1-4333-b660-5e35ed851558', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=198,atl-edge-internal;dur=25,atl-edge-upstream;dur=173,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '0Fhr5I7sPOylz5t1rMPbTZoYf6qxX33ZF3hMBym5RNff_AekjLvqSQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-23 11:36:47,555 | INFO | ⏳ Updating 'DRT-3942: KPIT_TC_DRT_AMFM_195'...
+2026-03-23 11:36:47,555 | INFO |   🔄 Updating fields for DRT-3942: 'KPIT_TC_DRT_AMFM_195...
+2026-03-23 11:36:47,556 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:36:47,556 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:36:47,558 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-23 11:36:47,559 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after the ACC cycle than expected. As a result, the Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:36:47,561 | INFO |     Fixation Performed : NA
+2026-03-23 11:36:47,927 | ERROR | [ERROR] Could not process DRT-3942: 'KPIT_TC_DRT_AMFM_195 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/50500
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 23 Mar 2026 06:06:47 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd75a427a19ee0e646d438d4edbcfc899', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '63f3e4300c4f41cf93a1fd5614775fa2', 'Atl-Request-Id': '63f3e430-0c4f-41cf-93a1-fd5614775fa2', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=218,atl-edge-internal;dur=16,atl-edge-upstream;dur=200,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'v2XtLk3zBAsSOg6TseEW1mh8pBhcnt27X3BYojvg8jVS2P_cS1BjUw=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-23 11:36:48,255 | INFO | ⏳ Updating 'DRT-3941: KPIT_TC_DRT_AMFM_196'...
+2026-03-23 11:36:48,256 | INFO |   🔄 Updating fields for DRT-3941: 'KPIT_TC_DRT_AMFM_196...
+2026-03-23 11:36:48,257 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-23 11:36:48,257 | INFO |     Failure Sub Category : Timing issue
+2026-03-23 11:36:48,257 | INFO |     Previous Failure Category : ['TS Issue']
+2026-03-23 11:36:48,259 | INFO |     Root Cause Details : In previous TS, ICB took longer to boot after the ACC cycle than expected. As a result, the Disclaimer popup was not handled since FB was already executed, causing further operations to fail and ICB to get stuck on the Disclaimer screen, impacting this TS.
+2026-03-23 11:36:48,259 | INFO |     Fixation Performed : NA
+2026-03-23 11:36:48,646 | ERROR | [ERROR] Could not process DRT-3941: 'KPIT_TC_DRT_AMFM_196 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/50499
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Mon, 23 Mar 2026 06:06:48 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e1b9d8389839b72dff3e5736b0811de7', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '2bf222a19e704ab285c0e1009bdba5e0', 'Atl-Request-Id': '2bf222a1-9e70-4ab2-85c0-e1009bdba5e0', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=222,atl-edge-internal;dur=19,atl-edge-upstream;dur=203,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '_thHRHxuhiSVZjf1x4Eh40OVz4p8Cy1wGpDQoAQrtbJuOtb1D9d3WA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_10614":"Root Cause Details can't exceed 255 characters"}}.
+
+2026-03-23 11:36:48,647 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

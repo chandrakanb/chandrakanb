@@ -1,0 +1,13 @@
+2025-11-30 14:30:17,793 | INFO | ⏳ Updating 'A15-1925'...
+2025-11-30 14:30:17,795 | INFO |   🔄 Updating TS Modification By: 712020:7ebd6444-898e-4d1e-ba7a-2710a262ffa7
+2025-11-30 14:30:17,796 | INFO |   🔄 Updating TS Modifications On: 2025-11-14 00:00:00
+2025-11-30 14:30:17,797 | INFO |   🔄 Updating Executed by: CHANDRAKANT PRADIP BHALEKAR
+2025-11-30 14:30:17,797 | INFO |   🔄 Updating Executed on: 2025-11-15 00:00:00
+2025-11-30 14:30:17,798 | INFO |   🔄 Updating Automation TL Name: Rajashri Bhamare
+2025-11-30 14:30:17,798 | INFO |   🔄 Updating Assignee: CHANDRAKANT PRADIP BHALEKAR -> 712020:7ebd6444-898e-4d1e-ba7a-2710a262ffa7
+2025-11-30 14:30:18,954 | INFO |   ✅ Updated fields for A15-1925
+2025-11-30 14:30:18,967 | INFO | ℹ️ Found DetailedReport_KPIT_TC_DRT_BSICTM_002.pdf (will attach)
+2025-11-30 14:30:18,969 | INFO | ℹ️ Found DRT_TS_Review_Checklist_KPIT_TC_DRT_BSICTM_002_Self.xlsx (will attach)
+2025-11-30 14:30:21,073 | INFO | ✅ Attached: DetailedReport_KPIT_TC_DRT_BSICTM_002.pdf -> A15-1925
+2025-11-30 14:30:21,074 | INFO | ✅ Attached: DRT_TS_Review_Checklist_KPIT_TC_DRT_BSICTM_002_Self.xlsx -> A15-1925
+2025-11-30 14:30:21,075 | ERROR | An unexpected error occurred: name 'comment_resp' is not defined

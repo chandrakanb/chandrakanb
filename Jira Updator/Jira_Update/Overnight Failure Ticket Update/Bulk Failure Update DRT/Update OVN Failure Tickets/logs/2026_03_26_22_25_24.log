@@ -1,0 +1,117 @@
+2026-03-26 22:25:28,836 | INFO | ⏳ Updating 'A15-3726: KPIT_TC_DRT_IVI_038'...
+2026-03-26 22:25:28,836 | ERROR | [ERROR] Could not process A15-3726: 'KPIT_TC_DRT_IVI_038 : 'Valid Issue'.
+
+2026-03-26 22:25:29,722 | INFO | ⏳ Updating 'A15-3727: KPIT_TC_DRT_IVI_039'...
+2026-03-26 22:25:29,723 | ERROR | [ERROR] Could not process A15-3727: 'KPIT_TC_DRT_IVI_039 : 'Valid Issue'.
+
+2026-03-26 22:25:30,874 | INFO | ⏳ Updating 'A15-3572: KPIT_TC_DRT_VEND_115'...
+2026-03-26 22:25:30,875 | INFO |   🔄 Updating fields for A15-3572: 'KPIT_TC_DRT_VEND_115...
+2026-03-26 22:25:30,876 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:30,877 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:30,889 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 22:25:30,889 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone2 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 22:25:30,890 | INFO |     Fixation Performed : Restarted Phone2 and performed FDR on ICB.
+2026-03-26 22:25:34,069 | INFO |   ✅ Updated fields for A15-3572: 'KPIT_TC_DRT_VEND_115.
+2026-03-26 22:25:34,070 | INFO |   🔄 Commenting on A15-3572: 'KPIT_TC_DRT_VEND_115...
+2026-03-26 22:25:34,070 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:25:34,071 | INFO |     Result : Fail
+2026-03-26 22:25:34,071 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:34,071 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:34,072 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone2 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 22:25:34,072 | INFO |     Fixation Performed : Restarted Phone2 and performed FDR on ICB.
+2026-03-26 22:25:34,072 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQD0-fjxHtXsTaNSXUMMlvBLASBLwMCO_WDkSzSykXQBYf0?e=K6dcd5.
+2026-03-26 22:25:34,073 | INFO |     Reviewer : Rajashri
+2026-03-26 22:25:37,827 | INFO |   ✅ Commented on A15-3572: 'KPIT_TC_DRT_VEND_115.
+
+2026-03-26 22:25:39,528 | INFO | ⏳ Updating 'A15-3730: KPIT_TC_DRT_BT_002'...
+2026-03-26 22:25:39,529 | INFO |   🔄 Updating fields for A15-3730: 'KPIT_TC_DRT_BT_002...
+2026-03-26 22:25:39,529 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:39,530 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:39,531 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 22:25:39,532 | INFO |     Root Cause Details : While unpairing devices from Phone5 scanning popup displayed for longer duration, Hence further operations failed.
+2026-03-26 22:25:39,533 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:41,121 | INFO |   ✅ Updated fields for A15-3730: 'KPIT_TC_DRT_BT_002.
+2026-03-26 22:25:41,122 | INFO |   🔄 Commenting on A15-3730: 'KPIT_TC_DRT_BT_002...
+2026-03-26 22:25:41,123 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:25:41,124 | INFO |     Result : Fail
+2026-03-26 22:25:41,125 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:41,126 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:41,126 | INFO |     Root Cause Details : While unpairing devices from Phone5 scanning popup displayed for longer duration, Hence further operations failed.
+2026-03-26 22:25:41,127 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:41,128 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQBbZWBqEXjZRJ-aMFzEZ54zAVl6blre9i-KKfTNSc59AfM?e=QvtjPI.
+2026-03-26 22:25:41,128 | INFO |     Reviewer : Rajashri
+2026-03-26 22:25:42,648 | INFO |   ✅ Commented on A15-3730: 'KPIT_TC_DRT_BT_002.
+
+2026-03-26 22:25:43,797 | INFO | ⏳ Updating 'A15-3731: KPIT_TC_DRT_BT_033'...
+2026-03-26 22:25:43,798 | ERROR | [ERROR] Could not process A15-3731: 'KPIT_TC_DRT_BT_033 : 'Valid Issue'.
+
+2026-03-26 22:25:45,551 | INFO | ⏳ Updating 'A15-3735: KPIT_TC_DRT_INL_006'...
+2026-03-26 22:25:45,552 | ERROR | [ERROR] Could not process A15-3735: 'KPIT_TC_DRT_INL_006 : 'Valid Issue'.
+
+2026-03-26 22:25:46,677 | INFO | ⏳ Updating 'A15-3687: KPIT_TC_DRT_SPCAA_074'...
+2026-03-26 22:25:46,678 | INFO |   🔄 Updating fields for A15-3687: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-26 22:25:46,678 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:46,679 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:46,680 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 22:25:46,680 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is blank.
+2026-03-26 22:25:46,681 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:48,146 | INFO |   ✅ Updated fields for A15-3687: 'KPIT_TC_DRT_SPCAA_074.
+2026-03-26 22:25:48,147 | INFO |   🔄 Commenting on A15-3687: 'KPIT_TC_DRT_SPCAA_074...
+2026-03-26 22:25:48,148 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:25:48,148 | INFO |     Result : Fail
+2026-03-26 22:25:48,149 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:48,149 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:48,150 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is blank.
+2026-03-26 22:25:48,150 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:48,151 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQAbzlDO8dGyTY83-_GYBw1vAbftDeiSTPqEQO7xsSaIZwo?e=x8080N.
+2026-03-26 22:25:48,152 | INFO |     Reviewer : Rajashri
+2026-03-26 22:25:52,386 | INFO |   ✅ Commented on A15-3687: 'KPIT_TC_DRT_SPCAA_074.
+
+2026-03-26 22:25:53,813 | INFO | ⏳ Updating 'A15-3688: KPIT_TC_DRT_SPCAA_075'...
+2026-03-26 22:25:53,814 | INFO |   🔄 Updating fields for A15-3688: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-26 22:25:53,816 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:53,816 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:53,817 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 22:25:53,818 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is blank.
+2026-03-26 22:25:53,819 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:55,455 | INFO |   ✅ Updated fields for A15-3688: 'KPIT_TC_DRT_SPCAA_075.
+2026-03-26 22:25:55,456 | INFO |   🔄 Commenting on A15-3688: 'KPIT_TC_DRT_SPCAA_075...
+2026-03-26 22:25:55,457 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:25:55,457 | INFO |     Result : Fail
+2026-03-26 22:25:55,458 | INFO |     Failure Category : Test Env issue
+2026-03-26 22:25:55,459 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 22:25:55,460 | INFO |     Root Cause Details : Audio validation failed, As recorded audio is blank.
+2026-03-26 22:25:55,460 | INFO |     Fixation Performed : NA
+2026-03-26 22:25:55,461 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQC7TE_J3QyLQKfBn1rTAA56ASvJqjQeC-fjbR-fN-8INaA?e=EPaAS1.
+2026-03-26 22:25:55,462 | INFO |     Reviewer : Rajashri
+2026-03-26 22:25:59,798 | INFO |   ✅ Commented on A15-3688: 'KPIT_TC_DRT_SPCAA_075.
+
+2026-03-26 22:26:00,390 | INFO | ⏳ Updating 'A15-3724: KPIT_TC_DRT_BTA_052'...
+2026-03-26 22:26:00,391 | ERROR | [ERROR] Could not process A15-3724: 'KPIT_TC_DRT_BTA_052 : 'Valid Issue'.
+
+2026-03-26 22:26:00,997 | INFO | ⏳ Updating 'A15-3725: KPIT_TC_DRT_BT_010'...
+2026-03-26 22:26:00,998 | INFO |   🔄 Updating fields for A15-3725: 'KPIT_TC_DRT_BT_010...
+2026-03-26 22:26:00,999 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 22:26:00,999 | INFO |     Failure Sub Category : Once seen
+2026-03-26 22:26:01,001 | INFO |     Previous Failure Category : ['ICB Issue (Once)']
+2026-03-26 22:26:01,002 | INFO |     Root Cause Details : After Switching to Guest profile, Setup wizard popup displayed in full screen mode, Hence further operation failed.
+2026-03-26 22:26:01,002 | INFO |     Fixation Performed : Replaced FB "Select More if Google Service Screen Displayed" with Select More If Google Service Screen Displayed"
+2026-03-26 22:26:03,085 | INFO |   ✅ Updated fields for A15-3725: 'KPIT_TC_DRT_BT_010.
+2026-03-26 22:26:03,086 | INFO |   🔄 Commenting on A15-3725: 'KPIT_TC_DRT_BT_010...
+2026-03-26 22:26:03,086 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 22:26:03,087 | INFO |     Result : Fail
+2026-03-26 22:26:03,088 | INFO |     Failure Category : ICB Issue (Once)
+2026-03-26 22:26:03,089 | INFO |     Failure Sub Category : Once seen
+2026-03-26 22:26:03,090 | INFO |     Root Cause Details : After Switching to Guest profile, Setup wizard popup displayed in full screen mode, Hence further operation failed.
+2026-03-26 22:26:03,090 | INFO |     Fixation Performed : Replaced FB "Select More if Google Service Screen Displayed" with Select More If Google Service Screen Displayed"
+2026-03-26 22:26:03,091 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime execution reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQBjg7WxUgfCSoFjUSCAVSwTAaWER66nP2FWpBdGrBpv0Vs?e=J30DpF.
+2026-03-26 22:26:03,092 | INFO |     Reviewer : Rajashri
+2026-03-26 22:26:05,889 | INFO |   ✅ Commented on A15-3725: 'KPIT_TC_DRT_BT_010.
+
+2026-03-26 22:26:05,890 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

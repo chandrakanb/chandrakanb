@@ -1,0 +1,21 @@
+2026-03-21 12:21:53,577 | INFO | ⏳ Updating 'DRT-7512: KPIT_TC_DRT_MCS_012'...
+2026-03-21 12:21:53,578 | INFO |   🔄 Updating fields for DRT-7512: 'KPIT_TC_DRT_MCS_012...
+2026-03-21 12:21:53,578 | INFO |     Failure Category : TS issue
+2026-03-21 12:21:53,579 | INFO |     Failure Sub Category : TS Modification Required
+2026-03-21 12:21:53,580 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-21 12:21:53,581 | INFO |     Root Cause Details : In previous TS, aspect ratio and screen size were set to full but not reset to normal as a post-condition. Hence, the video remained in full screen, and this TS failed as further operations failed.
+2026-03-21 12:21:53,582 | INFO |     Fixation Performed : Added FBs to set aspect ratio and screen size to normal as a post-condition in the previous TS.
+2026-03-21 12:21:55,220 | INFO |   ✅ Updated fields for DRT-7512: 'KPIT_TC_DRT_MCS_012.
+2026-03-21 12:21:55,221 | INFO |   🔄 Commenting on DRT-7512: 'KPIT_TC_DRT_MCS_012...
+2026-03-21 12:21:55,222 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 12:21:55,222 | INFO |     Result : Fail
+2026-03-21 12:21:55,223 | INFO |     Failure Category : TS issue
+2026-03-21 12:21:55,223 | INFO |     Failure Sub Category : TS Modification Required
+2026-03-21 12:21:55,224 | INFO |     Root Cause Details : In previous TS, aspect ratio and screen size were set to full but not reset to normal as a post-condition. Hence, the video remained in full screen, and this TS failed as further operations failed.
+2026-03-21 12:21:55,225 | INFO |     Fixation Performed : Added FBs to set aspect ratio and screen size to normal as a post-condition in the previous TS.
+2026-03-21 12:21:55,225 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-21 12:21:55,226 | INFO |     Reviewer : Rajashri
+2026-03-21 12:21:56,090 | INFO |   ✅ Commented on DRT-7512: 'KPIT_TC_DRT_MCS_012.
+
+2026-03-21 12:21:56,091 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

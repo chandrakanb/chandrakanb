@@ -1,0 +1,173 @@
+2025-11-14 01:25:21,473 | INFO | ⏳ Updating 'DRT-2140: KPIT_TC_DRT_BTA_052'...
+2025-11-14 01:25:21,474 | INFO |   🔄 Updating fields for DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-14 01:25:21,474 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:21,475 | INFO |     Failure Sub Category : Timing Issue
+2025-11-14 01:25:21,476 | INFO |     Previous Failure Category : ['KITE Issues', 'ICB Issue (Once)', 'Human Error']
+2025-11-14 01:25:21,476 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-14 01:25:21,477 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:21,478 | INFO |     Remarks : NA
+2025-11-14 01:25:21,479 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:22,924 | INFO |   ✅ Updated fields for DRT-2140: 'KPIT_TC_DRT_BTA_052.
+2025-11-14 01:25:22,925 | INFO |   🔄 Commenting on DRT-2140: 'KPIT_TC_DRT_BTA_052...
+2025-11-14 01:25:22,926 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:22,926 | INFO |     Result : Fail
+2025-11-14 01:25:22,927 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:22,928 | INFO |     Failure Sub Category : Timing Issue
+2025-11-14 01:25:22,929 | INFO |     Root Cause Details : Music Library Screen Refreshed while selecting Samsung Music, Hence further operation not performed.
+2025-11-14 01:25:22,930 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:23,797 | INFO |   ✅ Commented on DRT-2140: 'KPIT_TC_DRT_BTA_052.
+
+2025-11-14 01:25:24,456 | INFO | ⏳ Updating 'DRT-1792: KPIT_TC_DRT_SPCAA_005'...
+2025-11-14 01:25:24,457 | INFO |   🔄 Updating fields for DRT-1792: 'KPIT_TC_DRT_SPCAA_005...
+2025-11-14 01:25:24,457 | INFO |     Failure Category : KITE Issue
+2025-11-14 01:25:24,458 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-14 01:25:24,458 | INFO |     Previous Failure Category : ['Human Error', 'KITE Issues']
+2025-11-14 01:25:24,459 | INFO |     Root Cause Details : Kite Internal Error for Capture Screen for Phone8, Hence Wireless AA Connection.
+2025-11-14 01:25:24,459 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:24,459 | INFO |     Remarks : Keeping this issue under observation.
+2025-11-14 01:25:24,460 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:25,496 | INFO |   ✅ Updated fields for DRT-1792: 'KPIT_TC_DRT_SPCAA_005.
+2025-11-14 01:25:25,497 | INFO |   🔄 Commenting on DRT-1792: 'KPIT_TC_DRT_SPCAA_005...
+2025-11-14 01:25:25,497 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:25,498 | INFO |     Result : Fail
+2025-11-14 01:25:25,498 | INFO |     Failure Category : KITE Issue
+2025-11-14 01:25:25,499 | INFO |     Failure Sub Category : KITE Application Issue
+2025-11-14 01:25:25,499 | INFO |     Root Cause Details : Kite Internal Error for Capture Screen for Phone8, Hence Wireless AA Connection.
+2025-11-14 01:25:25,500 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:25,963 | INFO |   ✅ Commented on DRT-1792: 'KPIT_TC_DRT_SPCAA_005.
+
+2025-11-14 01:25:26,626 | INFO | ⏳ Updating 'DRT-1825: KPIT_TC_DRT_SPCAA_028'...
+2025-11-14 01:25:26,627 | INFO |   🔄 Updating fields for DRT-1825: 'KPIT_TC_DRT_SPCAA_028...
+2025-11-14 01:25:26,627 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:26,628 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:26,629 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-11-14 01:25:26,629 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-14 01:25:26,630 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-14 01:25:26,631 | INFO |     Remarks : NA
+2025-11-14 01:25:26,632 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:27,649 | INFO |   ✅ Updated fields for DRT-1825: 'KPIT_TC_DRT_SPCAA_028.
+2025-11-14 01:25:27,650 | INFO |   🔄 Commenting on DRT-1825: 'KPIT_TC_DRT_SPCAA_028...
+2025-11-14 01:25:27,650 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:27,651 | INFO |     Result : Fail
+2025-11-14 01:25:27,651 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:27,651 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:27,652 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-14 01:25:27,652 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-14 01:25:28,131 | INFO |   ✅ Commented on DRT-1825: 'KPIT_TC_DRT_SPCAA_028.
+
+2025-11-14 01:25:28,798 | INFO | ⏳ Updating 'DRT-2565: KPIT_TC_DRT_SPCAA_053'...
+2025-11-14 01:25:28,799 | INFO |   🔄 Updating fields for DRT-2565: 'KPIT_TC_DRT_SPCAA_053...
+2025-11-14 01:25:28,799 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:28,800 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:28,801 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-11-14 01:25:28,802 | INFO |     Root Cause Details : AA not disconnected after disabled wifi on Phone3.
+2025-11-14 01:25:28,802 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:28,803 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 01:25:28,803 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:29,836 | INFO |   ✅ Updated fields for DRT-2565: 'KPIT_TC_DRT_SPCAA_053.
+2025-11-14 01:25:29,837 | INFO |   🔄 Commenting on DRT-2565: 'KPIT_TC_DRT_SPCAA_053...
+2025-11-14 01:25:29,837 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:29,838 | INFO |     Result : Fail
+2025-11-14 01:25:29,839 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:29,839 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:29,840 | INFO |     Root Cause Details : AA not disconnected after disabled wifi on Phone3.
+2025-11-14 01:25:29,840 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:30,684 | INFO |   ✅ Commented on DRT-2565: 'KPIT_TC_DRT_SPCAA_053.
+
+2025-11-14 01:25:30,990 | INFO | ⏳ Updating 'DRT-1793: KPIT_TC_DRT_SPCAA_080'...
+2025-11-14 01:25:30,991 | INFO |   🔄 Updating fields for DRT-1793: 'KPIT_TC_DRT_SPCAA_080...
+2025-11-14 01:25:30,992 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:30,992 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:30,992 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 01:25:30,993 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen, Hence AA Projection Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-14 01:25:30,993 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-14 01:25:30,994 | INFO |     Remarks : NA
+2025-11-14 01:25:30,994 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:32,379 | INFO |   ✅ Updated fields for DRT-1793: 'KPIT_TC_DRT_SPCAA_080.
+2025-11-14 01:25:32,380 | INFO |   🔄 Commenting on DRT-1793: 'KPIT_TC_DRT_SPCAA_080...
+2025-11-14 01:25:32,380 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:32,380 | INFO |     Result : Fail
+2025-11-14 01:25:32,381 | INFO |     Failure Category : Test Env Issue
+2025-11-14 01:25:32,381 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-11-14 01:25:32,382 | INFO |     Root Cause Details : Samsung Music Application is not available on Android Auto Screen, Hence AA Projection Screen. Incorrect device set on Device Mapping  Preference Page.(Same Device as Phone2 ans Phone3)
+2025-11-14 01:25:32,382 | INFO |     Fixation Performed : Set correct device on Device Mapping  Preference Page.
+2025-11-14 01:25:33,245 | INFO |   ✅ Commented on DRT-1793: 'KPIT_TC_DRT_SPCAA_080.
+
+2025-11-14 01:25:33,537 | INFO | ⏳ Updating 'DRT-3939: KPIT_TC_DRT_WF_048'...
+2025-11-14 01:25:33,538 | INFO |   🔄 Updating fields for DRT-3939: 'KPIT_TC_DRT_WF_048...
+2025-11-14 01:25:33,539 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:33,539 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 01:25:33,540 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-11-14 01:25:33,540 | INFO |     Root Cause Details : Black Screen observed after selecting Manage Device Connections Screen Option.
+2025-11-14 01:25:33,541 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:33,541 | INFO |     Remarks : Keeping this issue under observation.
+2025-11-14 01:25:33,541 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:34,723 | INFO |   ✅ Updated fields for DRT-3939: 'KPIT_TC_DRT_WF_048.
+2025-11-14 01:25:34,724 | INFO |   🔄 Commenting on DRT-3939: 'KPIT_TC_DRT_WF_048...
+2025-11-14 01:25:34,724 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:34,724 | INFO |     Result : Fail
+2025-11-14 01:25:34,725 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:34,725 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 01:25:34,726 | INFO |     Root Cause Details : Black Screen observed after selecting Manage Device Connections Screen Option.
+2025-11-14 01:25:34,726 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:35,540 | INFO |   ✅ Commented on DRT-3939: 'KPIT_TC_DRT_WF_048.
+
+2025-11-14 01:25:35,842 | INFO | ⏳ Updating 'DRT-3938: KPIT_TC_DRT_HOM_038'...
+2025-11-14 01:25:35,843 | INFO |   🔄 Updating fields for DRT-3938: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 01:25:35,844 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 01:25:35,844 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 01:25:35,845 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'ICB Issue (Always)']
+2025-11-14 01:25:35,846 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 01:25:35,846 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:35,847 | INFO |     Remarks : NA
+2025-11-14 01:25:35,847 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:36,888 | INFO |   ✅ Updated fields for DRT-3938: 'KPIT_TC_DRT_HOM_038.
+2025-11-14 01:25:36,890 | INFO |   🔄 Commenting on DRT-3938: 'KPIT_TC_DRT_HOM_038...
+2025-11-14 01:25:36,890 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:36,891 | INFO |     Result : Fail
+2025-11-14 01:25:36,892 | INFO |     Failure Category : ICB Issue (Always)
+2025-11-14 01:25:36,892 | INFO |     Failure Sub Category : Valid Issue
+2025-11-14 01:25:36,893 | INFO |     Root Cause Details : Maps Apps is displayed as Google Maps on All Apps Screen, Hence All Apps Screen 4 validation failed.
+Google Assistant displayed twice on All Apps screen, Hence All Apps Screen 5 validation failed.
+2025-11-14 01:25:36,894 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:41,509 | INFO |   ✅ Commented on DRT-3938: 'KPIT_TC_DRT_HOM_038.
+
+2025-11-14 01:25:41,796 | INFO | ⏳ Updating 'DRT-4355: KPIT_TC_DRT_SUW_1258'...
+2025-11-14 01:25:41,796 | INFO |   🔄 Updating fields for DRT-4355: 'KPIT_TC_DRT_SUW_1258...
+2025-11-14 01:25:41,797 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:41,798 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 01:25:41,799 | INFO |     Previous Failure Category : ['ICB Issue (Once)', 'Test Env Issue']
+2025-11-14 01:25:41,799 | INFO |     Root Cause Details : SUW Screen not displayed afters selecting "View Terms And Data Setting" on Notification Screen.
+2025-11-14 01:25:41,800 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:41,801 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 01:25:41,802 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:42,430 | INFO |   ✅ Updated fields for DRT-4355: 'KPIT_TC_DRT_SUW_1258.
+2025-11-14 01:25:42,430 | INFO |   🔄 Commenting on DRT-4355: 'KPIT_TC_DRT_SUW_1258...
+2025-11-14 01:25:42,431 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:42,431 | INFO |     Result : Fail
+2025-11-14 01:25:42,432 | INFO |     Failure Category : ICB Issue (Once)
+2025-11-14 01:25:42,432 | INFO |     Failure Sub Category : Once Seen
+2025-11-14 01:25:42,432 | INFO |     Root Cause Details : SUW Screen not displayed afters selecting "View Terms And Data Setting" on Notification Screen.
+2025-11-14 01:25:42,433 | INFO |     Fixation Performed : NA
+2025-11-14 01:25:42,844 | INFO |   ✅ Commented on DRT-4355: 'KPIT_TC_DRT_SUW_1258.
+
+2025-11-14 01:25:43,474 | INFO | ⏳ Updating 'DRT-5775: KPIT_TC_DRT_CLK_014'...
+2025-11-14 01:25:43,475 | INFO |   🔄 Updating fields for DRT-5775: 'KPIT_TC_DRT_CLK_014...
+2025-11-14 01:25:43,476 | INFO |     Failure Category : TS Issue
+2025-11-14 01:25:43,476 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-14 01:25:43,477 | INFO |     Previous Failure Category : ['TS Issue', 'Test Env Issue']
+2025-11-14 01:25:43,477 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-14 01:25:43,478 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-14 01:25:43,478 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 01:25:43,479 | INFO |     Reviewer : Lumesh
+2025-11-14 01:25:44,258 | INFO |   ✅ Updated fields for DRT-5775: 'KPIT_TC_DRT_CLK_014.
+2025-11-14 01:25:44,259 | INFO |   🔄 Commenting on DRT-5775: 'KPIT_TC_DRT_CLK_014...
+2025-11-14 01:25:44,259 | INFO |     Date AEA1413R0.251112.1 : 2025-11-12
+2025-11-14 01:25:44,260 | INFO |     Result : Fail
+2025-11-14 01:25:44,261 | INFO |     Failure Category : TS Issue
+2025-11-14 01:25:44,261 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-14 01:25:44,261 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-14 01:25:44,262 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-14 01:25:44,727 | INFO |   ✅ Commented on DRT-5775: 'KPIT_TC_DRT_CLK_014.
+

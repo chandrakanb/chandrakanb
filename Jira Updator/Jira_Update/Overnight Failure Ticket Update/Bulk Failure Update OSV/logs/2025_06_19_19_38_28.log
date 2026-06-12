@@ -1,0 +1,665 @@
+2025-06-19 19:38:32,124 | INFO | ⏳ Updating 'OSV-2488: KPIT_TC_DRT_USB_060'...
+2025-06-19 19:38:32,124 | INFO |   🔄 Commenting on OSV-2488: 'KPIT_TC_DRT_USB_060...
+2025-06-19 19:38:32,125 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:32,126 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:32,126 | INFO |     Result               : Pass
+2025-06-19 19:38:32,851 | INFO |   ✅ Commented on OSV-2488: 'KPIT_TC_DRT_USB_060.
+
+2025-06-19 19:38:33,300 | INFO | ⏳ Updating 'OSV-2480: KPIT_TC_DRT_SUW_005'...
+2025-06-19 19:38:33,301 | INFO |   🔄 Commenting on OSV-2480: 'KPIT_TC_DRT_SUW_005...
+2025-06-19 19:38:33,301 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:33,313 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:33,313 | INFO |     Result               : Pass
+2025-06-19 19:38:34,047 | INFO |   ✅ Commented on OSV-2480: 'KPIT_TC_DRT_SUW_005.
+
+2025-06-19 19:38:34,507 | INFO | ⏳ Updating 'OSV-2496: KPIT_TC_DRT_SUW_003'...
+2025-06-19 19:38:34,508 | INFO |   🔄 Commenting on OSV-2496: 'KPIT_TC_DRT_SUW_003...
+2025-06-19 19:38:34,509 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:34,509 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:34,510 | INFO |     Result               : Pass
+2025-06-19 19:38:35,678 | INFO |   ✅ Commented on OSV-2496: 'KPIT_TC_DRT_SUW_003.
+
+2025-06-19 19:38:36,120 | INFO | ⏳ Updating 'OSV-2483: KPIT_TC_DRT_MCS_045'...
+2025-06-19 19:38:36,120 | INFO |   🔄 Commenting on OSV-2483: 'KPIT_TC_DRT_MCS_045...
+2025-06-19 19:38:36,121 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:36,121 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:36,121 | INFO |     Result               : Pass
+2025-06-19 19:38:37,371 | INFO |   ✅ Commented on OSV-2483: 'KPIT_TC_DRT_MCS_045.
+
+2025-06-19 19:38:37,885 | INFO | ⏳ Updating 'OSV-2494: KPIT_TC_DRT_HOM_013'...
+2025-06-19 19:38:37,886 | INFO |   🔄 Commenting on OSV-2494: 'KPIT_TC_DRT_HOM_013...
+2025-06-19 19:38:37,886 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:37,887 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:37,888 | INFO |     Result               : Pass
+2025-06-19 19:38:38,965 | INFO |   ✅ Commented on OSV-2494: 'KPIT_TC_DRT_HOM_013.
+
+2025-06-19 19:38:39,439 | INFO | ⏳ Updating 'OSV-2485: KPIT_TC_DRT_PRM_003'...
+2025-06-19 19:38:39,440 | INFO |   🔄 Commenting on OSV-2485: 'KPIT_TC_DRT_PRM_003...
+2025-06-19 19:38:39,441 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:39,441 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:39,442 | INFO |     Result               : Pass
+2025-06-19 19:38:40,659 | INFO |   ✅ Commented on OSV-2485: 'KPIT_TC_DRT_PRM_003.
+
+2025-06-19 19:38:41,550 | INFO | ⏳ Updating 'OSV-3490: KPIT_TC_DRT_KBD_003'...
+2025-06-19 19:38:41,551 | INFO |   🔄 Commenting on OSV-3490: 'KPIT_TC_DRT_KBD_003...
+2025-06-19 19:38:41,552 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:41,553 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:41,553 | INFO |     Result               : Pass
+2025-06-19 19:38:42,307 | INFO |   ✅ Commented on OSV-3490: 'KPIT_TC_DRT_KBD_003.
+
+2025-06-19 19:38:42,820 | INFO | ⏳ Updating 'OSV-3484: KPIT_TC_DRT_HFT_052'...
+2025-06-19 19:38:42,820 | INFO |   🔄 Commenting on OSV-3484: 'KPIT_TC_DRT_HFT_052...
+2025-06-19 19:38:42,821 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:42,822 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:42,823 | INFO |     Result               : Pass
+2025-06-19 19:38:43,652 | INFO |   ✅ Commented on OSV-3484: 'KPIT_TC_DRT_HFT_052.
+
+2025-06-19 19:38:44,146 | INFO | ⏳ Updating 'OSV-3493: KPIT_TC_DRT_HFT_046'...
+2025-06-19 19:38:44,147 | INFO |   🔄 Commenting on OSV-3493: 'KPIT_TC_DRT_HFT_046...
+2025-06-19 19:38:44,147 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:44,147 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:44,148 | INFO |     Result               : Pass
+2025-06-19 19:38:44,963 | INFO |   ✅ Commented on OSV-3493: 'KPIT_TC_DRT_HFT_046.
+
+2025-06-19 19:38:45,456 | INFO | ⏳ Updating 'OSV-3488: KPIT_TC_DRT_HFT_017'...
+2025-06-19 19:38:45,457 | INFO |   🔄 Commenting on OSV-3488: 'KPIT_TC_DRT_HFT_017...
+2025-06-19 19:38:45,458 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:45,458 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:45,459 | INFO |     Result               : Pass
+2025-06-19 19:38:46,228 | INFO |   ✅ Commented on OSV-3488: 'KPIT_TC_DRT_HFT_017.
+
+2025-06-19 19:38:46,766 | INFO | ⏳ Updating 'OSV-2481: KPIT_TC_DRT_SUW_006'...
+2025-06-19 19:38:46,767 | INFO |   🔄 Updating fields for OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 19:38:46,767 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:38:46,767 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:38:46,767 | INFO |     Root Cause Details : ICB got stuck on google 2 Step Authentication Screen.
+2025-06-19 19:38:46,768 | INFO |     Fixation Performed : NA
+2025-06-19 19:38:47,960 | INFO |   ✅ Updated fields for OSV-2481: 'KPIT_TC_DRT_SUW_006.
+2025-06-19 19:38:47,961 | INFO |   🔄 Commenting on OSV-2481: 'KPIT_TC_DRT_SUW_006...
+2025-06-19 19:38:47,961 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:47,961 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:47,962 | INFO |     Result               : Fail
+2025-06-19 19:38:47,962 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:38:47,962 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:38:47,963 | INFO |     Root Cause Details   : ICB got stuck on google 2 Step Authentication Screen.
+2025-06-19 19:38:47,963 | INFO |     Fixation Performed   : NA
+2025-06-19 19:38:49,204 | INFO |   ✅ Commented on OSV-2481: 'KPIT_TC_DRT_SUW_006.
+
+2025-06-19 19:38:49,739 | INFO | ⏳ Updating 'OSV-2611: KPIT_TC_DRT_KBD_017'...
+2025-06-19 19:38:49,740 | INFO |   🔄 Updating fields for OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 19:38:49,740 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:38:49,740 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:38:49,741 | INFO |     Root Cause Details : Robot Clicked properly on Required Image but on ICB side Language did not get selected
+2025-06-19 19:38:49,741 | INFO |     Fixation Performed : NA
+2025-06-19 19:38:50,978 | INFO |   ✅ Updated fields for OSV-2611: 'KPIT_TC_DRT_KBD_017.
+2025-06-19 19:38:50,979 | INFO |   🔄 Commenting on OSV-2611: 'KPIT_TC_DRT_KBD_017...
+2025-06-19 19:38:50,980 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:50,980 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:50,981 | INFO |     Result               : Fail
+2025-06-19 19:38:50,982 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:38:50,982 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:38:50,983 | INFO |     Root Cause Details   : Robot Clicked properly on Required Image but on ICB side Language did not get selected
+2025-06-19 19:38:50,983 | INFO |     Fixation Performed   : NA
+2025-06-19 19:38:52,129 | INFO |   ✅ Commented on OSV-2611: 'KPIT_TC_DRT_KBD_017.
+
+2025-06-19 19:38:52,615 | INFO | ⏳ Updating 'OSV-2495: KPIT_TC_FNC_SPCAA_0447_0001'...
+2025-06-19 19:38:52,616 | INFO |   🔄 Updating fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 19:38:52,616 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:38:52,616 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:38:52,617 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:38:52,617 | INFO |     Fixation Performed : NA
+2025-06-19 19:38:53,888 | INFO |   ✅ Updated fields for OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+2025-06-19 19:38:53,889 | INFO |   🔄 Commenting on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001...
+2025-06-19 19:38:53,889 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:53,889 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:53,889 | INFO |     Result               : Fail
+2025-06-19 19:38:53,890 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:38:53,890 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:38:53,890 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:38:53,891 | INFO |     Fixation Performed   : NA
+2025-06-19 19:38:54,546 | INFO |   ✅ Commented on OSV-2495: 'KPIT_TC_FNC_SPCAA_0447_0001.
+
+2025-06-19 19:38:55,058 | INFO | ⏳ Updating 'OSV-2484: KPIT_TC_FNC_AVG_0878_0001'...
+2025-06-19 19:38:55,058 | INFO |   🔄 Updating fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 19:38:55,059 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:38:55,060 | INFO |     Failure Sub Category : Test_Environment_Issue 
+2025-06-19 19:38:55,061 | INFO |     Root Cause Details : Expected volume is more than the recorded one.
+2025-06-19 19:38:55,061 | INFO |     Fixation Performed : NA
+2025-06-19 19:38:56,193 | INFO |   ✅ Updated fields for OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+2025-06-19 19:38:56,193 | INFO |   🔄 Commenting on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001...
+2025-06-19 19:38:56,194 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:56,194 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:56,195 | INFO |     Result               : Fail
+2025-06-19 19:38:56,195 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:38:56,196 | INFO |     Failure Sub Category : Test_Environment_Issue 
+2025-06-19 19:38:56,197 | INFO |     Root Cause Details   : Expected volume is more than the recorded one.
+2025-06-19 19:38:56,197 | INFO |     Fixation Performed   : NA
+2025-06-19 19:38:57,613 | INFO |   ✅ Commented on OSV-2484: 'KPIT_TC_FNC_AVG_0878_0001.
+
+2025-06-19 19:38:58,113 | INFO | ⏳ Updating 'OSV-2479: KPIT_TC_DRT_SUW_004'...
+2025-06-19 19:38:58,114 | INFO |   🔄 Updating fields for OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 19:38:58,116 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:38:58,116 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:38:58,117 | INFO |     Root Cause Details : ICB got stuck on google 2 Step Authentication Screen.
+2025-06-19 19:38:58,117 | INFO |     Fixation Performed : NA
+2025-06-19 19:38:59,471 | INFO |   ✅ Updated fields for OSV-2479: 'KPIT_TC_DRT_SUW_004.
+2025-06-19 19:38:59,472 | INFO |   🔄 Commenting on OSV-2479: 'KPIT_TC_DRT_SUW_004...
+2025-06-19 19:38:59,472 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:38:59,473 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:38:59,473 | INFO |     Result               : Fail
+2025-06-19 19:38:59,473 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:38:59,474 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:38:59,474 | INFO |     Root Cause Details   : ICB got stuck on google 2 Step Authentication Screen.
+2025-06-19 19:38:59,474 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:01,699 | INFO |   ✅ Commented on OSV-2479: 'KPIT_TC_DRT_SUW_004.
+
+2025-06-19 19:39:02,212 | INFO | ⏳ Updating 'OSV-2482: KPIT_TC_DRT_SSR_012'...
+2025-06-19 19:39:02,213 | INFO |   🔄 Updating fields for OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 19:39:02,213 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:02,214 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:02,214 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:02,214 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:03,303 | INFO |   ✅ Updated fields for OSV-2482: 'KPIT_TC_DRT_SSR_012.
+2025-06-19 19:39:03,304 | INFO |   🔄 Commenting on OSV-2482: 'KPIT_TC_DRT_SSR_012...
+2025-06-19 19:39:03,305 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:03,305 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:03,306 | INFO |     Result               : Fail
+2025-06-19 19:39:03,318 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:03,319 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:03,320 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:03,321 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:04,043 | INFO |   ✅ Commented on OSV-2482: 'KPIT_TC_DRT_SSR_012.
+
+2025-06-19 19:39:04,637 | INFO | ⏳ Updating 'OSV-2490: KPIT_TC_DRT_SSR_004'...
+2025-06-19 19:39:04,639 | INFO |   🔄 Updating fields for OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 19:39:04,639 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:04,640 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:04,641 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:04,641 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:05,717 | INFO |   ✅ Updated fields for OSV-2490: 'KPIT_TC_DRT_SSR_004.
+2025-06-19 19:39:05,718 | INFO |   🔄 Commenting on OSV-2490: 'KPIT_TC_DRT_SSR_004...
+2025-06-19 19:39:05,719 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:05,719 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:05,721 | INFO |     Result               : Fail
+2025-06-19 19:39:05,721 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:05,722 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:05,722 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:05,722 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:06,419 | INFO |   ✅ Commented on OSV-2490: 'KPIT_TC_DRT_SSR_004.
+
+2025-06-19 19:39:06,891 | INFO | ⏳ Updating 'OSV-2608: KPIT_TC_DRT_SPCCP_099'...
+2025-06-19 19:39:06,891 | INFO |   🔄 Updating fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 19:39:06,892 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:06,892 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:06,893 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:06,893 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:07,955 | INFO |   ✅ Updated fields for OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+2025-06-19 19:39:07,956 | INFO |   🔄 Commenting on OSV-2608: 'KPIT_TC_DRT_SPCCP_099...
+2025-06-19 19:39:07,957 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:07,957 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:07,958 | INFO |     Result               : Fail
+2025-06-19 19:39:07,959 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:07,959 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:07,959 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:07,960 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:08,708 | INFO |   ✅ Commented on OSV-2608: 'KPIT_TC_DRT_SPCCP_099.
+
+2025-06-19 19:39:09,191 | INFO | ⏳ Updating 'OSV-2613: KPIT_TC_DRT_SPCCP_021'...
+2025-06-19 19:39:09,192 | INFO |   🔄 Updating fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 19:39:09,193 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:09,194 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:09,194 | INFO |     Root Cause Details : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:09,195 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:10,324 | INFO |   ✅ Updated fields for OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+2025-06-19 19:39:10,325 | INFO |   🔄 Commenting on OSV-2613: 'KPIT_TC_DRT_SPCCP_021...
+2025-06-19 19:39:10,325 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:10,326 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:10,327 | INFO |     Result               : Fail
+2025-06-19 19:39:10,327 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:10,327 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:10,328 | INFO |     Root Cause Details   : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:10,328 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:11,018 | INFO |   ✅ Commented on OSV-2613: 'KPIT_TC_DRT_SPCCP_021.
+
+2025-06-19 19:39:11,468 | INFO | ⏳ Updating 'OSV-2478: KPIT_TC_DRT_SPCAA_078'...
+2025-06-19 19:39:11,469 | INFO |   🔄 Updating fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 19:39:11,469 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:11,470 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:11,471 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:11,471 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:12,765 | INFO |   ✅ Updated fields for OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+2025-06-19 19:39:12,766 | INFO |   🔄 Commenting on OSV-2478: 'KPIT_TC_DRT_SPCAA_078...
+2025-06-19 19:39:12,767 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:12,768 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:12,768 | INFO |     Result               : Fail
+2025-06-19 19:39:12,769 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:12,769 | INFO |     Failure Sub Category : Test_Environment_Issue
+2025-06-19 19:39:12,770 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:12,771 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:13,557 | INFO |   ✅ Commented on OSV-2478: 'KPIT_TC_DRT_SPCAA_078.
+
+2025-06-19 19:39:14,047 | INFO | ⏳ Updating 'OSV-2492: KPIT_TC_DRT_SPCAA_024'...
+2025-06-19 19:39:14,047 | INFO |   🔄 Updating fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 19:39:14,048 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:14,048 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:14,049 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:14,049 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:14,981 | INFO |   ✅ Updated fields for OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+2025-06-19 19:39:14,982 | INFO |   🔄 Commenting on OSV-2492: 'KPIT_TC_DRT_SPCAA_024...
+2025-06-19 19:39:14,983 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:14,983 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:14,984 | INFO |     Result               : Fail
+2025-06-19 19:39:14,984 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:14,984 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:14,985 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:14,985 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:16,234 | INFO |   ✅ Commented on OSV-2492: 'KPIT_TC_DRT_SPCAA_024.
+
+2025-06-19 19:39:16,722 | INFO | ⏳ Updating 'OSV-2493: KPIT_TC_DRT_SPCAA_010'...
+2025-06-19 19:39:16,723 | INFO |   🔄 Updating fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 19:39:16,724 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:16,724 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:16,725 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:16,725 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:17,615 | INFO |   ✅ Updated fields for OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+2025-06-19 19:39:17,616 | INFO |   🔄 Commenting on OSV-2493: 'KPIT_TC_DRT_SPCAA_010...
+2025-06-19 19:39:17,617 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:17,618 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:17,618 | INFO |     Result               : Fail
+2025-06-19 19:39:17,620 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:17,620 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:17,620 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:17,621 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:18,973 | INFO |   ✅ Commented on OSV-2493: 'KPIT_TC_DRT_SPCAA_010.
+
+2025-06-19 19:39:19,492 | INFO | ⏳ Updating 'OSV-2491: KPIT_TC_DRT_MCS_036'...
+2025-06-19 19:39:19,493 | INFO |   🔄 Updating fields for OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 19:39:19,493 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:19,494 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 19:39:19,494 | INFO |     Root Cause Details : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:19,494 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:20,551 | INFO |   ✅ Updated fields for OSV-2491: 'KPIT_TC_DRT_MCS_036.
+2025-06-19 19:39:20,553 | INFO |   🔄 Commenting on OSV-2491: 'KPIT_TC_DRT_MCS_036...
+2025-06-19 19:39:20,553 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:20,554 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:20,555 | INFO |     Result               : Fail
+2025-06-19 19:39:20,556 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:20,556 | INFO |     Failure Sub Category : Once Seen
+2025-06-19 19:39:20,557 | INFO |     Root Cause Details   : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:20,558 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:21,272 | INFO |   ✅ Commented on OSV-2491: 'KPIT_TC_DRT_MCS_036.
+
+2025-06-19 19:39:21,763 | INFO | ⏳ Updating 'OSV-2609: KPIT_TC_DRT_HMI_001'...
+2025-06-19 19:39:21,764 | INFO |   🔄 Updating fields for OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 19:39:21,764 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:21,765 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:21,766 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:39:21,766 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:22,818 | INFO |   ✅ Updated fields for OSV-2609: 'KPIT_TC_DRT_HMI_001.
+2025-06-19 19:39:22,818 | INFO |   🔄 Commenting on OSV-2609: 'KPIT_TC_DRT_HMI_001...
+2025-06-19 19:39:22,818 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:22,818 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:22,819 | INFO |     Result               : Fail
+2025-06-19 19:39:22,819 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:22,819 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:22,819 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:39:22,819 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:23,531 | INFO |   ✅ Commented on OSV-2609: 'KPIT_TC_DRT_HMI_001.
+
+2025-06-19 19:39:24,011 | INFO | ⏳ Updating 'OSV-2607: KPIT_TC_DRT_HFT_048'...
+2025-06-19 19:39:24,012 | INFO |   🔄 Updating fields for OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 19:39:24,014 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:24,014 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:24,015 | INFO |     Root Cause Details : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:24,016 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:25,186 | INFO |   ✅ Updated fields for OSV-2607: 'KPIT_TC_DRT_HFT_048.
+2025-06-19 19:39:25,187 | INFO |   🔄 Commenting on OSV-2607: 'KPIT_TC_DRT_HFT_048...
+2025-06-19 19:39:25,188 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:25,188 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:25,189 | INFO |     Result               : Fail
+2025-06-19 19:39:25,190 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:25,190 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:25,191 | INFO |     Root Cause Details   : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth.
+2025-06-19 19:39:25,191 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:25,888 | INFO |   ✅ Commented on OSV-2607: 'KPIT_TC_DRT_HFT_048.
+
+2025-06-19 19:39:26,373 | INFO | ⏳ Updating 'OSV-2610: KPIT_TC_DRT_BTA_053'...
+2025-06-19 19:39:26,373 | INFO |   🔄 Updating fields for OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 19:39:26,373 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:26,374 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:26,374 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:26,374 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:27,683 | INFO |   ✅ Updated fields for OSV-2610: 'KPIT_TC_DRT_BTA_053.
+2025-06-19 19:39:27,684 | INFO |   🔄 Commenting on OSV-2610: 'KPIT_TC_DRT_BTA_053...
+2025-06-19 19:39:27,685 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:27,686 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:27,686 | INFO |     Result               : Fail
+2025-06-19 19:39:27,687 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:27,687 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:27,688 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:27,688 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:28,346 | INFO |   ✅ Commented on OSV-2610: 'KPIT_TC_DRT_BTA_053.
+
+2025-06-19 19:39:28,843 | INFO | ⏳ Updating 'OSV-2487: KPIT_TC_DRT_BTA_025'...
+2025-06-19 19:39:28,844 | INFO |   🔄 Updating fields for OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 19:39:28,844 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:28,845 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:28,845 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:39:28,846 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:29,930 | INFO |   ✅ Updated fields for OSV-2487: 'KPIT_TC_DRT_BTA_025.
+2025-06-19 19:39:29,931 | INFO |   🔄 Commenting on OSV-2487: 'KPIT_TC_DRT_BTA_025...
+2025-06-19 19:39:29,931 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:29,932 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:29,932 | INFO |     Result               : Fail
+2025-06-19 19:39:29,932 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:29,933 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:29,933 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:39:29,933 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:30,645 | INFO |   ✅ Commented on OSV-2487: 'KPIT_TC_DRT_BTA_025.
+
+2025-06-19 19:39:31,135 | INFO | ⏳ Updating 'OSV-2612: KPIT_TC_DRT_BTA_024'...
+2025-06-19 19:39:31,136 | INFO |   🔄 Updating fields for OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 19:39:31,136 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:31,137 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:31,138 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:31,139 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:32,224 | INFO |   ✅ Updated fields for OSV-2612: 'KPIT_TC_DRT_BTA_024.
+2025-06-19 19:39:32,225 | INFO |   🔄 Commenting on OSV-2612: 'KPIT_TC_DRT_BTA_024...
+2025-06-19 19:39:32,225 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:32,226 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:32,227 | INFO |     Result               : Fail
+2025-06-19 19:39:32,227 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:32,228 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:32,228 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:32,228 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:32,862 | INFO |   ✅ Commented on OSV-2612: 'KPIT_TC_DRT_BTA_024.
+
+2025-06-19 19:39:33,359 | INFO | ⏳ Updating 'OSV-2489: KPIT_TC_DRT_BTA_020'...
+2025-06-19 19:39:33,360 | INFO |   🔄 Updating fields for OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 19:39:33,360 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:39:33,361 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:33,361 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:33,361 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:34,453 | INFO |   ✅ Updated fields for OSV-2489: 'KPIT_TC_DRT_BTA_020.
+2025-06-19 19:39:34,453 | INFO |   🔄 Commenting on OSV-2489: 'KPIT_TC_DRT_BTA_020...
+2025-06-19 19:39:34,454 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:34,455 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:34,455 | INFO |     Result               : Fail
+2025-06-19 19:39:34,456 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:39:34,456 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:39:34,457 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:34,457 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:35,199 | INFO |   ✅ Commented on OSV-2489: 'KPIT_TC_DRT_BTA_020.
+
+2025-06-19 19:39:35,663 | INFO | ⏳ Updating 'OSV-2780: KPIT_TC_DRT_HOM_005'...
+2025-06-19 19:39:35,664 | INFO |   🔄 Updating fields for OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-19 19:39:35,665 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:35,665 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:35,666 | INFO |     Root Cause Details : Ipod Disconnection Issue
+2025-06-19 19:39:35,667 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:36,913 | INFO |   ✅ Updated fields for OSV-2780: 'KPIT_TC_DRT_HOM_005.
+2025-06-19 19:39:36,914 | INFO |   🔄 Commenting on OSV-2780: 'KPIT_TC_DRT_HOM_005...
+2025-06-19 19:39:36,914 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:36,915 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:36,916 | INFO |     Result               : Fail
+2025-06-19 19:39:36,917 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:36,917 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:36,918 | INFO |     Root Cause Details   : Ipod Disconnection Issue
+2025-06-19 19:39:36,919 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:37,784 | INFO |   ✅ Commented on OSV-2780: 'KPIT_TC_DRT_HOM_005.
+
+2025-06-19 19:39:38,250 | INFO | ⏳ Updating 'OSV-2781: KPIT_TC_DRT_HOM_006'...
+2025-06-19 19:39:38,251 | INFO |   🔄 Updating fields for OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-19 19:39:38,251 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:38,252 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:38,253 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:38,254 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:39,618 | INFO |   ✅ Updated fields for OSV-2781: 'KPIT_TC_DRT_HOM_006.
+2025-06-19 19:39:39,618 | INFO |   🔄 Commenting on OSV-2781: 'KPIT_TC_DRT_HOM_006...
+2025-06-19 19:39:39,618 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:39,618 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:39,618 | INFO |     Result               : Fail
+2025-06-19 19:39:39,618 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:39,618 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:39,618 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:39,620 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:40,400 | INFO |   ✅ Commented on OSV-2781: 'KPIT_TC_DRT_HOM_006.
+
+2025-06-19 19:39:40,963 | INFO | ⏳ Updating 'OSV-2778: KPIT_TC_DRT_HOM_009'...
+2025-06-19 19:39:40,963 | INFO |   🔄 Updating fields for OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-19 19:39:40,963 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:40,964 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:40,964 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:40,965 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:42,092 | INFO |   ✅ Updated fields for OSV-2778: 'KPIT_TC_DRT_HOM_009.
+2025-06-19 19:39:42,092 | INFO |   🔄 Commenting on OSV-2778: 'KPIT_TC_DRT_HOM_009...
+2025-06-19 19:39:42,093 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:42,094 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:42,095 | INFO |     Result               : Fail
+2025-06-19 19:39:42,095 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:42,096 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:42,096 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:42,097 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:42,852 | INFO |   ✅ Commented on OSV-2778: 'KPIT_TC_DRT_HOM_009.
+
+2025-06-19 19:39:43,311 | INFO | ⏳ Updating 'OSV-2779: KPIT_TC_DRT_HOM_012'...
+2025-06-19 19:39:43,312 | INFO |   🔄 Updating fields for OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-19 19:39:43,313 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:43,313 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:43,314 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:43,314 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:44,393 | INFO |   ✅ Updated fields for OSV-2779: 'KPIT_TC_DRT_HOM_012.
+2025-06-19 19:39:44,393 | INFO |   🔄 Commenting on OSV-2779: 'KPIT_TC_DRT_HOM_012...
+2025-06-19 19:39:44,394 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:44,395 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:44,395 | INFO |     Result               : Fail
+2025-06-19 19:39:44,396 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:44,397 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:44,397 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:44,398 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:45,569 | INFO |   ✅ Commented on OSV-2779: 'KPIT_TC_DRT_HOM_012.
+
+2025-06-19 19:39:46,018 | INFO | ⏳ Updating 'OSV-2774: KPIT_TC_DRT_HOM_028'...
+2025-06-19 19:39:46,019 | INFO |   🔄 Updating fields for OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-19 19:39:46,019 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:46,020 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:46,021 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition
+2025-06-19 19:39:46,021 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:47,246 | INFO |   ✅ Updated fields for OSV-2774: 'KPIT_TC_DRT_HOM_028.
+2025-06-19 19:39:47,246 | INFO |   🔄 Commenting on OSV-2774: 'KPIT_TC_DRT_HOM_028...
+2025-06-19 19:39:47,247 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:47,247 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:47,248 | INFO |     Result               : Fail
+2025-06-19 19:39:47,248 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:47,248 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:47,248 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition
+2025-06-19 19:39:47,250 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:48,019 | INFO |   ✅ Commented on OSV-2774: 'KPIT_TC_DRT_HOM_028.
+
+2025-06-19 19:39:49,024 | INFO | ⏳ Updating 'OSV-2776: KPIT_TC_DRT_HOM_031'...
+2025-06-19 19:39:49,025 | INFO |   🔄 Updating fields for OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-19 19:39:49,026 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:49,027 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:49,027 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition
+2025-06-19 19:39:49,028 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:50,691 | INFO |   ✅ Updated fields for OSV-2776: 'KPIT_TC_DRT_HOM_031.
+2025-06-19 19:39:50,692 | INFO |   🔄 Commenting on OSV-2776: 'KPIT_TC_DRT_HOM_031...
+2025-06-19 19:39:50,693 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:50,694 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:50,694 | INFO |     Result               : Fail
+2025-06-19 19:39:50,695 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:50,695 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:50,696 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition
+2025-06-19 19:39:50,697 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:51,416 | INFO |   ✅ Commented on OSV-2776: 'KPIT_TC_DRT_HOM_031.
+
+2025-06-19 19:39:51,882 | INFO | ⏳ Updating 'OSV-2773: KPIT_TC_DRT_HOM_035'...
+2025-06-19 19:39:51,883 | INFO |   🔄 Updating fields for OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-19 19:39:51,884 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:51,885 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:51,885 | INFO |     Root Cause Details : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth
+2025-06-19 19:39:51,886 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:53,566 | INFO |   ✅ Updated fields for OSV-2773: 'KPIT_TC_DRT_HOM_035.
+2025-06-19 19:39:53,566 | INFO |   🔄 Commenting on OSV-2773: 'KPIT_TC_DRT_HOM_035...
+2025-06-19 19:39:53,567 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:53,568 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:53,568 | INFO |     Result               : Fail
+2025-06-19 19:39:53,569 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:53,570 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:53,570 | INFO |     Root Cause Details   : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth
+2025-06-19 19:39:53,571 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:54,318 | INFO |   ✅ Commented on OSV-2773: 'KPIT_TC_DRT_HOM_035.
+
+2025-06-19 19:39:54,802 | INFO | ⏳ Updating 'OSV-2771: KPIT_TC_DRT_HOM_050'...
+2025-06-19 19:39:54,803 | INFO |   🔄 Updating fields for OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-19 19:39:54,804 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:54,805 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:54,806 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:54,806 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:55,965 | INFO |   ✅ Updated fields for OSV-2771: 'KPIT_TC_DRT_HOM_050.
+2025-06-19 19:39:55,966 | INFO |   🔄 Commenting on OSV-2771: 'KPIT_TC_DRT_HOM_050...
+2025-06-19 19:39:55,967 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:55,967 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:55,968 | INFO |     Result               : Fail
+2025-06-19 19:39:55,968 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:55,969 | INFO |     Failure Sub Category : Other TS Failed
+2025-06-19 19:39:55,969 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device ti ICB
+2025-06-19 19:39:55,970 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:56,699 | INFO |   ✅ Commented on OSV-2771: 'KPIT_TC_DRT_HOM_050.
+
+2025-06-19 19:39:57,188 | INFO | ⏳ Updating 'OSV-2777: KPIT_TC_DRT_KBD_013'...
+2025-06-19 19:39:57,189 | INFO |   🔄 Updating fields for OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-19 19:39:57,189 | INFO |     Failure Category : ICB issue (Once)
+2025-06-19 19:39:57,190 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 19:39:57,191 | INFO |     Root Cause Details : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth
+2025-06-19 19:39:57,192 | INFO |     Fixation Performed : NA
+2025-06-19 19:39:58,422 | INFO |   ✅ Updated fields for OSV-2777: 'KPIT_TC_DRT_KBD_013.
+2025-06-19 19:39:58,423 | INFO |   🔄 Commenting on OSV-2777: 'KPIT_TC_DRT_KBD_013...
+2025-06-19 19:39:58,423 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:39:58,423 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:39:58,424 | INFO |     Result               : Fail
+2025-06-19 19:39:58,424 | INFO |     Failure Category     : ICB issue (Once)
+2025-06-19 19:39:58,425 | INFO |     Failure Sub Category : TS Modification Required
+2025-06-19 19:39:58,425 | INFO |     Root Cause Details   : Precondition got failed "Precondition_SPCCP_To Connect iPhone as Wireless Carplay" failed to click on Bluetooth
+2025-06-19 19:39:58,425 | INFO |     Fixation Performed   : NA
+2025-06-19 19:39:59,173 | INFO |   ✅ Commented on OSV-2777: 'KPIT_TC_DRT_KBD_013.
+
+2025-06-19 19:39:59,673 | INFO | ⏳ Updating 'OSV-3007: KPIT_TC_DRT_SND_039'...
+2025-06-19 19:39:59,674 | INFO |   🔄 Updating fields for OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-19 19:39:59,675 | INFO |     Failure Category : KITE issue
+2025-06-19 19:39:59,676 | INFO |     Failure Sub Category : Image Comparision
+2025-06-19 19:39:59,677 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:39:59,677 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:00,811 | INFO |   ✅ Updated fields for OSV-3007: 'KPIT_TC_DRT_SND_039.
+2025-06-19 19:40:00,812 | INFO |   🔄 Commenting on OSV-3007: 'KPIT_TC_DRT_SND_039...
+2025-06-19 19:40:00,812 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:00,813 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:00,814 | INFO |     Result               : Fail
+2025-06-19 19:40:00,814 | INFO |     Failure Category     : KITE issue
+2025-06-19 19:40:00,815 | INFO |     Failure Sub Category : Image Comparision
+2025-06-19 19:40:00,816 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:40:00,816 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:01,724 | INFO |   ✅ Commented on OSV-3007: 'KPIT_TC_DRT_SND_039.
+
+2025-06-19 19:40:02,241 | INFO | ⏳ Updating 'OSV-2775: KPIT_TC_DRT_VEH_002'...
+2025-06-19 19:40:02,242 | INFO |   🔄 Updating fields for OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-19 19:40:02,243 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:02,244 | INFO |     Failure Sub Category : Test_environment_Issue
+2025-06-19 19:40:02,244 | INFO |     Root Cause Details : Robot did not perform click on vehicle settings icon.
+2025-06-19 19:40:02,244 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:03,592 | INFO |   ✅ Updated fields for OSV-2775: 'KPIT_TC_DRT_VEH_002.
+2025-06-19 19:40:03,593 | INFO |   🔄 Commenting on OSV-2775: 'KPIT_TC_DRT_VEH_002...
+2025-06-19 19:40:03,593 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:03,594 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:03,595 | INFO |     Result               : Fail
+2025-06-19 19:40:03,595 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:03,596 | INFO |     Failure Sub Category : Test_environment_Issue
+2025-06-19 19:40:03,596 | INFO |     Root Cause Details   : Robot did not perform click on vehicle settings icon.
+2025-06-19 19:40:03,597 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:04,464 | INFO |   ✅ Commented on OSV-2775: 'KPIT_TC_DRT_VEH_002.
+
+2025-06-19 19:40:04,960 | INFO | ⏳ Updating 'OSV-2782: KPIT_TC_DRT_VEH_059'...
+2025-06-19 19:40:04,961 | INFO |   🔄 Updating fields for OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-19 19:40:04,961 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:04,962 | INFO |     Failure Sub Category : Test_environment_Issue
+2025-06-19 19:40:04,962 | INFO |     Root Cause Details : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:40:04,963 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:06,283 | INFO |   ✅ Updated fields for OSV-2782: 'KPIT_TC_DRT_VEH_059.
+2025-06-19 19:40:06,284 | INFO |   🔄 Commenting on OSV-2782: 'KPIT_TC_DRT_VEH_059...
+2025-06-19 19:40:06,284 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:06,285 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:06,286 | INFO |     Result               : Fail
+2025-06-19 19:40:06,286 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:06,287 | INFO |     Failure Sub Category : Test_environment_Issue
+2025-06-19 19:40:06,287 | INFO |     Root Cause Details   : Unable to Switch Control to Phone8 in Precondition.
+2025-06-19 19:40:06,288 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:07,586 | INFO |   ✅ Commented on OSV-2782: 'KPIT_TC_DRT_VEH_059.
+
+2025-06-19 19:40:08,089 | INFO | ⏳ Updating 'OSV-3010: KPIT_TC_DRT_IPD_1193'...
+2025-06-19 19:40:08,090 | INFO |   🔄 Updating fields for OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-19 19:40:08,091 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:08,092 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:08,092 | INFO |     Root Cause Details : iPod disconnected.
+2025-06-19 19:40:08,093 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:09,262 | INFO |   ✅ Updated fields for OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+2025-06-19 19:40:09,263 | INFO |   🔄 Commenting on OSV-3010: 'KPIT_TC_DRT_IPD_1193...
+2025-06-19 19:40:09,263 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:09,264 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:09,265 | INFO |     Result               : Fail
+2025-06-19 19:40:09,266 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:09,266 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:09,267 | INFO |     Root Cause Details   : iPod disconnected.
+2025-06-19 19:40:09,267 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:10,033 | INFO |   ✅ Commented on OSV-3010: 'KPIT_TC_DRT_IPD_1193.
+
+2025-06-19 19:40:10,532 | INFO | ⏳ Updating 'OSV-3011: KPIT_TC_DRT_USB_1245'...
+2025-06-19 19:40:10,532 | INFO |   🔄 Updating fields for OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-19 19:40:10,533 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:10,533 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:10,534 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:10,535 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:11,812 | INFO |   ✅ Updated fields for OSV-3011: 'KPIT_TC_DRT_USB_1245.
+2025-06-19 19:40:11,818 | INFO |   🔄 Commenting on OSV-3011: 'KPIT_TC_DRT_USB_1245...
+2025-06-19 19:40:11,827 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:11,833 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:11,836 | INFO |     Result               : Fail
+2025-06-19 19:40:11,847 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:11,849 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:11,852 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:11,854 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:12,612 | INFO |   ✅ Commented on OSV-3011: 'KPIT_TC_DRT_USB_1245.
+
+2025-06-19 19:40:13,095 | INFO | ⏳ Updating 'OSV-3487: KPIT_TC_DRT_HFT_059'...
+2025-06-19 19:40:13,096 | INFO |   🔄 Updating fields for OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-19 19:40:13,096 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:13,096 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:13,096 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:13,097 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:14,279 | INFO |   ✅ Updated fields for OSV-3487: 'KPIT_TC_DRT_HFT_059.
+2025-06-19 19:40:14,280 | INFO |   🔄 Commenting on OSV-3487: 'KPIT_TC_DRT_HFT_059...
+2025-06-19 19:40:14,281 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:14,282 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:14,283 | INFO |     Result               : Fail
+2025-06-19 19:40:14,283 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:14,284 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:14,285 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:14,285 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:15,156 | INFO |   ✅ Commented on OSV-3487: 'KPIT_TC_DRT_HFT_059.
+
+2025-06-19 19:40:15,678 | INFO | ⏳ Updating 'OSV-3485: KPIT_TC_DRT_HFT_054'...
+2025-06-19 19:40:15,679 | INFO |   🔄 Updating fields for OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-19 19:40:15,680 | INFO |     Failure Category : Test Env issue
+2025-06-19 19:40:15,681 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:15,681 | INFO |     Root Cause Details : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:15,682 | INFO |     Fixation Performed : NA
+2025-06-19 19:40:16,885 | INFO |   ✅ Updated fields for OSV-3485: 'KPIT_TC_DRT_HFT_054.
+2025-06-19 19:40:16,885 | INFO |   🔄 Commenting on OSV-3485: 'KPIT_TC_DRT_HFT_054...
+2025-06-19 19:40:16,886 | INFO |     Date                 : 24th May 2025
+2025-06-19 19:40:16,887 | INFO |     Analysis Done By     : Pratham
+2025-06-19 19:40:16,888 | INFO |     Result               : Fail
+2025-06-19 19:40:16,888 | INFO |     Failure Category     : Test Env issue
+2025-06-19 19:40:16,889 | INFO |     Failure Sub Category : Automation Setup Malfunction
+2025-06-19 19:40:16,889 | INFO |     Root Cause Details   : Precondition Failed as Unable to connect Phone1 as Bluetooth device to ICB.
+2025-06-19 19:40:16,890 | INFO |     Fixation Performed   : NA
+2025-06-19 19:40:17,620 | INFO |   ✅ Commented on OSV-3485: 'KPIT_TC_DRT_HFT_054.
+

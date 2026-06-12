@@ -1,0 +1,120 @@
+2024-12-18 18:47:38.295    MODE:3
+2024-12-18 18:47:38.302    Validating Application Configuration
+2024-12-18 18:47:38.304    Load APP Configuration
+2024-12-18 18:47:38.372    COM:8
+2024-12-18 18:47:38.372    PBLDOWNLOADPROTOCOL:0
+2024-12-18 18:47:38.372    PROGRAMMER:True
+2024-12-18 18:47:38.372    PROGRAMMER:D:\UFS Build Files\custom_t90_g_user_ufs\ufs\prog_firehose_ddr.elf
+2024-12-18 18:47:38.372    RESETSAHARASTATEMACHINE:False
+2024-12-18 18:47:38.372    SAHARAREADSERIALNO:False
+2024-12-18 18:47:38.372    SEARCHPATH:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs
+2024-12-18 18:47:38.372    RAWPROGRAM:
+2024-12-18 18:47:38.372    rawprogram_unsparse0.xml
+2024-12-18 18:47:38.372    rawprogram1.xml
+2024-12-18 18:47:38.372    rawprogram2.xml
+2024-12-18 18:47:38.372    rawprogram3.xml
+2024-12-18 18:47:38.372    rawprogram4.xml
+2024-12-18 18:47:38.372    rawprogram5.xml
+2024-12-18 18:47:38.372    PATCH:
+2024-12-18 18:47:38.372    patch0.xml
+2024-12-18 18:47:38.372    patch1.xml
+2024-12-18 18:47:38.372    patch2.xml
+2024-12-18 18:47:38.372    patch2.xml
+2024-12-18 18:47:38.373    patch3.xml
+2024-12-18 18:47:38.373    patch4.xml
+2024-12-18 18:47:38.373    patch5.xml
+2024-12-18 18:47:38.373    ACKRAWDATAEVERYNUMPACKETS:False
+2024-12-18 18:47:38.373    ACKRAWDATAEVERYNUMPACKETS:100
+2024-12-18 18:47:38.373    MAXPAYLOADSIZETOTARGETINBYTES:False
+2024-12-18 18:47:38.373    MAXPAYLOADSIZETOTARGETINBYTES:49152
+2024-12-18 18:47:38.373    DEVICETYPE:UFS
+2024-12-18 18:47:38.373    PLATFORM:8x26
+2024-12-18 18:47:38.373    VALIDATIONMODE:0
+2024-12-18 18:47:38.373    RESETAFTERDOWNLOAD:False
+2024-12-18 18:47:38.373    MAXDIGESTTABLESIZE:8192
+2024-12-18 18:47:38.373    SWITCHTOFIREHOSETIMEOUT:30
+2024-12-18 18:47:38.373    RESETTIMEOUT:200
+2024-12-18 18:47:38.373    RESETDELAYTIME:2
+2024-12-18 18:47:38.373    METABUILD:
+2024-12-18 18:47:38.373    METABUILD:
+2024-12-18 18:47:38.373    FLATBUILDPATH:C:\
+2024-12-18 18:47:38.373    FLATBUILDFORCEOVERRIDE:True
+2024-12-18 18:47:38.373    QCNPATH:C:\Temp\00000000.qcn
+2024-12-18 18:47:38.374    QCNAUTOBACKUPRESTORE:False
+2024-12-18 18:47:38.374    SPCCODE:000000
+2024-12-18 18:47:38.374    ENABLEMULTISIM:False
+2024-12-18 18:47:38.374    AUTOPRESERVEPARTITIONS:False
+2024-12-18 18:47:38.374    PARTITIONPRESERVEMODE:0
+2024-12-18 18:47:38.374    PRESERVEDPARTITIONS:0
+2024-12-18 18:47:38.374    PRESERVEDPARTITIONS:
+2024-12-18 18:47:38.374    ERASEALL:True
+2024-12-18 18:47:38.374    Load ARG Configuration
+2024-12-18 18:47:38.374    COM:8
+2024-12-18 18:47:38.374    SEARCHPATH:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs
+2024-12-18 18:47:38.374    RAWPROGRAM:
+2024-12-18 18:47:38.374    rawprogram_unsparse0.xml
+2024-12-18 18:47:38.374    rawprogram1.xml
+2024-12-18 18:47:38.374    rawprogram2.xml
+2024-12-18 18:47:38.374    rawprogram3.xml
+2024-12-18 18:47:38.374    rawprogram4.xml
+2024-12-18 18:47:38.374    rawprogram5.xml
+2024-12-18 18:47:38.374    PATCH:
+2024-12-18 18:47:38.374    patch0.xml
+2024-12-18 18:47:38.375    patch1.xml
+2024-12-18 18:47:38.375    patch2.xml
+2024-12-18 18:47:38.375    patch2.xml
+2024-12-18 18:47:38.375    patch3.xml
+2024-12-18 18:47:38.375    patch4.xml
+2024-12-18 18:47:38.375    patch5.xml
+2024-12-18 18:47:38.383    Validating Download Configuration
+2024-12-18 18:47:38.384    Image Search Path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs
+2024-12-18 18:47:38.385    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram_unsparse0.xml
+2024-12-18 18:47:38.386    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram1.xml
+2024-12-18 18:47:38.386    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram2.xml
+2024-12-18 18:47:38.386    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram3.xml
+2024-12-18 18:47:38.386    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram4.xml
+2024-12-18 18:47:38.386    RAWPROGRAM file path: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\rawprogram5.xml
+2024-12-18 18:47:38.386    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch0.xml
+2024-12-18 18:47:38.386    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch1.xml
+2024-12-18 18:47:38.387    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch2.xml
+2024-12-18 18:47:38.387    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch2.xml
+2024-12-18 18:47:38.387    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch3.xml
+2024-12-18 18:47:38.387    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch4.xml
+2024-12-18 18:47:38.387    PATCH file path ignored: D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch5.xml
+2024-12-18 18:47:38.387    PATCH file path:D:\BaseBuildFlashing\BaseBuild\UFSFiles\R140BU14R0.240724.01\ufs\patch5.xml
+2024-12-18 18:47:38.388    Programmer Path:D:\UFS Build Files\custom_t90_g_user_ufs\ufs\prog_firehose_ddr.elf
+2024-12-18 18:47:38.393    QFIL version: 2.0.1.5
+2024-12-18 18:47:38.459    Start Download
+2024-12-18 18:47:38.476    Program Path:D:\UFS Build Files\custom_t90_g_user_ufs\ufs\prog_firehose_ddr.elf
+2024-12-18 18:47:38.479    ***** Working Folder:C:\Users\chandrakanb\AppData\Roaming\Qualcomm\QFIL\COMPORT_8
+2024-12-18 18:47:39.339    Binary build date: May  9 2017 @ 03:56:22
+2024-12-18 18:47:39.339    QSAHARASERVER CALLED LIKE THIS: 'C:\Program Files (x86)\Qualcomm\QPST\bin\QSaharaServer.ex'Current working dir: C:\Users\chandrakanb\AppData\Roaming\Qualcomm\QFIL\COMPORT_8
+2024-12-18 18:47:39.339    Sahara mappings:
+2024-12-18 18:47:39.339    2: amss.mbn
+2024-12-18 18:47:39.339    6: apps.mbn
+2024-12-18 18:47:39.339    8: dsp1.mbn
+2024-12-18 18:47:39.339    10: dbl.mbn
+2024-12-18 18:47:39.339    11: osbl.mbn
+2024-12-18 18:47:39.340    12: dsp2.mbn
+2024-12-18 18:47:39.340    16: efs1.mbn
+2024-12-18 18:47:39.340    17: efs2.mbn
+2024-12-18 18:47:39.340    20: efs3.mbn
+2024-12-18 18:47:39.340    21: sbl1.mbn
+2024-12-18 18:47:39.340    22: sbl2.mbn
+2024-12-18 18:47:39.340    23: rpm.mbn
+2024-12-18 18:47:39.340    25: tz.mbn
+2024-12-18 18:47:39.341    28: dsp3.mbn
+2024-12-18 18:47:39.341    29: acdb.mbn
+2024-12-18 18:47:39.341    30: wdt.mbn
+2024-12-18 18:47:39.341    31: mba.mbn
+2024-12-18 18:47:39.341    13: D:\UFS Build Files\custom_t90_g_user_ufs\ufs\prog_firehose_ddr.elf
+2024-12-18 18:47:39.341    
+2024-12-18 18:47:39.341    18:47:39: ERROR: function: rx_data:247 Error occurred while reading from COM port
+2024-12-18 18:47:39.341    
+2024-12-18 18:47:39.342    18:47:39: ERROR: function: sahara_main:924 Sahara protocol error
+2024-12-18 18:47:39.342    
+2024-12-18 18:47:39.342    18:47:39: ERROR: function: main:303 Uploading  Image using Sahara protocol failed
+2024-12-18 18:47:39.342    
+2024-12-18 18:47:39.342    
+2024-12-18 18:47:39.354    Download Fail:Sahara Fail:QSaharaServer Fail:Process fail
+2024-12-18 18:47:39.355    Finish Download

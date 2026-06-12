@@ -1,0 +1,34 @@
+2026-03-18 02:31:13,122 | INFO | Token loaded from Environment Variable
+2026-03-18 02:31:14,845 | INFO | Successfully connected to Jira server: https://kpithondajapan.atlassian.net
+2026-03-18 02:31:15,205 | INFO | Successfully read Excel file: Transite_Issues.xlsx
+2026-03-18 02:31:16,502 | INFO | Ticket DRT-7519 is transited till status: Ready for review
+2026-03-18 02:31:17,979 | INFO | Ticket DRT-7518 is transited till status: Ready for review
+2026-03-18 02:31:19,389 | INFO | Ticket DRT-7517 is transited till status: Ready for review
+2026-03-18 02:31:20,809 | INFO | Ticket DRT-7516 is transited till status: Ready for review
+2026-03-18 02:31:21,998 | INFO | Ticket DRT-7515 is transited till status: Ready for review
+2026-03-18 02:31:23,529 | INFO | Ticket DRT-7514 is transited till status: Ready for review
+2026-03-18 02:31:24,538 | INFO | Ticket DRT-7513 is transited till status: Ready for review
+2026-03-18 02:31:25,712 | INFO | Ticket DRT-7512 is transited till status: Ready for review
+2026-03-18 02:31:26,421 | INFO | Ticket DRT-7511 is transited till status: Ready for review
+2026-03-18 02:31:27,063 | INFO | Ticket DRT-6090 is transited till status: Ready for review
+2026-03-18 02:31:28,042 | INFO | Ticket DRT-5942 is transited till status: Ready for review
+2026-03-18 02:31:29,005 | INFO | Ticket DRT-5941 is transited till status: Ready for review
+2026-03-18 02:31:29,692 | INFO | Ticket DRT-5313 is transited till status: Ready for review
+2026-03-18 02:31:30,291 | INFO | Ticket DRT-5160 is transited till status: Ready for review
+2026-03-18 02:31:31,335 | INFO | Ticket DRT-5102 is transited till status: Ready for review
+2026-03-18 02:31:32,631 | INFO | Ticket DRT-5101 is transited till status: Ready for review
+2026-03-18 02:31:33,272 | INFO | Ticket DRT-5094 is transited till status: Ready for review
+2026-03-18 02:31:34,399 | INFO | Ticket DRT-4367 is transited till status: Ready for review
+2026-03-18 02:31:35,194 | INFO | Ticket DRT-3907 is transited till status: Ready for review
+2026-03-18 02:31:36,291 | INFO | Ticket DRT-3408 is transited till status: Ready for review
+2026-03-18 02:31:37,045 | INFO | Ticket DRT-3407 is transited till status: Ready for review
+2026-03-18 02:31:38,074 | INFO | Ticket DRT-3404 is transited till status: Ready for review
+2026-03-18 02:31:38,714 | INFO | Ticket DRT-2552 is transited till status: Ready for review
+2026-03-18 02:31:39,748 | INFO | Ticket DRT-1915 is transited till status: Ready for review
+2026-03-18 02:31:40,406 | INFO | Ticket DRT-1791 is transited till status: Ready for review
+2026-03-18 02:31:41,046 | INFO | Ticket DRT-1788 is transited till status: Ready for review
+2026-03-18 02:31:41,931 | INFO | Ticket DRT-1787 is transited till status: Ready for review
+2026-03-18 02:31:42,572 | INFO | Ticket DRT-1754 is transited till status: Ready for review
+2026-03-18 02:31:43,532 | INFO | Ticket DRT-1753 is transited till status: Ready for review
+2026-03-18 02:31:43,533 | INFO | ✅ JIRA TRANSITION COMPLETED...
+

@@ -1,0 +1,8 @@
+2025-12-31 17:38:33,653 | INFO | 🔗 Connecting to JIRA...
+2025-12-31 17:38:35,958 | INFO | 📄 Reading Excel file...
+2025-12-31 17:38:36,633 | INFO | ❌ Error on DRT-6298: JiraError HTTP 404 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/DRT-6298
+	text: Issue does not exist or you do not have permission to see it.
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Wed, 31 Dec 2025 12:08:36 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e2ce58090985d2084177eca45501f2c5', 'X-Seraph-Loginreason': 'AUTHENTICATED_FAILED', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Encoding': 'br', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'fe11c64013654dce8c7ace5a0a1a3dae', 'Atl-Request-Id': 'fe11c640-1365-4dce-8c7a-ce5a0a1a3dae', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Server-Timing': 'atl-edge;dur=139,atl-edge-internal;dur=13,atl-edge-upstream;dur=125,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 473a7327891bdce42eed5ffe7062b9f6.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P9', 'X-Amz-Cf-Id': 'oLYiSfZ3tqvaMU4NNjkYgRU8S-L05LA70-KAJU4p2nGJoIs7_eYANA=='}
+	response text = {"errorMessages":["Issue does not exist or you do not have permission to see it."],"errors":{}}
+2025-12-31 17:38:36,651 | INFO | 🎉 ALL DONE

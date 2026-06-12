@@ -1,0 +1,21 @@
+; TTL Macro File
+setbaud 115200
+connect 'COM9'
+
+; Send initial debug commands
+sendln 'MCU_DEBUG00'
+sendln 'MCU_DEBUG01'
+
+; Send variant code 4 times
+sendln 'MCU_DEBUG14543930413301'
+wait 1
+sendln 'MCU_DEBUG14543930413301'
+wait 1
+sendln 'MCU_DEBUG14543930413301'
+wait 1
+sendln 'MCU_DEBUG14543930413301'
+wait 1
+
+; Disconnect and end
+disconnect
+end

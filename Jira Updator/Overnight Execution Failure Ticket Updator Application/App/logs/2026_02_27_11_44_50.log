@@ -1,0 +1,108 @@
+2026-02-27 11:44:50 | 🚀 Jira Update Started.
+
+2026-02-27 11:44:50 | ⏳ Updating    		            : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-27 11:44:50 |   🔄 Updating fields          : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-27 11:44:51 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:44:51 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:44:51 |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)']
+2026-02-27 11:44:51 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:44:51 |     Fixation Performed        : NA
+2026-02-27 11:44:53 |   ✅ Updated fields           : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-27 11:44:53 |   🔄 Commenting               : DRT-3931 ('KPIT_TC_DRT_VEND_115')
+2026-02-27 11:44:53 |     Date                      : 2026-02-27
+2026-02-27 11:44:53 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:44:53 |     Result                    : Fail
+2026-02-27 11:44:53 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:44:53 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:44:53 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:44:53 |     Fixation Performed        : NA
+2026-02-27 11:44:53 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-27 11:44:53 |     Reviewer                  : Rajashri
+2026-02-27 11:45:08 |   🔄 Commented                : DRT-3931 ('KPIT_TC_DRT_VEND_115') | Comment ID: 166865
+
+2026-02-27 11:45:09 | ⏳ Updating    		            : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-27 11:45:09 |   🔄 Updating fields          : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-27 11:45:09 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:45:09 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:45:09 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-02-27 11:45:09 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:45:09 |     Fixation Performed        : NA
+2026-02-27 11:45:09 |   ✅ Updated fields           : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-27 11:45:09 |   🔄 Commenting               : DRT-3933 ('KPIT_TC_DRT_VEND_114')
+2026-02-27 11:45:09 |     Date                      : 2026-02-27
+2026-02-27 11:45:09 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:09 |     Result                    : Fail
+2026-02-27 11:45:09 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:45:10 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:45:10 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:45:10 |     Fixation Performed        : NA
+2026-02-27 11:45:10 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-27 11:45:10 |     Reviewer                  : Rajashri
+2026-02-27 11:45:10 |   🔄 Commented                : DRT-3933 ('KPIT_TC_DRT_VEND_114') | Comment ID: 166866
+
+2026-02-27 11:45:10 | ⏳ Updating    		            : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-27 11:45:10 |   🔄 Updating fields          : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-27 11:45:10 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:45:10 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:45:10 |     Previous Failure Category : ['Test Env Issue', 'KITE Issue', 'ICB Issue (Always)']
+2026-02-27 11:45:10 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:45:11 |     Fixation Performed        : NA
+2026-02-27 11:45:12 |   ✅ Updated fields           : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-27 11:45:12 |   🔄 Commenting               : DRT-2306 ('KPIT_TC_DRT_VEND_113')
+2026-02-27 11:45:12 |     Date                      : 2026-02-27
+2026-02-27 11:45:12 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:12 |     Result                    : Fail
+2026-02-27 11:45:12 |     Failure Category          : ICB Issue (Always)
+2026-02-27 11:45:12 |     Failure Sub Category      : Valid Issue
+2026-02-27 11:45:12 |     Root Cause Details        : Vendor Extension Application Issue
+2026-02-27 11:45:12 |     Fixation Performed        : NA
+2026-02-27 11:45:12 |     Remarks                   : Defect is already raised: https://jira.honda-ivi.com/browse/PJ04DEF00-8025.
+Executed manually with another Phone device with Vendor Extension Application 4.1 installed, result : Pass.
+2026-02-27 11:45:12 |     Reviewer                  : Rajashri
+2026-02-27 11:45:12 |   🔄 Commented                : DRT-2306 ('KPIT_TC_DRT_VEND_113') | Comment ID: 166867
+
+2026-02-27 11:45:12 | ⏳ Updating    		            : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-02-27 11:45:13 |   🔄 Commenting               : DRT-4222 ('KPIT_TC_DRT_BSICTM_001')
+2026-02-27 11:45:13 |     Date                      : 2026-02-27
+2026-02-27 11:45:13 |     Result                    : Pass
+2026-02-27 11:45:13 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:13 |   🔄 Commented                : DRT-4222 ('KPIT_TC_DRT_BSICTM_001') | Comment ID: 166868
+
+2026-02-27 11:45:13 | ⏳ Updating    		            : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-27 11:45:13 |   🔄 Commenting               : DRT-3841 ('KPIT_TC_DRT_IPD_047')
+2026-02-27 11:45:13 |     Date                      : 2026-02-27
+2026-02-27 11:45:13 |     Result                    : Pass
+2026-02-27 11:45:13 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:14 |   🔄 Commented                : DRT-3841 ('KPIT_TC_DRT_IPD_047') | Comment ID: 166869
+
+2026-02-27 11:45:15 | ⏳ Updating    		            : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-27 11:45:15 |   🔄 Commenting               : DRT-2309 ('KPIT_TC_DRT_BZA_015')
+2026-02-27 11:45:15 |     Date                      : 2026-02-27
+2026-02-27 11:45:15 |     Result                    : Pass
+2026-02-27 11:45:15 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:15 |   🔄 Commented                : DRT-2309 ('KPIT_TC_DRT_BZA_015') | Comment ID: 166870
+
+2026-02-27 11:45:16 | ⏳ Updating    		            : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-27 11:45:16 |   🔄 Commenting               : DRT-2308 ('KPIT_TC_DRT_BZA_005')
+2026-02-27 11:45:16 |     Date                      : 2026-02-27
+2026-02-27 11:45:16 |     Result                    : Pass
+2026-02-27 11:45:16 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:17 |   🔄 Commented                : DRT-2308 ('KPIT_TC_DRT_BZA_005') | Comment ID: 166871
+
+2026-02-27 11:45:17 | ⏳ Updating    		            : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-27 11:45:17 |   🔄 Commenting               : DRT-2305 ('KPIT_TC_DRT_VEND_092')
+2026-02-27 11:45:17 |     Date                      : 2026-02-27
+2026-02-27 11:45:17 |     Result                    : Pass
+2026-02-27 11:45:17 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:17 |   🔄 Commented                : DRT-2305 ('KPIT_TC_DRT_VEND_092') | Comment ID: 166872
+
+2026-02-27 11:45:18 | ⏳ Updating    		            : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-27 11:45:18 |   🔄 Commenting               : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001')
+2026-02-27 11:45:18 |     Date                      : 2026-02-27
+2026-02-27 11:45:18 |     Result                    : Pass
+2026-02-27 11:45:18 |     Build Number              : AEA1412S0.260227.1
+2026-02-27 11:45:18 |   🔄 Commented                : DRT-2304 ('KPIT_TC_FNC_VEND_0063_0001') | Comment ID: 166873
+
+2026-02-27 11:45:18 | ✅ Jira Update Completed.

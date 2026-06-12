@@ -1,0 +1,11 @@
+pip install os
+pip install sys
+pip install ctypes
+pip install subprocess
+pip install brainstem
+pip install brainstem
+pip install time
+pip install psutil
+pip install wmi
+pip install pyusb
+pip install time 

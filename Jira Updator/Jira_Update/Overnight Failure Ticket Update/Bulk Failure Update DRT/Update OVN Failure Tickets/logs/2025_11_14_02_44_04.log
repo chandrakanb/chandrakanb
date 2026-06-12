@@ -1,0 +1,146 @@
+2025-11-14 02:44:07,045 | INFO | ⏳ Updating 'DRT-1746: KPIT_TC_DRT_BT_010'...
+2025-11-14 02:44:07,046 | INFO |   🔄 Updating fields for DRT-1746: 'KPIT_TC_DRT_BT_010...
+2025-11-14 02:44:07,047 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:07,047 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:07,048 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:44:07,048 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:07,049 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:07,049 | INFO |     Remarks : NA
+2025-11-14 02:44:07,050 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:08,355 | INFO |   ✅ Updated fields for DRT-1746: 'KPIT_TC_DRT_BT_010.
+2025-11-14 02:44:08,356 | INFO |   🔄 Commenting on DRT-1746: 'KPIT_TC_DRT_BT_010...
+2025-11-14 02:44:08,357 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:08,358 | INFO |     Result : Fail
+2025-11-14 02:44:08,359 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:08,359 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:08,360 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:08,361 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:09,233 | INFO |   ✅ Commented on DRT-1746: 'KPIT_TC_DRT_BT_010.
+
+2025-11-14 02:44:09,512 | INFO | ⏳ Updating 'DRT-1789: KPIT_TC_DRT_BTA_052'...
+2025-11-14 02:44:09,513 | INFO |   🔄 Updating fields for DRT-1789: 'KPIT_TC_DRT_BTA_052...
+2025-11-14 02:44:09,513 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:09,514 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:09,515 | INFO |     Previous Failure Category : ['ICB Issue (Once)']
+2025-11-14 02:44:09,515 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:09,516 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:09,516 | INFO |     Remarks : NA
+2025-11-14 02:44:09,517 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:11,085 | INFO |   ✅ Updated fields for DRT-1789: 'KPIT_TC_DRT_BTA_052.
+2025-11-14 02:44:11,085 | INFO |   🔄 Commenting on DRT-1789: 'KPIT_TC_DRT_BTA_052...
+2025-11-14 02:44:11,086 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:11,086 | INFO |     Result : Fail
+2025-11-14 02:44:11,087 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:11,087 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:11,087 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:11,088 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:11,976 | INFO |   ✅ Commented on DRT-1789: 'KPIT_TC_DRT_BTA_052.
+
+2025-11-14 02:44:12,617 | INFO | ⏳ Updating 'DRT-4988: KPIT_TC_DRT_SPCAA_007'...
+2025-11-14 02:44:12,618 | INFO |   🔄 Updating fields for DRT-4988: 'KPIT_TC_DRT_SPCAA_007...
+2025-11-14 02:44:12,618 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:12,619 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:12,620 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:44:12,620 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:12,621 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:12,621 | INFO |     Remarks : NA
+2025-11-14 02:44:12,622 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:13,818 | INFO |   ✅ Updated fields for DRT-4988: 'KPIT_TC_DRT_SPCAA_007.
+2025-11-14 02:44:13,819 | INFO |   🔄 Commenting on DRT-4988: 'KPIT_TC_DRT_SPCAA_007...
+2025-11-14 02:44:13,819 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:13,820 | INFO |     Result : Fail
+2025-11-14 02:44:13,820 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:13,821 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:13,822 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:13,822 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:14,665 | INFO |   ✅ Commented on DRT-4988: 'KPIT_TC_DRT_SPCAA_007.
+
+2025-11-14 02:44:15,306 | INFO | ⏳ Updating 'DRT-4876: KPIT_TC_DRT_SPCAA_008'...
+2025-11-14 02:44:15,307 | INFO |   🔄 Updating fields for DRT-4876: 'KPIT_TC_DRT_SPCAA_008...
+2025-11-14 02:44:15,307 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:15,308 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:15,308 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:44:15,309 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:15,309 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:15,310 | INFO |     Remarks : NA
+2025-11-14 02:44:15,310 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:16,524 | INFO |   ✅ Updated fields for DRT-4876: 'KPIT_TC_DRT_SPCAA_008.
+2025-11-14 02:44:16,524 | INFO |   🔄 Commenting on DRT-4876: 'KPIT_TC_DRT_SPCAA_008...
+2025-11-14 02:44:16,525 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:16,526 | INFO |     Result : Fail
+2025-11-14 02:44:16,526 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:16,527 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:16,527 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:16,528 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:16,972 | INFO |   ✅ Commented on DRT-4876: 'KPIT_TC_DRT_SPCAA_008.
+
+2025-11-14 02:44:17,261 | INFO | ⏳ Updating 'DRT-2630: KPIT_TC_DRT_SPCAA_076'...
+2025-11-14 02:44:17,262 | INFO |   🔄 Updating fields for DRT-2630: 'KPIT_TC_DRT_SPCAA_076...
+2025-11-14 02:44:17,262 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:17,263 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:17,263 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:44:17,264 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:17,264 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:17,264 | INFO |     Remarks : NA
+2025-11-14 02:44:17,265 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:18,860 | INFO |   ✅ Updated fields for DRT-2630: 'KPIT_TC_DRT_SPCAA_076.
+2025-11-14 02:44:18,861 | INFO |   🔄 Commenting on DRT-2630: 'KPIT_TC_DRT_SPCAA_076...
+2025-11-14 02:44:18,861 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:18,862 | INFO |     Result : Fail
+2025-11-14 02:44:18,862 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:18,862 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:18,863 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:18,863 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:19,319 | INFO |   ✅ Commented on DRT-2630: 'KPIT_TC_DRT_SPCAA_076.
+
+2025-11-14 02:44:19,958 | INFO | ⏳ Updating 'DRT-3873: KPIT_TC_DRT_SPCAA_011'...
+2025-11-14 02:44:19,959 | INFO |   🔄 Updating fields for DRT-3873: 'KPIT_TC_DRT_SPCAA_011...
+2025-11-14 02:44:19,960 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:19,960 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:19,961 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-11-14 02:44:19,962 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:19,962 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:19,963 | INFO |     Remarks : NA
+2025-11-14 02:44:19,964 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:21,235 | INFO |   ✅ Updated fields for DRT-3873: 'KPIT_TC_DRT_SPCAA_011.
+2025-11-14 02:44:21,235 | INFO |   🔄 Commenting on DRT-3873: 'KPIT_TC_DRT_SPCAA_011...
+2025-11-14 02:44:21,236 | INFO |     Date AEA1414D0.251112.1 : 2025-11-12
+2025-11-14 02:44:21,237 | INFO |     Result : Fail
+2025-11-14 02:44:21,237 | INFO |     Failure Category : Human Error
+2025-11-14 02:44:21,238 | INFO |     Failure Sub Category : -
+2025-11-14 02:44:21,239 | INFO |     Root Cause Details : Correct ICB BT MAC ID is not updated in Bench_Confuration.xlxs.
+2025-11-14 02:44:21,239 | INFO |     Fixation Performed : Updated the correct ICB BT MAC ID in Bench_Confuration.xlxs
+2025-11-14 02:44:21,747 | INFO |   ✅ Commented on DRT-3873: 'KPIT_TC_DRT_SPCAA_011.
+
+2025-11-14 02:44:22,038 | ERROR | [ERROR] Could not process DRT-5850: 'KPIT_TC_DRT_HFT_015 : 'NoneType' object is not iterable.
+
+2025-11-14 02:44:22,308 | ERROR | [ERROR] Could not process DRT-5849: 'KPIT_TC_DRT_HMI_1243 : 'NoneType' object is not iterable.
+
+2025-11-14 02:44:22,605 | INFO | ⏳ Updating 'DRT-3899: KPIT_TC_DRT_CLK_014'...
+2025-11-14 02:44:22,606 | INFO |   🔄 Updating fields for DRT-3899: 'KPIT_TC_DRT_CLK_014...
+2025-11-14 02:44:22,606 | INFO |     Failure Category : TS Issue
+2025-11-14 02:44:22,607 | INFO |     Failure Sub Category : FB Modification Required
+2025-11-14 02:44:22,607 | INFO |     Previous Failure Category : ['KITE Issue']
+2025-11-14 02:44:22,608 | INFO |     Root Cause Details : Time zone difference for validation is needs to be updated for 1 hour.
+2025-11-14 02:44:22,608 | INFO |     Fixation Performed : Updated the FB Logic.
+2025-11-14 02:44:22,609 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:44:22,609 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:22,937 | ERROR | [ERROR] Could not process DRT-3899: 'KPIT_TC_DRT_CLK_014 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/24243
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 21:14:22 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '2977bce5bbd2963be54628711fb6a0a2', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'e01c701bf800448dac0af0a957d3e8dd', 'Atl-Request-Id': 'e01c701b-f800-448d-ac0a-f0a957d3e8dd', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=183,atl-edge-internal;dur=16,atl-edge-upstream;dur=167,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 26a8bf58d7e64927436546733cf15a24.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P2', 'X-Amz-Cf-Id': 'Ogm2wK3_ppYqm0VedFt-ZEFG5iclgOb8dE73wjCp-ZHqKFzXPJdIJA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issue' is not valid"}}.
+
+2025-11-14 02:44:23,563 | INFO | ⏳ Updating 'DRT-4692: KPIT_TC_DRT_CLK_016'...
+2025-11-14 02:44:23,564 | INFO |   🔄 Updating fields for DRT-4692: 'KPIT_TC_DRT_CLK_016...
+2025-11-14 02:44:23,565 | INFO |     Failure Category : KITE Issue
+2025-11-14 02:44:23,565 | INFO |     Failure Sub Category : CAN Signal Issue
+2025-11-14 02:44:23,566 | INFO |     Previous Failure Category : ['KITE Issue']
+2025-11-14 02:44:23,566 | INFO |     Root Cause Details : CAN Signals are not reflected for setting night mode in previous script, Hence further operations failed.
+2025-11-14 02:44:23,567 | INFO |     Fixation Performed : NA
+2025-11-14 02:44:23,568 | INFO |     Remarks : Executed in daytime, Result : Pass.Keeping this issue under observation.
+2025-11-14 02:44:23,569 | INFO |     Reviewer : Lumesh
+2025-11-14 02:44:23,882 | ERROR | [ERROR] Could not process DRT-4692: 'KPIT_TC_DRT_CLK_016 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/2074935
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Thu, 13 Nov 2025 21:14:23 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'af352f32cf6ca84128a9952efaef17e0', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Beta-Ratelimit-Limit': '300', 'X-Beta-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '25b2e66fe484452696aef870eac42510', 'Atl-Request-Id': '25b2e66f-e484-4526-96ae-f870eac42510', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=167,atl-edge-internal;dur=14,atl-edge-upstream;dur=153,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 26a8bf58d7e64927436546733cf15a24.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P2', 'X-Amz-Cf-Id': 'l_uGwtPyhuvu7svZBC65Tr02rf9z3M5NYEapMRET8wmhocv7WhJZaA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issue' is not valid"}}.
+

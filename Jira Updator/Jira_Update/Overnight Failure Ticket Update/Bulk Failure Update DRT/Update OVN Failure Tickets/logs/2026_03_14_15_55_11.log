@@ -1,0 +1,21 @@
+2026-03-14 15:55:12,881 | INFO | ⏳ Updating 'DRT-7527: 12345'...
+2026-03-14 15:55:12,882 | INFO |   🔄 Updating fields for DRT-7527: '12345...
+2026-03-14 15:55:12,882 | INFO |     Failure Category : KITE issue
+2026-03-14 15:55:12,883 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 15:55:12,883 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-14 15:55:12,884 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:55:12,884 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:55:14,598 | INFO |   ✅ Updated fields for DRT-7527: '12345.
+2026-03-14 15:55:14,599 | INFO |   🔄 Commenting on DRT-7527: '12345...
+2026-03-14 15:55:14,599 | INFO |     Date Build : Date
+2026-03-14 15:55:14,602 | INFO |     Result : Fail
+2026-03-14 15:55:14,602 | INFO |     Failure Category : KITE issue
+2026-03-14 15:55:14,603 | INFO |     Failure Sub Category : Device Mapping issue
+2026-03-14 15:55:14,603 | INFO |     Root Cause Details : Root Cause Details
+2026-03-14 15:55:14,604 | INFO |     Fixation Performed : Fixation Performed
+2026-03-14 15:55:14,604 | INFO |     Remarks : Remarks
+2026-03-14 15:55:14,605 | INFO |     Reviewer : Reviewer
+2026-03-14 15:55:16,406 | INFO |   ✅ Commented on DRT-7527: '12345.
+
+2026-03-14 15:55:16,408 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

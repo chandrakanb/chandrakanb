@@ -1,0 +1,241 @@
+2025-12-20 16:26:23,927 | INFO | ⏳ Updating 'DRT-4223: KPIT_TC_DRT_PKS_002'...
+2025-12-20 16:26:23,929 | INFO |   🔄 Updating fields for DRT-4223: 'KPIT_TC_DRT_PKS_002...
+2025-12-20 16:26:23,930 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 16:26:23,931 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 16:26:23,931 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:23,932 | INFO |     Root Cause Details : CAN Signals are not reflected properly.
+2025-12-20 16:26:23,933 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:23,933 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:23,934 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:25,302 | INFO |   ✅ Updated fields for DRT-4223: 'KPIT_TC_DRT_PKS_002.
+2025-12-20 16:26:25,302 | INFO |   🔄 Commenting on DRT-4223: 'KPIT_TC_DRT_PKS_002...
+2025-12-20 16:26:25,302 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:26:25,303 | INFO |     Result : Fail
+2025-12-20 16:26:25,303 | INFO |     Failure Category : ICB Issue (Once)
+2025-12-20 16:26:25,304 | INFO |     Failure Sub Category : Once Seen
+2025-12-20 16:26:25,304 | INFO |     Root Cause Details : CAN Signals are not reflected properly.
+2025-12-20 16:26:25,304 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:26,272 | INFO |   ✅ Commented on DRT-4223: 'KPIT_TC_DRT_PKS_002.
+
+2025-12-20 16:26:26,908 | INFO | ⏳ Updating 'DRT-3841: KPIT_TC_DRT_IPD_047'...
+2025-12-20 16:26:26,909 | INFO |   🔄 Updating fields for DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:26:26,909 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:26,910 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:26,910 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-20 16:26:26,911 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:26:26,911 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:26,912 | INFO |     Remarks : NA
+2025-12-20 16:26:26,912 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:27,580 | ERROR | [ERROR] Could not process DRT-3841: 'KPIT_TC_DRT_IPD_047 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/23904
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:56:27 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '91d1e9670fcfb79c0ad5f074331bc1ae', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '90db3cde7da643c490f1c402abd21715', 'Atl-Request-Id': '90db3cde-7da6-43c4-90f1-c402abd21715', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=161,atl-edge-internal;dur=13,atl-edge-upstream;dur=148,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'ThvyJ7WbhzfHFjYHOpsi1NDeDBhhdtc9MlPibPOcM2YJZw7HVibFbA=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 16:26:28,292 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-20 16:26:28,292 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-20 16:26:28,293 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:28,293 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:28,294 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issues']
+2025-12-20 16:26:28,294 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:26:28,294 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:26:28,295 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:28,295 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:28,943 | ERROR | [ERROR] Could not process DRT-1859: 'KPIT_TC_DRT_LMG_024 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/18011
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:56:28 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'e4fa88cc63e5320561dcc7850fe07a5c', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '661f12551949450192d2c21af3709aef', 'Atl-Request-Id': '661f1255-1949-4501-92d2-c21af3709aef', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=151,atl-edge-internal;dur=14,atl-edge-upstream;dur=137,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'dNm1_U_CY7iE8vK22WVu3jn98iC33HRmczNDxUeik_XLErfkX2LC3A=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 16:26:29,230 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-20 16:26:29,231 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-20 16:26:29,232 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:29,232 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:29,232 | INFO |     Previous Failure Category : ['Test Env Issue', 'ICB Issue (Always)', 'KITE Issues']
+2025-12-20 16:26:29,233 | INFO |     Root Cause Details : Actual Image having different resolutions than golden image for Phone5.
+2025-12-20 16:26:29,233 | INFO |     Fixation Performed : Replaced the images with correct resolution.
+2025-12-20 16:26:29,234 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:29,234 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:29,913 | ERROR | [ERROR] Could not process DRT-1809: 'KPIT_TC_DRT_LMG_021 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/17961
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:56:29 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': '524dd4901ebba8d5f1470a0733f76917', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '298', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': 'd338a0d9f12843de99c87242a86446e8', 'Atl-Request-Id': 'd338a0d9-f128-43de-99c8-7242a86446e8', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=176,atl-edge-internal;dur=15,atl-edge-upstream;dur=161,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'fy0TVPktuwRw8w1m3pUi-hcnT6PV7KUx92cdTruJCQ1000Aha1E2rg=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 16:26:30,589 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-20 16:26:30,590 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-20 16:26:30,590 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:30,591 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:30,591 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:30,592 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:30,592 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:30,593 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-20 16:26:30,593 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:31,860 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-20 16:26:31,862 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-20 16:26:31,862 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:26:31,863 | INFO |     Result : Fail
+2025-12-20 16:26:31,864 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:31,864 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:31,865 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:31,865 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:32,384 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-20 16:26:33,038 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-12-20 16:26:33,039 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-20 16:26:33,040 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:33,041 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:33,041 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:33,042 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:33,043 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:33,044 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-20 16:26:33,045 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:34,195 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-12-20 16:26:34,195 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-20 16:26:34,195 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:26:34,196 | INFO |     Result : Fail
+2025-12-20 16:26:34,196 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:34,197 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:34,197 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:34,197 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:34,673 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-20 16:26:35,330 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-20 16:26:35,331 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-20 16:26:35,332 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:35,332 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:35,333 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:35,334 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:35,334 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:35,335 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-20 16:26:35,335 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:36,146 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-20 16:26:36,146 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-20 16:26:36,147 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:26:36,147 | INFO |     Result : Fail
+2025-12-20 16:26:36,147 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:36,147 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:36,148 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:36,148 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:36,645 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-20 16:26:36,984 | INFO | ⏳ Updating 'DRT-5203: KPIT_TC_DRT_ILL_027'...
+2025-12-20 16:26:36,985 | INFO |   🔄 Updating fields for DRT-5203: 'KPIT_TC_DRT_ILL_027...
+2025-12-20 16:26:36,986 | INFO |     Failure Category : KITE Issue
+2025-12-20 16:26:36,986 | INFO |     Failure Sub Category : Image Comparision
+2025-12-20 16:26:36,987 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:36,988 | INFO |     Root Cause Details : In Precondition, Incorrectly detected Google Assistant as General Settings.
+2025-12-20 16:26:36,988 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:36,988 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:36,990 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:37,823 | INFO |   ✅ Updated fields for DRT-5203: 'KPIT_TC_DRT_ILL_027.
+2025-12-20 16:26:37,824 | INFO |   🔄 Commenting on DRT-5203: 'KPIT_TC_DRT_ILL_027...
+2025-12-20 16:26:37,825 | INFO |     Date AEA1412S0.251219.1 : 2025-12-19
+2025-12-20 16:26:37,825 | INFO |     Result : Fail
+2025-12-20 16:26:37,826 | INFO |     Failure Category : KITE Issue
+2025-12-20 16:26:37,826 | INFO |     Failure Sub Category : Image Comparision
+2025-12-20 16:26:37,827 | INFO |     Root Cause Details : In Precondition, Incorrectly detected Google Assistant as General Settings.
+2025-12-20 16:26:37,827 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:38,319 | INFO |   ✅ Commented on DRT-5203: 'KPIT_TC_DRT_ILL_027.
+
+2025-12-20 16:26:38,579 | INFO | ⏳ Updating 'DRT-3841: KPIT_TC_DRT_IPD_047'...
+2025-12-20 16:26:38,579 | INFO |   🔄 Updating fields for DRT-3841: 'KPIT_TC_DRT_IPD_047...
+2025-12-20 16:26:38,580 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:38,580 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:38,581 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-20 16:26:38,582 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen.
+2025-12-20 16:26:38,582 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:38,583 | INFO |     Remarks : NA
+2025-12-20 16:26:38,583 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:38,917 | ERROR | [ERROR] Could not process DRT-3841: 'KPIT_TC_DRT_IPD_047 : JiraError HTTP 400 url: https://kpithondajapan.atlassian.net/rest/api/2/issue/23904
+	
+	response headers = {'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Sat, 20 Dec 2025 10:56:38 GMT', 'Server': 'AtlassianEdge', 'Timing-Allow-Origin': '*', 'X-Arequestid': 'd4149fae1e21afac43ce17f6401852de', 'X-Aaccountid': '712020%3A7ebd6444-898e-4d1e-ba7a-2710a262ffa7', 'Cache-Control': 'no-store, no-cache', 'X-Ratelimit-Limit': '300', 'X-Ratelimit-Remaining': '299', 'X-Content-Type-Options': 'nosniff', 'X-Xss-Protection': '1; mode=block', 'Atl-Traceid': '5dff4b2c435e44c28de80fcbaaa1acff', 'Atl-Request-Id': '5dff4b2c-435e-44c2-8de8-0fcbaaa1acff', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Report-To': '{"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}', 'Nel': '{"failure_fraction": 0.01, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}', 'Content-Encoding': 'br', 'Vary': 'Accept-Encoding', 'Server-Timing': 'atl-edge;dur=144,atl-edge-internal;dur=14,atl-edge-upstream;dur=130,atl-edge-pop;desc="aws-eu-west-1"', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 19ad892e3e604acad3c246121e680120.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '1XvCUZL8qgC1W0buXEP3UuIWQU8b35EU4XUvYDqxRWf-b7UETw3iXQ=='}
+	response text = {"errorMessages":[],"errors":{"customfield_12208":"Option value 'KITE Issues' is not valid"}}.
+
+2025-12-20 16:26:39,197 | INFO | ⏳ Updating 'DRT-3932: KPIT_TC_DRT_VEND_006'...
+2025-12-20 16:26:39,197 | INFO |   🔄 Updating fields for DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-20 16:26:39,198 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:39,198 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:39,198 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:39,198 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:39,199 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:39,199 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:39,199 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:40,318 | INFO |   ✅ Updated fields for DRT-3932: 'KPIT_TC_DRT_VEND_006.
+2025-12-20 16:26:40,319 | INFO |   🔄 Commenting on DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-20 16:26:40,319 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 16:26:40,320 | INFO |     Result : Fail
+2025-12-20 16:26:40,320 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:40,321 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:40,323 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:40,323 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:41,154 | INFO |   ✅ Commented on DRT-3932: 'KPIT_TC_DRT_VEND_006.
+
+2025-12-20 16:26:41,450 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-20 16:26:41,451 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-20 16:26:41,452 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:41,452 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:41,453 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:41,453 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:41,454 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:41,454 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:41,454 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:42,307 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-20 16:26:42,308 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-20 16:26:42,308 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 16:26:42,309 | INFO |     Result : Fail
+2025-12-20 16:26:42,309 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:42,309 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:42,309 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:42,310 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:42,731 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-20 16:26:43,100 | INFO | ⏳ Updating 'DRT-2139: KPIT_TC_DRT_BZA_013'...
+2025-12-20 16:26:43,100 | INFO |   🔄 Updating fields for DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-20 16:26:43,101 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:43,101 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:43,102 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:43,102 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:43,103 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:43,103 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-20 16:26:43,104 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:44,271 | INFO |   ✅ Updated fields for DRT-2139: 'KPIT_TC_DRT_BZA_013.
+2025-12-20 16:26:44,272 | INFO |   🔄 Commenting on DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-20 16:26:44,273 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 16:26:44,273 | INFO |     Result : Fail
+2025-12-20 16:26:44,274 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:44,274 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-20 16:26:44,274 | INFO |     Root Cause Details : While connecting wireless AA, "Your phone is unable to connect to wireless access point" popup is displayed at bottom of  A-Zone. Hence wireless AA not got connected in precondition.
+2025-12-20 16:26:44,274 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:45,141 | INFO |   ✅ Commented on DRT-2139: 'KPIT_TC_DRT_BZA_013.
+
+2025-12-20 16:26:45,808 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-20 16:26:45,809 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-20 16:26:45,810 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:45,810 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:45,811 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-20 16:26:45,811 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:45,812 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:45,812 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-20 16:26:45,812 | INFO |     Reviewer : Rajashri
+2025-12-20 16:26:46,475 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-20 16:26:46,477 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-20 16:26:46,477 | INFO |     Date AEA1412S1.251220.1 : 2025-12-20
+2025-12-20 16:26:46,478 | INFO |     Result : Fail
+2025-12-20 16:26:46,479 | INFO |     Failure Category : Test Env Issue
+2025-12-20 16:26:46,479 | INFO |     Failure Sub Category : External Application Issue
+2025-12-20 16:26:46,480 | INFO |     Root Cause Details : Vendor Extension Application Issue.
+2025-12-20 16:26:46,481 | INFO |     Fixation Performed : NA
+2025-12-20 16:26:47,342 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-20 16:26:47,647 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-20 16:26:47,648 | INFO |     Date : 2025-12-20
+2025-12-20 16:26:47,649 | INFO |     Result : Pass
+2025-12-20 16:26:47,650 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 16:26:48,144 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-20 16:26:48,766 | INFO |   🔄 Commenting on DRT-5203: 'KPIT_TC_DRT_ILL_027...
+2025-12-20 16:26:48,767 | INFO |     Date : 2025-12-20
+2025-12-20 16:26:48,768 | INFO |     Result : Pass
+2025-12-20 16:26:48,769 | INFO |     Boild Number : AEA1412S1.251220.1
+2025-12-20 16:26:49,196 | INFO |   ✅ Commented on DRT-5203: 'KPIT_TC_DRT_ILL_027.
+
+2025-12-20 16:26:49,196 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

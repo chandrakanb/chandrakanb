@@ -1,0 +1,21 @@
+2025-12-01 14:39:00,683 | INFO | ⏳ Updating 'DRT-2309: KPIT_TC_DRT_BZA_015'...
+2025-12-01 14:39:00,685 | INFO |   🔄 Updating fields for DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-01 14:39:00,687 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:39:00,689 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:39:00,691 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-01 14:39:00,692 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:39:00,694 | INFO |     Fixation Performed : NA
+2025-12-01 14:39:00,696 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:39:00,698 | INFO |     Reviewer : Rajashri
+2025-12-01 14:39:02,079 | INFO |   ✅ Updated fields for DRT-2309: 'KPIT_TC_DRT_BZA_015.
+2025-12-01 14:39:02,082 | INFO |   🔄 Commenting on DRT-2309: 'KPIT_TC_DRT_BZA_015...
+2025-12-01 14:39:02,083 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:39:02,086 | INFO |     Result : Fail
+2025-12-01 14:39:02,088 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:39:02,089 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:39:02,091 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:39:02,093 | INFO |     Fixation Performed : NA
+2025-12-01 14:39:02,862 | INFO |   ✅ Commented on DRT-2309: 'KPIT_TC_DRT_BZA_015.
+
+2025-12-01 14:39:02,865 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

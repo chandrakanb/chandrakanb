@@ -1,0 +1,122 @@
+2026-03-26 21:30:26,375 | INFO | ⏳ Updating 'A15-3732: KPIT_TC_DRT_VEND_092'...
+2026-03-26 21:30:26,376 | INFO |   🔄 Updating fields for A15-3732: 'KPIT_TC_DRT_VEND_092...
+2026-03-26 21:30:26,377 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:26,377 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:26,378 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:26,380 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:26,380 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:28,270 | INFO |   ✅ Updated fields for A15-3732: 'KPIT_TC_DRT_VEND_092.
+2026-03-26 21:30:28,270 | INFO |   🔄 Commenting on A15-3732: 'KPIT_TC_DRT_VEND_092...
+2026-03-26 21:30:28,271 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:28,272 | INFO |     Result : Fail
+2026-03-26 21:30:28,272 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:28,273 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:28,273 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:28,274 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:28,275 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:28,276 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:28,932 | INFO |   ✅ Commented on A15-3732: 'KPIT_TC_DRT_VEND_092.
+
+2026-03-26 21:30:29,842 | INFO | ⏳ Updating 'A15-3733: KPIT_TC_FNC_VEND_0063_0001'...
+2026-03-26 21:30:29,843 | INFO |   🔄 Updating fields for A15-3733: 'KPIT_TC_FNC_VEND_0063_0001...
+2026-03-26 21:30:29,845 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:29,845 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:29,846 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:29,847 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:29,848 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:31,898 | INFO |   ✅ Updated fields for A15-3733: 'KPIT_TC_FNC_VEND_0063_0001.
+2026-03-26 21:30:31,899 | INFO |   🔄 Commenting on A15-3733: 'KPIT_TC_FNC_VEND_0063_0001...
+2026-03-26 21:30:31,900 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:31,900 | INFO |     Result : Fail
+2026-03-26 21:30:31,901 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:31,902 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:31,902 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:31,903 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:31,904 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:31,904 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:32,718 | INFO |   ✅ Commented on A15-3733: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2026-03-26 21:30:33,188 | INFO | ⏳ Updating 'A15-3723: KPIT_TC_DRT_VEND_114'...
+2026-03-26 21:30:33,189 | INFO |   🔄 Updating fields for A15-3723: 'KPIT_TC_DRT_VEND_114...
+2026-03-26 21:30:33,189 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:33,189 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:33,190 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:33,191 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:33,192 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:34,649 | INFO |   ✅ Updated fields for A15-3723: 'KPIT_TC_DRT_VEND_114.
+2026-03-26 21:30:34,650 | INFO |   🔄 Commenting on A15-3723: 'KPIT_TC_DRT_VEND_114...
+2026-03-26 21:30:34,650 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:34,651 | INFO |     Result : Fail
+2026-03-26 21:30:34,651 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:34,652 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:34,652 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:34,652 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:34,653 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:34,653 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:35,792 | INFO |   ✅ Commented on A15-3723: 'KPIT_TC_DRT_VEND_114.
+
+2026-03-26 21:30:36,154 | INFO | ⏳ Updating 'A15-3728: KPIT_TC_DRT_BZA_005'...
+2026-03-26 21:30:36,155 | INFO |   🔄 Updating fields for A15-3728: 'KPIT_TC_DRT_BZA_005...
+2026-03-26 21:30:36,156 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:36,156 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:36,157 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:36,157 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:36,157 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:38,125 | INFO |   ✅ Updated fields for A15-3728: 'KPIT_TC_DRT_BZA_005.
+2026-03-26 21:30:38,125 | INFO |   🔄 Commenting on A15-3728: 'KPIT_TC_DRT_BZA_005...
+2026-03-26 21:30:38,126 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:38,127 | INFO |     Result : Fail
+2026-03-26 21:30:38,127 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:38,127 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:38,128 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:38,128 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:38,129 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:38,129 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:40,320 | INFO |   ✅ Commented on A15-3728: 'KPIT_TC_DRT_BZA_005.
+
+2026-03-26 21:30:40,642 | INFO | ⏳ Updating 'A15-3729: KPIT_TC_DRT_BZA_015'...
+2026-03-26 21:30:40,643 | INFO |   🔄 Updating fields for A15-3729: 'KPIT_TC_DRT_BZA_015...
+2026-03-26 21:30:40,644 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:40,644 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:40,645 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:40,646 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:40,647 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:41,694 | INFO |   ✅ Updated fields for A15-3729: 'KPIT_TC_DRT_BZA_015.
+2026-03-26 21:30:41,695 | INFO |   🔄 Commenting on A15-3729: 'KPIT_TC_DRT_BZA_015...
+2026-03-26 21:30:41,695 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:41,696 | INFO |     Result : Fail
+2026-03-26 21:30:41,696 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:41,697 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:41,698 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:41,698 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:41,699 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:41,699 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:42,433 | INFO |   ✅ Commented on A15-3729: 'KPIT_TC_DRT_BZA_015.
+
+2026-03-26 21:30:43,363 | INFO | ⏳ Updating 'A15-3734: KPIT_TC_DRT_VEND_113'...
+2026-03-26 21:30:43,364 | INFO |   🔄 Updating fields for A15-3734: 'KPIT_TC_DRT_VEND_113...
+2026-03-26 21:30:43,364 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:43,364 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:43,366 | INFO |     Previous Failure Category : ['Test Env Issue']
+2026-03-26 21:30:43,366 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:43,367 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:44,398 | INFO |   ✅ Updated fields for A15-3734: 'KPIT_TC_DRT_VEND_113.
+2026-03-26 21:30:44,399 | INFO |   🔄 Commenting on A15-3734: 'KPIT_TC_DRT_VEND_113...
+2026-03-26 21:30:44,407 | INFO |     Date [Build] : 2026-03-26[AFA1503R0.260326.1]
+2026-03-26 21:30:44,409 | INFO |     Result : Fail
+2026-03-26 21:30:44,410 | INFO |     Failure Category : Test Env issue
+2026-03-26 21:30:44,411 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 21:30:44,412 | INFO |     Root Cause Details : VE application not got connected with error code 32 & 31, while Phone8 is connected as wireless android auto. Hence further operations failed.
+2026-03-26 21:30:44,415 | INFO |     Fixation Performed : Restarted Phone8 and performed FDR on ICB.
+2026-03-26 21:30:44,419 | INFO |     Remarks : Executed in daytime, result: Pass.
+Attached daytime reports: https://kpitc-my.sharepoint.com/:b:/g/personal/chandrakanb_kpit_com/IQANpxh_90lvQK0npX3sbodzATynWibww6N6dveIeTn15YE?e=WgQa6i.
+2026-03-26 21:30:44,420 | INFO |     Reviewer : Rajashri
+2026-03-26 21:30:45,000 | INFO |   ✅ Commented on A15-3734: 'KPIT_TC_DRT_VEND_113.
+
+2026-03-26 21:30:45,000 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

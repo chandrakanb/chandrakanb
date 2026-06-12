@@ -1,0 +1,6 @@
+2026-03-14 18:50:08,096 | ERROR | [ERROR] Could not process DRT-7527: '12345 : <class 'jira.resources.CustomFieldOption'> object has no attribute 'child' ('CustomFieldOption' object is not subscriptable).
+
+2026-03-14 18:50:08,752 | ERROR | [ERROR] Could not process DRT-7527: '12345 : <class 'jira.resources.CustomFieldOption'> object has no attribute 'child' ('CustomFieldOption' object is not subscriptable).
+
+2026-03-14 18:50:08,754 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

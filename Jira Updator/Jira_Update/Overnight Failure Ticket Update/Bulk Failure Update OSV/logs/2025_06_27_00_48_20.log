@@ -1,0 +1,39 @@
+2025-06-27 00:48:22,752 | INFO | ⏳ Updating Failure Category for OSV-4427 - KPIT_TC_DRT_BTA_021: ICB Issue (Always)
+2025-06-27 00:48:24,164 | INFO | ✅ Updated Failure Category for OSV-4427 - KPIT_TC_DRT_BTA_021
+
+2025-06-27 00:48:24,496 | INFO | ⏳ Updating Failure Category for OSV-4421 - KPIT_TC_DRT_PRM_003: Test Env Issue
+2025-06-27 00:48:25,733 | INFO | ✅ Updated Failure Category for OSV-4421 - KPIT_TC_DRT_PRM_003
+
+2025-06-27 00:48:26,055 | INFO | ⏳ Updating Failure Category for OSV-4438 - KPIT_TC_DRT_USB_102: ICB Issue (Once)
+2025-06-27 00:48:26,858 | INFO | ✅ Updated Failure Category for OSV-4438 - KPIT_TC_DRT_USB_102
+
+2025-06-27 00:48:27,215 | INFO | ⏳ Updating Failure Category for OSV-4439 - KPIT_TC_DRT_USB_103: ICB Issue (Once)
+2025-06-27 00:48:27,969 | INFO | ✅ Updated Failure Category for OSV-4439 - KPIT_TC_DRT_USB_103
+
+2025-06-27 00:48:28,300 | INFO | ⏳ Updating Failure Category for OSV-4428 - KPIT_TC_DRT_BTA_018: ICB Issue (Always)
+2025-06-27 00:48:29,170 | INFO | ✅ Updated Failure Category for OSV-4428 - KPIT_TC_DRT_BTA_018
+
+2025-06-27 00:48:29,570 | INFO | ⏳ Updating Failure Category for OSV-4416 - KPIT_TC_DRT_BTA_053: ICB Issue (Always)
+2025-06-27 00:48:30,555 | INFO | ✅ Updated Failure Category for OSV-4416 - KPIT_TC_DRT_BTA_053
+
+2025-06-27 00:48:30,920 | INFO | ⏳ Updating Failure Category for OSV-4409 - KPIT_TC_DRT_HMI_001: ICB Issue (Always)
+2025-06-27 00:48:31,774 | INFO | ✅ Updated Failure Category for OSV-4409 - KPIT_TC_DRT_HMI_001
+
+2025-06-27 00:48:32,138 | INFO | ⏳ Updating Failure Category for OSV-4430 - KPIT_TC_DRT_SPCCP_021: ICB Issue (Always)
+2025-06-27 00:48:32,975 | INFO | ✅ Updated Failure Category for OSV-4430 - KPIT_TC_DRT_SPCCP_021
+
+2025-06-27 00:48:33,295 | INFO | ⏳ Updating Failure Category for OSV-4420 - KPIT_TC_FNC_AVG_0878_0001: ICB Issue (Always)
+2025-06-27 00:48:34,230 | INFO | ✅ Updated Failure Category for OSV-4420 - KPIT_TC_FNC_AVG_0878_0001
+
+2025-06-27 00:48:34,564 | INFO | ⏳ Updating Failure Category for OSV-4426 - KPIT_TC_DRT_BTA_020: ICB Issue (Always)
+2025-06-27 00:48:35,488 | INFO | ✅ Updated Failure Category for OSV-4426 - KPIT_TC_DRT_BTA_020
+
+2025-06-27 00:48:35,868 | INFO | ⏳ Updating Failure Category for OSV-4423 - KPIT_TC_DRT_BTA_025: ICB Issue (Always)
+2025-06-27 00:48:36,805 | INFO | ✅ Updated Failure Category for OSV-4423 - KPIT_TC_DRT_BTA_025
+
+2025-06-27 00:48:37,164 | INFO | ⏳ Updating Failure Category for OSV-4408 - KPIT_TC_DRT_SPCCP_099: ICB Issue (Always)
+2025-06-27 00:48:38,054 | INFO | ✅ Updated Failure Category for OSV-4408 - KPIT_TC_DRT_SPCCP_099
+
+2025-06-27 00:48:38,378 | INFO | ⏳ Updating Failure Category for OSV-4407 - KPIT_TC_DRT_HFT_048: ICB Issue (Always)
+2025-06-27 00:48:39,204 | INFO | ✅ Updated Failure Category for OSV-4407 - KPIT_TC_DRT_HFT_048
+

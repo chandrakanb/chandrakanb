@@ -1,0 +1,280 @@
+2025-12-01 14:07:27,156 | INFO | ⏳ Updating 'DRT-1859: KPIT_TC_DRT_LMG_024'...
+2025-12-01 14:07:27,157 | INFO |   🔄 Updating fields for DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-01 14:07:27,158 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:27,159 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:27,159 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues', 'ICB Issue (Always)']
+2025-12-01 14:07:27,159 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:27,160 | INFO |     Fixation Performed : TS is modified for Phone5 to Phone1.
+2025-12-01 14:07:27,161 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:27,169 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:28,198 | INFO |   ✅ Updated fields for DRT-1859: 'KPIT_TC_DRT_LMG_024.
+2025-12-01 14:07:28,199 | INFO |   🔄 Commenting on DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-01 14:07:28,199 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:28,199 | INFO |     Result : Fail
+2025-12-01 14:07:28,200 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:28,200 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:28,201 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:28,201 | INFO |     Fixation Performed : TS is modified for Phone5 to Phone1.
+2025-12-01 14:07:28,817 | INFO |   ✅ Commented on DRT-1859: 'KPIT_TC_DRT_LMG_024.
+
+2025-12-01 14:07:29,153 | INFO | ⏳ Updating 'DRT-1809: KPIT_TC_DRT_LMG_021'...
+2025-12-01 14:07:29,154 | INFO |   🔄 Updating fields for DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-01 14:07:29,154 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:29,155 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:29,155 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues', 'ICB Issue (Always)']
+2025-12-01 14:07:29,156 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:29,156 | INFO |     Fixation Performed : TS is modified for Phone5 to Phone1.
+2025-12-01 14:07:29,156 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:29,157 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:30,187 | INFO |   ✅ Updated fields for DRT-1809: 'KPIT_TC_DRT_LMG_021.
+2025-12-01 14:07:30,187 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-01 14:07:30,188 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:30,188 | INFO |     Result : Fail
+2025-12-01 14:07:30,189 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:30,189 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:30,190 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:30,190 | INFO |     Fixation Performed : TS is modified for Phone5 to Phone1.
+2025-12-01 14:07:31,106 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-01 14:07:31,481 | INFO | ⏳ Updating 'DRT-3932: KPIT_TC_DRT_VEND_006'...
+2025-12-01 14:07:31,481 | INFO |   🔄 Updating fields for DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-01 14:07:31,482 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:31,482 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:31,483 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:31,483 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:31,484 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:31,484 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:31,484 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:32,500 | INFO |   ✅ Updated fields for DRT-3932: 'KPIT_TC_DRT_VEND_006.
+2025-12-01 14:07:32,501 | INFO |   🔄 Commenting on DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-01 14:07:32,502 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:32,502 | INFO |     Result : Fail
+2025-12-01 14:07:32,503 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:32,514 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:32,515 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:32,515 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:33,445 | INFO |   ✅ Commented on DRT-3932: 'KPIT_TC_DRT_VEND_006.
+
+2025-12-01 14:07:33,825 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-01 14:07:33,826 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-01 14:07:33,826 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:33,827 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:33,828 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:33,829 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:33,829 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:33,830 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:33,831 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:34,852 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-01 14:07:34,853 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-01 14:07:34,853 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:34,854 | INFO |     Result : Fail
+2025-12-01 14:07:34,854 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:34,856 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:34,856 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:34,857 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:35,482 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-01 14:07:35,864 | INFO | ⏳ Updating 'DRT-2139: KPIT_TC_DRT_BZA_013'...
+2025-12-01 14:07:35,865 | INFO |   🔄 Updating fields for DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-01 14:07:35,865 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:35,866 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:35,867 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:35,867 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:35,870 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:35,870 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:35,871 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:36,881 | INFO |   ✅ Updated fields for DRT-2139: 'KPIT_TC_DRT_BZA_013.
+2025-12-01 14:07:36,882 | INFO |   🔄 Commenting on DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-01 14:07:36,882 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:36,883 | INFO |     Result : Fail
+2025-12-01 14:07:36,884 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:36,884 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:36,885 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:36,885 | INFO |     Fixation Performed : Restarted Phone2.
+2025-12-01 14:07:37,818 | INFO |   ✅ Commented on DRT-2139: 'KPIT_TC_DRT_BZA_013.
+
+2025-12-01 14:07:38,210 | INFO | ⏳ Updating 'DRT-2304: KPIT_TC_FNC_VEND_0063_0001'...
+2025-12-01 14:07:38,211 | INFO |   🔄 Updating fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-01 14:07:38,211 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:38,212 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:38,212 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-01 14:07:38,213 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:38,213 | INFO |     Fixation Performed : Restarted Phone8.
+2025-12-01 14:07:38,214 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:38,214 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:39,208 | INFO |   ✅ Updated fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-12-01 14:07:39,209 | INFO |   🔄 Commenting on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-01 14:07:39,210 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:39,210 | INFO |     Result : Fail
+2025-12-01 14:07:39,211 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:39,212 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:39,213 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:39,213 | INFO |     Fixation Performed : Restarted Phone8.
+2025-12-01 14:07:39,800 | INFO |   ✅ Commented on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-12-01 14:07:40,196 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-12-01 14:07:40,196 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-01 14:07:40,197 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:40,197 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:40,198 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:40,198 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:40,198 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:40,199 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-01 14:07:40,199 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:40,909 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-12-01 14:07:40,910 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-01 14:07:40,910 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:40,911 | INFO |     Result : Fail
+2025-12-01 14:07:40,912 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:40,912 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:40,913 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:40,913 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:41,552 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-01 14:07:41,923 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-01 14:07:41,924 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-01 14:07:41,924 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:41,925 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:41,925 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:41,925 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:41,926 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:41,926 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-01 14:07:41,927 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:42,791 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-01 14:07:42,791 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-01 14:07:42,791 | INFO |     Date AEA1413R0.251127.1 : 2025-11-27
+2025-12-01 14:07:42,792 | INFO |     Result : Fail
+2025-12-01 14:07:42,792 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:42,793 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:42,793 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:42,793 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:43,814 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-01 14:07:44,142 | INFO |   🔄 Commenting on DRT-1859: 'KPIT_TC_DRT_LMG_024...
+2025-12-01 14:07:44,143 | INFO |     Date : 2025-11-28
+2025-12-01 14:07:44,143 | INFO |     Result : Pass
+2025-12-01 14:07:44,143 | INFO |     Boild Number : AEA1412S0.251128.1 
+2025-12-01 14:07:44,672 | INFO |   ✅ Commented on DRT-1859: 'KPIT_TC_DRT_LMG_024.
+
+2025-12-01 14:07:45,022 | INFO |   🔄 Commenting on DRT-1809: 'KPIT_TC_DRT_LMG_021...
+2025-12-01 14:07:45,022 | INFO |     Date : 2025-11-28
+2025-12-01 14:07:45,023 | INFO |     Result : Pass
+2025-12-01 14:07:45,023 | INFO |     Boild Number : AEA1412S0.251128.1 
+2025-12-01 14:07:45,593 | INFO |   ✅ Commented on DRT-1809: 'KPIT_TC_DRT_LMG_021.
+
+2025-12-01 14:07:45,945 | INFO | ⏳ Updating 'DRT-3932: KPIT_TC_DRT_VEND_006'...
+2025-12-01 14:07:45,945 | INFO |   🔄 Updating fields for DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-01 14:07:45,946 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:45,946 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:45,947 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:45,947 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:45,949 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:45,949 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:45,949 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:46,900 | INFO |   ✅ Updated fields for DRT-3932: 'KPIT_TC_DRT_VEND_006.
+2025-12-01 14:07:46,900 | INFO |   🔄 Commenting on DRT-3932: 'KPIT_TC_DRT_VEND_006...
+2025-12-01 14:07:46,901 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:46,901 | INFO |     Result : Fail
+2025-12-01 14:07:46,902 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:46,903 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:46,903 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:46,904 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:47,799 | INFO |   ✅ Commented on DRT-3932: 'KPIT_TC_DRT_VEND_006.
+
+2025-12-01 14:07:48,177 | INFO | ⏳ Updating 'DRT-3931: KPIT_TC_DRT_VEND_115'...
+2025-12-01 14:07:48,178 | INFO |   🔄 Updating fields for DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-01 14:07:48,178 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:48,178 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:48,179 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:48,179 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:48,179 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:48,180 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:48,180 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:49,404 | INFO |   ✅ Updated fields for DRT-3931: 'KPIT_TC_DRT_VEND_115.
+2025-12-01 14:07:49,404 | INFO |   🔄 Commenting on DRT-3931: 'KPIT_TC_DRT_VEND_115...
+2025-12-01 14:07:49,405 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:49,405 | INFO |     Result : Fail
+2025-12-01 14:07:49,406 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:49,407 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:49,407 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:49,407 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:49,973 | INFO |   ✅ Commented on DRT-3931: 'KPIT_TC_DRT_VEND_115.
+
+2025-12-01 14:07:50,361 | INFO | ⏳ Updating 'DRT-2139: KPIT_TC_DRT_BZA_013'...
+2025-12-01 14:07:50,362 | INFO |   🔄 Updating fields for DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-01 14:07:50,362 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:50,363 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:50,363 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:50,363 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:50,364 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:50,364 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:50,365 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:51,668 | INFO |   ✅ Updated fields for DRT-2139: 'KPIT_TC_DRT_BZA_013.
+2025-12-01 14:07:51,669 | INFO |   🔄 Commenting on DRT-2139: 'KPIT_TC_DRT_BZA_013...
+2025-12-01 14:07:51,669 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:51,669 | INFO |     Result : Fail
+2025-12-01 14:07:51,670 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:51,670 | INFO |     Failure Sub Category : External Hardware Setup Malfunction
+2025-12-01 14:07:51,671 | INFO |     Root Cause Details : Failed to receive BT pairing request on Phone2.
+2025-12-01 14:07:51,671 | INFO |     Fixation Performed : Replaced Phone2 with new device.
+2025-12-01 14:07:52,286 | INFO |   ✅ Commented on DRT-2139: 'KPIT_TC_DRT_BZA_013.
+
+2025-12-01 14:07:52,627 | INFO | ⏳ Updating 'DRT-2304: KPIT_TC_FNC_VEND_0063_0001'...
+2025-12-01 14:07:52,628 | INFO |   🔄 Updating fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-01 14:07:52,628 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:52,629 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:52,629 | INFO |     Previous Failure Category : ['Test Env Issue', 'KITE Issues']
+2025-12-01 14:07:52,630 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:52,630 | INFO |     Fixation Performed : Restarted Phone8.
+2025-12-01 14:07:52,631 | INFO |     Remarks : Executed in daytime, result: Pass.
+2025-12-01 14:07:52,631 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:53,740 | INFO |   ✅ Updated fields for DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+2025-12-01 14:07:53,741 | INFO |   🔄 Commenting on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001...
+2025-12-01 14:07:53,741 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:53,742 | INFO |     Result : Fail
+2025-12-01 14:07:53,743 | INFO |     Failure Category : KITE Issue
+2025-12-01 14:07:53,743 | INFO |     Failure Sub Category : KITE Application Issue
+2025-12-01 14:07:53,745 | INFO |     Root Cause Details : KITE App crashed
+2025-12-01 14:07:53,745 | INFO |     Fixation Performed : Restarted Phone8.
+2025-12-01 14:07:54,653 | INFO |   ✅ Commented on DRT-2304: 'KPIT_TC_FNC_VEND_0063_0001.
+
+2025-12-01 14:07:55,028 | INFO | ⏳ Updating 'DRT-3933: KPIT_TC_DRT_VEND_114'...
+2025-12-01 14:07:55,030 | INFO |   🔄 Updating fields for DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-01 14:07:55,030 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:55,031 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:55,031 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:55,032 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:55,032 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:55,033 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-01 14:07:55,033 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:55,860 | INFO |   ✅ Updated fields for DRT-3933: 'KPIT_TC_DRT_VEND_114.
+2025-12-01 14:07:55,861 | INFO |   🔄 Commenting on DRT-3933: 'KPIT_TC_DRT_VEND_114...
+2025-12-01 14:07:55,861 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:55,862 | INFO |     Result : Fail
+2025-12-01 14:07:55,863 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:55,863 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:55,863 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:55,863 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:56,886 | INFO |   ✅ Commented on DRT-3933: 'KPIT_TC_DRT_VEND_114.
+
+2025-12-01 14:07:57,247 | INFO | ⏳ Updating 'DRT-2306: KPIT_TC_DRT_VEND_113'...
+2025-12-01 14:07:57,248 | INFO |   🔄 Updating fields for DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-01 14:07:57,248 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:57,249 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:57,249 | INFO |     Previous Failure Category : ['Test Env Issue']
+2025-12-01 14:07:57,249 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:57,250 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:57,250 | INFO |     Remarks : QA is already raised: https://jira.honda-ivi.com/browse/IVIKPIT-2881.
+2025-12-01 14:07:57,251 | INFO |     Reviewer : Rajashri
+2025-12-01 14:07:58,019 | INFO |   ✅ Updated fields for DRT-2306: 'KPIT_TC_DRT_VEND_113.
+2025-12-01 14:07:58,021 | INFO |   🔄 Commenting on DRT-2306: 'KPIT_TC_DRT_VEND_113...
+2025-12-01 14:07:58,021 | INFO |     Date AEA1412S0.251128.1  : 2025-11-28
+2025-12-01 14:07:58,022 | INFO |     Result : Fail
+2025-12-01 14:07:58,022 | INFO |     Failure Category : Test Env Issue
+2025-12-01 14:07:58,023 | INFO |     Failure Sub Category : External Application Issue
+2025-12-01 14:07:58,023 | INFO |     Root Cause Details : Vendor Extension Application Issue
+2025-12-01 14:07:58,024 | INFO |     Fixation Performed : NA
+2025-12-01 14:07:58,643 | INFO |   ✅ Commented on DRT-2306: 'KPIT_TC_DRT_VEND_113.
+
+2025-12-01 14:07:58,644 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

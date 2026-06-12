@@ -1,0 +1,21 @@
+2026-03-21 11:57:19,930 | INFO | ⏳ Updating 'DRT-2117: KPIT_TC_DRT_IDS_1216'...
+2026-03-21 11:57:19,930 | INFO |   🔄 Updating fields for DRT-2117: 'KPIT_TC_DRT_IDS_1216...
+2026-03-21 11:57:19,931 | INFO |     Failure Category : Test Env issue
+2026-03-21 11:57:19,931 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 11:57:19,932 | INFO |     Previous Failure Category : ['ICB Issue (Once)']
+2026-03-21 11:57:19,933 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-21 11:57:19,934 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 11:57:21,094 | INFO |   ✅ Updated fields for DRT-2117: 'KPIT_TC_DRT_IDS_1216.
+2026-03-21 11:57:21,095 | INFO |   🔄 Commenting on DRT-2117: 'KPIT_TC_DRT_IDS_1216...
+2026-03-21 11:57:21,096 | INFO |     Date [Build] :  2026-03-19[AEA1414S0.260319.1]
+2026-03-21 11:57:21,097 | INFO |     Result : Fail
+2026-03-21 11:57:21,097 | INFO |     Failure Category : Test Env issue
+2026-03-21 11:57:21,098 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-21 11:57:21,098 | INFO |     Root Cause Details : Change Language screen was not displayed after selecting the Change Language button on the Arabic Disclaimer popup. It seems to be a soft touch issue due to robot calibration.
+2026-03-21 11:57:21,099 | INFO |     Fixation Performed : Camera and Dobot calibration were performed.
+2026-03-21 11:57:21,100 | INFO |     Remarks : Checked camera and Dobot calibration after performing calibration; it is working as expected. We will monitor this in the next overnight execution.
+2026-03-21 11:57:21,100 | INFO |     Reviewer : Rajashri
+2026-03-21 11:57:22,072 | INFO |   ✅ Commented on DRT-2117: 'KPIT_TC_DRT_IDS_1216.
+
+2026-03-21 11:57:22,073 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

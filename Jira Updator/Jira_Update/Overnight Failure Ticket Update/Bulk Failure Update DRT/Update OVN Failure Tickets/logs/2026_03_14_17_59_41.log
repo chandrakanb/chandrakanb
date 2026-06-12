@@ -1,0 +1,6 @@
+2026-03-14 17:59:43,522 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'str' object has no attribute 'value'.
+
+2026-03-14 17:59:43,877 | ERROR | [ERROR] Could not process DRT-7527: '12345 : 'str' object has no attribute 'value'.
+
+2026-03-14 17:59:43,878 | INFO |   ✅ JIRA UPDATE COMPLETED...
+

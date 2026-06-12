@@ -1,0 +1,21 @@
+2026-03-26 20:14:20,216 | INFO | ⏳ Updating 'A15-3571: KPIT_TC_DRT_IPD_047'...
+2026-03-26 20:14:20,218 | INFO |   🔄 Updating fields for A15-3571: 'KPIT_TC_DRT_IPD_047...
+2026-03-26 20:14:20,218 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:14:20,218 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:14:20,218 | INFO |     Previous Failure Category : []
+2026-03-26 20:14:20,220 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen. Hence further operations failed.
+2026-03-26 20:14:20,220 | INFO |     Fixation Performed : Restarted iPod device.
+2026-03-26 20:14:21,606 | INFO |   ✅ Updated fields for A15-3571: 'KPIT_TC_DRT_IPD_047.
+2026-03-26 20:14:21,607 | INFO |   🔄 Commenting on A15-3571: 'KPIT_TC_DRT_IPD_047...
+2026-03-26 20:14:21,607 | INFO |     Date [Build] : 2026-03-23[AFA1503R0.260323.1]
+2026-03-26 20:14:21,607 | INFO |     Result : Fail
+2026-03-26 20:14:21,608 | INFO |     Failure Category : Test Env issue
+2026-03-26 20:14:21,608 | INFO |     Failure Sub Category : Automation Setup malfunction
+2026-03-26 20:14:21,608 | INFO |     Root Cause Details : Even if iPod is connected, Current Playlist is not operable on Music Library Screen. After ending last song in current playlist screen. Hence further operations failed.
+2026-03-26 20:14:21,608 | INFO |     Fixation Performed : Restarted iPod device.
+2026-03-26 20:14:21,609 | INFO |     Remarks : Executed in daytime, result: Pass.
+2026-03-26 20:14:21,609 | INFO |     Reviewer : Rajashri
+2026-03-26 20:14:22,365 | INFO |   ✅ Commented on A15-3571: 'KPIT_TC_DRT_IPD_047.
+
+2026-03-26 20:14:22,366 | INFO |   ✅ JIRA UPDATE COMPLETED...
+
