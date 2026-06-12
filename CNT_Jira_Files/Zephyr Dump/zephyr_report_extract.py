@@ -190,8 +190,8 @@ def flatten_result(run: Dict[str, Any], result: Dict[str, Any], tc_name_cache: D
 # ---------------------------
 def main():
     PROJECT_KEY = "CNTKPIT"
-    FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/"
-    #FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/iPhone 16 Pro/"
+    #FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/"
+    FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/iPhone 16 Pro/"
     #FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/Google Pixel 9/"
     #FOLDER_PATH = "/PF 26/A15/BFA1509R0.260603.1/Samsung S25 Ultra"
 
